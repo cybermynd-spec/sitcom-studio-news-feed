@@ -1,13 +1,57 @@
 {
-  "updatedUtc": "2026-06-24T12:00:00Z",
-  "topics": [
-    {
-      "title": "Sample Today's News Topic",
-      "summary": "This is a placeholder news summary used to test the conversation button.",
-      "discussionPrompt": "Discuss a light, curious version of today's news. Compare different reactions people might have, keep it conversational, and avoid sounding like a news anchor.",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [],
-      "sourceUrls": []
-    }
-  ]
+"updatedUtc": "2026-06-24T16:41:18Z",
+"topics": [
+{
+"title": "Europe faces record June heat",
+"summary": "A major heatwave is pushing parts of Europe into record June temperatures, disrupting transport and raising health concerns. France, Spain, Italy, Belgium and the UK are among the affected areas.",
+"discussionPrompt": "It feels like summers are getting harder to plan around. Would you rather live somewhere with harsh winters, or somewhere that keeps getting these intense heatwaves?",
+"tone": "curious, casual, balanced",
+"sourceNames": [
+"The Guardian",
+"AP News"
+],
+"sourceUrls": [
+"https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
+"https://apnews.com/us-news"
+]
+},
+{
+"title": "UN nuclear inspectors expected to visit Iran sites",
+"summary": "The UN nuclear agency says inspectors are expected to visit Iranian nuclear sites under an interim Iran-US deal, while Iranian officials say details depend on a final agreement and sanctions action.",
+"discussionPrompt": "International deals always seem to come down to trust and timing. Do you think inspections actually calm people down, or do they mostly just create new arguments?",
+"tone": "curious, casual, balanced",
+"sourceNames": [
+"AP News"
+],
+"sourceUrls": [
+"https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124"
+]
+},
+{
+"title": "Tech stocks steady after AI-driven selloff",
+"summary": "Global markets showed signs of stabilizing after a sharp tech selloff, with investors watching AI-related valuations, chip stocks and Micron earnings. Oil prices fell and the US dollar strengthened.",
+"discussionPrompt": "AI has become such a big part of the stock market story. Do you think investors are being smart about it, or is everyone getting a bit carried away?",
+"tone": "curious, casual, balanced",
+"sourceNames": [
+"Reuters",
+"AP News"
+],
+"sourceUrls": [
+"https://www.reuters.com/world/china/global-markets-global-markets-2026-06-24/",
+"https://apnews.com/article/stocks-markets-ai-us-iran-oil-b631564d3b359644eda586b047c9bcf0"
+]
+},
+{
+"title": "North Korea says new warship is in service",
+"summary": "North Korean state media says Kim Jong Un has placed a new warship into service and claimed progress toward a nuclear-armed navy. The announcement adds to regional security concerns.",
+"discussionPrompt": "Some countries make big military announcements partly for show. How do you tell the difference between real danger and political theatre?",
+"tone": "curious, casual, balanced",
+"sourceNames": [
+"AP News"
+],
+"sourceUrls": [
+"https://apnews.com/world-news"
+]
+}
+]
 }
