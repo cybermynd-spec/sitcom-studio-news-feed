@@ -1,2 +1,2 @@
 # sitcom-studio-news-feed
-A place to keep durrent news for the sitcom studio app
+A place to keep current news for the sitcom studio app
