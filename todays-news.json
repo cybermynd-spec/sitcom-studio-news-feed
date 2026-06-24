@@ -1,0 +1,13 @@
+{
+  "updatedUtc": "2026-06-24T12:00:00Z",
+  "topics": [
+    {
+      "title": "Sample Today's News Topic",
+      "summary": "This is a placeholder news summary used to test the conversation button.",
+      "discussionPrompt": "Discuss a light, curious version of today's news. Compare different reactions people might have, keep it conversational, and avoid sounding like a news anchor.",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [],
+      "sourceUrls": []
+    }
+  ]
+}
