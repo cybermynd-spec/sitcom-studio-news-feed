@@ -1,54 +1,54 @@
 {
-  "updatedUtc": "2026-06-24T17:52:17Z",
+  "updatedUtc": "2026-06-25T13:55:40Z",
   "topics": [
     {
-      "title": "Europe deals with record June heat",
-      "summary": "A major heatwave is pushing parts of Europe into record June temperatures, disrupting transport and raising health concerns in countries including the UK, France, Spain, Italy and Belgium.",
-      "discussionPrompt": "It feels like summers are getting harder to plan around. Would you rather deal with harsh winters, or with more frequent extreme heat days?",
+      "title": "Europe braces for record heat",
+      "summary": "A severe early-summer heatwave is pushing parts of Europe past 40 C, disrupting travel, schools and outdoor events while officials urge people to protect vulnerable neighbours.",
+      "discussionPrompt": "Heatwaves really change daily routines. What is your best low-tech trick for staying cool when the weather gets unreasonable?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "AP News"
+        "AP News",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
-        "https://apnews.com/article/81c341900166135de6cbc0f49156477b"
+        "https://apnews.com/article/594f73db651f9683c43acf04e009d5e7",
+        "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates"
       ]
     },
     {
-      "title": "UN inspectors may visit Iran nuclear sites",
-      "summary": "The UN nuclear agency says inspectors are expected to visit Iranian nuclear sites under an interim Iran-US deal, while Tehran says details depend on a final agreement and sanctions action.",
-      "discussionPrompt": "International deals often come down to trust. Do inspections make tense situations feel safer, or do they just give everyone something new to argue about?",
+      "title": "Canada advances despite Swiss loss",
+      "summary": "Switzerland beat Canada 2-1 in Vancouver to top their World Cup group, but Canada is still headed to its first knockout-stage match, now set for Inglewood, California.",
+      "discussionPrompt": "Canada moving on despite a loss feels very sports-like. Is it better to enter the next round humbled, or riding a winning streak?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/iran-us-israel-lebanon-june-24-2026-nuclear-grossi-ceasefire-875ee115cacd1f5923052b70f2be4124"
+        "https://apnews.com/article/bf6b7a6e5386df29406406563fbc6aa4"
       ]
     },
     {
-      "title": "Canadian markets slip on global caution",
-      "summary": "Canada's main stock index edged lower as energy and mining shares weighed on the market, with investors watching US-Iran talks and broader caution around commodities and risk.",
-      "discussionPrompt": "It is interesting how faraway diplomacy can nudge local markets. Do you follow the markets closely, or only notice when prices affect everyday life?",
+      "title": "Chip news lifts global markets",
+      "summary": "Global tech stocks rose after strong updates from Micron and Qualcomm revived enthusiasm around AI-related demand, while falling oil prices helped ease some inflation worries.",
+      "discussionPrompt": "AI keeps showing up in market stories. Do you think investors are seeing real change, or just getting swept up in another big tech wave?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/tsx-futures-slip-investors-assess-us-iran-talks-2026-06-24/"
+        "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-25/"
       ]
     },
     {
-      "title": "Soccer tech exhibit opens in Vancouver",
-      "summary": "A FIFA Museum soccer technology exhibit has opened at Science World in Vancouver, showing how data, broadcasting, refereeing tools and innovation shape the modern game ahead of the World Cup.",
-      "discussionPrompt": "Sports are getting more high-tech all the time. Do you think technology makes games fairer and more fun, or does it take away some of the human charm?",
+      "title": "Bank of Canada keeps options open",
+      "summary": "Bank of Canada minutes show policymakers want to stay flexible as they weigh weak growth, trade uncertainty and recent energy-driven inflation pressure after holding rates at 2.25%.",
+      "discussionPrompt": "Central banks always sound cautious. Do you think steady rates make people feel more confident, or just more unsure about what comes next?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/science-museum-brings-soccer-tech-world-cup-fans-2026-06-24/"
+        "https://www.reuters.com/world/americas/bank-canada-policymakers-agreed-keep-monetary-policy-nimble-minutes-show-2026-06-24/"
       ]
     }
   ]
