@@ -1,54 +1,52 @@
 {
-  "updatedUtc": "2026-06-26T13:58:40Z",
+  "updatedUtc": "2026-06-26T21:55:14Z",
   "topics": [
     {
-      "title": "Europe stays on heat alert",
-      "summary": "A severe heatwave is keeping much of Europe on alert, breaking June records, closing schools, disrupting transport and pushing health services to prepare for more heat-related emergencies.",
-      "discussionPrompt": "When weather starts changing plans, do you try to adapt and carry on, or do you prefer to cancel everything and hide indoors?",
+      "title": "Canada reaches World Cup knockout stage",
+      "summary": "Canada and South Africa are preparing for a last-32 World Cup match in Los Angeles, with both countries entering the knockout rounds for the first time.",
+      "discussionPrompt": "A first trip to the knockout round feels like a big national sports moment. Would you rather watch history being made, or only tune in for the final?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters",
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sports/soccer/canada-south-africa-enter-uncharted-territory-first-world-cup-last-32-game-2026-06-26/"
+      ]
+    },
+    {
+      "title": "Europe heatwave breaks more records",
+      "summary": "Europe's June heatwave is still disrupting daily life, with the UK breaking another June record and countries including France and Poland adjusting events and wildfire warnings.",
+      "discussionPrompt": "When extreme weather starts changing public events and travel plans, does it make you more cautious, or do you mostly carry on as planned?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/environment/europe-high-alert-killer-heat-spreads-2026-06-26/",
         "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
       ]
     },
     {
-      "title": "Scientists link Europe heat to climate change",
-      "summary": "World Weather Attribution scientists say Europe's record June heatwave would have been virtually impossible without human-caused climate change, with extreme warm nights now far more likely.",
-      "discussionPrompt": "Do scientific explanations make extreme weather easier to understand, or does it still feel too big and abstract to connect to daily life?",
+      "title": "24 Sussex Drive gets design contest",
+      "summary": "Canada is launching an architecture competition to restore 24 Sussex Drive, the official prime minister's residence, after years of decay and safety concerns.",
+      "discussionPrompt": "Restoring old public buildings can be symbolic and expensive. Would you preserve a famous old residence, or replace it with something practical and modern?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sustainability/cop/europes-heatwave-virtually-impossible-without-climate-change-scientists-say-2026-06-26/"
+        "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence"
       ]
     },
     {
-      "title": "Canada's TSX opens lower",
-      "summary": "Canada's main stock index opened slightly lower Friday, as weakness in technology shares and softer oil prices offset some optimism around artificial intelligence demand.",
-      "discussionPrompt": "It is funny how AI news can lift some companies while the wider market still slips. Do stock moves ever feel logical to you?",
+      "title": "Markets watch jobs and rates",
+      "summary": "US stocks are heading toward a strong first half of 2026, while investors look ahead to jobs data that could shape interest-rate expectations.",
+      "discussionPrompt": "Markets seem to react to hints about interest rates before most people notice anything. Do you follow those signals, or just watch everyday prices?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/tsx-futures-slip-tech-weakness-softer-oil-2026-06-26/"
-      ]
-    },
-    {
-      "title": "World Cup sets goal record",
-      "summary": "The 2026 World Cup has broken the tournament record for most goals, passing the old mark of 172 after Auston Trusty scored for the United States against Turkey.",
-      "discussionPrompt": "A high-scoring tournament sounds fun for casual fans. Do you prefer lots of goals, or a tense low-scoring match with everything on the line?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/2026-world-cup-breaks-record-most-goals-scored-single-tournament-2026-06-26/"
+        "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/"
       ]
     },
     {
