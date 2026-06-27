@@ -1,60 +1,56 @@
 {
-  "updatedUtc": "2026-06-27T14:00:00Z",
+  "updatedUtc": "2026-06-27T22:08:00Z",
   "topics": [
     {
-      "title": "Central Europe swelters under record heat",
-      "summary": "A severe heatwave is pushing Central Europe toward record temperatures, buckling German highways, straining rail travel and keeping heat alerts in place across several countries.",
-      "discussionPrompt": "When weather gets hot enough to bend roads and disrupt trains, does it change how you think about summer travel plans?",
+      "title": "Europe's heatwave breaks more records",
+      "summary": "Europe's June heatwave kept intensifying, with Germany and Denmark reporting record temperatures, travel disruption and growing concerns about farms, rivers and glaciers.",
+      "discussionPrompt": "When summer heat starts affecting roads, trains and rivers, does it make you rethink what a normal vacation season should look like?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "AP News",
-        "Reuters",
-        "The Guardian"
+        "The Guardian",
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/69b2d990486f4b645c9ad6ea4252888c",
-        "https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/",
-        "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
+        "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+        "https://www.reuters.com/business/environment/europeans-told-protect-themselves-deadly-heatwave-takes-its-toll-2026-06-25/"
       ]
     },
     {
-      "title": "Trump warns Europe over digital taxes",
-      "summary": "President Donald Trump threatened 100% tariffs on countries that impose digital services taxes on US tech firms, drawing pushback from the European Commission.",
-      "discussionPrompt": "Tech companies are global, but taxes are national. Who do you think should have the bigger say: countries, companies, or trade partners?",
+      "title": "World Cup knockout picture takes shape",
+      "summary": "The expanded World Cup is moving into its round of 32, with co-hosts Canada, Mexico and the United States advancing and several high-profile matchups now set.",
+      "discussionPrompt": "With more teams in the tournament, do you like the bigger World Cup format, or does it make the whole thing feel a bit crowded?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "AP News",
-        "The Guardian"
+        "AP News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/d2007fee8ae733a15f240c5f83462c96",
-        "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax"
+        "https://apnews.com/article/35a72baeef527fc815952f9b5997eb14"
       ]
     },
     {
-      "title": "World Cup piracy sites seized",
-      "summary": "US authorities seized nearly 400 domains accused of illegally streaming World Cup matches, saying the sites also created cybersecurity risks for viewers.",
-      "discussionPrompt": "Streaming sports can get complicated fast. Do crackdowns like this protect fans, or mostly remind people how fragmented viewing has become?",
+      "title": "Cape Verde extends its World Cup dream",
+      "summary": "Cape Verde reached the World Cup knockout stage in its tournament debut, becoming one of the standout underdog stories before a round-of-32 meeting with Argentina.",
+      "discussionPrompt": "Sports are always more fun with an underdog. Do you root for the surprise team, or stick with the established favourites?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian",
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/football/2026/jun/27/cape-verde-relishing-world-cup-date-with-argentina",
+        "https://www.reuters.com/podcasts/us-iran-strikes-cape-verde-swedens-immigration-crackdown-2026-06-27/"
+      ]
+    },
+    {
+      "title": "Swedish startups push back on immigration rules",
+      "summary": "Swedish business leaders warned that tighter immigration policies could hurt startups by making it harder to attract and keep international talent.",
+      "discussionPrompt": "For fast-moving tech companies, how important is it to bring in talent from anywhere, even when voters want tighter immigration rules?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/media-telecom/us-seizes-nearly-400-websites-that-were-illegally-streaming-world-cup-doj-says-2026-06-26/"
-      ]
-    },
-    {
-      "title": "Uruguay exits World Cup without a win",
-      "summary": "Uruguay's World Cup run ended with no wins after a 1-0 loss to Spain, raising questions about coach Marcelo Bielsa's future with the team.",
-      "discussionPrompt": "When a famous sports team underperforms, do you blame the coach, the players, bad luck, or just the pressure of the tournament?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters",
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/uruguays-world-cup-ends-failure-friction-no-wins-2026-06-27/",
-        "https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live"
+        "https://www.reuters.com/podcasts/us-iran-strikes-cape-verde-swedens-immigration-crackdown-2026-06-27/"
       ]
     }
   ]
