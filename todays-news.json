@@ -1,64 +1,60 @@
 {
-  "updatedUtc": "2026-06-26T21:55:14Z",
+  "updatedUtc": "2026-06-27T14:00:00Z",
   "topics": [
     {
-      "title": "Canada reaches World Cup knockout stage",
-      "summary": "Canada and South Africa are preparing for a last-32 World Cup match in Los Angeles, with both countries entering the knockout rounds for the first time.",
-      "discussionPrompt": "A first trip to the knockout round feels like a big national sports moment. Would you rather watch history being made, or only tune in for the final?",
+      "title": "Central Europe swelters under record heat",
+      "summary": "A severe heatwave is pushing Central Europe toward record temperatures, buckling German highways, straining rail travel and keeping heat alerts in place across several countries.",
+      "discussionPrompt": "When weather gets hot enough to bend roads and disrupt trains, does it change how you think about summer travel plans?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/canada-south-africa-enter-uncharted-territory-first-world-cup-last-32-game-2026-06-26/"
-      ]
-    },
-    {
-      "title": "Europe heatwave breaks more records",
-      "summary": "Europe's June heatwave is still disrupting daily life, with the UK breaking another June record and countries including France and Poland adjusting events and wildfire warnings.",
-      "discussionPrompt": "When extreme weather starts changing public events and travel plans, does it make you more cautious, or do you mostly carry on as planned?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
+        "AP News",
+        "Reuters",
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates"
+        "https://apnews.com/article/69b2d990486f4b645c9ad6ea4252888c",
+        "https://www.reuters.com/business/environment/germany-poland-poised-soaring-temperatures-heatwave-moves-east-2026-06-27/",
+        "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates"
       ]
     },
     {
-      "title": "24 Sussex Drive gets design contest",
-      "summary": "Canada is launching an architecture competition to restore 24 Sussex Drive, the official prime minister's residence, after years of decay and safety concerns.",
-      "discussionPrompt": "Restoring old public buildings can be symbolic and expensive. Would you preserve a famous old residence, or replace it with something practical and modern?",
+      "title": "Trump warns Europe over digital taxes",
+      "summary": "President Donald Trump threatened 100% tariffs on countries that impose digital services taxes on US tech firms, drawing pushback from the European Commission.",
+      "discussionPrompt": "Tech companies are global, but taxes are national. Who do you think should have the bigger say: countries, companies, or trade partners?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
+        "AP News",
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence"
+        "https://apnews.com/article/d2007fee8ae733a15f240c5f83462c96",
+        "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax"
       ]
     },
     {
-      "title": "Markets watch jobs and rates",
-      "summary": "US stocks are heading toward a strong first half of 2026, while investors look ahead to jobs data that could shape interest-rate expectations.",
-      "discussionPrompt": "Markets seem to react to hints about interest rates before most people notice anything. Do you follow those signals, or just watch everyday prices?",
+      "title": "World Cup piracy sites seized",
+      "summary": "US authorities seized nearly 400 domains accused of illegally streaming World Cup matches, saying the sites also created cybersecurity risks for viewers.",
+      "discussionPrompt": "Streaming sports can get complicated fast. Do crackdowns like this protect fans, or mostly remind people how fragmented viewing has become?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/wall-st-week-ahead-jobs-data-rate-bets-focus-us-stocks-close-solid-first-half-2026-06-26/"
+        "https://www.reuters.com/business/media-telecom/us-seizes-nearly-400-websites-that-were-illegally-streaming-world-cup-doj-says-2026-06-26/"
       ]
     },
     {
-      "title": "Canada wholesale trade likely dipped",
-      "summary": "Statistics Canada's flash estimate says wholesale trade likely fell 0.7% in May, mainly because of lower sales in machinery, equipment and supplies.",
-      "discussionPrompt": "Those behind-the-scenes numbers can hint at where the economy is headed. Do you find business statistics useful, or mostly just background noise?",
+      "title": "Uruguay exits World Cup without a win",
+      "summary": "Uruguay's World Cup run ended with no wins after a 1-0 loss to Spain, raising questions about coach Marcelo Bielsa's future with the team.",
+      "discussionPrompt": "When a famous sports team underperforms, do you blame the coach, the players, bad luck, or just the pressure of the tournament?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters"
+        "Reuters",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/canada-may-wholesale-trade-most-likely-down-07-statscan-flash-estimate-2026-06-26/"
+        "https://www.reuters.com/sports/soccer/uruguays-world-cup-ends-failure-friction-no-wins-2026-06-27/",
+        "https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live"
       ]
     }
   ]
