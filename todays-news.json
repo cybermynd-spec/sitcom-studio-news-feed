@@ -1,26 +1,38 @@
 {
-  "updatedUtc": "2026-06-28T14:02:43Z",
+  "updatedUtc": "2026-06-28T21:58:24Z",
   "topics": [
     {
-      "title": "Europe's heatwave turns more severe",
-      "summary": "A record-setting European heatwave has brought extreme temperatures, transport disruption and health warnings, with France reporting around 1,000 additional deaths as the heat shifts east.",
-      "discussionPrompt": "When heat starts affecting trains, power, rivers and daily routines, does summer feel more like something to plan around than simply enjoy?",
+      "title": "Canada reaches World Cup last 16",
+      "summary": "Canada beat South Africa 1-0 with a stoppage-time goal from Stephen Eustáquio, earning its first men's World Cup knockout win and a place in the last 16.",
+      "discussionPrompt": "There is something fun about a late goal changing everything. Do you enjoy dramatic finishes, or would you rather your team win comfortably?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters",
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sports/soccer/canada-score-late-winner-advance-last-16-world-cup-2026-06-28/",
+        "https://apnews.com/article/704407e25c4ec253daaa2803996d58b0"
+      ]
+    },
+    {
+      "title": "Europe heatwave breaks more records",
+      "summary": "Extreme heat has pushed temperatures to record levels in parts of Europe, with France reporting around 1,000 additional deaths and several countries issuing urgent health warnings.",
+      "discussionPrompt": "When summers become this intense, do you think cities should redesign daily life around heat, or is that still too hard to imagine?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News",
-        "Reuters",
         "The Guardian"
       ],
       "sourceUrls": [
         "https://apnews.com/article/61f444317600cf1bd9af5af84cb582bd",
-        "https://www.reuters.com/business/environment/france-records-1000-excess-deaths-during-record-breaking-heatwave-2026-06-28/",
         "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east"
       ]
     },
     {
-      "title": "DR Congo earns historic World Cup win",
-      "summary": "DR Congo beat Uzbekistan 3-1 for its first World Cup victory, advancing to the knockout stage and setting up a round-of-32 match against England.",
-      "discussionPrompt": "Do you enjoy seeing new soccer nations make a splash, or do you prefer the familiar giants dominating the big tournaments?",
+      "title": "DR Congo celebrates historic soccer win",
+      "summary": "DR Congo beat Uzbekistan 3-1 for its first World Cup victory, reaching the knockout stage after a comeback led by two goals from Yoane Wissa.",
+      "discussionPrompt": "Do you like seeing underdog teams shake up big tournaments, or do you prefer watching the traditional soccer powers face each other?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
@@ -30,33 +42,9 @@
       ]
     },
     {
-      "title": "Messi extends his World Cup scoring record",
-      "summary": "Lionel Messi became the first player to score in seven straight World Cup matches, adding another milestone with a free kick for Argentina against Jordan.",
-      "discussionPrompt": "At what point does a sports record become part of the player’s legend, even for people who do not usually follow the sport?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/messi-becomes-first-player-score-seven-consecutive-world-cup-matches-2026-06-28/"
-      ]
-    },
-    {
-      "title": "Supreme Court nears major rulings",
-      "summary": "The U.S. Supreme Court is nearing the end of its term, with major pending decisions on presidential power, elections, school sports rules and geofence warrants.",
-      "discussionPrompt": "Court decisions can sound abstract until they touch daily life. Which area feels more important to watch: elections, privacy, or government power?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/legal/government/supreme-courts-term-nears-its-end-three-major-trump-rulings-due-2026-06-28/"
-      ]
-    },
-    {
-      "title": "BET Awards prepare for live broadcast",
-      "summary": "The 2026 BET Awards are set for tonight in Los Angeles, with Druski hosting, Cardi B leading nominations and special honors planned for Lauryn Hill and Teyana Taylor.",
-      "discussionPrompt": "Award shows are part music, part fashion and part cultural snapshot. Do you watch for the winners, the performances, or the unexpected moments?",
+      "title": "BET Awards ready for tonight",
+      "summary": "The 2026 BET Awards air tonight from Los Angeles, with Druski hosting, Cardi B leading nominations and special honors planned for Lauryn Hill and Teyana Taylor.",
+      "discussionPrompt": "Award shows can be about music, fashion, speeches or surprise moments. Which part usually makes them worth watching?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "People"
