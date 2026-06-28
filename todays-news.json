@@ -1,56 +1,68 @@
 {
-  "updatedUtc": "2026-06-27T22:08:00Z",
+  "updatedUtc": "2026-06-28T14:02:43Z",
   "topics": [
     {
-      "title": "Europe's heatwave breaks more records",
-      "summary": "Europe's June heatwave kept intensifying, with Germany and Denmark reporting record temperatures, travel disruption and growing concerns about farms, rivers and glaciers.",
-      "discussionPrompt": "When summer heat starts affecting roads, trains and rivers, does it make you rethink what a normal vacation season should look like?",
+      "title": "Europe's heatwave turns more severe",
+      "summary": "A record-setting European heatwave has brought extreme temperatures, transport disruption and health warnings, with France reporting around 1,000 additional deaths as the heat shifts east.",
+      "discussionPrompt": "When heat starts affecting trains, power, rivers and daily routines, does summer feel more like something to plan around than simply enjoy?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "Reuters"
+        "AP News",
+        "Reuters",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-        "https://www.reuters.com/business/environment/europeans-told-protect-themselves-deadly-heatwave-takes-its-toll-2026-06-25/"
+        "https://apnews.com/article/61f444317600cf1bd9af5af84cb582bd",
+        "https://www.reuters.com/business/environment/france-records-1000-excess-deaths-during-record-breaking-heatwave-2026-06-28/",
+        "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east"
       ]
     },
     {
-      "title": "World Cup knockout picture takes shape",
-      "summary": "The expanded World Cup is moving into its round of 32, with co-hosts Canada, Mexico and the United States advancing and several high-profile matchups now set.",
-      "discussionPrompt": "With more teams in the tournament, do you like the bigger World Cup format, or does it make the whole thing feel a bit crowded?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/35a72baeef527fc815952f9b5997eb14"
-      ]
-    },
-    {
-      "title": "Cape Verde extends its World Cup dream",
-      "summary": "Cape Verde reached the World Cup knockout stage in its tournament debut, becoming one of the standout underdog stories before a round-of-32 meeting with Argentina.",
-      "discussionPrompt": "Sports are always more fun with an underdog. Do you root for the surprise team, or stick with the established favourites?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian",
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/football/2026/jun/27/cape-verde-relishing-world-cup-date-with-argentina",
-        "https://www.reuters.com/podcasts/us-iran-strikes-cape-verde-swedens-immigration-crackdown-2026-06-27/"
-      ]
-    },
-    {
-      "title": "Swedish startups push back on immigration rules",
-      "summary": "Swedish business leaders warned that tighter immigration policies could hurt startups by making it harder to attract and keep international talent.",
-      "discussionPrompt": "For fast-moving tech companies, how important is it to bring in talent from anywhere, even when voters want tighter immigration rules?",
+      "title": "DR Congo earns historic World Cup win",
+      "summary": "DR Congo beat Uzbekistan 3-1 for its first World Cup victory, advancing to the knockout stage and setting up a round-of-32 match against England.",
+      "discussionPrompt": "Do you enjoy seeing new soccer nations make a splash, or do you prefer the familiar giants dominating the big tournaments?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/podcasts/us-iran-strikes-cape-verde-swedens-immigration-crackdown-2026-06-27/"
+        "https://www.reuters.com/sports/soccer/dr-congo-seal-place-world-cup-knockouts-with-comeback-win-over-uzbekistan-2026-06-28/"
+      ]
+    },
+    {
+      "title": "Messi extends his World Cup scoring record",
+      "summary": "Lionel Messi became the first player to score in seven straight World Cup matches, adding another milestone with a free kick for Argentina against Jordan.",
+      "discussionPrompt": "At what point does a sports record become part of the player’s legend, even for people who do not usually follow the sport?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sports/soccer/messi-becomes-first-player-score-seven-consecutive-world-cup-matches-2026-06-28/"
+      ]
+    },
+    {
+      "title": "Supreme Court nears major rulings",
+      "summary": "The U.S. Supreme Court is nearing the end of its term, with major pending decisions on presidential power, elections, school sports rules and geofence warrants.",
+      "discussionPrompt": "Court decisions can sound abstract until they touch daily life. Which area feels more important to watch: elections, privacy, or government power?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/legal/government/supreme-courts-term-nears-its-end-three-major-trump-rulings-due-2026-06-28/"
+      ]
+    },
+    {
+      "title": "BET Awards prepare for live broadcast",
+      "summary": "The 2026 BET Awards are set for tonight in Los Angeles, with Druski hosting, Cardi B leading nominations and special honors planned for Lauryn Hill and Teyana Taylor.",
+      "discussionPrompt": "Award shows are part music, part fashion and part cultural snapshot. Do you watch for the winners, the performances, or the unexpected moments?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "People"
+      ],
+      "sourceUrls": [
+        "https://people.com/bet-awards-2026-everything-to-know-12007680"
       ]
     }
   ]
