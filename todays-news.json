@@ -1,56 +1,52 @@
 {
-  "updatedUtc": "2026-06-28T21:58:24Z",
+  "updatedUtc": "2026-06-29T13:59:20Z",
   "topics": [
     {
-      "title": "Canada reaches World Cup last 16",
-      "summary": "Canada beat South Africa 1-0 with a stoppage-time goal from Stephen Eustáquio, earning its first men's World Cup knockout win and a place in the last 16.",
-      "discussionPrompt": "There is something fun about a late goal changing everything. Do you enjoy dramatic finishes, or would you rather your team win comfortably?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters",
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/canada-score-late-winner-advance-last-16-world-cup-2026-06-28/",
-        "https://apnews.com/article/704407e25c4ec253daaa2803996d58b0"
-      ]
-    },
-    {
-      "title": "Europe heatwave breaks more records",
-      "summary": "Extreme heat has pushed temperatures to record levels in parts of Europe, with France reporting around 1,000 additional deaths and several countries issuing urgent health warnings.",
-      "discussionPrompt": "When summers become this intense, do you think cities should redesign daily life around heat, or is that still too hard to imagine?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News",
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/61f444317600cf1bd9af5af84cb582bd",
-        "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east"
-      ]
-    },
-    {
-      "title": "DR Congo celebrates historic soccer win",
-      "summary": "DR Congo beat Uzbekistan 3-1 for its first World Cup victory, reaching the knockout stage after a comeback led by two goals from Yoane Wissa.",
-      "discussionPrompt": "Do you like seeing underdog teams shake up big tournaments, or do you prefer watching the traditional soccer powers face each other?",
+      "title": "Europe faces another heatwave test",
+      "summary": "Italy and the Balkans are under red heat alerts as Europe’s severe June heatwave raises wildfire concerns and strains daily life, travel and health systems.",
+      "discussionPrompt": "When heat starts changing work, travel and school plans, do you think cities should adapt quickly, or do people still treat it like a temporary nuisance?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/dr-congo-seal-place-world-cup-knockouts-with-comeback-win-over-uzbekistan-2026-06-28/"
+        "https://www.reuters.com/business/environment/southeastern-europe-feels-effects-heatwave-wildfires-break-out-2026-06-29/"
       ]
     },
     {
-      "title": "BET Awards ready for tonight",
-      "summary": "The 2026 BET Awards air tonight from Los Angeles, with Druski hosting, Cardi B leading nominations and special honors planned for Lauryn Hill and Teyana Taylor.",
-      "discussionPrompt": "Award shows can be about music, fashion, speeches or surprise moments. Which part usually makes them worth watching?",
+      "title": "Canada reaches World Cup last 16",
+      "summary": "Canada advanced in the World Cup after Stephen Eustáquio scored a stoppage-time winner against South Africa, sending the co-hosts into the last 16.",
+      "discussionPrompt": "A late goal can turn a whole country into soccer fans for a day. Do you like those dramatic finishes, or are they too stressful?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "People"
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://people.com/bet-awards-2026-everything-to-know-12007680"
+        "https://www.reuters.com/sports/soccer/canada-score-late-winner-advance-last-16-world-cup-2026-06-28/"
+      ]
+    },
+    {
+      "title": "Toronto stocks edge higher",
+      "summary": "Canada’s main stock index opened slightly higher as Middle East worries eased, though investors stayed cautious ahead of the USMCA review and weakness in precious metals.",
+      "discussionPrompt": "Markets can react to faraway events almost instantly. Do you follow that kind of news, or only notice when it affects prices close to home?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/futures-edge-higher-us-iran-tensions-ease-2026-06-29/"
+      ]
+    },
+    {
+      "title": "Wimbledon keeps football off-screen",
+      "summary": "Wimbledon says World Cup matches will not be shown on the grounds, even in the players’ lounge, as tennis and soccer compete for attention.",
+      "discussionPrompt": "Do you like big events keeping their own atmosphere, or should places like Wimbledon embrace whatever else everyone wants to watch?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/2026/jun/29/wimbledon-extends-world-cup-screening-ban-players-lounge-tennis"
       ]
     }
   ]
