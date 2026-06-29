@@ -1,52 +1,54 @@
 {
-  "updatedUtc": "2026-06-29T13:59:20Z",
+  "updatedUtc": "2026-06-29T22:00:00Z",
   "topics": [
     {
-      "title": "Europe faces another heatwave test",
-      "summary": "Italy and the Balkans are under red heat alerts as Europe’s severe June heatwave raises wildfire concerns and strains daily life, travel and health systems.",
-      "discussionPrompt": "When heat starts changing work, travel and school plans, do you think cities should adapt quickly, or do people still treat it like a temporary nuisance?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/environment/southeastern-europe-feels-effects-heatwave-wildfires-break-out-2026-06-29/"
-      ]
-    },
-    {
-      "title": "Canada reaches World Cup last 16",
-      "summary": "Canada advanced in the World Cup after Stephen Eustáquio scored a stoppage-time winner against South Africa, sending the co-hosts into the last 16.",
-      "discussionPrompt": "A late goal can turn a whole country into soccer fans for a day. Do you like those dramatic finishes, or are they too stressful?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/canada-score-late-winner-advance-last-16-world-cup-2026-06-28/"
-      ]
-    },
-    {
-      "title": "Toronto stocks edge higher",
-      "summary": "Canada’s main stock index opened slightly higher as Middle East worries eased, though investors stayed cautious ahead of the USMCA review and weakness in precious metals.",
-      "discussionPrompt": "Markets can react to faraway events almost instantly. Do you follow that kind of news, or only notice when it affects prices close to home?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/futures-edge-higher-us-iran-tensions-ease-2026-06-29/"
-      ]
-    },
-    {
-      "title": "Wimbledon keeps football off-screen",
-      "summary": "Wimbledon says World Cup matches will not be shown on the grounds, even in the players’ lounge, as tennis and soccer compete for attention.",
-      "discussionPrompt": "Do you like big events keeping their own atmosphere, or should places like Wimbledon embrace whatever else everyone wants to watch?",
+      "title": "Europe heatwave pushes east",
+      "summary": "Dangerous heat has shifted into central, eastern and southern Europe, with some cities forecast above 40°C and officials opening cooling centres and issuing red alerts.",
+      "discussionPrompt": "When extreme heat starts affecting daily routines, do you think cities should redesign around it, or mostly focus on emergency warnings?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/2026/jun/29/wimbledon-extends-world-cup-screening-ban-players-lounge-tennis"
+        "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave"
+      ]
+    },
+    {
+      "title": "Brazil edges Japan at World Cup",
+      "summary": "Gabriel Martinelli scored in stoppage time as Brazil beat Japan 2-1 in a World Cup knockout match, ending Japan’s hopes of a first knockout win.",
+      "discussionPrompt": "Do late-game goals make soccer more exciting, or do they feel unfair after one team has defended well for so long?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters",
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sports/soccer/martinelli-rescue-brazil-edge-japan-2-1-last-32-2026-06-29/",
+        "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e"
+      ]
+    },
+    {
+      "title": "Wimbledon opens with surprises",
+      "summary": "Wimbledon’s first day brought tough matches and upsets, with Jannik Sinner surviving a five-set test and Naomi Osaka advancing in straight sets.",
+      "discussionPrompt": "What makes a tournament more fun to follow: seeing favourites cruise through, or watching early upsets shake everything up?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sports/tennis/wimbledon-day-one-2026-06-29/"
+      ]
+    },
+    {
+      "title": "Canada backs Greenland critical minerals",
+      "summary": "Canada announced C$7 million in grants for a Greenland molybdenum project, supporting a metal used in aerospace, energy and defence industries.",
+      "discussionPrompt": "Critical minerals sound boring until they affect technology and security. Should countries invest more in supply chains close to home?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/americas/canada-backs-greenland-mine-producing-metal-crucial-defence-industries-2026-06-29/"
       ]
     }
   ]
