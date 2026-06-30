@@ -1,10 +1,10 @@
 {
-  "updatedUtc": "2026-06-29T22:00:00Z",
+  "updatedUtc": "2026-06-30T14:05:00Z",
   "topics": [
     {
-      "title": "Europe heatwave pushes east",
-      "summary": "Dangerous heat has shifted into central, eastern and southern Europe, with some cities forecast above 40°C and officials opening cooling centres and issuing red alerts.",
-      "discussionPrompt": "When extreme heat starts affecting daily routines, do you think cities should redesign around it, or mostly focus on emergency warnings?",
+      "title": "Europe braces for dangerous heat",
+      "summary": "A severe heatwave is pushing into central, eastern and southern Europe, with forecasts above 40°C in some cities and officials issuing warnings and opening cooling centres.",
+      "discussionPrompt": "When heat starts changing ordinary routines, should cities focus more on emergency alerts, or redesign streets and homes for hotter summers?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
@@ -14,41 +14,39 @@
       ]
     },
     {
-      "title": "Brazil edges Japan at World Cup",
-      "summary": "Gabriel Martinelli scored in stoppage time as Brazil beat Japan 2-1 in a World Cup knockout match, ending Japan’s hopes of a first knockout win.",
-      "discussionPrompt": "Do late-game goals make soccer more exciting, or do they feel unfair after one team has defended well for so long?",
+      "title": "Paraguay shocks Germany at World Cup",
+      "summary": "Paraguay knocked Germany out of the World Cup on penalties after a 1-1 draw, with goalkeeper Orlando Gill making key saves in Foxborough.",
+      "discussionPrompt": "Penalty shootouts are dramatic, but are they a fair way to decide a huge match, or just a nerve-wracking lottery?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters",
         "AP News"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/martinelli-rescue-brazil-edge-japan-2-1-last-32-2026-06-29/",
-        "https://apnews.com/article/d5c025da2efeaf08a6b7c694b8e6534e"
+        "https://apnews.com/article/819ffc6e897f8be74f48d6b9d3e76e9b"
       ]
     },
     {
-      "title": "Wimbledon opens with surprises",
-      "summary": "Wimbledon’s first day brought tough matches and upsets, with Jannik Sinner surviving a five-set test and Naomi Osaka advancing in straight sets.",
-      "discussionPrompt": "What makes a tournament more fun to follow: seeing favourites cruise through, or watching early upsets shake everything up?",
+      "title": "Morocco beats Netherlands on penalties",
+      "summary": "Morocco defeated the Netherlands 3-2 on penalties after a 1-1 World Cup draw, setting up a last-16 match against Canada in Houston.",
+      "discussionPrompt": "What makes an underdog run so fun to watch: the surprise, the fan energy, or the feeling that anything can happen?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live"
+      ]
+    },
+    {
+      "title": "Oil forecasts ease after Hormuz reopening",
+      "summary": "A Reuters poll found analysts lowering 2026 oil price forecasts as the Strait of Hormuz reopening eases supply worries after earlier conflict-driven disruptions.",
+      "discussionPrompt": "It is strange how one shipping route can affect prices everywhere. Do energy markets feel too fragile, or just naturally connected?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/tennis/wimbledon-day-one-2026-06-29/"
-      ]
-    },
-    {
-      "title": "Canada backs Greenland critical minerals",
-      "summary": "Canada announced C$7 million in grants for a Greenland molybdenum project, supporting a metal used in aerospace, energy and defence industries.",
-      "discussionPrompt": "Critical minerals sound boring until they affect technology and security. Should countries invest more in supply chains close to home?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/americas/canada-backs-greenland-mine-producing-metal-crucial-defence-industries-2026-06-29/"
+        "https://www.reuters.com/business/energy/poll-analysts-dial-down-oil-forecasts-hormuz-reopening-eases-supply-concerns-2026-06-30/"
       ]
     }
   ]
