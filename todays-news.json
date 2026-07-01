@@ -1,54 +1,52 @@
 {
-  "updatedUtc": "2026-06-30T22:04:05Z",
+  "updatedUtc": "2026-07-01T13:55:10Z",
   "topics": [
     {
-      "title": "Canada faces holiday weather extremes",
-      "summary": "Canada is heading into Canada Day with flooding risks in the West, heavy rain in Saskatchewan and Manitoba, wildfire smoke near Calgary, and heat warnings in parts of Ontario and Quebec.",
-      "discussionPrompt": "Canada Day weather can be unpredictable. Would you rather plan around heat, smoke, rain, or just move the whole party indoors?",
+      "title": "Ocean temperatures set June record",
+      "summary": "Global ocean surface temperatures outside the polar regions hit a record high for June, according to Copernicus data, raising concerns about extreme weather and marine ecosystems.",
+      "discussionPrompt": "The ocean can feel distant from daily life, but it shapes weather everywhere. Do record ocean temperatures make climate change feel more real?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june"
+      ]
+    },
+    {
+      "title": "UN panel warns on AI risks",
+      "summary": "A UN-backed expert panel warned that fast-moving AI development is outpacing oversight, highlighting concerns around autonomous systems, deception, misuse and gaps in safety evidence.",
+      "discussionPrompt": "AI keeps getting more useful and more worrying at the same time. What kind of rules would make you feel more comfortable with it?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/environment/canada-braces-western-floods-eastern-heat-wave-national-holiday-2026-06-30/"
+        "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/"
       ]
     },
     {
-      "title": "Heat dome hits World Cup cities",
-      "summary": "A heat dome is bringing dangerous temperatures to World Cup host cities including Toronto, Kansas City, Philadelphia and East Rutherford, with hydration breaks and cooling plans in place.",
-      "discussionPrompt": "Big sports events are usually planned years ahead. Should extreme weather now be treated like a normal part of event planning?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters",
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/heat-dome-threatens-sweltering-conditions-world-cup-fans-players-2026-06-30/",
-        "https://apnews.com/article/9d3bc20785bc731c5e78362c4bb2e26c"
-      ]
-    },
-    {
-      "title": "Morocco sets up Canada World Cup clash",
-      "summary": "Morocco beat the Netherlands 3-2 on penalties after a 1-1 draw, moving into a World Cup last-16 match against co-host Canada in Houston.",
-      "discussionPrompt": "Penalty shootouts are brutal and exciting. Do they feel like a fair test, or more like flipping a coin with cleats on?",
+      "title": "Mexico reaches World Cup last 16",
+      "summary": "Mexico beat Ecuador 2-0 at Azteca Stadium, earning its first World Cup knockout-stage win since 1986 and sending the co-hosts into the last 16.",
+      "discussionPrompt": "Home crowds can change the whole mood of a match. Do you think playing at home gives teams a real edge, or just extra pressure?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/morocco-advance-world-cup-after-penalty-shootout-win-over-netherlands-2026-06-30/"
+        "https://www.reuters.com/sports/soccer/mexico-beat-eucador-2-0-reach-world-cup-last-16-end-knockout-hoodoo-2026-07-01/"
       ]
     },
     {
-      "title": "Oil forecasts ease after Hormuz reopening",
-      "summary": "A Reuters poll found analysts lowering 2026 oil price forecasts after the Strait of Hormuz reopened, easing supply concerns from earlier disruptions.",
-      "discussionPrompt": "It is strange how one narrow shipping route can affect prices everywhere. Do energy markets feel too fragile, or just naturally connected?",
+      "title": "USMCA review adds trade uncertainty",
+      "summary": "The US is expected not to extend USMCA immediately, starting a review process that could leave the North American trade pact in long-term uncertainty.",
+      "discussionPrompt": "Trade deals sound dry, but they can affect jobs, prices and local businesses. How much should regular people follow negotiations like this?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/energy/poll-analysts-dial-down-oil-forecasts-hormuz-reopening-eases-supply-concerns-2026-06-30/"
+        "https://www.reuters.com/world/americas/us-declaration-exit-usmca-start-decade-long-countdown-pact-2026-06-30/"
       ]
     }
   ]
