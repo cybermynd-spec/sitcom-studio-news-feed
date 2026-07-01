@@ -1,52 +1,64 @@
 {
-  "updatedUtc": "2026-07-01T13:55:10Z",
+  "updatedUtc": "2026-07-01T21:57:11Z",
   "topics": [
     {
-      "title": "Ocean temperatures set June record",
-      "summary": "Global ocean surface temperatures outside the polar regions hit a record high for June, according to Copernicus data, raising concerns about extreme weather and marine ecosystems.",
-      "discussionPrompt": "The ocean can feel distant from daily life, but it shapes weather everywhere. Do record ocean temperatures make climate change feel more real?",
+      "title": "USMCA review raises trade uncertainty",
+      "summary": "The US declined to extend USMCA in its current form after a six-year review, starting a longer review period while Canada, Mexico and the US seek changes.",
+      "discussionPrompt": "Trade deals sound dry, but they can affect prices, jobs and local businesses. How much do you think regular people should follow negotiations like this?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/americas/us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-trump-demands-2026-07-01/"
+      ]
+    },
+    {
+      "title": "Toronto fans warned about World Cup heat",
+      "summary": "Fans heading to the Portugal-Croatia World Cup match in Toronto were warned that humidity could make temperatures feel near 40 C, with hydration stations and storm plans in place.",
+      "discussionPrompt": "Big sports events are exciting, but weather can change the whole experience. Would extreme heat make you skip an outdoor game?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/environment/fans-warned-severe-heat-toronto-portugal-croatia-game-2026-07-01/"
+      ]
+    },
+    {
+      "title": "Ireland begins EU presidency with Ukraine focus",
+      "summary": "Ireland began its six-month EU Council presidency, with Volodymyr Zelenskyy urging Europe to keep promises on Ukraine's accession talks and support.",
+      "discussionPrompt": "Joining a big international club can take years. Should the EU move faster for countries under pressure, or stick carefully to the usual process?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/jul/01/ocean-surface-temperatures-hit-a-record-high-for-june"
+        "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live"
       ]
     },
     {
-      "title": "UN panel warns on AI risks",
-      "summary": "A UN-backed expert panel warned that fast-moving AI development is outpacing oversight, highlighting concerns around autonomous systems, deception, misuse and gaps in safety evidence.",
-      "discussionPrompt": "AI keeps getting more useful and more worrying at the same time. What kind of rules would make you feel more comfortable with it?",
+      "title": "Heat dome threatens holiday weekend",
+      "summary": "Forecasters warned that a heat dome could bring dangerously high temperatures across the eastern United States and parts of Canada during the Independence Day weekend.",
+      "discussionPrompt": "Holiday weekends are supposed to be relaxing. How do you change your plans when the weather turns from uncomfortable to genuinely dangerous?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/"
+        "https://www.reuters.com/data/are-you-one-millions-americans-trapped-heat-dome-2026-07-01/"
       ]
     },
     {
-      "title": "Mexico reaches World Cup last 16",
-      "summary": "Mexico beat Ecuador 2-0 at Azteca Stadium, earning its first World Cup knockout-stage win since 1986 and sending the co-hosts into the last 16.",
-      "discussionPrompt": "Home crowds can change the whole mood of a match. Do you think playing at home gives teams a real edge, or just extra pressure?",
+      "title": "Markets pause as oil prices fall",
+      "summary": "Global stocks were little changed as investors weighed Federal Reserve comments, while oil prices fell on signs of easing supply concerns tied to US-Iran talks.",
+      "discussionPrompt": "Markets often react to hints and expectations, not just facts. Do you find that fascinating, frustrating, or mostly irrelevant to everyday life?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/mexico-beat-eucador-2-0-reach-world-cup-last-16-end-knockout-hoodoo-2026-07-01/"
-      ]
-    },
-    {
-      "title": "USMCA review adds trade uncertainty",
-      "summary": "The US is expected not to extend USMCA immediately, starting a review process that could leave the North American trade pact in long-term uncertainty.",
-      "discussionPrompt": "Trade deals sound dry, but they can affect jobs, prices and local businesses. How much should regular people follow negotiations like this?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/americas/us-declaration-exit-usmca-start-decade-long-countdown-pact-2026-06-30/"
+        "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-01/"
       ]
     }
   ]
