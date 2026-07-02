@@ -1,64 +1,66 @@
 {
-  "updatedUtc": "2026-07-01T21:57:11Z",
+  "updatedUtc": "2026-07-02T14:06:00Z",
   "topics": [
     {
-      "title": "USMCA review raises trade uncertainty",
-      "summary": "The US declined to extend USMCA in its current form after a six-year review, starting a longer review period while Canada, Mexico and the US seek changes.",
-      "discussionPrompt": "Trade deals sound dry, but they can affect prices, jobs and local businesses. How much do you think regular people should follow negotiations like this?",
+      "title": "Canada gets a Eurovision debut",
+      "summary": "Canada will compete in Eurovision for the first time in 2027, with CBC set to explain later how the Canadian entry will be chosen.",
+      "discussionPrompt": "Canada at Eurovision sounds wonderfully odd. What kind of Canadian song or performer do you think would play best on that huge international stage?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/eurovision-song-contest-canada-cbc-0bbbbc15e1a2522ca86ebff3bee27e74"
+      ]
+    },
+    {
+      "title": "US and Iran focus on Hormuz talks",
+      "summary": "U.S. and Iranian negotiators wrapped technical talks in Doha focused on shipping through the Strait of Hormuz and the possible unfreezing of Iranian funds.",
+      "discussionPrompt": "The Strait of Hormuz is far away, but it can affect oil prices and shipping. Do global chokepoints like that make the world feel more connected or more fragile?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/world/americas/us-canada-mexico-review-trade-pact-likely-putting-it-into-limbo-trump-demands-2026-07-01/"
+        "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/"
       ]
     },
     {
-      "title": "Toronto fans warned about World Cup heat",
-      "summary": "Fans heading to the Portugal-Croatia World Cup match in Toronto were warned that humidity could make temperatures feel near 40 C, with hydration stations and storm plans in place.",
-      "discussionPrompt": "Big sports events are exciting, but weather can change the whole experience. Would extreme heat make you skip an outdoor game?",
+      "title": "France battles heat-driven wildfires",
+      "summary": "Firefighters in southern France battled several wind-fanned wildfires after recent extreme heat, with the largest blaze burning about 900 hectares near Spain.",
+      "discussionPrompt": "Heatwaves are becoming part of summer planning in more places. How would you change vacations, festivals or daily routines around wildfire risk?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters",
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/environment/firefighters-battle-wildfire-southern-france-2026-07-02/",
+        "https://apnews.com/article/france-heat-wildfires-europe-25da6a452c6c8528afcc403101994493"
+      ]
+    },
+    {
+      "title": "NASA satellite rescue hits delay",
+      "summary": "A rescue mission for NASA's Swift Observatory was delayed when a Pegasus rocket was not released from its carrier aircraft; no new launch date has been set.",
+      "discussionPrompt": "A robotic rescue mission for an aging space telescope feels very sci-fi. Should agencies spend more to save old spacecraft, or focus on launching new ones?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/swift-nasa-katalyst-satellite-rescue-3c3c5858b865064134a480295567f7f6"
+      ]
+    },
+    {
+      "title": "US advances in World Cup drama",
+      "summary": "The U.S. beat Bosnia 2-0 in a World Cup knockout match, but scorer Folarin Balogun was sent off and will miss the last-16 match against Belgium.",
+      "discussionPrompt": "One red card can change a team's whole tournament. Is that part of soccer's drama, or does it sometimes feel too harsh?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/environment/fans-warned-severe-heat-toronto-portugal-croatia-game-2026-07-01/"
-      ]
-    },
-    {
-      "title": "Ireland begins EU presidency with Ukraine focus",
-      "summary": "Ireland began its six-month EU Council presidency, with Volodymyr Zelenskyy urging Europe to keep promises on Ukraine's accession talks and support.",
-      "discussionPrompt": "Joining a big international club can take years. Should the EU move faster for countries under pressure, or stick carefully to the usual process?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live"
-      ]
-    },
-    {
-      "title": "Heat dome threatens holiday weekend",
-      "summary": "Forecasters warned that a heat dome could bring dangerously high temperatures across the eastern United States and parts of Canada during the Independence Day weekend.",
-      "discussionPrompt": "Holiday weekends are supposed to be relaxing. How do you change your plans when the weather turns from uncomfortable to genuinely dangerous?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/data/are-you-one-millions-americans-trapped-heat-dome-2026-07-01/"
-      ]
-    },
-    {
-      "title": "Markets pause as oil prices fall",
-      "summary": "Global stocks were little changed as investors weighed Federal Reserve comments, while oil prices fell on signs of easing supply concerns tied to US-Iran talks.",
-      "discussionPrompt": "Markets often react to hints and expectations, not just facts. Do you find that fascinating, frustrating, or mostly irrelevant to everyday life?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-01/"
+        "https://www.reuters.com/sports/soccer/us-coach-pochettino-says-balogun-did-not-deserve-red-card-2026-07-02/"
       ]
     }
   ]
