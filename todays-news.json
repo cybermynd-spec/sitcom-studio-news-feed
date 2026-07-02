@@ -1,66 +1,68 @@
 {
-  "updatedUtc": "2026-07-02T14:06:00Z",
+  "updatedUtc": "2026-07-02T22:08:00Z",
   "topics": [
     {
-      "title": "Canada gets a Eurovision debut",
-      "summary": "Canada will compete in Eurovision for the first time in 2027, with CBC set to explain later how the Canadian entry will be chosen.",
-      "discussionPrompt": "Canada at Eurovision sounds wonderfully odd. What kind of Canadian song or performer do you think would play best on that huge international stage?",
+      "title": "Google loses EU Android appeal",
+      "summary": "Europe's top court dismissed Google's appeal of a €4.1 billion Android antitrust fine, backing regulators who said the company limited competition and consumer choice.",
+      "discussionPrompt": "Android is everywhere, but regulators say platform power can get too concentrated. Do you think big tech ecosystems make life easier, or box people in?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "AP News",
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/a1179334b95da2ba1125beed21bddcfd",
+        "https://www.reuters.com/world/eu-top-court-dismisses-google-fight-against-record-41-billion-eu-antitrust-fine-2026-07-02/"
+      ]
+    },
+    {
+      "title": "NASA satellite rescue delayed",
+      "summary": "A mission to rescue NASA's aging Swift Observatory was postponed after weather and technical issues stopped the Pegasus rocket launch over the Pacific.",
+      "discussionPrompt": "A robotic rescue mission for an old space telescope sounds wonderfully sci-fi. Should space agencies save aging spacecraft, or spend that money on new missions?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "AP News",
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/3c3c5858b865064134a480295567f7f6",
+        "https://www.reuters.com/science/satellite-rescue-mission-nasa-orbiting-observatory-postponed-2026-07-02/"
+      ]
+    },
+    {
+      "title": "Wall Street ends mixed",
+      "summary": "Most U.S. stocks rose Thursday and the Dow hit another record, but weakness in chip and AI-related shares kept the broader indexes mixed.",
+      "discussionPrompt": "AI stocks have been market stars lately, but they can wobble too. Would you trust a market rally led by one hot sector?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/eurovision-song-contest-canada-cbc-0bbbbc15e1a2522ca86ebff3bee27e74"
+        "https://apnews.com/article/stock-markets-iran-war-ai-21763c547c9aaaf13483625f90a751cd"
       ]
     },
     {
-      "title": "US and Iran focus on Hormuz talks",
-      "summary": "U.S. and Iranian negotiators wrapped technical talks in Doha focused on shipping through the Strait of Hormuz and the possible unfreezing of Iranian funds.",
-      "discussionPrompt": "The Strait of Hormuz is far away, but it can affect oil prices and shipping. Do global chokepoints like that make the world feel more connected or more fragile?",
+      "title": "World Cup fans brave heat",
+      "summary": "Fans kept up the World Cup atmosphere in Philadelphia despite extreme heat, adding weather and endurance to the drama around the tournament.",
+      "discussionPrompt": "Big sports events are supposed to feel festive. How much should heat and climate planning shape where and when major tournaments happen?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/world/asia-pacific/us-iran-enter-technical-talks-secure-peace-deal-restart-shipping-2026-07-01/"
+        "https://www.reuters.com/sports/soccer/fans-keep-up-world-cup-spirit-extreme-philly-heat-2026-07-02/"
       ]
     },
     {
-      "title": "France battles heat-driven wildfires",
-      "summary": "Firefighters in southern France battled several wind-fanned wildfires after recent extreme heat, with the largest blaze burning about 900 hectares near Spain.",
-      "discussionPrompt": "Heatwaves are becoming part of summer planning in more places. How would you change vacations, festivals or daily routines around wildfire risk?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters",
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/environment/firefighters-battle-wildfire-southern-france-2026-07-02/",
-        "https://apnews.com/article/france-heat-wildfires-europe-25da6a452c6c8528afcc403101994493"
-      ]
-    },
-    {
-      "title": "NASA satellite rescue hits delay",
-      "summary": "A rescue mission for NASA's Swift Observatory was delayed when a Pegasus rocket was not released from its carrier aircraft; no new launch date has been set.",
-      "discussionPrompt": "A robotic rescue mission for an aging space telescope feels very sci-fi. Should agencies spend more to save old spacecraft, or focus on launching new ones?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/swift-nasa-katalyst-satellite-rescue-3c3c5858b865064134a480295567f7f6"
-      ]
-    },
-    {
-      "title": "US advances in World Cup drama",
-      "summary": "The U.S. beat Bosnia 2-0 in a World Cup knockout match, but scorer Folarin Balogun was sent off and will miss the last-16 match against Belgium.",
-      "discussionPrompt": "One red card can change a team's whole tournament. Is that part of soccer's drama, or does it sometimes feel too harsh?",
+      "title": "Princess Kate visits Wimbledon",
+      "summary": "Princess Kate watched British players at Wimbledon, including Arthur Fery's win, as the tournament continued with only a few home singles hopes left.",
+      "discussionPrompt": "Wimbledon has this mix of sport, tradition and celebrity spotting. Does that extra pageantry make tennis more fun, or distract from the matches?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/us-coach-pochettino-says-balogun-did-not-deserve-red-card-2026-07-02/"
+        "https://www.reuters.com/world/uk/princess-kate-watches-british-hopeful-fery-wimbledon-visit-2026-07-02/"
       ]
     }
   ]
