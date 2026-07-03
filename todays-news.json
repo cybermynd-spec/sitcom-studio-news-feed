@@ -1,68 +1,64 @@
 {
-  "updatedUtc": "2026-07-02T22:08:00Z",
+  "updatedUtc": "2026-07-03T14:04:42Z",
   "topics": [
     {
-      "title": "Google loses EU Android appeal",
-      "summary": "Europe's top court dismissed Google's appeal of a €4.1 billion Android antitrust fine, backing regulators who said the company limited competition and consumer choice.",
-      "discussionPrompt": "Android is everywhere, but regulators say platform power can get too concentrated. Do you think big tech ecosystems make life easier, or box people in?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News",
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/a1179334b95da2ba1125beed21bddcfd",
-        "https://www.reuters.com/world/eu-top-court-dismisses-google-fight-against-record-41-billion-eu-antitrust-fine-2026-07-02/"
-      ]
-    },
-    {
-      "title": "NASA satellite rescue delayed",
-      "summary": "A mission to rescue NASA's aging Swift Observatory was postponed after weather and technical issues stopped the Pegasus rocket launch over the Pacific.",
-      "discussionPrompt": "A robotic rescue mission for an old space telescope sounds wonderfully sci-fi. Should space agencies save aging spacecraft, or spend that money on new missions?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News",
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/3c3c5858b865064134a480295567f7f6",
-        "https://www.reuters.com/science/satellite-rescue-mission-nasa-orbiting-observatory-postponed-2026-07-02/"
-      ]
-    },
-    {
-      "title": "Wall Street ends mixed",
-      "summary": "Most U.S. stocks rose Thursday and the Dow hit another record, but weakness in chip and AI-related shares kept the broader indexes mixed.",
-      "discussionPrompt": "AI stocks have been market stars lately, but they can wobble too. Would you trust a market rally led by one hot sector?",
+      "title": "Heat reshapes U.S. holiday events",
+      "summary": "Extreme heat across parts of the Midwest and East Coast is forcing changes to July 4th weekend events as America 250 celebrations ramp up.",
+      "discussionPrompt": "Big public celebrations sound fun, but heat can change everything. Would you still go to a major outdoor event if the weather looked uncomfortable?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/stock-markets-iran-war-ai-21763c547c9aaaf13483625f90a751cd"
+        "https://apnews.com/article/9d84acb8bd36837b2f21fab9e1808fc0"
       ]
     },
     {
-      "title": "World Cup fans brave heat",
-      "summary": "Fans kept up the World Cup atmosphere in Philadelphia despite extreme heat, adding weather and endurance to the drama around the tournament.",
-      "discussionPrompt": "Big sports events are supposed to feel festive. How much should heat and climate planning shape where and when major tournaments happen?",
+      "title": "World Cup heat sparks climate debate",
+      "summary": "Scientists say climate change is intensifying the heat affecting World Cup players and fans, renewing questions about sports scheduling and safety plans.",
+      "discussionPrompt": "The World Cup is supposed to bring people together. Should tournaments move times or locations more aggressively when heat becomes a safety issue?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/sports/soccer/fans-keep-up-world-cup-spirit-extreme-philly-heat-2026-07-02/"
+        "https://www.reuters.com/business/environment/climate-change-behind-sweltering-world-cup-scientists-say-2026-07-03/"
       ]
     },
     {
-      "title": "Princess Kate visits Wimbledon",
-      "summary": "Princess Kate watched British players at Wimbledon, including Arthur Fery's win, as the tournament continued with only a few home singles hopes left.",
-      "discussionPrompt": "Wimbledon has this mix of sport, tradition and celebrity spotting. Does that extra pageantry make tennis more fun, or distract from the matches?",
+      "title": "Country Roads becomes World Cup anthem",
+      "summary": "U.S. players and fans have turned John Denver's Country Roads into an unofficial World Cup anthem, singing it after matches during the team's run.",
+      "discussionPrompt": "It is funny how one song can suddenly belong to a whole crowd. What song would make the best shared anthem after a big win?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters"
+        "AP News"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/world/uk/princess-kate-watches-british-hopeful-fery-wimbledon-visit-2026-07-02/"
+        "https://apnews.com/article/0809693fbe3fd71f9539633ea16675ac"
+      ]
+    },
+    {
+      "title": "U.S. World Cup match sets TV record",
+      "summary": "The U.S. win over Bosnia-Herzegovina became the most-watched English-language soccer telecast in history, according to Fox Sports figures reported by AP.",
+      "discussionPrompt": "Soccer keeps getting bigger in North America. Do you think a home World Cup can turn casual viewers into long-term fans?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "AP News"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/d05c03d63efd603f5e2a2b0f2d39d764"
+      ]
+    },
+    {
+      "title": "Switzerland advances at World Cup",
+      "summary": "Switzerland beat Algeria 2-0 in Vancouver, moving into the World Cup last 16 with a controlled performance and another strong outing from Johan Manzambi.",
+      "discussionPrompt": "World Cups always seem to create breakout players and surprise runs. Is that the best part of the tournament?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/football/live/2026/jul/03/fifa-world-cup-2026-live-switzerland-v-algeria-updates-sui-vs-alg-last-round-32-match-score-latest"
       ]
     }
   ]
