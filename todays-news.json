@@ -1,10 +1,10 @@
 {
-  "updatedUtc": "2026-07-03T21:55:42Z",
+  "updatedUtc": "2026-07-04T13:59:00Z",
   "topics": [
     {
-      "title": "Heat disrupts U.S. holiday events",
-      "summary": "A major heat wave has forced changes to Fourth of July events across parts of the central and eastern U.S., including postponed parades, concerts and fireworks.",
-      "discussionPrompt": "Outdoor celebrations are fun, but heat can really change the mood. Would you still go to a big public event if the weather felt risky?",
+      "title": "Extreme heat disrupts holiday plans",
+      "summary": "A major heat wave is disrupting Fourth of July events across the U.S., straining power grids and forcing organizers to adjust outdoor celebrations.",
+      "discussionPrompt": "Big summer events sound fun until the weather turns risky. Would you still go, or would you rather celebrate somewhere cool and quiet?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
@@ -14,53 +14,51 @@
       ]
     },
     {
-      "title": "Tour de France prepares for extreme heat",
-      "summary": "French officials have been told they can cancel Tour de France stages during red heat alerts if public safety and emergency services are at risk.",
-      "discussionPrompt": "It is strange to imagine canceling part of a famous race because of heat. Should big sports events become more flexible around weather?",
+      "title": "Global temperatures run unusually hot",
+      "summary": "Reuters reports global temperatures are running well above normal, with intense heat affecting parts of the Northern Hemisphere during early July.",
+      "discussionPrompt": "It feels like extreme heat is becoming part of ordinary summer planning. How should cities and events adapt without ruining everything fun?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.reuters.com/business/environment/french-officials-told-they-can-cancel-tour-stages-extreme-heat-2026-07-03/"
+        "https://www.reuters.com/business/environment/see-how-abnormal-global-temperatures-are-right-now-2026-07-04/"
       ]
     },
     {
-      "title": "Markets mixed after Dow record",
-      "summary": "World shares were mixed after the Dow hit a new record, while some AI-related stocks recovered and others continued to struggle.",
-      "discussionPrompt": "AI stocks seem to swing between excitement and nerves. Do you think people are being realistic about AI, or just chasing the next big thing?",
+      "title": "World Cup faces abuse concerns",
+      "summary": "The global players union FIFPRO condemned racist abuse aimed at footballers during the 2026 World Cup and called for stronger action from authorities.",
+      "discussionPrompt": "Sports can bring people together, but bad fan behaviour can spoil it fast. What should leagues do when abuse follows players online and in stadiums?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/de7c9db96ce4d502079892d3ecef88cf"
+        "https://apnews.com/article/5b5d1d600fefa89459e1560d8626d675"
       ]
     },
     {
-      "title": "Rare Declaration copy found in UK",
-      "summary": "A rare 1776 printing of the U.S. Declaration of Independence was found in the UK National Archives, attached to records from a captured American ship.",
-      "discussionPrompt": "It is amazing that historic papers can sit unnoticed for centuries. What forgotten object would you most like to discover in an archive?",
+      "title": "Colombia advances at the World Cup",
+      "summary": "Colombia beat Ghana 1-0 in Kansas City, staying unbeaten and setting up a last-16 World Cup match against Switzerland in Vancouver.",
+      "discussionPrompt": "A single goal can completely change a tournament story. Do you enjoy low-scoring tense games, or do you prefer wild, high-scoring matches?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "AP News"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/d9336ffef70b9c79183ce4d54d9466e7"
-      ]
-    },
-    {
-      "title": "World Cup reaches knockout drama",
-      "summary": "The World Cup round of 32 continued across North America, with fans filling stadiums and the tournament moving deeper into its knockout stage.",
-      "discussionPrompt": "Knockout games always feel more dramatic because one mistake can end everything. Do you prefer sudden-death sports pressure or long playoff series?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "AP News",
         "Reuters"
       ],
       "sourceUrls": [
-        "https://apnews.com/photo-gallery/world-cup-round-of-32-photos-3bbe852bbde6e1d867259fc6d232dc02",
-        "https://www.reuters.com/pictures/best-world-cup-photos-day-22-2026-07-03/"
+        "https://www.reuters.com/sports/soccer/colombia-beat-ghana-1-0-set-up-switzerland-showdown-2026-07-04/"
+      ]
+    },
+    {
+      "title": "Rare Declaration copy found",
+      "summary": "A rare early copy of the U.S. Declaration of Independence was found in the UK National Archives after being overlooked among old naval records.",
+      "discussionPrompt": "It is amazing that important history can hide in plain sight. What forgotten object would you most like to discover in an archive?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk-news/2026/jul/03/vanishingly-rare-copy-us-declaration-independence-volunteer-uk-archives"
       ]
     }
   ]
