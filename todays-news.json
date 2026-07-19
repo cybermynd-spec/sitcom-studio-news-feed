@@ -1,72 +1,54 @@
 {
-  "updatedUtc": "2026-07-18T15:54:26Z",
+  "updatedUtc": "2026-07-19T16:25:17Z",
   "topics": [
     {
-      "title": "Wildfire smoke spreads across North America",
-      "summary": "Smoke from Canadian and Minnesota wildfires is pushing unhealthy air into parts of the U.S. Midwest, Northeast and Mid-Atlantic, prompting warnings to stay indoors when air quality drops.",
-      "discussionPrompt": "Smoke drifting across borders makes weather feel less local. How would you plan a normal day when the air outside keeps changing?",
+      "title": "Spain and Argentina meet in the World Cup final",
+      "summary": "Spain and defending champion Argentina meet today in New Jersey to close the expanded 48-team World Cup. The matchup pairs European champion Spain with Lionel Messi's Argentina in the tournament's 104th and final game.",
+      "discussionPrompt": "A giant final can turn even casual viewers into instant experts. Are you watching for the soccer, the shared spectacle, or just the snacks and reactions?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News",
-        "Reuters"
+        "FIFA"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/251365af55a5111d8178b24a4d15e0af",
-        "https://www.investing.com/news/world-news/canada-wildfire-smoke-blankets-us-midwest-northeast-with-hazardous-air-4798917"
+        "https://apnews.com/article/fccc26aa12d9226e63d06b601b770617",
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-live-watch-teams-tickets"
       ]
     },
     {
-      "title": "Mexico quake rattles a wide region",
-      "summary": "A magnitude 7.3 earthquake struck near the Mexico-Guatemala border, shaking communities from Chiapas to El Salvador. Officials reported no major damage, while aftershocks kept emergency crews alert.",
-      "discussionPrompt": "Earthquakes are one of those reminders that routine can change in seconds. What would you grab first if you had to step outside fast?",
+      "title": "AWS glitch sends customers trillion-dollar bills",
+      "summary": "Amazon Web Services apologized after a global glitch showed some customers wildly incorrect bills, including totals as high as $1.5 trillion. The startling invoices affected accounts whose normal monthly costs could be less than a cup of coffee.",
+      "discussionPrompt": "Imagine opening a routine bill and seeing twelve extra zeroes. Would you panic, laugh, call support, or frame the screenshot first?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "AP News",
-        "USGS"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/5fd814654cc71416982a2b3b5e85aea6",
-        "https://www.usgs.gov/programs/earthquake-hazards"
+        "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch"
       ]
     },
     {
-      "title": "Health officials trace lettuce outbreak",
-      "summary": "The FDA and CDC linked a five-state Cyclospora outbreak to shredded iceberg lettuce served at some Taco Bell locations. The chain removed the affected lettuce while investigators continue tracing supply paths.",
-      "discussionPrompt": "Food supply chains are invisible until something goes wrong. Does news like this change what you order, or do you wait for the all-clear?",
+      "title": "Leaky pipes dwarf hosepipe-ban savings",
+      "summary": "Greenpeace UK says water companies in England and Wales lose 2.87 billion litres daily through leaking pipes—about five times what a nationwide hosepipe ban would save—as heat and low rainfall strain supplies.",
+      "discussionPrompt": "When a system leaks more water than households could save, where should responsibility start: personal habits, faster repairs, tougher rules, or all three?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "FDA",
-        "AP News"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-5-state-outbreak-cyclospora-illnesses-iceberg-lettuce-july-2026",
-        "https://apnews.com/article/13d9e9ebdc46a4d05a58da2ae8e8d0de"
+        "https://www.theguardian.com/environment/2026/jul/18/water-firms-in-england-and-wales-leak-five-times-what-hosepipe-ban-would-save"
       ]
     },
     {
-      "title": "World Cup final buildup gets smoky",
-      "summary": "Spain and Argentina are preparing for the World Cup final as wildfire smoke, ticket prices and political side stories add extra attention around the tournament's closing weekend.",
-      "discussionPrompt": "A big final already has drama before kickoff. What outside issue would most change the mood of watching a huge game?",
+      "title": "Ghana's movie posters become collectible art",
+      "summary": "Ghanaian artists are preserving a tradition of hand-painted movie posters whose wildly imaginative scenes often stray far beyond the actual films. Online collectors are helping revive demand for the colorful works, once used to advertise neighborhood video clubs.",
+      "discussionPrompt": "If you could commission an outrageously inaccurate poster for any movie, which one would you pick and what ridiculous scene should the artist add?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "AP News"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina",
-        "https://apnews.com/article/251365af55a5111d8178b24a4d15e0af"
-      ]
-    },
-    {
-      "title": "NASA tests pieces of future Moon plans",
-      "summary": "NASA highlighted recent Artemis lander testing and new Mars rover science, keeping attention on the slow, technical work behind future Moon missions and planetary exploration.",
-      "discussionPrompt": "Space news can be less about one giant launch and more about patient testing. Do you find that exciting or painfully slow?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "NASA"
-      ],
-      "sourceUrls": [
-        "https://www.nasa.gov/news-release/"
+        "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
       ]
     }
   ]
