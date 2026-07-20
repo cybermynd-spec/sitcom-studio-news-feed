@@ -1,54 +1,54 @@
 {
-  "updatedUtc": "2026-07-19T16:25:17Z",
+  "updatedUtc": "2026-07-20T16:22:49Z",
   "topics": [
     {
-      "title": "Spain and Argentina meet in the World Cup final",
-      "summary": "Spain and defending champion Argentina meet today in New Jersey to close the expanded 48-team World Cup. The matchup pairs European champion Spain with Lionel Messi's Argentina in the tournament's 104th and final game.",
-      "discussionPrompt": "A giant final can turn even casual viewers into instant experts. Are you watching for the soccer, the shared spectacle, or just the snacks and reactions?",
+      "title": "Andy Burnham becomes UK prime minister",
+      "summary": "Andy Burnham has become Britain’s seventh prime minister in a decade after winning the governing Labour Party leadership. He takes over from Keir Starmer while promising a change in direction and standards.",
+      "discussionPrompt": "When a new leader arrives midstream, what matters more at first: a bold new plan, a calmer tone, or proving they can make everyday systems work?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "AP News",
-        "FIFA"
+        "NPR"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/fccc26aa12d9226e63d06b601b770617",
-        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/final-live-watch-teams-tickets"
+        "https://www.wect.com/2026/07/20/starmer-says-his-work-is-done-andy-burnham-prepares-take-office-uk-prime-minister/",
+        "https://www.nprillinois.org/2026-07-20/morning-news-brief"
       ]
     },
     {
-      "title": "AWS glitch sends customers trillion-dollar bills",
-      "summary": "Amazon Web Services apologized after a global glitch showed some customers wildly incorrect bills, including totals as high as $1.5 trillion. The startling invoices affected accounts whose normal monthly costs could be less than a cup of coffee.",
-      "discussionPrompt": "Imagine opening a routine bill and seeing twelve extra zeroes. Would you panic, laugh, call support, or frame the screenshot first?",
+      "title": "Oil prices swing on conflict and ceasefire hopes",
+      "summary": "Oil prices briefly reached one-month highs before settling near $88 a barrel. Traders weighed disrupted shipping and wider Middle East tensions against a new proposal for a 10-day ceasefire and renewed U.S.-Iran negotiations.",
+      "discussionPrompt": "Oil markets can react to both danger and hope in the same afternoon. Do you find that kind of uncertainty fascinating, exhausting, or mostly noticeable when prices reach the gas station?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://au.marketscreener.com/news/oil-steadies-as-hopes-of-renewed-us-iran-negotiations-offset-houthi-threat-ce7f51dade8dff26"
+      ]
+    },
+    {
+      "title": "AI-edited bird photos muddy wildlife records",
+      "summary": "Scientists say AI-enhanced bird photos are introducing false details and sightings into citizen-science databases. Even innocent edits can change a species’ markings, weakening records researchers use to track habitats and migration.",
+      "discussionPrompt": "If a photo is meant as evidence, should any AI touch-up be clearly labeled, or are harmless edits fine as long as the subject still looks basically right?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch"
+        "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe"
       ]
     },
     {
-      "title": "Leaky pipes dwarf hosepipe-ban savings",
-      "summary": "Greenpeace UK says water companies in England and Wales lose 2.87 billion litres daily through leaking pipes—about five times what a nationwide hosepipe ban would save—as heat and low rainfall strain supplies.",
-      "discussionPrompt": "When a system leaks more water than households could save, where should responsibility start: personal habits, faster repairs, tougher rules, or all three?",
+      "title": "Australian ski resorts set July heat records",
+      "summary": "Ski areas in New South Wales and Victoria recorded temperatures up to 12C above average, breaking longstanding July records. Warm, dry weather has left resorts relying heavily on snow-making during a difficult season.",
+      "discussionPrompt": "If a winter getaway suddenly felt like spring, would you make the best of the strange weather, switch activities, or start rethinking the whole idea of seasonal travel?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/jul/18/water-firms-in-england-and-wales-leak-five-times-what-hosepipe-ban-would-save"
-      ]
-    },
-    {
-      "title": "Ghana's movie posters become collectible art",
-      "summary": "Ghanaian artists are preserving a tradition of hand-painted movie posters whose wildly imaginative scenes often stray far beyond the actual films. Online collectors are helping revive demand for the colorful works, once used to advertise neighborhood video clubs.",
-      "discussionPrompt": "If you could commission an outrageously inaccurate poster for any movie, which one would you pick and what ridiculous scene should the artist add?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art"
+        "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average"
       ]
     }
   ]
