@@ -1,52 +1,54 @@
 {
-  "updatedUtc": "2026-07-21T18:52:10Z",
+  "updatedUtc": "2026-07-23T17:41:09Z",
   "topics": [
     {
-      "title": "Ancient collision may have flipped the Milky Way",
-      "summary": "Astronomers say a head-on collision with a dwarf galaxy about 10 billion years ago may have tipped the Milky Way’s disc by more than 90 degrees. Supercomputer simulations helped explain the unusually slow motion of stars in its halo.",
-      "discussionPrompt": "Imagine learning our whole galaxy got knocked sideways before the solar system existed. Does that make the universe feel more chaotic, more impressive, or oddly comforting?",
+      "title": "Four mathematicians receive the 2026 Fields Medal",
+      "summary": "Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang received the Fields Medal at the International Congress of Mathematicians. Their work spans number theory, geometry, analysis and mathematical physics, and Wang is the award’s third woman recipient.",
+      "discussionPrompt": "Math prizes celebrate ideas most people may never fully understand. What kind of achievement deserves more everyday recognition: deep theory, practical inventions, great teaching, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Nature"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers"
+        "https://www.nature.com/articles/d41586-026-02169-1"
       ]
     },
     {
-      "title": "Electric flying taxi targets passenger service in 2029",
-      "summary": "Vertical Aerospace publicly demonstrated its electric aircraft shifting from winged flight to a vertical landing. The company is pursuing certification for four-passenger service in 2029, while the UK government has also shown interest in military uses.",
-      "discussionPrompt": "If a flying taxi cost about the same as a regular cab, would you try it right away, wait for years of safety data, or happily stay on the ground?",
+      "title": "Breath test tracks when the body burns fat",
+      "summary": "Researchers developed a handheld breath test that measures ketosis in real time by detecting molecules released during fat burning. Early results suggest it could help people monitor metabolic changes, though the device still needs testing in larger groups.",
+      "discussionPrompt": "Would instant feedback about how your body uses food motivate healthier habits, or would it turn eating and exercise into too much of a numbers game?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Nature"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol"
+        "https://www.nature.com/articles/d41586-026-02295-w"
       ]
     },
     {
-      "title": "Museum turns Victorian workhouse history immersive",
-      "summary": "A revamped museum in Ripon is inviting visitors to experience the routines and harsh choices of a Victorian workhouse. Its exhibits explore poverty, welfare, and the lives of people who entered the system.",
-      "discussionPrompt": "Do immersive museums help history stick better than objects behind glass, or can role-play make serious history feel too much like entertainment?",
+      "title": "The Odyssey offers clues to ancient science",
+      "summary": "A new examination of Homer’s Odyssey looks beyond its monsters and magic to find clues about ancient Greek botany, medicine, navigation and psychology. The epic may preserve practical knowledge alongside its famous storytelling.",
+      "discussionPrompt": "If future historians treated a favorite modern story as evidence about our science and daily life, what would they get surprisingly right—and hilariously wrong?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Nature"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/culture/2026/jul/21/ripon-museum-that-asks-if-you-could-survive-victorian-workhouse"
+        "https://www.nature.com/articles/d41586-026-02275-0"
       ]
     },
     {
-      "title": "AI chatbots stumble on election advice",
-      "summary": "Researchers testing major AI chatbots during Hungary’s election found inaccurate, inconsistent voting guidance, including recommendations for parties that were not running. The study warns people not to treat chatbots as reliable substitutes for official election information.",
-      "discussionPrompt": "What everyday question would you trust an AI to answer without checking, and what kind of question would always send you looking for an official source?",
+      "title": "A leaner Commonwealth Games opens in Glasgow",
+      "summary": "Glasgow is opening a streamlined Commonwealth Games built around 10 sports at four existing venues. The scaled-back event runs through August 2, testing whether a smaller format can keep a major international competition lively and affordable.",
+      "discussionPrompt": "Can a smaller sports festival feel more fun and focused than a giant one, or does cutting events take away the sense of occasion? Which sport would you protect first?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "ITV News",
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary"
+        "https://www.itv.com/news/2026-07-23/as-glasgow-commonwealth-games-begin-why-do-they-look-so-different-this-year",
+        "https://www.reutersconnect.com/item/commowealth-games-2026-opening-ceremony/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBBUlpYMVY"
       ]
     }
   ]
