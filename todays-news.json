@@ -1,54 +1,54 @@
 {
-  "updatedUtc": "2026-07-23T17:41:09Z",
+  "updatedUtc": "2026-07-24T16:18:21Z",
   "topics": [
     {
-      "title": "Four mathematicians receive the 2026 Fields Medal",
-      "summary": "Yu Deng, John Pardon, Jacob Tsimerman and Hong Wang received the Fields Medal at the International Congress of Mathematicians. Their work spans number theory, geometry, analysis and mathematical physics, and Wang is the award’s third woman recipient.",
-      "discussionPrompt": "Math prizes celebrate ideas most people may never fully understand. What kind of achievement deserves more everyday recognition: deep theory, practical inventions, great teaching, or something else?",
+      "title": "AP updates its newsroom rules for AI",
+      "summary": "The Associated Press expanded its guidance for newsroom AI, allowing carefully reviewed help with research, transcription and headlines while keeping human journalists responsible for verification. It continues to prohibit generative AI from creating or altering news photos.",
+      "discussionPrompt": "Where would you welcome an AI assistant in a creative job, and which part would you insist a person always handle?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Nature"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.nature.com/articles/d41586-026-02169-1"
+        "https://www.ap.org/the-definitive-source/announcements/ap-updates-newsroom-standards-for-artificial-intelligence/"
       ]
     },
     {
-      "title": "Breath test tracks when the body burns fat",
-      "summary": "Researchers developed a handheld breath test that measures ketosis in real time by detecting molecules released during fat burning. Early results suggest it could help people monitor metabolic changes, though the device still needs testing in larger groups.",
-      "discussionPrompt": "Would instant feedback about how your body uses food motivate healthier habits, or would it turn eating and exercise into too much of a numbers game?",
+      "title": "A million solar panels appear in the Utah desert",
+      "summary": "NASA Earth Observatory highlighted a new Utah energy facility with roughly one million solar panels and large-scale battery storage. Satellite images show how dramatically the desert site changed between 2024 and 2026.",
+      "discussionPrompt": "A million solar panels sounds impressive, but also enormous. Would you rather see big energy projects concentrated in one place or spread across rooftops and smaller sites?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Nature"
+        "NASA Earth Observatory"
       ],
       "sourceUrls": [
-        "https://www.nature.com/articles/d41586-026-02295-w"
+        "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/"
       ]
     },
     {
-      "title": "The Odyssey offers clues to ancient science",
-      "summary": "A new examination of Homer’s Odyssey looks beyond its monsters and magic to find clues about ancient Greek botany, medicine, navigation and psychology. The epic may preserve practical knowledge alongside its famous storytelling.",
-      "discussionPrompt": "If future historians treated a favorite modern story as evidence about our science and daily life, what would they get surprisingly right—and hilariously wrong?",
+      "title": "Jürgen Klopp takes charge of Germany",
+      "summary": "Germany appointed former Liverpool and Borussia Dortmund manager Jürgen Klopp as national team coach through the 2030 World Cup. He succeeds Julian Nagelsmann after Germany’s early exit from the 2026 tournament.",
+      "discussionPrompt": "Club coaches shape a team every day, while national coaches get limited time together. What matters more in that job: tactics, motivation, picking personalities, or handling pressure?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Nature"
-      ],
-      "sourceUrls": [
-        "https://www.nature.com/articles/d41586-026-02275-0"
-      ]
-    },
-    {
-      "title": "A leaner Commonwealth Games opens in Glasgow",
-      "summary": "Glasgow is opening a streamlined Commonwealth Games built around 10 sports at four existing venues. The scaled-back event runs through August 2, testing whether a smaller format can keep a major international competition lively and affordable.",
-      "discussionPrompt": "Can a smaller sports festival feel more fun and focused than a giant one, or does cutting events take away the sense of occasion? Which sport would you protect first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "ITV News",
+        "German Football Association",
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.itv.com/news/2026-07-23/as-glasgow-commonwealth-games-begin-why-do-they-look-so-different-this-year",
-        "https://www.reutersconnect.com/item/commowealth-games-2026-opening-ceremony/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBBUlpYMVY"
+        "https://www.dfb.de/news/juergen-klopp-appointed-new-germany-head-coach",
+        "https://www.reutersconnect.com/item/uncaptioned-germany-appoint-jurgen-klopp-to-lead-national-team-until-2030-world-cup/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0MjYzNy1WSURFTw"
+      ]
+    },
+    {
+      "title": "Merck widens access plans for a monthly HIV pill",
+      "summary": "Merck signed agreements allowing seven manufacturers to prepare lower-cost generic versions of an experimental once-monthly HIV prevention pill for 129 lower-income countries. The medicine is still being tested, but early licensing could speed access if approved.",
+      "discussionPrompt": "When a promising medicine is still in trials, should companies prepare affordable distribution early, or wait until every approval is settled? What risks come with either approach?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "STAT"
+      ],
+      "sourceUrls": [
+        "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/"
       ]
     }
   ]
