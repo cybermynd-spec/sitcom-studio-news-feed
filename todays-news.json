@@ -1,54 +1,52 @@
 {
-  "updatedUtc": "2026-07-24T16:18:21Z",
+  "updatedUtc": "2026-07-25T16:24:38Z",
   "topics": [
     {
-      "title": "AP updates its newsroom rules for AI",
-      "summary": "The Associated Press expanded its guidance for newsroom AI, allowing carefully reviewed help with research, transcription and headlines while keeping human journalists responsible for verification. It continues to prohibit generative AI from creating or altering news photos.",
-      "discussionPrompt": "Where would you welcome an AI assistant in a creative job, and which part would you insist a person always handle?",
+      "title": "Qantas tests an ultra-long-range Airbus",
+      "summary": "A Qantas Airbus A350-1000ULR completed a nonstop 17,000-kilometre test flight from Toulouse to Melbourne in just over 19 hours. The aircraft is being prepared for future direct routes between Sydney and London.",
+      "discussionPrompt": "Would skipping a connection make a 20-hour flight sound appealing, or would you rather break the trip up? What would make that much time onboard comfortable?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.ap.org/the-definitive-source/announcements/ap-updates-newsroom-standards-for-artificial-intelligence/"
+        "https://www.theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight"
       ]
     },
     {
-      "title": "A million solar panels appear in the Utah desert",
-      "summary": "NASA Earth Observatory highlighted a new Utah energy facility with roughly one million solar panels and large-scale battery storage. Satellite images show how dramatically the desert site changed between 2024 and 2026.",
-      "discussionPrompt": "A million solar panels sounds impressive, but also enormous. Would you rather see big energy projects concentrated in one place or spread across rooftops and smaller sites?",
+      "title": "Most English riverbanks remain out of reach",
+      "summary": "New analysis from the Right to Roam campaign says 71% of riverbanks across 89 English catchments lack nearby public access. Campaigners want broader responsible access as hot weather increases interest in walking, paddling and swimming.",
+      "discussionPrompt": "Should rivers and their banks be treated more like public spaces, or should access depend on who owns the land? What would responsible access look like?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "NASA Earth Observatory"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/"
+        "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public"
       ]
     },
     {
-      "title": "Jürgen Klopp takes charge of Germany",
-      "summary": "Germany appointed former Liverpool and Borussia Dortmund manager Jürgen Klopp as national team coach through the 2030 World Cup. He succeeds Julian Nagelsmann after Germany’s early exit from the 2026 tournament.",
-      "discussionPrompt": "Club coaches shape a team every day, while national coaches get limited time together. What matters more in that job: tactics, motivation, picking personalities, or handling pressure?",
+      "title": "Community forestry creates green islands in Guatemala",
+      "summary": "Community-run forestry concessions in Guatemala’s Maya biosphere reserve have maintained near-zero deforestation while supporting local jobs. Strict harvesting rotations, tree mapping and nurseries let residents earn from the forest while helping it recover.",
+      "discussionPrompt": "Can carefully managed logging actually help protect a forest better than banning all use? What local rules would make you trust a conservation project?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "German Football Association",
-        "Reuters"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.dfb.de/news/juergen-klopp-appointed-new-germany-head-coach",
-        "https://www.reutersconnect.com/item/uncaptioned-germany-appoint-jurgen-klopp-to-lead-national-team-until-2030-world-cup/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0MjYzNy1WSURFTw"
+        "https://www.theguardian.com/environment/2026/jul/23/guatemala-small-communities-restorative-forestation-aoe"
       ]
     },
     {
-      "title": "Merck widens access plans for a monthly HIV pill",
-      "summary": "Merck signed agreements allowing seven manufacturers to prepare lower-cost generic versions of an experimental once-monthly HIV prevention pill for 129 lower-income countries. The medicine is still being tested, but early licensing could speed access if approved.",
-      "discussionPrompt": "When a promising medicine is still in trials, should companies prepare affordable distribution early, or wait until every approval is settled? What risks come with either approach?",
+      "title": "Netflix looks beyond the binge-watch era",
+      "summary": "Netflix is adapting as audience growth slows and viewers divide their time among streaming rivals, YouTube and social platforms. Its next phase may depend on live programming, advertising and giving individual shows more room to become shared events.",
+      "discussionPrompt": "Do you prefer getting a whole season at once or waiting for weekly episodes? Which approach makes a show more fun to talk about with other people?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "STAT"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.statnews.com/pharmalot/2026/07/24/merck-experimental-hiv-prevention-pill-licensing-deals/"
+        "https://www.theguardian.com/media/2026/jul/24/netflix-evolve-binge-watch-era-end"
       ]
     }
   ]
