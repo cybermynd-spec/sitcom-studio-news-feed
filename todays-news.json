@@ -1,52 +1,52 @@
 {
-  "updatedUtc": "2026-07-25T16:24:38Z",
+  "updatedUtc": "2026-07-26T15:41:03Z",
   "topics": [
     {
-      "title": "Qantas tests an ultra-long-range Airbus",
-      "summary": "A Qantas Airbus A350-1000ULR completed a nonstop 17,000-kilometre test flight from Toulouse to Melbourne in just over 19 hours. The aircraft is being prepared for future direct routes between Sydney and London.",
-      "discussionPrompt": "Would skipping a connection make a 20-hour flight sound appealing, or would you rather break the trip up? What would make that much time onboard comfortable?",
+      "title": "New Jersey bans surveillance pricing",
+      "summary": "New Jersey has banned retailers from using shoppers’ personal data to charge different prices for identical essential goods. The law also pauses new electronic shelf labels for a year while officials study their effects.",
+      "discussionPrompt": "If two people buy the same thing, should they always see the same price? Where would you draw the line between a useful personalized discount and unfair data-driven pricing?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/jul/24/qantas-project-sunrise-airbus-a350-1000ulr-ultra-long-range-france-melbourne-test-flight"
+        "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban"
       ]
     },
     {
-      "title": "Most English riverbanks remain out of reach",
-      "summary": "New analysis from the Right to Roam campaign says 71% of riverbanks across 89 English catchments lack nearby public access. Campaigners want broader responsible access as hot weather increases interest in walking, paddling and swimming.",
-      "discussionPrompt": "Should rivers and their banks be treated more like public spaces, or should access depend on who owns the land? What would responsible access look like?",
+      "title": "Eating earlier may support sharper thinking",
+      "summary": "A small preliminary study found that older women who ate within a nine-hour window and stopped four hours before bed performed better on some problem-solving tests. Researchers say larger, peer-reviewed studies are still needed.",
+      "discussionPrompt": "Would you try changing when you eat if it might help your brain, or is a late-night snack too important? What makes a health habit feel realistic enough to keep?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/jul/25/almost-75-percent-england-riverbanks-off-limits-to-public"
+        "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find"
       ]
     },
     {
-      "title": "Community forestry creates green islands in Guatemala",
-      "summary": "Community-run forestry concessions in Guatemala’s Maya biosphere reserve have maintained near-zero deforestation while supporting local jobs. Strict harvesting rotations, tree mapping and nurseries let residents earn from the forest while helping it recover.",
-      "discussionPrompt": "Can carefully managed logging actually help protect a forest better than banning all use? What local rules would make you trust a conservation project?",
+      "title": "King Kazu scores at age 59",
+      "summary": "Japanese football legend Kazuyoshi Miura scored his first competitive goal in nearly four years as Fukushima United advanced in the Emperor’s Cup. The 59-year-old is preparing for his 42nd professional season.",
+      "discussionPrompt": "Is staying in the game for decades more impressive than going out at your peak? What hobby or job could you imagine happily doing into your sixties?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Reuters via The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/jul/23/guatemala-small-communities-restorative-forestation-aoe"
+        "https://www.theguardian.com/football/2026/jul/26/japan-football-great-king-kazuyoshi-miura-59-scores-first-competitive-goal-for-four-years"
       ]
     },
     {
-      "title": "Netflix looks beyond the binge-watch era",
-      "summary": "Netflix is adapting as audience growth slows and viewers divide their time among streaming rivals, YouTube and social platforms. Its next phase may depend on live programming, advertising and giving individual shows more room to become shared events.",
-      "discussionPrompt": "Do you prefer getting a whole season at once or waiting for weekly episodes? Which approach makes a show more fun to talk about with other people?",
+      "title": "Pirelli calendar puts India in the frame",
+      "summary": "The 2027 Pirelli calendar will feature an all-Indian cast and was shot entirely in India for the first time. Locations and creative ideas draw on the country’s landscapes, traditions and contemporary fashion scene.",
+      "discussionPrompt": "When a global brand spotlights one country, what makes it feel like a real celebration instead of just a stylish backdrop? Which local place would you choose for a photo shoot?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/media/2026/jul/24/netflix-evolve-binge-watch-era-end"
+        "https://www.theguardian.com/world/2026/jul/26/pirelli-2027-calendar-features-all-indian-cast"
       ]
     }
   ]
