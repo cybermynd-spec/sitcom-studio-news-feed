@@ -1,52 +1,58 @@
 {
-  "updatedUtc": "2026-07-26T15:41:03Z",
+  "updatedUtc": "2026-07-27T15:32:18Z",
   "topics": [
     {
-      "title": "New Jersey bans surveillance pricing",
-      "summary": "New Jersey has banned retailers from using shoppers’ personal data to charge different prices for identical essential goods. The law also pauses new electronic shelf labels for a year while officials study their effects.",
-      "discussionPrompt": "If two people buy the same thing, should they always see the same price? Where would you draw the line between a useful personalized discount and unfair data-driven pricing?",
+      "title": "US-Iran pause opens room for talks",
+      "summary": "Mediators say there is progress toward easing U.S.-Iran tensions after both sides paused attacks. Talks are focused on preventing a wider conflict and restoring safer movement through the Strait of Hormuz.",
+      "discussionPrompt": "When a tense situation suddenly gets a pause button, what would you do first: talk, take a breather, or make a backup plan?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press",
+        "Reuters via Investing.com"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban"
+        "https://apnews.com/article/d57e675a7be6dbdd34561909ced240d0",
+        "https://www.investing.com/news/world-news/trumpis-giving-iran-talks-a-little-bit-of-room-us-ambassador-to-un-says-4812892"
       ]
     },
     {
-      "title": "Eating earlier may support sharper thinking",
-      "summary": "A small preliminary study found that older women who ate within a nine-hour window and stopped four hours before bed performed better on some problem-solving tests. Researchers say larger, peer-reviewed studies are still needed.",
-      "discussionPrompt": "Would you try changing when you eat if it might help your brain, or is a late-night snack too important? What makes a health habit feel realistic enough to keep?",
+      "title": "Oil prices cool after tensions ease",
+      "summary": "Oil prices fell as markets reacted to the pause in U.S.-Iran hostilities. Investors are also watching a busy week of central bank decisions, inflation data and major company earnings.",
+      "discussionPrompt": "Is it weird how one diplomatic pause can ripple into gas prices, stocks and dinner-table budgets? What everyday price do you notice first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press",
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/2b81f0e01bb318ae8d4281964f89f2f1",
+        "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100"
+      ]
+    },
+    {
+      "title": "UNESCO adds Olympus and D-Day beaches",
+      "summary": "UNESCO added Greece's Mount Olympus and France's D-Day landing beaches to its World Heritage List. The designations recognize cultural, natural and historical importance while raising preservation responsibilities.",
+      "discussionPrompt": "If a place becomes a world heritage site, does that make it feel more like a museum, a shared treasure, or both?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press",
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/1d3fabaa482d9384b1cb0b5c917ce5d5",
+        "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site"
+      ]
+    },
+    {
+      "title": "Study looks at earlier eating windows",
+      "summary": "A preliminary study suggests older women who ate within a shorter daytime window performed better on some thinking tests. Researchers say larger peer-reviewed studies are needed before drawing firm conclusions.",
+      "discussionPrompt": "Would you shift dinner earlier for a possible brain boost, or is the late snack part of your personality at this point?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
         "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find"
-      ]
-    },
-    {
-      "title": "King Kazu scores at age 59",
-      "summary": "Japanese football legend Kazuyoshi Miura scored his first competitive goal in nearly four years as Fukushima United advanced in the Emperor’s Cup. The 59-year-old is preparing for his 42nd professional season.",
-      "discussionPrompt": "Is staying in the game for decades more impressive than going out at your peak? What hobby or job could you imagine happily doing into your sixties?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters via The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/football/2026/jul/26/japan-football-great-king-kazuyoshi-miura-59-scores-first-competitive-goal-for-four-years"
-      ]
-    },
-    {
-      "title": "Pirelli calendar puts India in the frame",
-      "summary": "The 2027 Pirelli calendar will feature an all-Indian cast and was shot entirely in India for the first time. Locations and creative ideas draw on the country’s landscapes, traditions and contemporary fashion scene.",
-      "discussionPrompt": "When a global brand spotlights one country, what makes it feel like a real celebration instead of just a stylish backdrop? Which local place would you choose for a photo shoot?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/jul/26/pirelli-2027-calendar-features-all-indian-cast"
       ]
     }
   ]
