@@ -1,58 +1,74 @@
 {
-  "updatedUtc": "2026-07-27T15:32:18Z",
+  "updatedUtc": "2026-07-29T15:45:20Z",
   "topics": [
     {
-      "title": "US-Iran pause opens room for talks",
-      "summary": "Mediators say there is progress toward easing U.S.-Iran tensions after both sides paused attacks. Talks are focused on preventing a wider conflict and restoring safer movement through the Strait of Hormuz.",
-      "discussionPrompt": "When a tense situation suddenly gets a pause button, what would you do first: talk, take a breather, or make a backup plan?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "Reuters via Investing.com"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/d57e675a7be6dbdd34561909ced240d0",
-        "https://www.investing.com/news/world-news/trumpis-giving-iran-talks-a-little-bit-of-room-us-ambassador-to-un-says-4812892"
-      ]
-    },
-    {
-      "title": "Oil prices cool after tensions ease",
-      "summary": "Oil prices fell as markets reacted to the pause in U.S.-Iran hostilities. Investors are also watching a busy week of central bank decisions, inflation data and major company earnings.",
-      "discussionPrompt": "Is it weird how one diplomatic pause can ripple into gas prices, stocks and dinner-table budgets? What everyday price do you notice first?",
+      "title": "Central U.S. heat keeps stretching the map",
+      "summary": "A stubborn heat dome is keeping dangerous temperatures across much of the central and southern U.S., with forecasters warning that humidity and warm nights can make the heat harder to shake.",
+      "discussionPrompt": "When the weather refuses to cool off, what is your go-to survival move: shade, snacks, air conditioning, or pretending errands can wait forever?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press",
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/2b81f0e01bb318ae8d4281964f89f2f1",
-        "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100"
+        "https://apnews.com/article/6f185210909edf9dc190e8d5673a9cfc",
+        "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave"
       ]
     },
     {
-      "title": "UNESCO adds Olympus and D-Day beaches",
-      "summary": "UNESCO added Greece's Mount Olympus and France's D-Day landing beaches to its World Heritage List. The designations recognize cultural, natural and historical importance while raising preservation responsibilities.",
-      "discussionPrompt": "If a place becomes a world heritage site, does that make it feel more like a museum, a shared treasure, or both?",
+      "title": "Chip stocks wobble as AI gets cheaper",
+      "summary": "Markets are watching chipmakers after sharp swings tied to questions about AI spending, Chinese competition and whether the recent boom can keep justifying its price tag.",
+      "discussionPrompt": "If a hot trend suddenly gets cheaper and more crowded, is that exciting, suspicious, or just how tech always seems to go?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press via Local 10",
+        "Reuters via MarketScreener"
+      ],
+      "sourceUrls": [
+        "https://www.local10.com/business/2026/07/28/wall-street-mixed-early-as-chip-sell-off-continues/",
+        "https://ca.marketscreener.com/news/world-stocks-hit-one-month-low-as-chip-rout-worsens-ce7f51ddda80ff24"
+      ]
+    },
+    {
+      "title": "Chinese AI models gain U.S. users",
+      "summary": "Some U.S. developers and companies are trying Chinese open-weight AI models because they are cheaper and increasingly capable, adding fresh pressure to American labs and policy makers.",
+      "discussionPrompt": "Would you pick a tool because it is the best, the cheapest, the most transparent, or the one your boss already understands?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press via ABC News",
+        "The Verge"
+      ],
+      "sourceUrls": [
+        "https://www-cdn.abcnews.com/Technology/wireStory/cheaper-open-intelligent-chinese-ai-models-gain-ground-135094600",
+        "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+      ]
+    },
+    {
+      "title": "Starship test carries advanced Starlinks",
+      "summary": "SpaceX launched another Starship test flight carrying 20 advanced Starlink satellites, giving NASA and SpaceX more data for future moon-lander work even though booster recovery remains unfinished.",
+      "discussionPrompt": "Is a rocket test still a win if one part works beautifully and another part splashes down with unfinished business?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press",
-        "The Guardian"
+        "ABC News"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/1d3fabaa482d9384b1cb0b5c917ce5d5",
-        "https://www.theguardian.com/world/2026/jul/26/greece-mount-olympus-unesco-world-heritage-site"
+        "https://apnews.com/article/2d1f10bd676c296bc7db5e0c56cb9a4e",
+        "https://www-cdn.abcnews.com/Technology/wireStory/spacex-launches-starship-test-flight-time-advanced-starlinks-135069134"
       ]
     },
     {
-      "title": "Study looks at earlier eating windows",
-      "summary": "A preliminary study suggests older women who ate within a shorter daytime window performed better on some thinking tests. Researchers say larger peer-reviewed studies are needed before drawing firm conclusions.",
-      "discussionPrompt": "Would you shift dinner earlier for a possible brain boost, or is the late snack part of your personality at this point?",
+      "title": "Late-July meteor showers peak this week",
+      "summary": "The Southern Delta Aquariids and Alpha Capricornids are peaking in the final days of July, while the Perseids continue building toward their August high point.",
+      "discussionPrompt": "If everyone had to go outside and look up for ten quiet minutes tonight, would the world get calmer or just more mosquito-bitten?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "ABC News",
+        "American Meteor Society"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/2026/jul/26/restricted-eating-hours-may-reduce-cognitive-decline-in-older-age-researchers-find"
+        "https://abcnews.com/US/southern-delta-aquariids-alpha-capricornids-meteor-showers-peak/story?id=135117533",
+        "https://amsmeteors.org/meteor-showers/meteor-shower-calendar/"
       ]
     }
   ]
