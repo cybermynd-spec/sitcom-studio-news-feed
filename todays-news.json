@@ -1,10 +1,24 @@
 {
-  "updatedUtc": "2026-07-29T15:45:20Z",
+  "updatedUtc": "2026-07-30T17:46:27Z",
   "topics": [
     {
-      "title": "Central U.S. heat keeps stretching the map",
-      "summary": "A stubborn heat dome is keeping dangerous temperatures across much of the central and southern U.S., with forecasters warning that humidity and warm nights can make the heat harder to shake.",
-      "discussionPrompt": "When the weather refuses to cool off, what is your go-to survival move: shade, snacks, air conditioning, or pretending errands can wait forever?",
+      "title": "AI data centers put power bills in focus",
+      "summary": "U.S. officials expanded a voluntary pledge meant to keep AI data center growth from raising household electricity bills, while some lawmakers are looking at stronger grid-cost rules.",
+      "discussionPrompt": "If a giant tech project needs a ton of electricity, who should pay for the upgrades: the company, customers, or everyone a little bit?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press via WRAL",
+        "U.S. Environmental Protection Agency"
+      ],
+      "sourceUrls": [
+        "https://www.wral.com/news/ap/490ea-trump-expands-a-voluntary-pledge-to-protect-consumers-from-high-utility-bills-from-ai-data-centers/",
+        "https://www.epa.gov/newsreleases/president-trump-expands-historic-ratepayer-protection-pledge-protect-american"
+      ]
+    },
+    {
+      "title": "Central U.S. heat keeps hanging on",
+      "summary": "Forecasters say a broad heat dome is keeping dangerous temperatures across much of the central and southern U.S., with humidity and warm nights making the stretch harder on people.",
+      "discussionPrompt": "When summer heat gets stubborn, what is your best low-effort cooling strategy: shade, cold drinks, errands later, or fully surrendering to air conditioning?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press",
@@ -16,59 +30,45 @@
       ]
     },
     {
-      "title": "Chip stocks wobble as AI gets cheaper",
-      "summary": "Markets are watching chipmakers after sharp swings tied to questions about AI spending, Chinese competition and whether the recent boom can keep justifying its price tag.",
-      "discussionPrompt": "If a hot trend suddenly gets cheaper and more crowded, is that exciting, suspicious, or just how tech always seems to go?",
+      "title": "Canada debates stronger wildfire response",
+      "summary": "Canada's active wildfire season has renewed calls for a national emergency agency, while federal officials continue tracking regional fire danger and support needs across provinces and territories.",
+      "discussionPrompt": "Would a big national wildfire team make you feel more prepared, or do local crews still know the land best?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press via Local 10",
-        "Reuters via MarketScreener"
+        "The Guardian",
+        "Government of Canada"
       ],
       "sourceUrls": [
-        "https://www.local10.com/business/2026/07/28/wall-street-mixed-early-as-chip-sell-off-continues/",
-        "https://ca.marketscreener.com/news/world-stocks-hit-one-month-low-as-chip-rout-worsens-ce7f51ddda80ff24"
+        "https://www.theguardian.com/world/2026/jul/29/canada-wildfire-emergency-agency",
+        "https://www.canada.ca/en/public-safety-canada/news/2026/07/the-government-of-canada-provides-an-update-regarding-the-2026-wildfire-season--july-update.html"
       ]
     },
     {
-      "title": "Chinese AI models gain U.S. users",
-      "summary": "Some U.S. developers and companies are trying Chinese open-weight AI models because they are cheaper and increasingly capable, adding fresh pressure to American labs and policy makers.",
-      "discussionPrompt": "Would you pick a tool because it is the best, the cheapest, the most transparent, or the one your boss already understands?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press via ABC News",
-        "The Verge"
-      ],
-      "sourceUrls": [
-        "https://www-cdn.abcnews.com/Technology/wireStory/cheaper-open-intelligent-chinese-ai-models-gain-ground-135094600",
-        "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
-      ]
-    },
-    {
-      "title": "Starship test carries advanced Starlinks",
-      "summary": "SpaceX launched another Starship test flight carrying 20 advanced Starlink satellites, giving NASA and SpaceX more data for future moon-lander work even though booster recovery remains unfinished.",
-      "discussionPrompt": "Is a rocket test still a win if one part works beautifully and another part splashes down with unfinished business?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "ABC News"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/2d1f10bd676c296bc7db5e0c56cb9a4e",
-        "https://www-cdn.abcnews.com/Technology/wireStory/spacex-launches-starship-test-flight-time-advanced-starlinks-135069134"
-      ]
-    },
-    {
-      "title": "Late-July meteor showers peak this week",
-      "summary": "The Southern Delta Aquariids and Alpha Capricornids are peaking in the final days of July, while the Perseids continue building toward their August high point.",
-      "discussionPrompt": "If everyone had to go outside and look up for ten quiet minutes tonight, would the world get calmer or just more mosquito-bitten?",
+      "title": "Two meteor showers peak tonight",
+      "summary": "The Southern Delta Aquariids and Alpha Capricornids are peaking around July 30, offering late-night skywatchers a chance at fast streaks and occasional bright fireballs despite moonlight.",
+      "discussionPrompt": "If you had ten quiet minutes under the night sky, would you hunt for meteors or immediately start ranking constellations by personality?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "ABC News",
-        "American Meteor Society"
+        "National Geographic"
       ],
       "sourceUrls": [
         "https://abcnews.com/US/southern-delta-aquariids-alpha-capricornids-meteor-showers-peak/story?id=135117533",
-        "https://amsmeteors.org/meteor-showers/meteor-shower-calendar/"
+        "https://www.nationalgeographic.com/science/article/2026-double-meteor-shower"
+      ]
+    },
+    {
+      "title": "Japan assesses Kyushu quake damage",
+      "summary": "After a magnitude 7.1 quake hit southern Japan, officials reported damaged roads, disrupted trains and safety checks, while residents were urged to stay alert for the next few days.",
+      "discussionPrompt": "When a city is checking bridges, trains and power after a quake, what would you want updated first: maps, transit, phones, or snack supplies?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "NPR",
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://www.nprillinois.org/2026-07-28/a-7-1-quake-hits-japans-kyushu-trapping-people-in-a-collapsed-shopping-center",
+        "https://www.nprillinois.org/2026-07-28/a-7-1-quake-hits-japans-kyushu-trapping-people-in-a-collapsed-shopping-center"
       ]
     }
   ]
