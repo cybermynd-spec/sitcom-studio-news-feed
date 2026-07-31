@@ -1,74 +1,74 @@
 {
-  "updatedUtc": "2026-07-30T17:46:27Z",
+  "updatedUtc": "2026-07-31T18:14:04Z",
   "topics": [
     {
-      "title": "AI data centers put power bills in focus",
-      "summary": "U.S. officials expanded a voluntary pledge meant to keep AI data center growth from raising household electricity bills, while some lawmakers are looking at stronger grid-cost rules.",
-      "discussionPrompt": "If a giant tech project needs a ton of electricity, who should pay for the upgrades: the company, customers, or everyone a little bit?",
+      "title": "Gaza deal raises cautious hopes",
+      "summary": "A U.S.-backed Gaza plan now includes Hamas agreeing to phased disarmament, but key details, timelines and Israel's response remain uncertain as mediators keep working.",
+      "discussionPrompt": "When a peace plan sounds promising but unfinished, do you celebrate the step forward or wait until everyone actually follows through?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press via WRAL",
-        "U.S. Environmental Protection Agency"
+        "Associated Press",
+        "Financial Times"
       ],
       "sourceUrls": [
-        "https://www.wral.com/news/ap/490ea-trump-expands-a-voluntary-pledge-to-protect-consumers-from-high-utility-bills-from-ai-data-centers/",
-        "https://www.epa.gov/newsreleases/president-trump-expands-historic-ratepayer-protection-pledge-protect-american"
+        "https://apnews.com/article/7f412f84185deb8f8e409413aaed3e50",
+        "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8"
       ]
     },
     {
-      "title": "Central U.S. heat keeps hanging on",
-      "summary": "Forecasters say a broad heat dome is keeping dangerous temperatures across much of the central and southern U.S., with humidity and warm nights making the stretch harder on people.",
-      "discussionPrompt": "When summer heat gets stubborn, what is your best low-effort cooling strategy: shade, cold drinks, errands later, or fully surrendering to air conditioning?",
+      "title": "Europe studies its wildfire risk",
+      "summary": "New analyses say climate change sharply increased the fire-weather risk behind major wildfires in Spain and France, where crews are still watching hot spots and dry forests.",
+      "discussionPrompt": "If a town keeps getting hotter and drier, what would you change first: forest design, building rules, alert systems, or vacation habits?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press",
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/6f185210909edf9dc190e8d5673a9cfc",
-        "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave"
+        "https://apnews.com/article/8077d4611308af593805a3d54321ea59",
+        "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis"
       ]
     },
     {
-      "title": "Canada debates stronger wildfire response",
-      "summary": "Canada's active wildfire season has renewed calls for a national emergency agency, while federal officials continue tracking regional fire danger and support needs across provinces and territories.",
-      "discussionPrompt": "Would a big national wildfire team make you feel more prepared, or do local crews still know the land best?",
+      "title": "FIFA faces World Cup sell-off backlash",
+      "summary": "FIFA President Gianni Infantino is under pressure over a proposal to let private investors buy into World Cup commercial rights, drawing opposition from soccer officials and fans.",
+      "discussionPrompt": "Would you rather see a sport get a huge cash boost, or keep its biggest tournament far away from private investors?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "Government of Canada"
+        "Associated Press",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/jul/29/canada-wildfire-emergency-agency",
-        "https://www.canada.ca/en/public-safety-canada/news/2026/07/the-government-of-canada-provides-an-update-regarding-the-2026-wildfire-season--july-update.html"
+        "https://apnews.com/article/10160e494eebf37301201b9175ec836d",
+        "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan"
       ]
     },
     {
-      "title": "Two meteor showers peak tonight",
-      "summary": "The Southern Delta Aquariids and Alpha Capricornids are peaking around July 30, offering late-night skywatchers a chance at fast streaks and occasional bright fireballs despite moonlight.",
-      "discussionPrompt": "If you had ten quiet minutes under the night sky, would you hunt for meteors or immediately start ranking constellations by personality?",
+      "title": "AI security tests spark new questions",
+      "summary": "Anthropic says its models broke into three organizations during cybersecurity testing, adding to debate over how much independence advanced AI agents should have.",
+      "discussionPrompt": "If an AI is good enough to find security holes, how much leash should it get before a human has to step in?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "ABC News",
-        "National Geographic"
+        "Associated Press",
+        "The Verge"
       ],
       "sourceUrls": [
-        "https://abcnews.com/US/southern-delta-aquariids-alpha-capricornids-meteor-showers-peak/story?id=135117533",
-        "https://www.nationalgeographic.com/science/article/2026-double-meteor-shower"
+        "https://apnews.com/article/b0a2c284b981de79c55e2a33712f4bec",
+        "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning"
       ]
     },
     {
-      "title": "Japan assesses Kyushu quake damage",
-      "summary": "After a magnitude 7.1 quake hit southern Japan, officials reported damaged roads, disrupted trains and safety checks, while residents were urged to stay alert for the next few days.",
-      "discussionPrompt": "When a city is checking bridges, trains and power after a quake, what would you want updated first: maps, transit, phones, or snack supplies?",
+      "title": "Meteor showers overlap tonight",
+      "summary": "The Southern Delta Aquariids and Alpha Capricornids overlap around July 30 and 31, giving patient skywatchers a chance at bright fireballs despite moonlight washing out fainter meteors.",
+      "discussionPrompt": "If you saw one good shooting star, would you make a wish, pretend to be scientific about it, or immediately wake someone up?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "NPR",
-        "Associated Press"
+        "National Geographic",
+        "American Meteor Society"
       ],
       "sourceUrls": [
-        "https://www.nprillinois.org/2026-07-28/a-7-1-quake-hits-japans-kyushu-trapping-people-in-a-collapsed-shopping-center",
-        "https://www.nprillinois.org/2026-07-28/a-7-1-quake-hits-japans-kyushu-trapping-people-in-a-collapsed-shopping-center"
+        "https://www.nationalgeographic.com/science/article/2026-double-meteor-shower",
+        "https://www.amsmeteors.org/2026/07/meteor-activity-outlook-for-july-25-31-2026/"
       ]
     }
   ]
