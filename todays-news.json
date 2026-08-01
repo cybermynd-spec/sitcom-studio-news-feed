@@ -1,75 +1,37 @@
 {
-  "updatedUtc": "2026-07-31T18:14:04Z",
+  "updatedUtc": "2026-08-01T19:00:22Z",
   "topics": [
     {
-      "title": "Gaza deal raises cautious hopes",
-      "summary": "A U.S.-backed Gaza plan now includes Hamas agreeing to phased disarmament, but key details, timelines and Israel's response remain uncertain as mediators keep working.",
-      "discussionPrompt": "When a peace plan sounds promising but unfinished, do you celebrate the step forward or wait until everyone actually follows through?",
+      "title": "Ceuta crossing draws EU attention",
+      "summary": "Spain is asking Europe for help after a large crossing into Ceuta from Morocco sparked a tense border response and renewed debate over migration policy.",
+      "discussionPrompt": "When a border town gets overwhelmed fast, what should come first: practical aid, clearer rules, or calmer public messaging?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "Financial Times"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/7f412f84185deb8f8e409413aaed3e50",
-        "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8"
-      ]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/", "https://www.theguardian.com/international"]
     },
     {
-      "title": "Europe studies its wildfire risk",
-      "summary": "New analyses say climate change sharply increased the fire-weather risk behind major wildfires in Spain and France, where crews are still watching hot spots and dry forests.",
-      "discussionPrompt": "If a town keeps getting hotter and drier, what would you change first: forest design, building rules, alert systems, or vacation habits?",
+      "title": "FIFA plan faces soccer pushback",
+      "summary": "UEFA says it has lost confidence in FIFA President Gianni Infantino after his failed plan to bring private investors into World Cup commercial rights.",
+      "discussionPrompt": "Would you rather your favorite sport chase a huge payday, or keep its biggest event run the old-fashioned way?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/8077d4611308af593805a3d54321ea59",
-        "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis"
-      ]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9", "https://www.theguardian.com/international"]
     },
     {
-      "title": "FIFA faces World Cup sell-off backlash",
-      "summary": "FIFA President Gianni Infantino is under pressure over a proposal to let private investors buy into World Cup commercial rights, drawing opposition from soccer officials and fans.",
-      "discussionPrompt": "Would you rather see a sport get a huge cash boost, or keep its biggest tournament far away from private investors?",
+      "title": "August eclipse gets skywatchers planning",
+      "summary": "A total solar eclipse later this month will cross parts of Spain, Iceland and Greenland, with astronomy fans already planning trips and safety-viewing setups.",
+      "discussionPrompt": "Would you travel for a few minutes of total darkness, or is that the kind of thing you enjoy from someone else's photos?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/10160e494eebf37301201b9175ec836d",
-        "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/total-solar-eclipse-sun-moon-0757e313d90c684f87163318ada5cf03"]
     },
     {
-      "title": "AI security tests spark new questions",
-      "summary": "Anthropic says its models broke into three organizations during cybersecurity testing, adding to debate over how much independence advanced AI agents should have.",
-      "discussionPrompt": "If an AI is good enough to find security holes, how much leash should it get before a human has to step in?",
+      "title": "WHO challenges ultra-processed food lawsuits",
+      "summary": "The WHO says some ultra-processed food companies are using lawsuits to slow public health rules, including efforts aimed at obesity and clearer consumer information.",
+      "discussionPrompt": "If a snack label got brutally honest, would that change what you buy, or would taste still win the argument?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "The Verge"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/b0a2c284b981de79c55e2a33712f4bec",
-        "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning"
-      ]
-    },
-    {
-      "title": "Meteor showers overlap tonight",
-      "summary": "The Southern Delta Aquariids and Alpha Capricornids overlap around July 30 and 31, giving patient skywatchers a chance at bright fireballs despite moonlight washing out fainter meteors.",
-      "discussionPrompt": "If you saw one good shooting star, would you make a wish, pretend to be scientific about it, or immediately wake someone up?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "National Geographic",
-        "American Meteor Society"
-      ],
-      "sourceUrls": [
-        "https://www.nationalgeographic.com/science/article/2026-double-meteor-shower",
-        "https://www.amsmeteors.org/2026/07/meteor-activity-outlook-for-july-25-31-2026/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/international"]
     }
   ]
 }
