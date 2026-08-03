@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-01T19:00:22Z",
+  "updatedUtc": "2026-08-03T16:17:00Z",
   "topics": [
     {
-      "title": "Ceuta crossing draws EU attention",
-      "summary": "Spain is asking Europe for help after a large crossing into Ceuta from Morocco sparked a tense border response and renewed debate over migration policy.",
-      "discussionPrompt": "When a border town gets overwhelmed fast, what should come first: practical aid, clearer rules, or calmer public messaging?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/", "https://www.theguardian.com/international"]
-    },
-    {
-      "title": "FIFA plan faces soccer pushback",
-      "summary": "UEFA says it has lost confidence in FIFA President Gianni Infantino after his failed plan to bring private investors into World Cup commercial rights.",
-      "discussionPrompt": "Would you rather your favorite sport chase a huge payday, or keep its biggest event run the old-fashioned way?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9", "https://www.theguardian.com/international"]
-    },
-    {
-      "title": "August eclipse gets skywatchers planning",
-      "summary": "A total solar eclipse later this month will cross parts of Spain, Iceland and Greenland, with astronomy fans already planning trips and safety-viewing setups.",
-      "discussionPrompt": "Would you travel for a few minutes of total darkness, or is that the kind of thing you enjoy from someone else's photos?",
+      "title": "Rocket stage heads for the moon",
+      "summary": "Astronomers are tracking a discarded SpaceX rocket stage expected to hit the moon on August 5, creating a small crater and a brief observation chance for telescopes.",
+      "discussionPrompt": "If old space hardware makes a moon crater, is that a useful science moment, a littering problem, or somehow both?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/total-solar-eclipse-sun-moon-0757e313d90c684f87163318ada5cf03"]
+      "sourceUrls": ["https://apnews.com/article/512c4dd708b4cda1160d30b764f9fdb5"]
     },
     {
-      "title": "WHO challenges ultra-processed food lawsuits",
-      "summary": "The WHO says some ultra-processed food companies are using lawsuits to slow public health rules, including efforts aimed at obesity and clearer consumer information.",
-      "discussionPrompt": "If a snack label got brutally honest, would that change what you buy, or would taste still win the argument?",
+      "title": "Ariana Grande plans a quieter stretch",
+      "summary": "Ariana Grande is stepping back from public visibility after her tour and has withdrawn from a planned London musical, while producers say the show will continue with new casting.",
+      "discussionPrompt": "When someone famous says they need less spotlight, do you think fans usually understand, or does curiosity just get louder?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/c155c3d6b912dab58d0a9780964100b2", "https://www.theguardian.com/music/2026/aug/03/ariana-grande-statement-step-back-public-life-eternal-sunshine-tour"]
+    },
+    {
+      "title": "Canada rolls out August rule changes",
+      "summary": "New Canadian rules this month affect student support, foreign-influence transparency, cosmetic labels, real-time banking payments and other everyday systems for residents and newcomers.",
+      "discussionPrompt": "Which quiet rule change would you actually notice first: faster payments, clearer labels, school funding, or something nobody reads until it matters?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Economic Times"],
+      "sourceUrls": ["https://m.economictimes.com/news/international/global-trends/canada-new-laws-and-rules-in-august-2026-major-changes-to-banking-cosmetics-and-colleges-could-affect-students-shoppers-and-newcomers/articleshow/132811731.cms"]
+    },
+    {
+      "title": "Entertainment week gets busy",
+      "summary": "The week ahead brings new films, festivals, music releases, streaming premieres and stage events, giving culture fans a crowded menu of choices across several formats.",
+      "discussionPrompt": "When a week is packed with movies, music, games and shows, do you chase the biggest release or look for the weird little surprise?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/international"]
+      "sourceUrls": ["https://www.theguardian.com/culture/2026/aug/01/entertainment-week-ahead-spider-man-brand-new-day-ariana-grande-album-ted-lasso"]
     }
   ]
 }
