@@ -1,45 +1,45 @@
 {
-  "updatedUtc": "2026-08-06T16:25:03Z",
+  "updatedUtc": "2026-08-07T18:41:57Z",
   "topics": [
     {
-      "title": "Avocado inspections pause in Michoacan",
-      "summary": "The U.S. suspended avocado inspections in Mexico's Michoacan state after a reported threat, temporarily putting a key export route on hold while local officials add security.",
-      "discussionPrompt": "If your favorite ingredient suddenly got held up at the border, what would you substitute without admitting defeat?",
+      "title": "Colombia inaugurates new president in Cali",
+      "summary": "Colombia's Abelardo de la Espriella is being sworn in under tight security in Cali, marking a rightward political shift and a tougher promised line on armed groups.",
+      "discussionPrompt": "If a new leader moved the big ceremony away from the capital to make a point, would you call that bold, theatrical, or both?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/mexico-united-states-avocado-exports-threats-c5cf0ef4a260e6a517fae615c08a1f8b"]
+      "sourceUrls": ["https://apnews.com/article/colombia-inauguration-de-la-espriella-president-cali-bogota-petro-6a062df06d20e440ba0e4f7ee7587af6"]
     },
     {
-      "title": "Wall Street drifts near records",
-      "summary": "U.S. stocks moved unevenly as corporate earnings rolled in, with the S&P 500 and Dow hovering near records while investors weighed company results and oil prices.",
-      "discussionPrompt": "When markets are calm but everyone sounds tense, do you trust the numbers or the nervous faces on TV?",
+      "title": "Romania redirects the Danube for power",
+      "summary": "Romania is sinking rock-filled barges into the low Danube to steer water toward its Cernavoda nuclear plant and keep a second reactor running longer.",
+      "discussionPrompt": "When the river gets too low for a power plant, is sinking barges clever crisis engineering or the kind of plan that deserves a second coffee first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/stocks-markets-ai-spacex-hynix-bonds-2f4f2638cb8430bb7c8e5d59a7b50731"]
+      "sourceUrls": ["https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071"]
     },
     {
-      "title": "Sun gets its sharpest close-up",
-      "summary": "Scientists using a solar telescope in Maui captured the sun's surface in record detail, revealing rippling patterns that could improve understanding of solar storms.",
-      "discussionPrompt": "If you could safely stare at the sun's surface for ten seconds, what do you think would surprise you most?",
+      "title": "U.S. job market stalls in July",
+      "summary": "U.S. employers cut 23,000 jobs in July, a sharper-than-expected slowdown that put new attention on the economy and political arguments over jobs.",
+      "discussionPrompt": "When a jobs report suddenly changes the mood, do you think people trust the headline number or what they see in their own town?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/sun-surface-solar-telescope-kelvin-heimholtz-instability-32eb28c17e8c4005dad9a5b51dd3eb2a"]
+      "sourceUrls": ["https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957"]
     },
     {
-      "title": "Electronic Arts goes private",
-      "summary": "Electronic Arts closed its $55 billion sale to Saudi Arabia's PIF, Silver Lake and Affinity Partners, ending public trading for the maker of The Sims and Battlefield.",
-      "discussionPrompt": "Would games get weirder or safer if big studios stopped worrying about quarterly public-market reactions?",
+      "title": "Kellogg to drop artificial cereal dyes",
+      "summary": "WK Kellogg says it will remove artificial colors from its cereals by the end of 2026, covering brands such as Froot Loops and Apple Jacks.",
+      "discussionPrompt": "If a bright cereal changes colors but tastes the same, would anyone at breakfast notice before reading the box?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/electronic-arts-sims-battlefield-silver-lake-e50d653ac4616d063296e2021d826a3c"]
+      "sourceUrls": ["https://apnews.com/article/wk-kellogg-artificial-colors-froot-loops-apple-jacks-505ba65360a526f73830849b925e0bd9"]
     },
     {
-      "title": "FIFA tries to steady leadership",
-      "summary": "FIFA said senior staff backed Gianni Infantino after a crisis meeting, while criticism continued over a failed plan to sell stakes in World Cup profits.",
-      "discussionPrompt": "When a sports boss says lessons were learned, what would make you believe the locker room actually agrees?",
+      "title": "FDA approves mRNA flu shot",
+      "summary": "The FDA approved Moderna's mRNA-based flu vaccine for older adults, adding a new option ahead of future flu seasons.",
+      "discussionPrompt": "Would you be more curious about a new flu shot because it uses newer tech, or would that make you ask more questions first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/infantino-fifa-meeting-world-cup-98cacb47356cb365346ae998d1d38c49"]
+      "sourceUrls": ["https://apnews.com/article/flu-vaccine-moderna-mrna-fda-mflusiva-59d991a6bf70c26e2f0c210cc8ca87f1"]
     }
   ]
 }
