@@ -1,45 +1,37 @@
 {
-  "updatedUtc": "2026-08-07T18:41:57Z",
+  "updatedUtc": "2026-08-08T16:36:35Z",
   "topics": [
     {
-      "title": "Colombia inaugurates new president in Cali",
-      "summary": "Colombia's Abelardo de la Espriella is being sworn in under tight security in Cali, marking a rightward political shift and a tougher promised line on armed groups.",
-      "discussionPrompt": "If a new leader moved the big ceremony away from the capital to make a point, would you call that bold, theatrical, or both?",
+      "title": "U.S. jobs report shows a stall",
+      "summary": "U.S. employers unexpectedly cut 23,000 jobs in July, while revised spring numbers were weaker than first reported. The report renewed debate about household finances and the economy's direction.",
+      "discussionPrompt": "When a jobs report surprises everyone, do you trust the national numbers more, or the hiring signs you see around town?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/colombia-inauguration-de-la-espriella-president-cali-bogota-petro-6a062df06d20e440ba0e4f7ee7587af6"]
+      "sourceUrls": ["https://apnews.com/article/9c2d147c14bc428458be5a1e83e54957"]
     },
     {
-      "title": "Romania redirects the Danube for power",
-      "summary": "Romania is sinking rock-filled barges into the low Danube to steer water toward its Cernavoda nuclear plant and keep a second reactor running longer.",
-      "discussionPrompt": "When the river gets too low for a power plant, is sinking barges clever crisis engineering or the kind of plan that deserves a second coffee first?",
+      "title": "Colombia swears in new president",
+      "summary": "Abelardo de la Espriella took office as Colombia's president in Cali, promising a tougher security approach and a break from the previous government's left-leaning policies.",
+      "discussionPrompt": "If a new leader holds the big ceremony outside the capital, is that practical politics, stagecraft, or a little of both?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071"]
+      "sourceNames": ["Associated Press", "Wall Street Journal"],
+      "sourceUrls": ["https://apnews.com/article/colombia-inauguration-de-la-espriella-president-cali-bogota-petro-6a062df06d20e440ba0e4f7ee7587af6", "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781"]
     },
     {
-      "title": "U.S. job market stalls in July",
-      "summary": "U.S. employers cut 23,000 jobs in July, a sharper-than-expected slowdown that put new attention on the economy and political arguments over jobs.",
-      "discussionPrompt": "When a jobs report suddenly changes the mood, do you think people trust the headline number or what they see in their own town?",
+      "title": "Kellogg speeds up cereal dye change",
+      "summary": "WK Kellogg says it will remove artificial colors from its U.S. cereals by the end of 2026, covering familiar brands like Froot Loops and Apple Jacks.",
+      "discussionPrompt": "If a bright cereal changes its colors but keeps the same taste, who at the breakfast table notices first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957"]
+      "sourceUrls": ["https://apnews.com/article/505ba65360a526f73830849b925e0bd9"]
     },
     {
-      "title": "Kellogg to drop artificial cereal dyes",
-      "summary": "WK Kellogg says it will remove artificial colors from its cereals by the end of 2026, covering brands such as Froot Loops and Apple Jacks.",
-      "discussionPrompt": "If a bright cereal changes colors but tastes the same, would anyone at breakfast notice before reading the box?",
+      "title": "mRNA flu shot gets closer look",
+      "summary": "Moderna's mRNA-based flu vaccine has drawn federal review and adviser attention, showing how vaccine technology from the COVID era may keep moving into ordinary seasonal medicine.",
+      "discussionPrompt": "Would newer vaccine tech make you more interested in a flu shot, or would it mostly make you ask extra questions first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/wk-kellogg-artificial-colors-froot-loops-apple-jacks-505ba65360a526f73830849b925e0bd9"]
-    },
-    {
-      "title": "FDA approves mRNA flu shot",
-      "summary": "The FDA approved Moderna's mRNA-based flu vaccine for older adults, adding a new option ahead of future flu seasons.",
-      "discussionPrompt": "Would you be more curious about a new flu shot because it uses newer tech, or would that make you ask more questions first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/flu-vaccine-moderna-mrna-fda-mflusiva-59d991a6bf70c26e2f0c210cc8ca87f1"]
+      "sourceNames": ["Associated Press", "Washington Post"],
+      "sourceUrls": ["https://www.newser.com/story/391342/fda-is-backing-first-of-its-kind-mrna-based-flu-vaccine.html", "https://www.washingtonpost.com/health/2026/02/10/fda-rejects-moderna-mrna-flu-vaccine/"]
     }
   ]
 }
