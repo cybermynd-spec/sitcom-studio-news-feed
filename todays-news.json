@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-08T16:36:35Z",
+  "updatedUtc": "2026-08-09T16:39:03Z",
   "topics": [
     {
-      "title": "U.S. jobs report shows a stall",
-      "summary": "U.S. employers unexpectedly cut 23,000 jobs in July, while revised spring numbers were weaker than first reported. The report renewed debate about household finances and the economy's direction.",
-      "discussionPrompt": "When a jobs report surprises everyone, do you trust the national numbers more, or the hiring signs you see around town?",
+      "title": "Perseid meteor shower nears peak",
+      "summary": "The Perseid meteor shower is building toward its midweek peak, with dark-sky viewers in the Northern Hemisphere expected to get a strong summer show if clouds cooperate.",
+      "discussionPrompt": "If everyone on the couch had to make one wish on a meteor, who would say theirs out loud and who would pretend they didn't see it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NASA"],
+      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"]
+    },
+    {
+      "title": "European athletics arrives in Birmingham",
+      "summary": "Birmingham is preparing to host the 2026 European Athletics Championships from August 10 to 16, bringing top continental track and field athletes to Alexander Stadium.",
+      "discussionPrompt": "When a big sports event comes to town, are you more excited about the athletes, the crowds, or the snacks people invent for watching?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["European Athletics", "talkSPORT"],
+      "sourceUrls": ["https://www.birmingham26.com/competitions/european-athletics-championships/overview", "https://talksport.com/sport/4490296/european-athletics-championships-2026-dates-times-full-schedule-channel/"]
+    },
+    {
+      "title": "College sports bill waits for fall",
+      "summary": "A U.S. Senate bill on college sports and athlete compensation missed a vote before recess, but it has been placed on the September calendar.",
+      "discussionPrompt": "If college sports had a salary cap conversation at the diner, who would bring a spreadsheet and who would just argue from vibes?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/9c2d147c14bc428458be5a1e83e54957"]
+      "sourceUrls": ["https://apnews.com/article/f90c11932844ed7b15ed5f05681c3406"]
     },
     {
-      "title": "Colombia swears in new president",
-      "summary": "Abelardo de la Espriella took office as Colombia's president in Cali, promising a tougher security approach and a break from the previous government's left-leaning policies.",
-      "discussionPrompt": "If a new leader holds the big ceremony outside the capital, is that practical politics, stagecraft, or a little of both?",
+      "title": "Canada benefit dates get attention",
+      "summary": "Canada's official benefits calendar lists several August payment dates, including child benefit, disability, pension, and provincial family benefit programs.",
+      "discussionPrompt": "When a payment date lands on the calendar, is it a budgeting moment, a grocery-list moment, or a tiny sigh-of-relief moment?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Wall Street Journal"],
-      "sourceUrls": ["https://apnews.com/article/colombia-inauguration-de-la-espriella-president-cali-bogota-petro-6a062df06d20e440ba0e4f7ee7587af6", "https://www.wsj.com/world/americas/trump-ally-takes-office-in-colombia-with-vow-to-fight-cocaine-armies-96c60781"]
-    },
-    {
-      "title": "Kellogg speeds up cereal dye change",
-      "summary": "WK Kellogg says it will remove artificial colors from its U.S. cereals by the end of 2026, covering familiar brands like Froot Loops and Apple Jacks.",
-      "discussionPrompt": "If a bright cereal changes its colors but keeps the same taste, who at the breakfast table notices first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/505ba65360a526f73830849b925e0bd9"]
-    },
-    {
-      "title": "mRNA flu shot gets closer look",
-      "summary": "Moderna's mRNA-based flu vaccine has drawn federal review and adviser attention, showing how vaccine technology from the COVID era may keep moving into ordinary seasonal medicine.",
-      "discussionPrompt": "Would newer vaccine tech make you more interested in a flu shot, or would it mostly make you ask extra questions first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Washington Post"],
-      "sourceUrls": ["https://www.newser.com/story/391342/fda-is-backing-first-of-its-kind-mrna-based-flu-vaccine.html", "https://www.washingtonpost.com/health/2026/02/10/fda-rejects-moderna-mrna-flu-vaccine/"]
+      "sourceNames": ["Government of Canada"],
+      "sourceUrls": ["https://www.canada.ca/en/services/benefits/calendar.html?lang=en", "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html?rhb=undefined"]
     }
   ]
 }
