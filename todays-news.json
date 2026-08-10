@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-09T16:39:03Z",
+  "updatedUtc": "2026-08-10T17:48:33Z",
   "topics": [
     {
-      "title": "Perseid meteor shower nears peak",
-      "summary": "The Perseid meteor shower is building toward its midweek peak, with dark-sky viewers in the Northern Hemisphere expected to get a strong summer show if clouds cooperate.",
-      "discussionPrompt": "If everyone on the couch had to make one wish on a meteor, who would say theirs out loud and who would pretend they didn't see it?",
+      "title": "Lake Mead shortage rules ease slightly",
+      "summary": "New federal projections keep Lake Mead under shortage rules for 2027, but Nevada and Mexico could see small cuts ease while Arizona's reduction remains steady.",
+      "discussionPrompt": "If the apartment had to save water for a week, who would become the shower timer, and who would try to negotiate loopholes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NASA"],
-      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/lake-mead-colorado-river-water-shortage-cuts-arizona-nevada-mexico"]
     },
     {
-      "title": "European athletics arrives in Birmingham",
-      "summary": "Birmingham is preparing to host the 2026 European Athletics Championships from August 10 to 16, bringing top continental track and field athletes to Alexander Stadium.",
-      "discussionPrompt": "When a big sports event comes to town, are you more excited about the athletes, the crowds, or the snacks people invent for watching?",
+      "title": "Perseid meteor shower reaches peak",
+      "summary": "The Perseid meteor shower peaks around August 11-12, with Northern Hemisphere viewers getting the best chance after midnight if skies are clear.",
+      "discussionPrompt": "If everyone went outside to watch meteors, who would bring snacks, who would bring a telescope, and who would fall asleep first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NASA", "Associated Press"],
+      "sourceUrls": ["https://science.nasa.gov/solar-system/meteors-meteorites/perseids/", "https://apnews.com/article/perseid-meteor-shower-august-2026"]
+    },
+    {
+      "title": "European athletics opens in Birmingham",
+      "summary": "The 2026 European Athletics Championships begin in Birmingham today, bringing a week of track and field events to Alexander Stadium.",
+      "discussionPrompt": "Which event would this group be weirdly overconfident about trying: relay, high jump, shot put, or just dramatic cheering?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["European Athletics", "talkSPORT"],
       "sourceUrls": ["https://www.birmingham26.com/competitions/european-athletics-championships/overview", "https://talksport.com/sport/4490296/european-athletics-championships-2026-dates-times-full-schedule-channel/"]
     },
     {
-      "title": "College sports bill waits for fall",
-      "summary": "A U.S. Senate bill on college sports and athlete compensation missed a vote before recess, but it has been placed on the September calendar.",
-      "discussionPrompt": "If college sports had a salary cap conversation at the diner, who would bring a spreadsheet and who would just argue from vibes?",
+      "title": "AI policy talks stay busy",
+      "summary": "Governments and tech companies are still debating how to balance AI growth, safety rules, copyright questions, and competition as new systems roll out.",
+      "discussionPrompt": "If a household AI started giving advice, what chore would people trust it with first, and what would they absolutely keep human?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f90c11932844ed7b15ed5f05681c3406"]
-    },
-    {
-      "title": "Canada benefit dates get attention",
-      "summary": "Canada's official benefits calendar lists several August payment dates, including child benefit, disability, pension, and provincial family benefit programs.",
-      "discussionPrompt": "When a payment date lands on the calendar, is it a budgeting moment, a grocery-list moment, or a tiny sigh-of-relief moment?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Government of Canada"],
-      "sourceUrls": ["https://www.canada.ca/en/services/benefits/calendar.html?lang=en", "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html?rhb=undefined"]
+      "sourceNames": ["Reuters", "BBC News"],
+      "sourceUrls": ["https://www.reuters.com/technology/artificial-intelligence/", "https://www.bbc.com/news/topics/ce1qrvleleqt"]
     }
   ]
 }
