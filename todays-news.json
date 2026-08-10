@@ -2,36 +2,36 @@
   "updatedUtc": "2026-08-10T17:48:33Z",
   "topics": [
     {
-      "title": "Lake Mead shortage rules ease slightly",
-      "summary": "New federal projections keep Lake Mead under shortage rules for 2027, but Nevada and Mexico could see small cuts ease while Arizona's reduction remains steady.",
+      "title": "Lake Mead hits a record low",
+      "summary": "Lake Mead has fallen to its lowest level since the reservoir was created, keeping attention on water use across the Colorado River system.",
       "discussionPrompt": "If the apartment had to save water for a week, who would become the shower timer, and who would try to negotiate loopholes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/lake-mead-colorado-river-water-shortage-cuts-arizona-nevada-mexico"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river"]
     },
     {
       "title": "Perseid meteor shower reaches peak",
-      "summary": "The Perseid meteor shower peaks around August 11-12, with Northern Hemisphere viewers getting the best chance after midnight if skies are clear.",
+      "summary": "The Perseid meteor shower peaks this week, with dark moon conditions expected to make the late-night sky show especially good for many viewers.",
       "discussionPrompt": "If everyone went outside to watch meteors, who would bring snacks, who would bring a telescope, and who would fall asleep first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["NASA", "Associated Press"],
-      "sourceUrls": ["https://science.nasa.gov/solar-system/meteors-meteorites/perseids/", "https://apnews.com/article/perseid-meteor-shower-august-2026"]
+      "sourceNames": ["Associated Press", "NASA"],
+      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"]
     },
     {
       "title": "European athletics opens in Birmingham",
-      "summary": "The 2026 European Athletics Championships begin in Birmingham today, bringing a week of track and field events to Alexander Stadium.",
+      "summary": "The 2026 European Athletics Championships opened in Birmingham, bringing a week of track and field events to Alexander Stadium.",
       "discussionPrompt": "Which event would this group be weirdly overconfident about trying: relay, high jump, shot put, or just dramatic cheering?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["European Athletics", "talkSPORT"],
-      "sourceUrls": ["https://www.birmingham26.com/competitions/european-athletics-championships/overview", "https://talksport.com/sport/4490296/european-athletics-championships-2026-dates-times-full-schedule-channel/"]
+      "sourceNames": ["The Guardian", "European Athletics"],
+      "sourceUrls": ["https://www.theguardian.com/sport/live/2026/aug/10/birmingham-2026-european-athletics-championships-day-one-live", "https://www.birmingham26.com/competitions/european-athletics-championships/overview"]
     },
     {
-      "title": "AI policy talks stay busy",
-      "summary": "Governments and tech companies are still debating how to balance AI growth, safety rules, copyright questions, and competition as new systems roll out.",
-      "discussionPrompt": "If a household AI started giving advice, what chore would people trust it with first, and what would they absolutely keep human?",
+      "title": "Western wildfires prompt evacuations",
+      "summary": "Wildfires across western Canada and the western U.S. are forcing evacuations and emergency support as hot, dry conditions keep fire crews busy.",
+      "discussionPrompt": "When a neighborhood has to prepare fast, who stays practical with a checklist, and who packs the strangest comfort item?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "BBC News"],
-      "sourceUrls": ["https://www.reuters.com/technology/artificial-intelligence/", "https://www.bbc.com/news/topics/ce1qrvleleqt"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/946f5599db59517cb88fd3f0df9f5c46", "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"]
     }
   ]
 }
