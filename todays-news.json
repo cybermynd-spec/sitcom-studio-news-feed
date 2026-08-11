@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-10T17:48:33Z",
+  "updatedUtc": "2026-08-11T18:21:28Z",
   "topics": [
     {
-      "title": "Lake Mead hits a record low",
-      "summary": "Lake Mead has fallen to its lowest level since the reservoir was created, keeping attention on water use across the Colorado River system.",
-      "discussionPrompt": "If the apartment had to save water for a week, who would become the shower timer, and who would try to negotiate loopholes?",
+      "title": "Europe braces for eclipse night",
+      "summary": "A rare total solar eclipse crosses parts of Europe Wednesday, with Spain, Iceland, Greenland and Portugal in the best viewing path and wide partial views elsewhere.",
+      "discussionPrompt": "Who would organize the eclipse glasses perfectly, and who would turn the whole thing into a rooftop snack event?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian", "NASA"],
+      "sourceUrls": ["https://www.theguardian.com/science/2026/aug/11/europe-solar-eclipse-best-place-to-see-it-how-to-view-safely", "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"]
+    },
+    {
+      "title": "British Columbia gets wildfire help",
+      "summary": "Canada has put military support on standby as British Columbia wildfires force thousands from home, while about 100 Mexican firefighters arrive to help local crews.",
+      "discussionPrompt": "If everyone had to pack a go-bag in ten minutes, who would be practical, and who would bring something completely unnecessary?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/f6b876ca4cfbb4efef623b44ace43b04"]
+    },
+    {
+      "title": "UK heat keeps pressure on summer",
+      "summary": "The UK is on course for its hottest summer on record, with heat alerts, drought concerns and wildfire risk keeping weather and water planning in focus.",
+      "discussionPrompt": "On an unbearably hot day, who becomes the fan-and-ice expert, and who insists they are totally fine while melting?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river"]
+      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news"]
     },
     {
-      "title": "Perseid meteor shower reaches peak",
-      "summary": "The Perseid meteor shower peaks this week, with dark moon conditions expected to make the late-night sky show especially good for many viewers.",
-      "discussionPrompt": "If everyone went outside to watch meteors, who would bring snacks, who would bring a telescope, and who would fall asleep first?",
+      "title": "Athletics fans question high prices",
+      "summary": "European Athletics Championships organizers in Birmingham face criticism after high ticket and food prices were blamed for empty seats at Alexander Stadium.",
+      "discussionPrompt": "What event would the group pay to watch, and what stadium snack price would make everyone start dramatically budgeting?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NASA"],
-      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"]
-    },
-    {
-      "title": "European athletics opens in Birmingham",
-      "summary": "The 2026 European Athletics Championships opened in Birmingham, bringing a week of track and field events to Alexander Stadium.",
-      "discussionPrompt": "Which event would this group be weirdly overconfident about trying: relay, high jump, shot put, or just dramatic cheering?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "European Athletics"],
-      "sourceUrls": ["https://www.theguardian.com/sport/live/2026/aug/10/birmingham-2026-european-athletics-championships-day-one-live", "https://www.birmingham26.com/competitions/european-athletics-championships/overview"]
-    },
-    {
-      "title": "Western wildfires prompt evacuations",
-      "summary": "Wildfires across western Canada and the western U.S. are forcing evacuations and emergency support as hot, dry conditions keep fire crews busy.",
-      "discussionPrompt": "When a neighborhood has to prepare fast, who stays practical with a checklist, and who packs the strangest comfort item?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/946f5599db59517cb88fd3f0df9f5c46", "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/sport/2026/aug/11/european-athletics-championships-face-backlash-over-crazy-prices-and-empty-seats"]
     }
   ]
 }
