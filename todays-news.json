@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-11T18:21:28Z",
+  "updatedUtc": "2026-08-12T16:20:57Z",
   "topics": [
     {
-      "title": "Europe braces for eclipse night",
-      "summary": "A rare total solar eclipse crosses parts of Europe Wednesday, with Spain, Iceland, Greenland and Portugal in the best viewing path and wide partial views elsewhere.",
-      "discussionPrompt": "Who would organize the eclipse glasses perfectly, and who would turn the whole thing into a rooftop snack event?",
+      "title": "Europe gathers for eclipse day",
+      "summary": "A rare total solar eclipse crosses Greenland, Iceland, Spain and a corner of Portugal today, with big crowds, safety campaigns and livestreams helping people watch without eye damage.",
+      "discussionPrompt": "Who in the room would become the official eclipse-glasses inspector, and who would mostly be there for the weird lighting and snacks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "NASA"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/aug/11/europe-solar-eclipse-best-place-to-see-it-how-to-view-safely", "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"]
+      "sourceNames": ["Associated Press", "NASA"],
+      "sourceUrls": ["https://apnews.com/article/4748323b3df8272d546683cc1dbc1d15", "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"]
     },
     {
-      "title": "British Columbia gets wildfire help",
-      "summary": "Canada has put military support on standby as British Columbia wildfires force thousands from home, while about 100 Mexican firefighters arrive to help local crews.",
-      "discussionPrompt": "If everyone had to pack a go-bag in ten minutes, who would be practical, and who would bring something completely unnecessary?",
+      "title": "Perseids peak under dark skies",
+      "summary": "The Perseid meteor shower peaks tonight into Thursday morning, with a new moon giving many Northern Hemisphere skywatchers a better chance at seeing bright meteors after dark.",
+      "discussionPrompt": "If everyone went meteor watching, who would bring a blanket and patience, and who would start naming every streak across the sky?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f6b876ca4cfbb4efef623b44ace43b04"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://www.theguardian.com/science/2026/aug/10/starwatch-deep-partial-solar-eclipse-uk-perseids"]
     },
     {
-      "title": "UK heat keeps pressure on summer",
-      "summary": "The UK is on course for its hottest summer on record, with heat alerts, drought concerns and wildfire risk keeping weather and water planning in focus.",
-      "discussionPrompt": "On an unbearably hot day, who becomes the fan-and-ice expert, and who insists they are totally fine while melting?",
+      "title": "UK weighs fire-prevention steps",
+      "summary": "During another intense heatwave, UK officials are considering limits on disposable barbecues as dry conditions, drought worries and wildfire risks keep pressure on public-safety planning.",
+      "discussionPrompt": "What tiny summer habit would each person reluctantly give up if it actually made parks and neighborhoods safer?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news"]
+      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates"]
     },
     {
-      "title": "Athletics fans question high prices",
-      "summary": "European Athletics Championships organizers in Birmingham face criticism after high ticket and food prices were blamed for empty seats at Alexander Stadium.",
-      "discussionPrompt": "What event would the group pay to watch, and what stadium snack price would make everyone start dramatically budgeting?",
+      "title": "Spain plans careful eclipse crowds",
+      "summary": "Spanish communities along the eclipse path are preparing official viewing areas, access limits and fire-safety rules as visitors pour in during hot, dry summer conditions.",
+      "discussionPrompt": "Who would love a perfectly organized viewing zone, and who would wander off looking for the quietest hill with the best view?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/aug/11/european-athletics-championships-face-backlash-over-crazy-prices-and-empty-seats"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/4748323b3df8272d546683cc1dbc1d15", "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates"]
     }
   ]
 }
