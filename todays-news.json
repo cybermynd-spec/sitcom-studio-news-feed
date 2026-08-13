@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-12T16:20:57Z",
+  "updatedUtc": "2026-08-13T16:30:04Z",
   "topics": [
     {
-      "title": "Europe gathers for eclipse day",
-      "summary": "A rare total solar eclipse crosses Greenland, Iceland, Spain and a corner of Portugal today, with big crowds, safety campaigns and livestreams helping people watch without eye damage.",
-      "discussionPrompt": "Who in the room would become the official eclipse-glasses inspector, and who would mostly be there for the weird lighting and snacks?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NASA"],
-      "sourceUrls": ["https://apnews.com/article/4748323b3df8272d546683cc1dbc1d15", "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/"]
-    },
-    {
-      "title": "Perseids peak under dark skies",
-      "summary": "The Perseid meteor shower peaks tonight into Thursday morning, with a new moon giving many Northern Hemisphere skywatchers a better chance at seeing bright meteors after dark.",
-      "discussionPrompt": "If everyone went meteor watching, who would bring a blanket and patience, and who would start naming every streak across the sky?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/b8b8679bb5baed6461e012b8c8fa4634", "https://www.theguardian.com/science/2026/aug/10/starwatch-deep-partial-solar-eclipse-uk-perseids"]
-    },
-    {
-      "title": "UK weighs fire-prevention steps",
-      "summary": "During another intense heatwave, UK officials are considering limits on disposable barbecues as dry conditions, drought worries and wildfire risks keep pressure on public-safety planning.",
-      "discussionPrompt": "What tiny summer habit would each person reluctantly give up if it actually made parks and neighborhoods safer?",
+      "title": "Europe swelters through heatwave",
+      "summary": "Parts of Europe are enduring another severe heatwave, with the UK recording 38.1C and several countries watching wildfire risk, transport strain and public-health warnings.",
+      "discussionPrompt": "Who handles a heatwave by making practical plans, and who just becomes dramatic about finding the nearest fan?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/12/heatwave-extreme-heat-cobra-uk-wildfires-drought-latest-news-updates"]
+      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates"]
     },
     {
-      "title": "Spain plans careful eclipse crowds",
-      "summary": "Spanish communities along the eclipse path are preparing official viewing areas, access limits and fire-safety rules as visitors pour in during hot, dry summer conditions.",
-      "discussionPrompt": "Who would love a perfectly organized viewing zone, and who would wander off looking for the quietest hill with the best view?",
+      "title": "Australia backs smelter transition",
+      "summary": "Australia is preparing major public support for Rio Tinto's Tomago aluminium smelter, with plans to shift the large power user toward renewable electricity by 2033.",
+      "discussionPrompt": "If a factory town has to reinvent its power source, who gets excited about the engineering and who worries about the bill?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/4748323b3df8272d546683cc1dbc1d15", "https://www.theguardian.com/world/live/2026/aug/12/europe-solar-eclipse-spain-uk-iceland-latest-news-updates"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/australia-news/2026/aug/13/afternoon-update-thursday-ntwnfb"]
+    },
+    {
+      "title": "UK closes more asylum hotels",
+      "summary": "The UK government says dozens of asylum hotels have closed this year, but questions remain about where people are moved and how communities share responsibilities fairly.",
+      "discussionPrompt": "How would the group decide what counts as fair when one neighborhood keeps getting asked to handle more than another?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/13/thursday-briefing-first-edition-asylum-hotel-closures-asylum-seekers-communities"]
+    },
+    {
+      "title": "Solar eclipse wows skywatchers",
+      "summary": "After yesterday's rare eclipse across parts of the Northern Hemisphere, skywatchers are still sharing reactions while the Perseid meteor shower gives night-sky fans another reason to look up.",
+      "discussionPrompt": "Who would insist the eclipse changed their whole personality, and who would be quietly checking when the next sky event happens?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/australia-news/2026/aug/13/morning-mail-thursday-ntwnfb"]
     }
   ]
 }
