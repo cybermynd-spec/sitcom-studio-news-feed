@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-13T16:30:04Z",
+  "updatedUtc": "2026-08-14T19:07:08Z",
   "topics": [
     {
-      "title": "Europe swelters through heatwave",
-      "summary": "Parts of Europe are enduring another severe heatwave, with the UK recording 38.1C and several countries watching wildfire risk, transport strain and public-health warnings.",
-      "discussionPrompt": "Who handles a heatwave by making practical plans, and who just becomes dramatic about finding the nearest fan?",
+      "title": "France rethinks teen social media ban",
+      "summary": "France's constitutional court blocked a proposed under-15 social media ban, saying the law needed clearer safeguards around speech, privacy and age checks.",
+      "discussionPrompt": "If the group had to set phone rules for teens, who would want a hard cutoff and who would argue for trust plus better tools?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s"]
     },
     {
-      "title": "Australia backs smelter transition",
-      "summary": "Australia is preparing major public support for Rio Tinto's Tomago aluminium smelter, with plans to shift the large power user toward renewable electricity by 2033.",
-      "discussionPrompt": "If a factory town has to reinvent its power source, who gets excited about the engineering and who worries about the bill?",
+      "title": "Hawaii prepares for Tropical Storm Lala",
+      "summary": "Hawaii officials are urging residents to prepare as Tropical Storm Lala approaches, with warnings for heavy rain, strong winds and possible flooding on the Big Island.",
+      "discussionPrompt": "Who in the room becomes the practical emergency-kit person, and who mostly copes by nervously tracking every weather map update?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/australia-news/2026/aug/13/afternoon-update-thursday-ntwnfb"]
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala"]
     },
     {
-      "title": "UK closes more asylum hotels",
-      "summary": "The UK government says dozens of asylum hotels have closed this year, but questions remain about where people are moved and how communities share responsibilities fairly.",
-      "discussionPrompt": "How would the group decide what counts as fair when one neighborhood keeps getting asked to handle more than another?",
+      "title": "Belgian sewer dig uncovers gold",
+      "summary": "A Belgian student working on sewer trenches helped uncover gold coins and bars worth millions, hidden in a wall under a former brewery owner's villa.",
+      "discussionPrompt": "If someone found treasure during a boring summer job, who would immediately call the authorities and who would start imagining a reward speech?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/13/thursday-briefing-first-edition-asylum-hotel-closures-asylum-seekers-communities"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers"]
     },
     {
-      "title": "Solar eclipse wows skywatchers",
-      "summary": "After yesterday's rare eclipse across parts of the Northern Hemisphere, skywatchers are still sharing reactions while the Perseid meteor shower gives night-sky fans another reason to look up.",
-      "discussionPrompt": "Who would insist the eclipse changed their whole personality, and who would be quietly checking when the next sky event happens?",
+      "title": "Stolen modern paintings recovered",
+      "summary": "Italian police recovered paintings attributed to Cezanne, Renoir and Matisse after a years-long investigation into works stolen from a private collection.",
+      "discussionPrompt": "Which character would treat recovered art like a grand mystery, and who would mostly wonder how anyone hides famous paintings for that long?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/australia-news/2026/aug/13/morning-mail-thursday-ntwnfb"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse"]
     }
   ]
 }
