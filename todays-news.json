@@ -1,37 +1,37 @@
 {
-  "updatedUtc": "2026-08-14T19:07:08Z",
+  "updatedUtc": "2026-08-15T19:10:32Z",
   "topics": [
     {
-      "title": "France rethinks teen social media ban",
-      "summary": "France's constitutional court blocked a proposed under-15 social media ban, saying the law needed clearer safeguards around speech, privacy and age checks.",
-      "discussionPrompt": "If the group had to set phone rules for teens, who would want a hard cutoff and who would argue for trust plus better tools?",
+      "title": "Plastic treaty talks stall",
+      "summary": "International talks on a plastics pollution treaty ended without a deal, leaving countries split over whether to limit plastic production or focus mainly on waste handling.",
+      "discussionPrompt": "If everyone had to cut plastic use for one week, who would adapt instantly and who would discover their whole routine is wrappers and takeout lids?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s"]
+      "sourceNames": ["Associated Press via The Boston Globe"],
+      "sourceUrls": ["https://www.bostonglobe.com/2025/08/15/nation/trump-presidency-live-updates/"]
     },
     {
-      "title": "Hawaii prepares for Tropical Storm Lala",
-      "summary": "Hawaii officials are urging residents to prepare as Tropical Storm Lala approaches, with warnings for heavy rain, strong winds and possible flooding on the Big Island.",
-      "discussionPrompt": "Who in the room becomes the practical emergency-kit person, and who mostly copes by nervously tracking every weather map update?",
+      "title": "Washington police dispute cools",
+      "summary": "Washington, D.C. and the Trump administration appeared close to a temporary agreement after a court fight over who controls the city police department.",
+      "discussionPrompt": "Who would be weirdly good at negotiating office rules, and who would accidentally make a small power struggle ten times more dramatic?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/aug/14/hawaii-tropical-storm-lala"]
+      "sourceNames": ["Associated Press via The Boston Globe"],
+      "sourceUrls": ["https://www.bostonglobe.com/2025/08/15/nation/trump-presidency-live-updates/"]
     },
     {
-      "title": "Belgian sewer dig uncovers gold",
-      "summary": "A Belgian student working on sewer trenches helped uncover gold coins and bars worth millions, hidden in a wall under a former brewery owner's villa.",
-      "discussionPrompt": "If someone found treasure during a boring summer job, who would immediately call the authorities and who would start imagining a reward speech?",
+      "title": "Robot import ban sparks debate",
+      "summary": "The U.S. moved to block new foreign-made humanoid robots, robot dogs and power inverters, citing cybersecurity and supply-chain concerns as China leads the market.",
+      "discussionPrompt": "Would anyone trust a robot coworker on day one, or would they all assign it harmless chores until it proved it wasn't secretly judging them?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press via KWCH", "Associated Press via San Francisco Chronicle"],
+      "sourceUrls": ["https://www.kwch.com/2026/07/29/us-bans-foreign-made-humanoid-robots-heres-why/", "https://www.sfchronicle.com/news/world/article/us-bans-foreign-made-humanoid-robots-targeting-22364788.php"]
+    },
+    {
+      "title": "Belgian sewer dig finds gold",
+      "summary": "A Belgian student working on sewer trenches helped uncover gold coins and bars worth millions hidden in a wall beneath a former brewery owner's villa.",
+      "discussionPrompt": "If someone found treasure during a boring job, who would call it in calmly and who would immediately start practicing their rich-person laugh?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
       "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers"]
-    },
-    {
-      "title": "Stolen modern paintings recovered",
-      "summary": "Italian police recovered paintings attributed to Cezanne, Renoir and Matisse after a years-long investigation into works stolen from a private collection.",
-      "discussionPrompt": "Which character would treat recovered art like a grand mystery, and who would mostly wonder how anyone hides famous paintings for that long?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/italian-police-recover-stolen-paintings-cezanne-renoir-matisse"]
     }
   ]
 }
