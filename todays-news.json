@@ -1,37 +1,45 @@
 {
-  "updatedUtc": "2026-08-15T19:10:32Z",
+  "updatedUtc": "2026-08-19T19:50:05Z",
   "topics": [
     {
-      "title": "Plastic treaty talks stall",
-      "summary": "International talks on a plastics pollution treaty ended without a deal, leaving countries split over whether to limit plastic production or focus mainly on waste handling.",
-      "discussionPrompt": "If everyone had to cut plastic use for one week, who would adapt instantly and who would discover their whole routine is wrappers and takeout lids?",
+      "title": "U.S. expands Latin America campaign",
+      "summary": "The U.S. military is seeking land-based security deals in Latin America after a year of strikes on boats it accused of carrying drugs, raising debate over regional cooperation and limits.",
+      "discussionPrompt": "If a big policy suddenly moves from boats to land, who in the room asks practical questions first and who starts drawing a very suspicious map?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via The Boston Globe"],
-      "sourceUrls": ["https://www.bostonglobe.com/2025/08/15/nation/trump-presidency-live-updates/"]
+      "sourceNames": ["Associated Press via NBC Bay Area"],
+      "sourceUrls": ["https://www.nbcbayarea.com/news/national-international/after-boat-strikes-us-military-expands-campaign-on-land-in-latin-america/4129046/"]
     },
     {
-      "title": "Washington police dispute cools",
-      "summary": "Washington, D.C. and the Trump administration appeared close to a temporary agreement after a court fight over who controls the city police department.",
-      "discussionPrompt": "Who would be weirdly good at negotiating office rules, and who would accidentally make a small power struggle ten times more dramatic?",
+      "title": "National Mall grass draws attention",
+      "summary": "President Trump blamed vandals for brown grass near the World War II Memorial, but AP reported the area was also covered by July 4 event structures and crowds.",
+      "discussionPrompt": "Who would become way too invested in solving a mystery about lawn damage, and who would just recommend signs that say 'please respect the grass'?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via The Boston Globe"],
-      "sourceUrls": ["https://www.bostonglobe.com/2025/08/15/nation/trump-presidency-live-updates/"]
+      "sourceNames": ["Associated Press via KNOP"],
+      "sourceUrls": ["https://www.knopnews2.com/2026/08/17/trump-blames-vandals-damaged-grass-spot-where-he-held-his-big-july-4-celebration/"]
     },
     {
-      "title": "Robot import ban sparks debate",
-      "summary": "The U.S. moved to block new foreign-made humanoid robots, robot dogs and power inverters, citing cybersecurity and supply-chain concerns as China leads the market.",
-      "discussionPrompt": "Would anyone trust a robot coworker on day one, or would they all assign it harmless chores until it proved it wasn't secretly judging them?",
+      "title": "Korea drills scaled back",
+      "summary": "Trump ordered the Pentagon to reduce planned U.S.-South Korea military exercises, saying they were costly and sent the wrong signal to North Korea.",
+      "discussionPrompt": "If a long-planned group exercise got scaled back at the last minute, who would be relieved, and who would still insist everyone rehearse the checklist?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via KWCH", "Associated Press via San Francisco Chronicle"],
-      "sourceUrls": ["https://www.kwch.com/2026/07/29/us-bans-foreign-made-humanoid-robots-heres-why/", "https://www.sfchronicle.com/news/world/article/us-bans-foreign-made-humanoid-robots-targeting-22364788.php"]
+      "sourceNames": ["Associated Press", "Associated Press via WAFF"],
+      "sourceUrls": ["https://apnews.com/article/ae21e0af5ea16f0a74e9a176b3cc2136", "https://www.waff.com/2026/08/17/trump-orders-pentagon-scale-back-joint-exercises-with-south-korea/"]
     },
     {
-      "title": "Belgian sewer dig finds gold",
-      "summary": "A Belgian student working on sewer trenches helped uncover gold coins and bars worth millions hidden in a wall beneath a former brewery owner's villa.",
-      "discussionPrompt": "If someone found treasure during a boring job, who would call it in calmly and who would immediately start practicing their rich-person laugh?",
+      "title": "Spider-Man opens huge",
+      "summary": "The new Spider-Man film had a massive box office debut, with The Guardian reporting it landed among the biggest opening weekends ever.",
+      "discussionPrompt": "Who would pretend they are above superhero hype, then somehow know every cameo, costume change, and popcorn bucket design?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers"]
+      "sourceUrls": ["https://www.theguardian.com/film/film%2Btone/news"]
+    },
+    {
+      "title": "Zidane takes France job",
+      "summary": "The Guardian reported that France turned to Zinedine Zidane as national team head coach, a high-profile homecoming after the World Cup cycle.",
+      "discussionPrompt": "If a legend takes over the team, who expects instant magic and who quietly worries about the group chat becoming unmanageable?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://theguardi-an.life/sport"]
     }
   ]
 }
