@@ -32,14 +32,6 @@
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
       "sourceUrls": ["https://www.theguardian.com/film/film%2Btone/news"]
-    },
-    {
-      "title": "Zidane takes France job",
-      "summary": "The Guardian reported that France turned to Zinedine Zidane as national team head coach, a high-profile homecoming after the World Cup cycle.",
-      "discussionPrompt": "If a legend takes over the team, who expects instant magic and who quietly worries about the group chat becoming unmanageable?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://theguardi-an.life/sport"]
     }
   ]
 }
