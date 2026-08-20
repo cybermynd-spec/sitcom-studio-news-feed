@@ -1,37 +1,45 @@
 {
-  "updatedUtc": "2026-08-19T19:50:05Z",
+  "updatedUtc": "2026-08-20T17:15:05Z",
   "topics": [
     {
-      "title": "U.S. expands Latin America campaign",
-      "summary": "The U.S. military is seeking land-based security deals in Latin America after a year of strikes on boats it accused of carrying drugs, raising debate over regional cooperation and limits.",
-      "discussionPrompt": "If a big policy suddenly moves from boats to land, who in the room asks practical questions first and who starts drawing a very suspicious map?",
+      "title": "U.S. debt reaches $40 trillion",
+      "summary": "The U.S. national debt has topped $40 trillion, with interest payments now one of the federal government’s biggest costs as spending continues to outpace revenue.",
+      "discussionPrompt": "If the studio had a tab that big, who would make a spreadsheet, who would suggest coupons, and who would quietly hide the snack receipts?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via NBC Bay Area"],
-      "sourceUrls": ["https://www.nbcbayarea.com/news/national-international/after-boat-strikes-us-military-expands-campaign-on-land-in-latin-america/4129046/"]
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/a27a8d3651ff810b25c610d3e1b6259d", "https://www.nprillinois.org/2026-08-20/u-s-debt-tops-40-trillion"]
     },
     {
-      "title": "National Mall grass draws attention",
-      "summary": "President Trump blamed vandals for brown grass near the World War II Memorial, but AP reported the area was also covered by July 4 event structures and crowds.",
-      "discussionPrompt": "Who would become way too invested in solving a mystery about lawn damage, and who would just recommend signs that say 'please respect the grass'?",
+      "title": "Venezuela signs U.S. oil deals",
+      "summary": "Venezuelan oil officials visited Houston and signed early contracts with U.S. companies, marking a new step for energy ties after Nicolás Maduro’s capture.",
+      "discussionPrompt": "Who would treat a surprise business visit like a diplomatic puzzle, and who would mostly want to know whether the coffee in the meeting was any good?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via KNOP"],
-      "sourceUrls": ["https://www.knopnews2.com/2026/08/17/trump-blames-vandals-damaged-grass-spot-where-he-held-his-big-july-4-celebration/"]
+      "sourceNames": ["NPR"],
+      "sourceUrls": ["https://www.nprillinois.org/2026-08-20/u-s-oil-companies-sign-some-of-the-first-deals-with-venezuela-since-maduros-capture"]
     },
     {
-      "title": "Korea drills scaled back",
-      "summary": "Trump ordered the Pentagon to reduce planned U.S.-South Korea military exercises, saying they were costly and sent the wrong signal to North Korea.",
-      "discussionPrompt": "If a long-planned group exercise got scaled back at the last minute, who would be relieved, and who would still insist everyone rehearse the checklist?",
+      "title": "Iran pressure campaign widens",
+      "summary": "Iran dismissed new U.S. economic threats as Washington pushed wider pressure on Tehran, while regional governments reacted to the prolonged conflict and settlement disputes.",
+      "discussionPrompt": "When a situation shifts from loud threats to economic pressure, who starts reading the fine print and who just asks if anyone brought snacks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Associated Press via WAFF"],
-      "sourceUrls": ["https://apnews.com/article/ae21e0af5ea16f0a74e9a176b3cc2136", "https://www.waff.com/2026/08/17/trump-orders-pentagon-scale-back-joint-exercises-with-south-korea/"]
+      "sourceNames": ["Associated Press", "The Guardian", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/bbc5df71e56f000515edef0817468c9d", "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz", "https://www.nprillinois.org/2026-08-20/morning-news-brief"]
     },
     {
-      "title": "Spider-Man opens huge",
-      "summary": "The new Spider-Man film had a massive box office debut, with The Guardian reporting it landed among the biggest opening weekends ever.",
-      "discussionPrompt": "Who would pretend they are above superhero hype, then somehow know every cameo, costume change, and popcorn bucket design?",
+      "title": "UK youth work gap grows",
+      "summary": "A UK review is focusing on nearly one million young people not in work, school, or training, with attention on mental health, skills, and early support.",
+      "discussionPrompt": "If the studio had to design a better first job path, who would build a mentorship board and who would accidentally make orientation too theatrical?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/film/film%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/20/thursday-briefing-the-million-young-people-the-uk-is-leaving-behind"]
+    },
+    {
+      "title": "GCSE results show mixed picture",
+      "summary": "Students in England, Wales, and Northern Ireland received GCSE results, with girls still ahead overall, boys improving in maths, and regional grade gaps continuing.",
+      "discussionPrompt": "Who would overreact to one exam result, who would give surprisingly calm advice, and who would claim they invented an easier grading system?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates"]
     }
   ]
 }
