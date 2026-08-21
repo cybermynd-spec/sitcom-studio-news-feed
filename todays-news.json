@@ -1,45 +1,45 @@
 {
-  "updatedUtc": "2026-08-20T17:15:05Z",
+  "updatedUtc": "2026-08-21T18:22:06Z",
   "topics": [
     {
-      "title": "U.S. debt reaches $40 trillion",
-      "summary": "The U.S. national debt has topped $40 trillion, with interest payments now one of the federal government’s biggest costs as spending continues to outpace revenue.",
-      "discussionPrompt": "If the studio had a tab that big, who would make a spreadsheet, who would suggest coupons, and who would quietly hide the snack receipts?",
+      "title": "U.S. widens Iran economic pressure",
+      "summary": "The U.S. is previewing a tougher financial campaign against Iran as the war nears six months, with oil shipping and regional diplomacy still under strain.",
+      "discussionPrompt": "If the studio had to negotiate during a tense group project, who would read every clause, and who would try to fix the mood with coffee?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/a27a8d3651ff810b25c610d3e1b6259d", "https://www.nprillinois.org/2026-08-20/u-s-debt-tops-40-trillion"]
+      "sourceNames": ["Associated Press via ClickOrlando"],
+      "sourceUrls": ["https://www.clickorlando.com/news/politics/2026/08/21/the-latest-trump-warns-of-economic-d-day-against-iran-days-before-6-month-mark-of-war/"]
     },
     {
-      "title": "Venezuela signs U.S. oil deals",
-      "summary": "Venezuelan oil officials visited Houston and signed early contracts with U.S. companies, marking a new step for energy ties after Nicolás Maduro’s capture.",
-      "discussionPrompt": "Who would treat a surprise business visit like a diplomatic puzzle, and who would mostly want to know whether the coffee in the meeting was any good?",
+      "title": "Markets watch bond yields climb",
+      "summary": "Asian shares were mixed to higher while bond yields stayed elevated, showing investors remain uneasy about U.S. debt, inflation, and global oil prices.",
+      "discussionPrompt": "Who in the room would pretend to understand bond yields, and who would actually explain them using pizza slices and rent money?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR"],
-      "sourceUrls": ["https://www.nprillinois.org/2026-08-20/u-s-oil-companies-sign-some-of-the-first-deals-with-venezuela-since-maduros-capture"]
+      "sourceNames": ["Associated Press via Click2Houston"],
+      "sourceUrls": ["https://www.click2houston.com/business/2026/08/21/asian-shares-advance-despite-wall-street-losses-as-us-treasurys-moves-fail-to-calm-markets/"]
     },
     {
-      "title": "Iran pressure campaign widens",
-      "summary": "Iran dismissed new U.S. economic threats as Washington pushed wider pressure on Tehran, while regional governments reacted to the prolonged conflict and settlement disputes.",
-      "discussionPrompt": "When a situation shifts from loud threats to economic pressure, who starts reading the fine print and who just asks if anyone brought snacks?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/bbc5df71e56f000515edef0817468c9d", "https://www.theguardian.com/world/2026/aug/20/trump-threatens-crush-iran-economy-war-hormuz", "https://www.nprillinois.org/2026-08-20/morning-news-brief"]
-    },
-    {
-      "title": "UK youth work gap grows",
-      "summary": "A UK review is focusing on nearly one million young people not in work, school, or training, with attention on mental health, skills, and early support.",
-      "discussionPrompt": "If the studio had to design a better first job path, who would build a mentorship board and who would accidentally make orientation too theatrical?",
+      "title": "UK charity shops rethink the high street",
+      "summary": "UK charity shops face rising costs, weaker donations, and online resale competition, while still serving as community hubs and fundraising engines.",
+      "discussionPrompt": "If everyone cleaned out the prop closet for charity, who would donate useful stuff, and who would emotionally defend a broken lamp?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/20/thursday-briefing-the-million-young-people-the-uk-is-leaving-behind"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/21/thursday-briefing-what-does-the-mass-closure-of-charity-shops-tell-us-about-britain"]
     },
     {
-      "title": "GCSE results show mixed picture",
-      "summary": "Students in England, Wales, and Northern Ireland received GCSE results, with girls still ahead overall, boys improving in maths, and regional grade gaps continuing.",
-      "discussionPrompt": "Who would overreact to one exam result, who would give surprisingly calm advice, and who would claim they invented an easier grading system?",
+      "title": "Panama Canal faces El Niño limits",
+      "summary": "The Panama Canal is preparing to reduce shipping as El Niño worsens drought pressure on the waterway, adding another wrinkle for global trade routes.",
+      "discussionPrompt": "If the studio’s supply closet depended on one narrow canal, who would make a backup route, and who would just ration paper clips?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/education/live/2026/aug/20/gcse-results-exams-schools-education-england-wales-northern-ireland-live-latest-updates"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/21/all"]
+    },
+    {
+      "title": "Solar loans get a fresh push",
+      "summary": "UK ministers are being urged to cut borrowing costs for home solar panels, with supporters saying cheaper loans could lower bills and widen clean-energy access.",
+      "discussionPrompt": "Who would turn the studio roof into a solar project first, and who would only join after hearing the electric bill might shrink?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/aug/21/all"]
     }
   ]
 }
