@@ -1,45 +1,52 @@
 {
-  "updatedUtc": "2026-08-21T18:22:06Z",
+  "updatedUtc": "2026-08-22T18:18:42Z",
   "topics": [
     {
-      "title": "U.S. widens Iran economic pressure",
-      "summary": "The U.S. is previewing a tougher financial campaign against Iran as the war nears six months, with oil shipping and regional diplomacy still under strain.",
-      "discussionPrompt": "If the studio had to negotiate during a tense group project, who would read every clause, and who would try to fix the mood with coffee?",
+      "title": "Canada and U.S. trade talks break down",
+      "summary": "Canada says it will answer new U.S. tariffs dollar for dollar after last-minute trade talks collapsed, putting more pressure on businesses and cross-border supply chains.",
+      "discussionPrompt": "If the studio had to negotiate a tense deal, who would bring charts, who would bring snacks, and who would accidentally make it personal?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via ClickOrlando"],
-      "sourceUrls": ["https://www.clickorlando.com/news/politics/2026/08/21/the-latest-trump-warns-of-economic-d-day-against-iran-days-before-6-month-mark-of-war/"]
+      "sourceNames": ["Associated Press", "Reuters via Internazionale", "Global News"],
+      "sourceUrls": [
+        "https://apnews.com/article/4d18583fe52134ca8550652ad9772d2c",
+        "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/canada-to-impose-retaliatory-tariffs-across-a-raft-of-us-sectors-carney-says",
+        "https://globalnews.ca/news/12030351/donald-trump-tariffs-canada-trade-deal-deadline/"
+      ]
     },
     {
-      "title": "Markets watch bond yields climb",
-      "summary": "Asian shares were mixed to higher while bond yields stayed elevated, showing investors remain uneasy about U.S. debt, inflation, and global oil prices.",
-      "discussionPrompt": "Who in the room would pretend to understand bond yields, and who would actually explain them using pizza slices and rent money?",
+      "title": "Lunar eclipse lines up for the Americas",
+      "summary": "A deep partial lunar eclipse is coming, with the Americas in the best viewing position as most of the moon passes through Earth's shadow.",
+      "discussionPrompt": "Who would plan a moon-watching party properly, and who would show up with a telescope they definitely do not know how to use?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via Click2Houston"],
-      "sourceUrls": ["https://www.click2houston.com/business/2026/08/21/asian-shares-advance-despite-wall-street-losses-as-us-treasurys-moves-fail-to-calm-markets/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/3c47d7a9f1a7f1a5e6c96456e44395b8"]
     },
     {
-      "title": "UK charity shops rethink the high street",
-      "summary": "UK charity shops face rising costs, weaker donations, and online resale competition, while still serving as community hubs and fundraising engines.",
-      "discussionPrompt": "If everyone cleaned out the prop closet for charity, who would donate useful stuff, and who would emotionally defend a broken lamp?",
+      "title": "Markets keep watching tariff fallout",
+      "summary": "Investors are watching tariffs, bond yields, and global growth worries as trade tensions add uncertainty for companies planning prices, hiring, and supply chains.",
+      "discussionPrompt": "If every studio expense suddenly got harder to predict, who would build a spreadsheet, and who would suggest a bake sale first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters via Investing.com", "Associated Press"],
+      "sourceUrls": [
+        "https://ca.investing.com/news/economy-news/canada-to-match-us-tariffs-dollar-for-dollar-after-trade-talks-collapse-4812967",
+        "https://apnews.com/article/4d18583fe52134ca8550652ad9772d2c"
+      ]
+    },
+    {
+      "title": "Hollywood creatives train AI tools",
+      "summary": "Some writers, directors, and producers are taking paid gigs training AI systems, even as many worry those tools could shrink future creative work.",
+      "discussionPrompt": "If the studio had to teach an AI comedy timing, who would over-explain the joke, and who would refuse on principle?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/21/thursday-briefing-what-does-the-mass-closure-of-charity-shops-tell-us-about-britain"]
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"]
     },
     {
-      "title": "Panama Canal faces El Niño limits",
-      "summary": "The Panama Canal is preparing to reduce shipping as El Niño worsens drought pressure on the waterway, adding another wrinkle for global trade routes.",
-      "discussionPrompt": "If the studio’s supply closet depended on one narrow canal, who would make a backup route, and who would just ration paper clips?",
+      "title": "Sicily bridge dream keeps stalling",
+      "summary": "Italy's long-debated plan to connect Sicily to the mainland faces engineering doubts, environmental concerns, cost scrutiny, and local protests.",
+      "discussionPrompt": "If the studio proposed a giant bridge project, who would love the ambition, and who would immediately ask about maintenance and parking?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/21/all"]
-    },
-    {
-      "title": "Solar loans get a fresh push",
-      "summary": "UK ministers are being urged to cut borrowing costs for home solar panels, with supporters saying cheaper loans could lower bills and widen clean-energy access.",
-      "discussionPrompt": "Who would turn the studio roof into a solar project first, and who would only join after hearing the electric bill might shrink?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/aug/21/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/22/sicily-italy-bridge-plans-strait-of-messina"]
     }
   ]
 }
