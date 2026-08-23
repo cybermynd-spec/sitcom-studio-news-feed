@@ -1,52 +1,40 @@
 {
-  "updatedUtc": "2026-08-22T18:18:42Z",
+  "updatedUtc": "2026-08-23T17:29:27Z",
   "topics": [
     {
-      "title": "Canada and U.S. trade talks break down",
-      "summary": "Canada says it will answer new U.S. tariffs dollar for dollar after last-minute trade talks collapsed, putting more pressure on businesses and cross-border supply chains.",
-      "discussionPrompt": "If the studio had to negotiate a tense deal, who would bring charts, who would bring snacks, and who would accidentally make it personal?",
+      "title": "Artemis II crew gets top space honor",
+      "summary": "The Artemis II astronauts will receive the Congressional Space Medal of Honor after their lunar flyby, a rare award for a mission that carried the first non-American astronaut around the moon.",
+      "discussionPrompt": "If the studio had to host a moon-mission medal ceremony, who would make it classy, and who would accidentally turn it into a roast?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Internazionale", "Global News"],
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal"]
+    },
+    {
+      "title": "Whales move into warmer Greenland waters",
+      "summary": "Scientists say retreating East Greenland sea ice has opened summer feeding areas for humpback, fin, and minke whales, while Arctic species such as narwhals may face growing pressure.",
+      "discussionPrompt": "If a new crowd suddenly discovered the studio's best snack spot, who would welcome them, and who would start guarding the fridge?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.bbc.co.uk/news/articles/cq6dn9gj7eno"]
+    },
+    {
+      "title": "DR Congo peace talks get roadmap",
+      "summary": "The DR Congo government and M23 rebels agreed on a roadmap for further peace talks in Switzerland, including timelines and a process for tracking ceasefire concerns.",
+      "discussionPrompt": "When a messy group project finally gets a roadmap, who follows it carefully, and who immediately asks for a shortcut?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News", "Anadolu Agency"],
       "sourceUrls": [
-        "https://apnews.com/article/4d18583fe52134ca8550652ad9772d2c",
-        "https://www.internazionale.it/ultime-notizie-reuters/2026/08/22/canada-to-impose-retaliatory-tariffs-across-a-raft-of-us-sectors-carney-says",
-        "https://globalnews.ca/news/12030351/donald-trump-tariffs-canada-trade-deal-deadline/"
+        "https://currently.att.yahoo.com/att/dr-congo-m23-rebels-agree-125653268.html",
+        "https://www.aa.com.tr/en/africa/dr-congo-m23-rebel-group-agree-on-roadmap-for-comprehensive-peace-talks/4034875"
       ]
     },
     {
-      "title": "Lunar eclipse lines up for the Americas",
-      "summary": "A deep partial lunar eclipse is coming, with the Americas in the best viewing position as most of the moon passes through Earth's shadow.",
-      "discussionPrompt": "Who would plan a moon-watching party properly, and who would show up with a telescope they definitely do not know how to use?",
+      "title": "UK rail operator hit by power outage",
+      "summary": "CrossCountry cancelled almost all UK services after a Birmingham control-centre power cut disrupted key systems, leaving many passengers facing major Sunday travel changes.",
+      "discussionPrompt": "If the studio's whole schedule got wrecked by one power cut, who would improvise smoothly, and who would blame the coffee machine?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/3c47d7a9f1a7f1a5e6c96456e44395b8"]
-    },
-    {
-      "title": "Markets keep watching tariff fallout",
-      "summary": "Investors are watching tariffs, bond yields, and global growth worries as trade tensions add uncertainty for companies planning prices, hiring, and supply chains.",
-      "discussionPrompt": "If every studio expense suddenly got harder to predict, who would build a spreadsheet, and who would suggest a bake sale first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Investing.com", "Associated Press"],
-      "sourceUrls": [
-        "https://ca.investing.com/news/economy-news/canada-to-match-us-tariffs-dollar-for-dollar-after-trade-talks-collapse-4812967",
-        "https://apnews.com/article/4d18583fe52134ca8550652ad9772d2c"
-      ]
-    },
-    {
-      "title": "Hollywood creatives train AI tools",
-      "summary": "Some writers, directors, and producers are taking paid gigs training AI systems, even as many worry those tools could shrink future creative work.",
-      "discussionPrompt": "If the studio had to teach an AI comedy timing, who would over-explain the joke, and who would refuse on principle?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs"]
-    },
-    {
-      "title": "Sicily bridge dream keeps stalling",
-      "summary": "Italy's long-debated plan to connect Sicily to the mainland faces engineering doubts, environmental concerns, cost scrutiny, and local protests.",
-      "discussionPrompt": "If the studio proposed a giant bridge project, who would love the ambition, and who would immediately ask about maintenance and parking?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/22/sicily-italy-bridge-plans-strait-of-messina"]
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.bbc.com/news/england"]
     }
   ]
 }
