@@ -1,40 +1,61 @@
 {
-  "updatedUtc": "2026-08-23T17:29:27Z",
+  "updatedUtc": "2026-08-24T18:14:16Z",
   "topics": [
     {
-      "title": "Artemis II crew gets top space honor",
-      "summary": "The Artemis II astronauts will receive the Congressional Space Medal of Honor after their lunar flyby, a rare award for a mission that carried the first non-American astronaut around the moon.",
-      "discussionPrompt": "If the studio had to host a moon-mission medal ceremony, who would make it classy, and who would accidentally turn it into a roast?",
+      "title": "Graduate job listings hit a low",
+      "summary": "UK graduate job vacancies fell nearly in half from last year, with Adzuna recording the lowest July total since it began tracking the data in 2016.",
+      "discussionPrompt": "If someone fresh out of school joined the studio today, what weird skill would actually make them instantly useful around here?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/aug/23/artemis-ii-crew-top-us-space-medal"]
-    },
-    {
-      "title": "Whales move into warmer Greenland waters",
-      "summary": "Scientists say retreating East Greenland sea ice has opened summer feeding areas for humpback, fin, and minke whales, while Arctic species such as narwhals may face growing pressure.",
-      "discussionPrompt": "If a new crowd suddenly discovered the studio's best snack spot, who would welcome them, and who would start guarding the fridge?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.bbc.co.uk/news/articles/cq6dn9gj7eno"]
-    },
-    {
-      "title": "DR Congo peace talks get roadmap",
-      "summary": "The DR Congo government and M23 rebels agreed on a roadmap for further peace talks in Switzerland, including timelines and a process for tracking ceasefire concerns.",
-      "discussionPrompt": "When a messy group project finally gets a roadmap, who follows it carefully, and who immediately asks for a shortcut?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "Anadolu Agency"],
+      "sourceNames": [
+        "The Guardian",
+        "BBC News via Yahoo Finance"
+      ],
       "sourceUrls": [
-        "https://currently.att.yahoo.com/att/dr-congo-m23-rebels-agree-125653268.html",
-        "https://www.aa.com.tr/en/africa/dr-congo-m23-rebel-group-agree-on-roadmap-for-comprehensive-peace-talks/4034875"
+        "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
+        "https://finance.yahoo.com/economy/articles/graduate-job-vacancies-drop-almost-105551391.html"
       ]
     },
     {
-      "title": "UK rail operator hit by power outage",
-      "summary": "CrossCountry cancelled almost all UK services after a Birmingham control-centre power cut disrupted key systems, leaving many passengers facing major Sunday travel changes.",
-      "discussionPrompt": "If the studio's whole schedule got wrecked by one power cut, who would improvise smoothly, and who would blame the coffee machine?",
+      "title": "Shein lines up Hong Kong IPO",
+      "summary": "Fast-fashion company Shein is preparing a Hong Kong listing that could value it near $27 billion, far below earlier private-market estimates.",
+      "discussionPrompt": "If the studio had to explain a giant discount shopping empire going public, who would focus on the money and who would ask about the closets?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.bbc.com/news/england"]
+      "sourceNames": [
+        "MarketWatch",
+        "The Wall Street Journal"
+      ],
+      "sourceUrls": [
+        "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1",
+        "https://www.wsj.com/business/shein-looks-to-raise-up-to-1-77-billion-in-long-awaited-hong-kong-offering-e7883ec6"
+      ]
+    },
+    {
+      "title": "Hidden car handles face recall",
+      "summary": "Automakers including Tesla, Xiaomi, Xpeng, and Geely are reportedly recalling millions of vehicles in China over flush electronic door handles and emergency-access concerns.",
+      "discussionPrompt": "What gadget looks sleek in a showroom but would drive everyone in the studio absolutely nuts after one bad day?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Road & Track",
+        "BBC News"
+      ],
+      "sourceUrls": [
+        "https://www.roadandtrack.com/news/a73511915/tesla-xiaomi-other-carmakers-china-largest-auto-recall-flush-door-handles/",
+        "https://www.bbc.com/news/"
+      ]
+    },
+    {
+      "title": "Ukraine marks independence anniversary",
+      "summary": "Ukraine marked its 35th independence anniversary as European leaders arrived in Kyiv and officials highlighted continued support for the country.",
+      "discussionPrompt": "For a big anniversary under pressure, what kind of studio celebration feels respectful without turning stiff or gloomy?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters Connect",
+        "Euronews"
+      ],
+      "sourceUrls": [
+        "https://www.reutersconnect.com/collection/latest-news",
+        "https://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning"
+      ]
     }
   ]
 }
