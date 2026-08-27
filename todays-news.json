@@ -1,60 +1,52 @@
 {
-  "updatedUtc": "2026-08-24T18:14:16Z",
+  "updatedUtc": "2026-08-27T01:30:01Z",
   "topics": [
     {
-      "title": "Graduate job listings hit a low",
-      "summary": "UK graduate job vacancies fell nearly in half from last year, with Adzuna recording the lowest July total since it began tracking the data in 2016.",
-      "discussionPrompt": "If someone fresh out of school joined the studio today, what weird skill would actually make them instantly useful around here?",
+      "title": "Meta settles teen social media case",
+      "summary": "Meta reached an $18 billion settlement with states in a major trial over teen social media addiction claims, while the company continued defending its youth safety work.",
+      "discussionPrompt": "If the studio had to design a healthier social app, what feature would everyone argue about first?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "BBC News via Yahoo Finance"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
-        "https://finance.yahoo.com/economy/articles/graduate-job-vacancies-drop-almost-105551391.html"
+        "https://apnews.com/article/meta-trial-instagram-settlement-97d342f2a33d835eda2356c5e1af9e37"
       ]
     },
     {
-      "title": "Shein lines up Hong Kong IPO",
-      "summary": "Fast-fashion company Shein is preparing a Hong Kong listing that could value it near $27 billion, far below earlier private-market estimates.",
-      "discussionPrompt": "If the studio had to explain a giant discount shopping empire going public, who would focus on the money and who would ask about the closets?",
+      "title": "US-Canada trade thaw looks possible",
+      "summary": "Analysts say the US and Canada may eventually find a compromise in their trade dispute, even as new tariffs keep pressure on businesses and consumers.",
+      "discussionPrompt": "If two neighbors were stuck in a tariff squabble, what ridiculous peace offering would actually break the tension?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "MarketWatch",
-        "The Wall Street Journal"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.marketwatch.com/story/5-things-to-know-about-the-chinese-e-commerce-juggernaut-shein-ahead-of-its-ipo-ee73d6b1",
-        "https://www.wsj.com/business/shein-looks-to-raise-up-to-1-77-billion-in-long-awaited-hong-kong-offering-e7883ec6"
+        "https://apnews.com/article/trump-canada-carney-trade-war-tariffs-cd5f861f990b7e594ea1803a6ba1bf46"
       ]
     },
     {
-      "title": "Hidden car handles face recall",
-      "summary": "Automakers including Tesla, Xiaomi, Xpeng, and Geely are reportedly recalling millions of vehicles in China over flush electronic door handles and emergency-access concerns.",
-      "discussionPrompt": "What gadget looks sleek in a showroom but would drive everyone in the studio absolutely nuts after one bad day?",
+      "title": "Army plans base microreactors",
+      "summary": "The US Army plans to spend $2 billion adding small nuclear microreactors at five bases, aiming for more reliable power as energy demand rises.",
+      "discussionPrompt": "Would the studio trust a tiny power plant next door, or would someone immediately start naming safety rules?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Road & Track",
-        "BBC News"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.roadandtrack.com/news/a73511915/tesla-xiaomi-other-carmakers-china-largest-auto-recall-flush-door-handles/",
-        "https://www.bbc.com/news/"
+        "https://apnews.com/article/nuclear-trump-army-microreactors-janus-200edd5fb98b6fe04d029a3c1dba1a4a"
       ]
     },
     {
-      "title": "Ukraine marks independence anniversary",
-      "summary": "Ukraine marked its 35th independence anniversary as European leaders arrived in Kyiv and officials highlighted continued support for the country.",
-      "discussionPrompt": "For a big anniversary under pressure, what kind of studio celebration feels respectful without turning stiff or gloomy?",
+      "title": "CIA director held Moscow talks",
+      "summary": "The Kremlin said the CIA director visited Moscow for talks with Russian intelligence counterparts, a rare public acknowledgment of high-level communication between the countries.",
+      "discussionPrompt": "When rivals quietly meet behind closed doors, who in the studio assumes chess strategy and who assumes awkward small talk?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Reuters Connect",
-        "Euronews"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.reutersconnect.com/collection/latest-news",
-        "https://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-morning"
+        "https://apnews.com/article/russia-us-putin-trump-cia-director-visit-4efffcaac5ef6736e2b10cef73054e48"
       ]
     }
   ]
