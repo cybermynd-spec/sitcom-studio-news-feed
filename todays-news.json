@@ -1,52 +1,58 @@
 {
-  "updatedUtc": "2026-08-27T01:30:01Z",
+  "updatedUtc": "2026-08-27T16:41:01Z",
   "topics": [
     {
-      "title": "Meta settles teen social media case",
-      "summary": "Meta reached an $18 billion settlement with states in a major trial over teen social media addiction claims, while the company continued defending its youth safety work.",
-      "discussionPrompt": "If the studio had to design a healthier social app, what feature would everyone argue about first?",
+      "title": "Meta settlement adds teen limits",
+      "summary": "Meta agreed to a major settlement over teen safety claims, adding default limits and overnight blocks for young Facebook and Instagram users if the court-approved deal takes effect.",
+      "discussionPrompt": "If the studio made a social app for teens, what one rule would feel helpful instead of annoying?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press"
+        "Associated Press",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/meta-trial-instagram-settlement-97d342f2a33d835eda2356c5e1af9e37"
+        "https://apnews.com/article/8229962dac997f1b1557ce341c71b39d",
+        "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement"
       ]
     },
     {
-      "title": "US-Canada trade thaw looks possible",
-      "summary": "Analysts say the US and Canada may eventually find a compromise in their trade dispute, even as new tariffs keep pressure on businesses and consumers.",
-      "discussionPrompt": "If two neighbors were stuck in a tariff squabble, what ridiculous peace offering would actually break the tension?",
+      "title": "Plug-in solar reaches UK homes",
+      "summary": "Plug-in solar panel kits are going on sale in Britain, aimed at renters and households without rooftops, with officials saying they could trim power bills.",
+      "discussionPrompt": "Would everyone trust a balcony solar setup, or would someone immediately start calculating the snack-fridge savings?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press"
+        "The Guardian",
+        "UK Government"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/trump-canada-carney-trade-war-tariffs-cd5f861f990b7e594ea1803a6ba1bf46"
+        "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
+        "https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market"
       ]
     },
     {
-      "title": "Army plans base microreactors",
-      "summary": "The US Army plans to spend $2 billion adding small nuclear microreactors at five bases, aiming for more reliable power as energy demand rises.",
-      "discussionPrompt": "Would the studio trust a tiny power plant next door, or would someone immediately start naming safety rules?",
+      "title": "Yayoi Kusama remembered worldwide",
+      "summary": "Japanese artist Yayoi Kusama, famous for polka dots, pumpkins and immersive infinity rooms, died at 97, prompting global tributes to her long creative career.",
+      "discussionPrompt": "If the studio built a Kusama-inspired room, would it be peaceful, dizzying, or secretly perfect for a sitcom argument?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press"
+        "Associated Press",
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/nuclear-trump-army-microreactors-janus-200edd5fb98b6fe04d029a3c1dba1a4a"
+        "https://apnews.com/article/f92e15d5e6a446f48f3675ddd2418b8a",
+        "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-obituary"
       ]
     },
     {
-      "title": "CIA director held Moscow talks",
-      "summary": "The Kremlin said the CIA director visited Moscow for talks with Russian intelligence counterparts, a rare public acknowledgment of high-level communication between the countries.",
-      "discussionPrompt": "When rivals quietly meet behind closed doors, who in the studio assumes chess strategy and who assumes awkward small talk?",
+      "title": "Methane scanner goes mobile",
+      "summary": "Researchers reported a vehicle-mounted spectroscopy system that can detect methane while driving, potentially helping crews find hidden leaks across wide areas faster.",
+      "discussionPrompt": "Who in the studio would turn a leak-detecting science van into a neighborhood mystery mission?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press"
+        "Optica Publishing Group"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/russia-us-putin-trump-cia-director-visit-4efffcaac5ef6736e2b10cef73054e48"
+        "https://ebs.publicnow.com/view/06D55C09A6719B4795FA4FB0C0C4E04EF8432D33"
       ]
     }
   ]
