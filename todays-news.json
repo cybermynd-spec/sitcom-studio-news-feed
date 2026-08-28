@@ -1,58 +1,124 @@
 {
-  "updatedUtc": "2026-08-27T16:41:01Z",
+  "updatedUtc": "2026-08-28T16:57:41Z",
   "topics": [
     {
-      "title": "Meta settlement adds teen limits",
-      "summary": "Meta agreed to a major settlement over teen safety claims, adding default limits and overnight blocks for young Facebook and Instagram users if the court-approved deal takes effect.",
-      "discussionPrompt": "If the studio made a social app for teens, what one rule would feel helpful instead of annoying?",
+      "title": "Norway gets a new king",
+      "summary": "Norway's King Harald V died at 89, and his son became King Haakon VIII, beginning a new chapter for one of Europe's longstanding monarchies.",
+      "discussionPrompt": "If your family suddenly inherited a ceremonial job, who would take it way too seriously and who would redesign the uniform first?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press",
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/8229962dac997f1b1557ce341c71b39d",
-        "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement"
+        "https://apnews.com/article/king-harald-norway-228366941b7c48c59ececf004cc3c467"
       ]
     },
     {
-      "title": "Plug-in solar reaches UK homes",
-      "summary": "Plug-in solar panel kits are going on sale in Britain, aimed at renters and households without rooftops, with officials saying they could trim power bills.",
-      "discussionPrompt": "Would everyone trust a balcony solar setup, or would someone immediately start calculating the snack-fridge savings?",
+      "title": "Lake Ontario rename stirs chatter",
+      "summary": "President Trump signed an order renaming Lake Ontario as Lake America within the United States, setting up new questions about maps, signage and cross-border reaction.",
+      "discussionPrompt": "If a famous local landmark got renamed overnight, what nickname would actually stick around the studio?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian",
-        "UK Government"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/aug/26/plug-in-balcony-solar-panels-to-go-on-sale-in-uk-for-first-time",
-        "https://www.gov.uk/government/news/households-can-save-as-plug-in-solar-panels-come-to-market"
+        "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a"
       ]
     },
     {
-      "title": "Yayoi Kusama remembered worldwide",
-      "summary": "Japanese artist Yayoi Kusama, famous for polka dots, pumpkins and immersive infinity rooms, died at 97, prompting global tributes to her long creative career.",
-      "discussionPrompt": "If the studio built a Kusama-inspired room, would it be peaceful, dizzying, or secretly perfect for a sitcom argument?",
+      "title": "Fed weighs inflation pressure",
+      "summary": "Fed Chair Kevin Warsh said interest rate hikes remain possible if inflation stays stubborn, keeping households and markets watching the next economic signals closely.",
+      "discussionPrompt": "What would the studio cut from its budget first if borrowing suddenly got pricier: props, snacks, or someone’s extremely specific coffee order?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Associated Press",
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/f92e15d5e6a446f48f3675ddd2418b8a",
-        "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-obituary"
+        "https://apnews.com/article/federal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867"
       ]
     },
     {
-      "title": "Methane scanner goes mobile",
-      "summary": "Researchers reported a vehicle-mounted spectroscopy system that can detect methane while driving, potentially helping crews find hidden leaks across wide areas faster.",
-      "discussionPrompt": "Who in the studio would turn a leak-detecting science van into a neighborhood mystery mission?",
+      "title": "Mortgage rates climb again",
+      "summary": "The average U.S. 30-year mortgage rate rose to 6.66%, returning near levels seen four weeks ago and adding pressure to an already tight housing market.",
+      "discussionPrompt": "If everyone had to share one dream house, what room would cause the first negotiation meltdown?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "Optica Publishing Group"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://ebs.publicnow.com/view/06D55C09A6719B4795FA4FB0C0C4E04EF8432D33"
+        "https://apnews.com/article/housing-mortgage-rates-treasury-6a3a91617c9d9ec4d958e8ae34d64879"
+      ]
+    },
+    {
+      "title": "Tropical storms gather attention",
+      "summary": "Forecasters tracked Tropical Storms Karina and Lowell in the Pacific while Dolly churned in the Atlantic, adding another busy watch point to hurricane season.",
+      "discussionPrompt": "Who in the studio would overprepare for storm season, and who would still forget batteries until the last possible minute?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/newsletter/morning-wire/august-28-2026"
+      ]
+    },
+    {
+      "title": "PGA sponsor shakeup lands",
+      "summary": "Golf brand Good Good will no longer be the title sponsor of a PGA Tour event and also lost its Callaway sponsorship, shifting a high-profile sports partnership.",
+      "discussionPrompt": "If the studio had a sponsor, what product would be hilarious, useful, or immediately suspicious?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/good-good-golf-pga-tour-austin-callaway-7571b7e461cf085e7b23f70b68bb2e11"
+      ]
+    },
+    {
+      "title": "Lunar eclipse lights skies",
+      "summary": "A lunar eclipse lit up skies across the Americas and Europe, giving photographers and sky watchers a dramatic night show from many different viewpoints.",
+      "discussionPrompt": "Would the characters plan a calm eclipse watch party, or accidentally turn it into a competition over who understands the moon best?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/photo-gallery/lunar-eclipse-lights-skies-across-americas-europe-photos-816d28c2146fecf85213ed7bbeda5f18"
+      ]
+    },
+    {
+      "title": "Night owl habits studied",
+      "summary": "Health researchers highlighted links between late-night routines and heart risks, while noting that sleep timing and habits can often be adjusted gradually.",
+      "discussionPrompt": "Who is secretly most functional after midnight, and who becomes dramatic if bedtime moves by five minutes?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"
+      ]
+    },
+    {
+      "title": "Pancreatic cancer pill approved",
+      "summary": "The FDA approved Revolution Medicines' daily pills for a form of pancreatic cancer, a notable treatment milestone for a disease with limited options.",
+      "discussionPrompt": "How would the studio celebrate a genuine medical breakthrough without turning the whole room awkwardly sentimental?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/pancreatic-cancer-drug-fda-approval-rasonque-03e437bfb8d728ec2a73b142cf8ec2fe"
+      ]
+    },
+    {
+      "title": "Red Solo cup gets its moment",
+      "summary": "AP looked at the red Solo cup's place in American party culture, from casual gatherings to its instantly recognizable role in pop culture.",
+      "discussionPrompt": "What ordinary object in the studio deserves a suspiciously serious documentary treatment?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/beer-drinking-party-red-solo-cup-fee2d1bf796ede9bf26f88c79efc392b"
       ]
     }
   ]
