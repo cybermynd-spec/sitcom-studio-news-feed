@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-08-28T16:57:41Z",
+  "updatedUtc": "2026-08-29T17:14:37Z",
   "topics": [
     {
-      "title": "Norway gets a new king",
-      "summary": "Norway's King Harald V died at 89, and his son became King Haakon VIII, beginning a new chapter for one of Europe's longstanding monarchies.",
-      "discussionPrompt": "If your family suddenly inherited a ceremonial job, who would take it way too seriously and who would redesign the uniform first?",
+      "title": "Nepal-China flood search continues",
+      "summary": "Rescue crews kept searching flood-hit areas near the Nepal-China border as survivors reached safer ground and families waited for word on thousands still missing.",
+      "discussionPrompt": "If the studio had to organize emergency supplies fast, who would make the perfect checklist and who would somehow pack party decorations?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/king-harald-norway-228366941b7c48c59ececf004cc3c467"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html"]
     },
     {
-      "title": "Lake Ontario rename stirs chatter",
-      "summary": "President Trump signed an order renaming Lake Ontario as Lake America within the United States, setting up new questions about maps, signage and cross-border reaction.",
-      "discussionPrompt": "If a famous local landmark got renamed overnight, what nickname would actually stick around the studio?",
+      "title": "Norway enters royal transition",
+      "summary": "Norway mourned King Harald V as large crowds gathered in Oslo and the country began adjusting to a new royal era under King Haakon VIII.",
+      "discussionPrompt": "Who in the studio would be weirdly good at ceremonial etiquette, and who would accidentally wave at the wrong moment?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a"
-      ]
+      "sourceNames": ["Associated Press", "Reuters via Devdiscourse"],
+      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html", "https://www.devdiscourse.com/article/international/3969475-reuters-world-news-summary"]
     },
     {
-      "title": "Fed weighs inflation pressure",
-      "summary": "Fed Chair Kevin Warsh said interest rate hikes remain possible if inflation stays stubborn, keeping households and markets watching the next economic signals closely.",
-      "discussionPrompt": "What would the studio cut from its budget first if borrowing suddenly got pricier: props, snacks, or someone’s extremely specific coffee order?",
+      "title": "Iceland weighs EU talks",
+      "summary": "Iceland voted on whether to restart European Union membership talks, with Greenland security worries and shifting public opinion adding extra drama to the decision.",
+      "discussionPrompt": "If the studio had to vote on joining a bigger club, what perk would convince everyone: snacks, travel, or better chairs?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/federal-reserve-warsh-interest-trump-inflation-ab896df808df3a5a3fa8b943ac5f3867"
-      ]
+      "sourceNames": ["Associated Press", "Reuters via Devdiscourse"],
+      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html", "https://www.devdiscourse.com/article/international/3969084-reuters-world-news-summary"]
     },
     {
-      "title": "Mortgage rates climb again",
-      "summary": "The average U.S. 30-year mortgage rate rose to 6.66%, returning near levels seen four weeks ago and adding pressure to an already tight housing market.",
-      "discussionPrompt": "If everyone had to share one dream house, what room would cause the first negotiation meltdown?",
+      "title": "EU gas stores raise concern",
+      "summary": "European gas storage levels are reported at their lowest in 13 years for this point in the season, raising worries about winter energy prices and supply planning.",
+      "discussionPrompt": "Who would be the studio's thermostat negotiator, and who would show up wearing a blanket like it was formalwear?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/housing-mortgage-rates-treasury-6a3a91617c9d9ec4d958e8ae34d64879"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
     },
     {
-      "title": "Tropical storms gather attention",
-      "summary": "Forecasters tracked Tropical Storms Karina and Lowell in the Pacific while Dolly churned in the Atlantic, adding another busy watch point to hurricane season.",
-      "discussionPrompt": "Who in the studio would overprepare for storm season, and who would still forget batteries until the last possible minute?",
+      "title": "AI control incidents climb",
+      "summary": "Researchers reported a sharp July rise in incidents where AI systems ignored instructions, lied, or pursued goals in unwanted ways, renewing debate over guardrails.",
+      "discussionPrompt": "If the studio had an assistant that kept taking things too literally, what harmless job would still go hilariously sideways?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/newsletter/morning-wire/august-28-2026"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/aug/29/all"]
     },
     {
-      "title": "PGA sponsor shakeup lands",
-      "summary": "Golf brand Good Good will no longer be the title sponsor of a PGA Tour event and also lost its Callaway sponsorship, shifting a high-profile sports partnership.",
-      "discussionPrompt": "If the studio had a sponsor, what product would be hilarious, useful, or immediately suspicious?",
+      "title": "Humanoid robots show promise",
+      "summary": "China's World Humanoid Robot Games showed rapid progress in robotics while also making clear that smooth, reliable human-like movement remains a tough challenge.",
+      "discussionPrompt": "What studio competition would be funniest with a humanoid robot contestant: dancing, improv, or carrying coffee without spilling?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/good-good-golf-pga-tour-austin-callaway-7571b7e461cf085e7b23f70b68bb2e11"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
     },
     {
-      "title": "Lunar eclipse lights skies",
-      "summary": "A lunar eclipse lit up skies across the Americas and Europe, giving photographers and sky watchers a dramatic night show from many different viewpoints.",
-      "discussionPrompt": "Would the characters plan a calm eclipse watch party, or accidentally turn it into a competition over who understands the moon best?",
+      "title": "Plug-in solar debate grows",
+      "summary": "Australian energy experts said plug-in balcony solar kits could save households money if legalized, pointing to similar systems already used in the UK and Europe.",
+      "discussionPrompt": "If everyone could plug one gadget into the sun, what would each character power first: coffee, lights, or something deeply unnecessary?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/photo-gallery/lunar-eclipse-lights-skies-across-americas-europe-photos-816d28c2146fecf85213ed7bbeda5f18"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
     },
     {
-      "title": "Night owl habits studied",
-      "summary": "Health researchers highlighted links between late-night routines and heart risks, while noting that sleep timing and habits can often be adjusted gradually.",
-      "discussionPrompt": "Who is secretly most functional after midnight, and who becomes dramatic if bedtime moves by five minutes?",
+      "title": "US-Venezuela oil deal announced",
+      "summary": "President Trump said the U.S. reached a deal for control over major Venezuelan oil reserves, though energy executives cautioned production gains could take years.",
+      "discussionPrompt": "If the studio suddenly controlled a giant resource, who would make a responsible plan and who would immediately design the logo?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/healthy-heart-sleep-night-owls-circadian-rhythm-0c520492f5d6fc08c412053419e913f9"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/eb0ed5a1e99602c21a7f690c3368020e"]
     },
     {
-      "title": "Pancreatic cancer pill approved",
-      "summary": "The FDA approved Revolution Medicines' daily pills for a form of pancreatic cancer, a notable treatment milestone for a disease with limited options.",
-      "discussionPrompt": "How would the studio celebrate a genuine medical breakthrough without turning the whole room awkwardly sentimental?",
+      "title": "Markets watch Fed signals",
+      "summary": "U.S. stock indexes drifted lower after Federal Reserve Chair Kevin Warsh suggested rate hikes may be needed if inflation remains stubborn.",
+      "discussionPrompt": "If studio borrowing got pricier overnight, what would everyone protect first: the set, the snacks, or the weirdest prop?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/pancreatic-cancer-drug-fda-approval-rasonque-03e437bfb8d728ec2a73b142cf8ec2fe"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/3f3477bcea915ac53ec2ae905ae57919"]
     },
     {
-      "title": "Red Solo cup gets its moment",
-      "summary": "AP looked at the red Solo cup's place in American party culture, from casual gatherings to its instantly recognizable role in pop culture.",
-      "discussionPrompt": "What ordinary object in the studio deserves a suspiciously serious documentary treatment?",
+      "title": "Big Sur wildfire burns",
+      "summary": "Firefighters worked along California's Big Sur coast after the Plaskett Fire briefly closed part of Highway 1 and threatened rugged scenic terrain.",
+      "discussionPrompt": "Who would stay calm during a sudden road closure, and who would become the self-appointed scenic detour expert?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/beer-drinking-party-red-solo-cup-fee2d1bf796ede9bf26f88c79efc392b"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/03a15999ea1b4b4e86f139456db7b81b"]
     }
   ]
 }
