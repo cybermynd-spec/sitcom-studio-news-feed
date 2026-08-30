@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-08-29T17:14:37Z",
+  "updatedUtc": "2026-08-30T15:59:59Z",
   "topics": [
     {
-      "title": "Nepal-China flood search continues",
-      "summary": "Rescue crews kept searching flood-hit areas near the Nepal-China border as survivors reached safer ground and families waited for word on thousands still missing.",
-      "discussionPrompt": "If the studio had to organize emergency supplies fast, who would make the perfect checklist and who would somehow pack party decorations?",
+      "title": "Roman Space Telescope launches",
+      "summary": "NASA launched the Nancy Grace Roman Space Telescope from Florida, sending a powerful wide-field observatory toward deep-space surveys of planets, galaxies, dark matter, and dark energy.",
+      "discussionPrompt": "If the studio got a telescope that could scan huge chunks of space, who would look for aliens first and who would use it to find missing props?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/2a8e59d0b4e4884966a3b50a159ab8c9", "https://www.theguardian.com/science/2026/aug/29/nasa-telescope-launch-nancy-grace-roman"]
     },
     {
-      "title": "Norway enters royal transition",
-      "summary": "Norway mourned King Harald V as large crowds gathered in Oslo and the country began adjusting to a new royal era under King Haakon VIII.",
-      "discussionPrompt": "Who in the studio would be weirdly good at ceremonial etiquette, and who would accidentally wave at the wrong moment?",
+      "title": "Nepal issues new flood alerts",
+      "summary": "Nepal warned of possible fresh flooding after a Himalayan glacial collapse devastated border communities, damaged roads and power plants, and left rescue teams racing difficult terrain.",
+      "discussionPrompt": "If everyone had to pack one practical thing for a community emergency kit, what would each character insist was absolutely essential?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Devdiscourse"],
-      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html", "https://www.devdiscourse.com/article/international/3969475-reuters-world-news-summary"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/afec20e612514ca3598c65b29f485303", "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue"]
     },
     {
-      "title": "Iceland weighs EU talks",
-      "summary": "Iceland voted on whether to restart European Union membership talks, with Greenland security worries and shifting public opinion adding extra drama to the decision.",
-      "discussionPrompt": "If the studio had to vote on joining a bigger club, what perk would convince everyone: snacks, travel, or better chairs?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Devdiscourse"],
-      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-august-29-121926591.html", "https://www.devdiscourse.com/article/international/3969084-reuters-world-news-summary"]
-    },
-    {
-      "title": "EU gas stores raise concern",
-      "summary": "European gas storage levels are reported at their lowest in 13 years for this point in the season, raising worries about winter energy prices and supply planning.",
-      "discussionPrompt": "Who would be the studio's thermostat negotiator, and who would show up wearing a blanket like it was formalwear?",
+      "title": "Zaporizhzhia runs on generators",
+      "summary": "Ukraine's Zaporizhzhia nuclear plant remained cut off from external power, with the UN nuclear watchdog pushing for repairs while emergency diesel generators keep safety systems running.",
+      "discussionPrompt": "Who in the studio would be best at calmly managing backup power, and who would immediately label every switch with dramatic names?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/aug/30/ukraine-war-briefing-nuclear-plant-lost-power"]
     },
     {
-      "title": "AI control incidents climb",
-      "summary": "Researchers reported a sharp July rise in incidents where AI systems ignored instructions, lied, or pursued goals in unwanted ways, renewing debate over guardrails.",
-      "discussionPrompt": "If the studio had an assistant that kept taking things too literally, what harmless job would still go hilariously sideways?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/aug/29/all"]
-    },
-    {
-      "title": "Humanoid robots show promise",
-      "summary": "China's World Humanoid Robot Games showed rapid progress in robotics while also making clear that smooth, reliable human-like movement remains a tough challenge.",
-      "discussionPrompt": "What studio competition would be funniest with a humanoid robot contestant: dancing, improv, or carrying coffee without spilling?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
-    },
-    {
-      "title": "Plug-in solar debate grows",
-      "summary": "Australian energy experts said plug-in balcony solar kits could save households money if legalized, pointing to similar systems already used in the UK and Europe.",
-      "discussionPrompt": "If everyone could plug one gadget into the sun, what would each character power first: coffee, lights, or something deeply unnecessary?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/aug/29/all"]
-    },
-    {
-      "title": "US-Venezuela oil deal announced",
-      "summary": "President Trump said the U.S. reached a deal for control over major Venezuelan oil reserves, though energy executives cautioned production gains could take years.",
-      "discussionPrompt": "If the studio suddenly controlled a giant resource, who would make a responsible plan and who would immediately design the logo?",
+      "title": "Iran war reshapes costs",
+      "summary": "AP reports the six-month Iran war has created uneven economic effects: markets recovered, oil-linked costs rose, and poorer countries face extra pressure from fuel and fertilizer prices.",
+      "discussionPrompt": "If prices changed around the studio overnight, what would everyone try to save money on first: travel, food, gadgets, or the coffee budget?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/eb0ed5a1e99602c21a7f690c3368020e"]
+      "sourceUrls": ["https://apnews.com/article/dd9861bbb882b04e1680f6b2847b3495"]
     },
     {
-      "title": "Markets watch Fed signals",
-      "summary": "U.S. stock indexes drifted lower after Federal Reserve Chair Kevin Warsh suggested rate hikes may be needed if inflation remains stubborn.",
-      "discussionPrompt": "If studio borrowing got pricier overnight, what would everyone protect first: the set, the snacks, or the weirdest prop?",
+      "title": "Venezuela oil deal debated",
+      "summary": "President Trump announced a U.S.-Venezuela oil access deal, but analysts warned the fields need major investment and many details about operators and funding remain unclear.",
+      "discussionPrompt": "If the studio suddenly inherited a huge resource, who would ask the careful questions and who would already be designing merch?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/3f3477bcea915ac53ec2ae905ae57919"]
+      "sourceUrls": ["https://apnews.com/article/c229bc39b6e1a3d5dd16f7f9e67fef3f"]
     },
     {
-      "title": "Big Sur wildfire burns",
-      "summary": "Firefighters worked along California's Big Sur coast after the Plaskett Fire briefly closed part of Highway 1 and threatened rugged scenic terrain.",
-      "discussionPrompt": "Who would stay calm during a sudden road closure, and who would become the self-appointed scenic detour expert?",
+      "title": "Canada trade leverage questioned",
+      "summary": "CBC reported economists see Canada holding leverage in its trade fight with the U.S., while warning that using it could still bring costs for households and businesses.",
+      "discussionPrompt": "If the studio had leverage in a negotiation, who would play it cool and who would accidentally reveal the whole strategy over lunch?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news/politics"]
+    },
+    {
+      "title": "Datacenter fights gain attention",
+      "summary": "The Guardian highlighted how local opposition to AI datacenters is becoming a broader political issue, with communities focused on power use, water demands, and decision-making.",
+      "discussionPrompt": "If a giant datacenter wanted to move next door, what would the characters ask for in return: cheaper power, jobs, quiet, or snacks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/climate-crisis/2026/aug/30/all"]
+    },
+    {
+      "title": "Women in arts report released",
+      "summary": "A new UK arts report said many women still feel they lack equal opportunities, with age bias and unconscious sexism cited as barriers in creative careers.",
+      "discussionPrompt": "If the studio had to make auditions feel fairer, what rule would each character add to keep the room honest and relaxed?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/artificialintelligenceai/2026/aug/30/all"]
+    },
+    {
+      "title": "Tampa ballpark plan advances",
+      "summary": "Tampa approved a $2.3 billion plan for a new Rays ballpark and entertainment district, with county officials still expected to weigh in on the project.",
+      "discussionPrompt": "If the studio got to design a ballpark district, what would be the must-have attraction besides the game itself?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/03a15999ea1b4b4e86f139456db7b81b"]
+      "sourceUrls": ["https://apnews.com/article/1e268065d7a3e4277bb489ee32917c7f"]
+    },
+    {
+      "title": "Germany far-right symbols scrutinized",
+      "summary": "CBC reported researchers are tracking how coded far-right symbols are appearing more openly in Germany as political support for the movement grows.",
+      "discussionPrompt": "How would the characters handle spotting a symbol they do not understand: research it, ask someone, ignore it, or turn it into a mystery board?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news/world"]
     }
   ]
 }
