@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-08-31T16:16:05Z",
+  "updatedUtc": "2026-09-01T16:25:12Z",
   "topics": [
     {
-      "title": "US-Iran strikes lift oil prices",
-      "summary": "Oil prices rose and U.S. stocks slipped after renewed U.S.-Iran attacks near the Strait of Hormuz, a key route for global energy shipments.",
-      "discussionPrompt": "If studio costs jumped because fuel got expensive, what budget line would everyone defend the hardest?",
+      "title": "Army secretary resigns amid Pentagon churn",
+      "summary": "Army Secretary Dan Driscoll stepped down after 18 months, adding to wider leadership turnover at the Pentagon during a tense stretch for U.S. defense policy.",
+      "discussionPrompt": "If the studio suddenly lost a top manager, who would quietly keep things running and who would immediately redesign the org chart?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/00f872327d65e5330598054a234dc25a", "https://www.wprl.org/npr-news/2026-08-31/morning-news-brief"]
+      "sourceUrls": ["https://apnews.com/article/b7dea048552afc5a1e91c6a6b8adef65", "https://www.knkx.org/2026-09-01/morning-news-brief"]
     },
     {
-      "title": "House returns to funding fight",
-      "summary": "U.S. House lawmakers returned from recess with a stopgap spending bill at the top of the agenda as leaders try to avoid a shutdown deadline.",
-      "discussionPrompt": "If the studio had to pass a last-minute budget, who would make the spreadsheet and who would keep adding snacks?",
+      "title": "Kyiv hit by another night of strikes",
+      "summary": "Kyiv faced a sixth straight night of Russian aerial attacks, while diplomatic pressure continued at international meetings over how to end the war in Ukraine.",
+      "discussionPrompt": "When a crisis keeps dragging on, what helps people stay focused without turning every conversation gloomy?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/ff2a469297139d4bf1a64a2db5e60532", "https://www.theguardian.com/us-news/live/2026/aug/31/donald-trump-lake-america-ontario-canada-trade-war-tariffs-jd-vance-g20-latest-news-updates"]
+      "sourceUrls": ["https://apnews.com/article/7564a892bfb99a853aa150c8710b7985", "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent"]
     },
     {
-      "title": "Ukraine faces faster drone attacks",
-      "summary": "Russia's growing use of jet-powered drones has strained Ukrainian air defenses and disrupted daily routines around Kyiv, including food deliveries and school planning.",
-      "discussionPrompt": "If the characters had to redesign a routine around constant interruptions, who would adapt fastest and who would over-plan every minute?",
+      "title": "G20 finance leaders weigh Iran pressure",
+      "summary": "Finance ministers met in North Carolina as the U.S. pushed allies to tighten economic pressure on Iran, with countries split over how far to go.",
+      "discussionPrompt": "If the studio had to agree on a tough group response, who would want a bold move and who would ask for more details first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NPR", "The Guardian"],
+      "sourceUrls": ["https://www.knkx.org/2026-09-01/morning-news-brief", "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent"]
+    },
+    {
+      "title": "Oil and bond pressure rattles markets",
+      "summary": "Wall Street slipped as oil prices and government bond yields rose, renewing worries that borrowing costs and inflation could stay uncomfortable.",
+      "discussionPrompt": "If prices started climbing around the studio, what would everyone refuse to give up: coffee, props, snacks, or better chairs?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/db2f55ab0c3bd5d091dd4338d8bd28c8", "https://www.theguardian.com/world/2026/aug/31/russia-fires-jet-powered-drones-ukraine"]
+      "sourceUrls": ["https://apnews.com/article/775d7cf741349c7c8e689c0beb57f074", "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates"]
     },
     {
-      "title": "Advanced AI worries finance leaders",
-      "summary": "Bank of England governor Andrew Bailey warned G20 officials that frontier AI could create cyber and market risks if financial systems adopt it without stronger safeguards.",
-      "discussionPrompt": "If the studio let an AI handle money decisions, what rule would the characters add before trusting it?",
+      "title": "Tropical Storm Edouard nears Gulf Coast",
+      "summary": "Tropical Storm Edouard approached Texas and Louisiana with heavy rain, flood concerns, and the possibility of strengthening before landfall.",
+      "discussionPrompt": "If everyone had to prep for a storm day, who would make the checklist and who would mostly bring comfort food?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/947df7d220e9793e353631f51e40a06c", "https://podcastrex.com/shows/npr-news-now/npr-news-09-01-2026-12am-edt"]
+    },
+    {
+      "title": "Canada tariff fight hardens",
+      "summary": "Canada's Mark Carney pressed U.S. officials to get serious on trade talks after new tariffs and planned retaliation deepened cross-border tensions.",
+      "discussionPrompt": "If two neighboring studios got into a trade fight, what tiny everyday item would become weirdly important first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/12cb92c1b50ffe6dcfc8a8278beefcd7", "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada"]
+    },
+    {
+      "title": "BBC cuts hit apprentice jobs",
+      "summary": "The BBC drew criticism after withdrawing permanent job promises for about 20 apprentices as it pursues major savings and staff reductions.",
+      "discussionPrompt": "When budgets shrink, how should a workplace decide what entry-level chances are worth protecting?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20"]
+      "sourceUrls": ["https://www.theguardian.com/media/2026/sep/01/bbc-jobs-promise-apprentices-cuts"]
     },
     {
-      "title": "NHS pharmacies add cholesterol checks",
-      "summary": "England's NHS said about 100 high-street pharmacies will offer quick cholesterol checks this autumn to help spot heart and stroke risks earlier.",
-      "discussionPrompt": "Who in the studio would actually go for a quick health check, and who would need three reminders and a bribe?",
+      "title": "Apple starts Ternus era",
+      "summary": "John Ternus became Apple's CEO after Tim Cook's long run, putting an engineer in charge as the company faces major AI and product decisions.",
+      "discussionPrompt": "If someone new took over the studio, what tradition should they keep and what would be fair game to change?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["NHS England", "The Guardian"],
-      "sourceUrls": ["https://www.england.nhs.uk/2026/08/high-street-pharmacies-to-launch-seven-minute-cholesterol-checks/", "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack"]
+      "sourceNames": ["Associated Press", "Axios"],
+      "sourceUrls": ["https://apnews.com/article/2fac80118828b4ada9d160d012c7be32", "https://www.axios.com/newsletters/axios-am-5753b4e2-353e-4a52-91f9-e70b6bbf70f6"]
     },
     {
-      "title": "AI medical scribes face scrutiny",
-      "summary": "Healthwatch England warned that AI tools used to write doctors' notes can mix up drug names and diagnoses, putting more pressure on verification and correction systems.",
-      "discussionPrompt": "If an AI took notes in the studio, what funny but important detail would it probably misunderstand first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns"]
-    },
-    {
-      "title": "Heat deaths may be undercounted",
-      "summary": "An NPR and Boston University investigation estimated U.S. heat-related deaths are far higher than official counts, highlighting gaps in how heat risks are recorded.",
-      "discussionPrompt": "When it gets dangerously hot, what small practical habit would each character push on the rest of the group?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR"],
-      "sourceUrls": ["https://www.nprillinois.org/2026-08-31/npr-spent-2-years-tracking-deaths-from-heat-we-found-a-staggering-hidden-toll"]
-    },
-    {
-      "title": "Qantas crews back strike option",
-      "summary": "Qantas ground crews voted for the right to strike during a pay and safety dispute, raising the possibility of travel disruption in Australia.",
-      "discussionPrompt": "If a trip got delayed by a workplace dispute, who would sympathize first and who would start troubleshooting the itinerary?",
+      "title": "AI safety worries stay visible",
+      "summary": "Fresh reporting on AI testing failures and deceptive behavior kept attention on safeguards, oversight, and how much autonomy powerful systems should have.",
+      "discussionPrompt": "If the studio used a super-capable assistant, what job would be helpful to delegate and what should stay human-only?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb"]
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values", "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us"]
     },
     {
-      "title": "Iceland rejects EU talks",
-      "summary": "Icelandic voters narrowly rejected reopening European Union accession talks, keeping the country's current mix of NATO, Schengen, and single-market ties in place.",
-      "discussionPrompt": "If the studio had to vote on joining a bigger organization, what would be the dealbreaker issue for each character?",
+      "title": "Scientists track sharks near Hamptons",
+      "summary": "Researchers off Long Island are tagging sharks to learn more about migration, warming waters, and nursery habitats for young great whites.",
+      "discussionPrompt": "What animal would make the best misunderstood studio mascot if everyone learned the science before reacting?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/d29f8d4e140894fe22db17005e9c2a2e", "https://www.devdiscourse.com/article/international/3970080-reuters-world-news-summary"]
-    },
-    {
-      "title": "Sagitta stands out in night sky",
-      "summary": "Skywatchers are being pointed toward Sagitta, a small arrow-shaped constellation that is easier to spot from darker skies during late-summer evenings.",
-      "discussionPrompt": "If everyone had to name a constellation after something in the studio, what shape would they swear they could see?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/aug/31/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/d533090a9bed72e70e407ec4ea4d40fc"]
     }
   ]
 }
