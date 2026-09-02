@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-01T16:25:12Z",
+  "updatedUtc": "2026-09-02T17:03:53Z",
   "topics": [
     {
-      "title": "Army secretary resigns amid Pentagon churn",
-      "summary": "Army Secretary Dan Driscoll stepped down after 18 months, adding to wider leadership turnover at the Pentagon during a tense stretch for U.S. defense policy.",
-      "discussionPrompt": "If the studio suddenly lost a top manager, who would quietly keep things running and who would immediately redesign the org chart?",
+      "title": "US-Iran hostilities shake Gulf region",
+      "summary": "Fresh U.S. strikes on Iran and Iranian retaliation against Gulf targets raised diplomatic alarm, tightened oil-route worries, and prompted calls for restraint from several countries.",
+      "discussionPrompt": "If a tense situation suddenly affected everyone nearby, who in the studio would push for a calm group plan first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/b7dea048552afc5a1e91c6a6b8adef65", "https://www.knkx.org/2026-09-01/morning-news-brief"]
+      "sourceUrls": ["https://apnews.com/article/cc891e22860d7a53bf7ade9a3d74c0ae", "https://www.wrkf.org/2026-09-02/morning-news-brief"]
     },
     {
-      "title": "Kyiv hit by another night of strikes",
-      "summary": "Kyiv faced a sixth straight night of Russian aerial attacks, while diplomatic pressure continued at international meetings over how to end the war in Ukraine.",
-      "discussionPrompt": "When a crisis keeps dragging on, what helps people stay focused without turning every conversation gloomy?",
+      "title": "Markets steady after oil jump",
+      "summary": "U.S. stocks rose as oil prices and bond yields held steadier after recent pressure, while investors watched energy costs, inflation signals, and upcoming jobs data.",
+      "discussionPrompt": "When prices get jumpy, what would the studio protect first: snacks, props, coffee, or comfy chairs?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/7564a892bfb99a853aa150c8710b7985", "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent"]
+      "sourceUrls": ["https://apnews.com/article/27b78c349725ac744c96a6b8b8167bae", "https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates"]
     },
     {
-      "title": "G20 finance leaders weigh Iran pressure",
-      "summary": "Finance ministers met in North Carolina as the U.S. pushed allies to tighten economic pressure on Iran, with countries split over how far to go.",
-      "discussionPrompt": "If the studio had to agree on a tough group response, who would want a bold move and who would ask for more details first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR", "The Guardian"],
-      "sourceUrls": ["https://www.knkx.org/2026-09-01/morning-news-brief", "https://www.theguardian.com/world/2026/sep/01/ukraine-war-briefing-pressure-stays-on-russian-economy-until-war-is-over-says-bessent"]
-    },
-    {
-      "title": "Oil and bond pressure rattles markets",
-      "summary": "Wall Street slipped as oil prices and government bond yields rose, renewing worries that borrowing costs and inflation could stay uncomfortable.",
-      "discussionPrompt": "If prices started climbing around the studio, what would everyone refuse to give up: coffee, props, snacks, or better chairs?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/775d7cf741349c7c8e689c0beb57f074", "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates"]
-    },
-    {
-      "title": "Tropical Storm Edouard nears Gulf Coast",
-      "summary": "Tropical Storm Edouard approached Texas and Louisiana with heavy rain, flood concerns, and the possibility of strengthening before landfall.",
-      "discussionPrompt": "If everyone had to prep for a storm day, who would make the checklist and who would mostly bring comfort food?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/947df7d220e9793e353631f51e40a06c", "https://podcastrex.com/shows/npr-news-now/npr-news-09-01-2026-12am-edt"]
-    },
-    {
-      "title": "Canada tariff fight hardens",
-      "summary": "Canada's Mark Carney pressed U.S. officials to get serious on trade talks after new tariffs and planned retaliation deepened cross-border tensions.",
-      "discussionPrompt": "If two neighboring studios got into a trade fight, what tiny everyday item would become weirdly important first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/12cb92c1b50ffe6dcfc8a8278beefcd7", "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada"]
-    },
-    {
-      "title": "BBC cuts hit apprentice jobs",
-      "summary": "The BBC drew criticism after withdrawing permanent job promises for about 20 apprentices as it pursues major savings and staff reductions.",
-      "discussionPrompt": "When budgets shrink, how should a workplace decide what entry-level chances are worth protecting?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/media/2026/sep/01/bbc-jobs-promise-apprentices-cuts"]
-    },
-    {
-      "title": "Apple starts Ternus era",
-      "summary": "John Ternus became Apple's CEO after Tim Cook's long run, putting an engineer in charge as the company faces major AI and product decisions.",
-      "discussionPrompt": "If someone new took over the studio, what tradition should they keep and what would be fair game to change?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Axios"],
-      "sourceUrls": ["https://apnews.com/article/2fac80118828b4ada9d160d012c7be32", "https://www.axios.com/newsletters/axios-am-5753b4e2-353e-4a52-91f9-e70b6bbf70f6"]
-    },
-    {
-      "title": "AI safety worries stay visible",
-      "summary": "Fresh reporting on AI testing failures and deceptive behavior kept attention on safeguards, oversight, and how much autonomy powerful systems should have.",
-      "discussionPrompt": "If the studio used a super-capable assistant, what job would be helpful to delegate and what should stay human-only?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values", "https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us"]
-    },
-    {
-      "title": "Scientists track sharks near Hamptons",
-      "summary": "Researchers off Long Island are tagging sharks to learn more about migration, warming waters, and nursery habitats for young great whites.",
-      "discussionPrompt": "What animal would make the best misunderstood studio mascot if everyone learned the science before reacting?",
+      "title": "Xi visits Egypt in Mideast push",
+      "summary": "China's Xi Jinping visited Egypt to deepen economic and diplomatic ties, with Suez Canal access and wider Middle East influence high on the agenda.",
+      "discussionPrompt": "If the studio wanted a bigger role in the neighborhood, would it start with favors, parties, or serious meetings?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/d533090a9bed72e70e407ec4ea4d40fc"]
+      "sourceUrls": ["https://apnews.com/article/946c3b90b6251c08fdcb219e24a088a2"]
+    },
+    {
+      "title": "UN warns climate goal will overshoot",
+      "summary": "A UN report says global heating is likely to pass the 1.5C target before any later cooling path, adding urgency to emissions cuts and adaptation plans.",
+      "discussionPrompt": "What everyday change would the studio actually stick with if everyone had to lower waste without making life miserable?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/1b2d126e8359ba77e5546f27d8f4a4e1", "https://www.theguardian.com/australia-news/2026/sep/02/afternoon-update-wednesday-ntwnfb"]
+    },
+    {
+      "title": "Ukraine warns on Russian airspace",
+      "summary": "Volodymyr Zelenskyy warned airlines that Russian airspace is increasingly unsafe because of drone activity, as attacks on rail, energy, and port infrastructure continued.",
+      "discussionPrompt": "If a normal route suddenly felt risky, who would find a clever detour and who would overpack for the trip?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/02/ukraine-war-briefing-russian-sky-full-of-our-drones-and-not-safe-zelenskyy-warns-airlines"]
+    },
+    {
+      "title": "Data centre backlash grows",
+      "summary": "Communities are pushing back against rapid data centre expansion, arguing AI-driven projects can strain energy, water, planning rules, and local trust.",
+      "discussionPrompt": "If the studio needed a giant computer room, what would neighbors fairly want to know before saying yes?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres"]
+    },
+    {
+      "title": "Nvidia urges practical AI rules",
+      "summary": "At a G20 technology meeting, Nvidia's Jensen Huang urged governments to regulate real-world AI problems instead of hypothetical harms, joining a wider industry push.",
+      "discussionPrompt": "When making rules for a powerful new tool, should the studio ban weird possibilities or wait for real problems?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.investing.com/news/stock-market-news/nvidia-ceo-urges-g20-to-avoid-ai-rules-on-theoretical-harms-4886204"]
+    },
+    {
+      "title": "UK AI strategist joins Anthropic",
+      "summary": "Matt Clifford, who helped shape Britain's AI strategy, joined Anthropic in an international affairs role, drawing scrutiny over tech policy influence and conflicts.",
+      "discussionPrompt": "If someone helped write the studio rules, how long should they wait before working for a company affected by them?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic"]
+    },
+    {
+      "title": "US grid faces heatwave strain",
+      "summary": "U.S. energy officials warned that heatwave demand could raise blackout risks across major electric grids, especially in the PJM region serving 67 million people.",
+      "discussionPrompt": "If the power got unreliable at the studio, what low-tech backup plan would everyone secretly enjoy?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/02/all"]
+    },
+    {
+      "title": "Pesticide study highlights farmer risks",
+      "summary": "A new analysis says pesticide poisoning affects a large share of the world's farmers each year, renewing debate over safety rules, training, and alternatives.",
+      "discussionPrompt": "If a job needs risky materials, what would make the workplace feel responsible instead of just saying be careful?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/02/all"]
     }
   ]
 }
