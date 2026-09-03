@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-02T17:03:53Z",
+  "updatedUtc": "2026-09-03T17:05:54Z",
   "topics": [
     {
-      "title": "US-Iran hostilities shake Gulf region",
-      "summary": "Fresh U.S. strikes on Iran and Iranian retaliation against Gulf targets raised diplomatic alarm, tightened oil-route worries, and prompted calls for restraint from several countries.",
-      "discussionPrompt": "If a tense situation suddenly affected everyone nearby, who in the studio would push for a calm group plan first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/cc891e22860d7a53bf7ade9a3d74c0ae", "https://www.wrkf.org/2026-09-02/morning-news-brief"]
-    },
-    {
-      "title": "Markets steady after oil jump",
-      "summary": "U.S. stocks rose as oil prices and bond yields held steadier after recent pressure, while investors watched energy costs, inflation signals, and upcoming jobs data.",
-      "discussionPrompt": "When prices get jumpy, what would the studio protect first: snacks, props, coffee, or comfy chairs?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/27b78c349725ac744c96a6b8b8167bae", "https://www.theguardian.com/business/live/2026/sep/02/bond-market-sell-off-shares-slide-oil-inflation-fears-latest-news-updates"]
-    },
-    {
-      "title": "Xi visits Egypt in Mideast push",
-      "summary": "China's Xi Jinping visited Egypt to deepen economic and diplomatic ties, with Suez Canal access and wider Middle East influence high on the agenda.",
-      "discussionPrompt": "If the studio wanted a bigger role in the neighborhood, would it start with favors, parties, or serious meetings?",
+      "title": "Gulf tensions ripple through oil routes",
+      "summary": "Iranian attacks on Kuwait after U.S. strikes on Iran added pressure around the Strait of Hormuz, while regional defenses intercepted missiles and drones and diplomats urged restraint.",
+      "discussionPrompt": "If a faraway shipping route suddenly affected studio supplies, who would become the emergency logistics expert?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/946c3b90b6251c08fdcb219e24a088a2"]
+      "sourceUrls": ["https://apnews.com/article/6b5f8c2e6153fa199cbdb567acef6806"]
     },
     {
-      "title": "UN warns climate goal will overshoot",
-      "summary": "A UN report says global heating is likely to pass the 1.5C target before any later cooling path, adding urgency to emissions cuts and adaptation plans.",
-      "discussionPrompt": "What everyday change would the studio actually stick with if everyone had to lower waste without making life miserable?",
+      "title": "Markets climb as bond yields ease",
+      "summary": "Wall Street rose as Treasury yields cooled, major tech stocks gained, and investors balanced stronger earnings against higher oil prices and Friday's U.S. jobs report.",
+      "discussionPrompt": "When the studio budget gets unpredictable, what expense would everyone defend first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/7e1bffd68c53b54806be950f01181994"]
+    },
+    {
+      "title": "Judge blocks birthright citizenship order",
+      "summary": "A federal judge in Maryland temporarily blocked President Trump's latest attempt to restrict birthright citizenship, citing long-standing 14th Amendment precedent while litigation continues.",
+      "discussionPrompt": "If a rule has been around forever, what should happen before anyone tries to rewrite it?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/1b2d126e8359ba77e5546f27d8f4a4e1", "https://www.theguardian.com/australia-news/2026/sep/02/afternoon-update-wednesday-ntwnfb"]
+      "sourceUrls": ["https://apnews.com/article/69de0a404602a6e648b35f6a852c833d", "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"]
     },
     {
-      "title": "Ukraine warns on Russian airspace",
-      "summary": "Volodymyr Zelenskyy warned airlines that Russian airspace is increasingly unsafe because of drone activity, as attacks on rail, energy, and port infrastructure continued.",
-      "discussionPrompt": "If a normal route suddenly felt risky, who would find a clever detour and who would overpack for the trip?",
+      "title": "Canada trade talks stay stuck",
+      "summary": "Canada's Mark Carney said U.S. negotiators failed to guarantee tariff stability, keeping trade talks stalled as both sides prepare for more tariff pressure.",
+      "discussionPrompt": "What makes a deal feel trustworthy: the handshake, the details, or what happens when things get tense?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Wall Street Journal", "The Guardian"],
+      "sourceUrls": ["https://www.wsj.com/world/americas/u-s-failed-to-give-assurances-on-tariff-levels-canadas-carney-says-9c0b4506", "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"]
+    },
+    {
+      "title": "Ukraine drones disrupt Russian summer",
+      "summary": "Ukraine's expanded drone campaign has disrupted Russian airports, refineries, warehouses, and daily routines, bringing more of the war's pressure onto Russian territory.",
+      "discussionPrompt": "When a problem that felt distant gets close, who changes their mind fastest?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/2367e71fc35353e92dc4884028ba403b"]
+    },
+    {
+      "title": "UN warns of powerful El Nino",
+      "summary": "The UN warned that a very strong El Nino is forming, raising risks of heat, drought, floods, food stress, and another exceptionally hot year.",
+      "discussionPrompt": "If the weather started changing everyone's plans, what studio routine would need the first rethink?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/02/ukraine-war-briefing-russian-sky-full-of-our-drones-and-not-safe-zelenskyy-warns-airlines"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations"]
     },
     {
-      "title": "Data centre backlash grows",
-      "summary": "Communities are pushing back against rapid data centre expansion, arguing AI-driven projects can strain energy, water, planning rules, and local trust.",
-      "discussionPrompt": "If the studio needed a giant computer room, what would neighbors fairly want to know before saying yes?",
+      "title": "Himalayan flood exposes warning gaps",
+      "summary": "A deadly Nepal-Tibet flood renewed attention on melting glaciers, risky development, and the need for stronger early-warning systems in vulnerable mountain communities.",
+      "discussionPrompt": "What kind of warning would actually make everyone in the studio stop joking and move?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres"]
+      "sourceNames": ["The Guardian", "Reuters"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/03/climate-injustices-have-been-laid-bare-in-the-nepal-tibet-flood-disaster", "https://www.yahoo.com/news/videos/ap-top-stories-september-3-032106956.html"]
     },
     {
-      "title": "Nvidia urges practical AI rules",
-      "summary": "At a G20 technology meeting, Nvidia's Jensen Huang urged governments to regulate real-world AI problems instead of hypothetical harms, joining a wider industry push.",
-      "discussionPrompt": "When making rules for a powerful new tool, should the studio ban weird possibilities or wait for real problems?",
+      "title": "Mercury mission nears orbit",
+      "summary": "The European-Japanese BepiColombo spacecraft separated from its carrier and entered the final stretch toward Mercury orbit after nearly a decade in space.",
+      "discussionPrompt": "After a ten-year trip, what would be the first thing you'd want to look at up close?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.investing.com/news/stock-market-news/nvidia-ceo-urges-g20-to-avoid-ai-rules-on-theoretical-harms-4886204"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/8840475f5f873b9bcc7245f45ffdc50c"]
     },
     {
-      "title": "UK AI strategist joins Anthropic",
-      "summary": "Matt Clifford, who helped shape Britain's AI strategy, joined Anthropic in an international affairs role, drawing scrutiny over tech policy influence and conflicts.",
-      "discussionPrompt": "If someone helped write the studio rules, how long should they wait before working for a company affected by them?",
+      "title": "Gloria Steinem remembered at 92",
+      "summary": "Tributes from political leaders, writers, and actors honored Gloria Steinem's decades of feminist organizing, journalism, and influence on U.S. public life.",
+      "discussionPrompt": "Who is someone whose ideas kept changing rooms long after they left them?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/62a49a8baba7a70bc4a657e65b94b415", "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"]
     },
     {
-      "title": "US grid faces heatwave strain",
-      "summary": "U.S. energy officials warned that heatwave demand could raise blackout risks across major electric grids, especially in the PJM region serving 67 million people.",
-      "discussionPrompt": "If the power got unreliable at the studio, what low-tech backup plan would everyone secretly enjoy?",
+      "title": "NBA penalizes Clippers heavily",
+      "summary": "The NBA suspended Clippers owner Steve Ballmer, fined the team, and took draft picks after a salary-cap circumvention investigation involving Kawhi Leonard.",
+      "discussionPrompt": "If a team bends the rules to keep a star, what penalty would actually feel fair?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/02/all"]
-    },
-    {
-      "title": "Pesticide study highlights farmer risks",
-      "summary": "A new analysis says pesticide poisoning affects a large share of the world's farmers each year, renewing debate over safety rules, training, and alternatives.",
-      "discussionPrompt": "If a job needs risky materials, what would make the workplace feel responsible instead of just saying be careful?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/02/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/0dc5e1a0d34224d5c65dbc39a74076c5"]
     }
   ]
 }
