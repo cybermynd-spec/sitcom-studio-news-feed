@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-03T17:05:54Z",
+  "updatedUtc": "2026-09-04T20:01:56Z",
   "topics": [
     {
-      "title": "Gulf tensions ripple through oil routes",
-      "summary": "Iranian attacks on Kuwait after U.S. strikes on Iran added pressure around the Strait of Hormuz, while regional defenses intercepted missiles and drones and diplomats urged restraint.",
-      "discussionPrompt": "If a faraway shipping route suddenly affected studio supplies, who would become the emergency logistics expert?",
+      "title": "US tightens pressure on Iran",
+      "summary": "The U.S. added new sanctions aimed at Iran-linked financial networks while regional tensions and oil-route concerns continued to weigh on diplomacy and markets.",
+      "discussionPrompt": "When pressure keeps building from every side, who in the studio would try diplomacy first and who would make it worse?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/6b5f8c2e6153fa199cbdb567acef6806"]
+      "sourceUrls": ["https://apnews.com/article/f26ad8d666cc1d38fcce78df4612a24d"]
     },
     {
-      "title": "Markets climb as bond yields ease",
-      "summary": "Wall Street rose as Treasury yields cooled, major tech stocks gained, and investors balanced stronger earnings against higher oil prices and Friday's U.S. jobs report.",
-      "discussionPrompt": "When the studio budget gets unpredictable, what expense would everyone defend first?",
+      "title": "Strong jobs report rattles markets",
+      "summary": "U.S. stocks slipped after August hiring came in stronger than expected, raising investor bets that the Federal Reserve may keep rates higher to fight inflation.",
+      "discussionPrompt": "If good news makes everyone nervous, how do you decide whether to celebrate or start checking the budget?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/7e1bffd68c53b54806be950f01181994"]
+      "sourceUrls": ["https://apnews.com/article/1af16359af43eb8abc66445465f633c8"]
     },
     {
-      "title": "Judge blocks birthright citizenship order",
-      "summary": "A federal judge in Maryland temporarily blocked President Trump's latest attempt to restrict birthright citizenship, citing long-standing 14th Amendment precedent while litigation continues.",
-      "discussionPrompt": "If a rule has been around forever, what should happen before anyone tries to rewrite it?",
+      "title": "Kyiv faces more daytime attacks",
+      "summary": "Russia's drone and missile strikes on Kyiv are increasingly disrupting daytime routines, adding pressure to commutes, schools, public services, and daily civilian life.",
+      "discussionPrompt": "When interruptions stop being rare and become routine, what helps people keep a normal day going?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/69de0a404602a6e648b35f6a852c833d", "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"]
+      "sourceUrls": ["https://apnews.com/article/bf44285b08051866f6054afabde660ec", "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates"]
     },
     {
-      "title": "Canada trade talks stay stuck",
-      "summary": "Canada's Mark Carney said U.S. negotiators failed to guarantee tariff stability, keeping trade talks stalled as both sides prepare for more tariff pressure.",
-      "discussionPrompt": "What makes a deal feel trustworthy: the handshake, the details, or what happens when things get tense?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Wall Street Journal", "The Guardian"],
-      "sourceUrls": ["https://www.wsj.com/world/americas/u-s-failed-to-give-assurances-on-tariff-levels-canadas-carney-says-9c0b4506", "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"]
-    },
-    {
-      "title": "Ukraine drones disrupt Russian summer",
-      "summary": "Ukraine's expanded drone campaign has disrupted Russian airports, refineries, warehouses, and daily routines, bringing more of the war's pressure onto Russian territory.",
-      "discussionPrompt": "When a problem that felt distant gets close, who changes their mind fastest?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2367e71fc35353e92dc4884028ba403b"]
-    },
-    {
-      "title": "UN warns of powerful El Nino",
-      "summary": "The UN warned that a very strong El Nino is forming, raising risks of heat, drought, floods, food stress, and another exceptionally hot year.",
-      "discussionPrompt": "If the weather started changing everyone's plans, what studio routine would need the first rethink?",
+      "title": "Ukraine peace diplomacy stirs again",
+      "summary": "U.S. negotiators are expected to visit Kyiv and Moscow as leaders signal possible openings for talks, even as fighting and drone strikes continue.",
+      "discussionPrompt": "What makes a peace talk feel serious: who shows up, what they offer, or whether the noise quiets down?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/04/ukraine-war-briefing-us-envoy-to-visit-kyiv-in-coming-days-zelenskyy-says-as-putin-signals-chance-of-peace"]
     },
     {
-      "title": "Himalayan flood exposes warning gaps",
-      "summary": "A deadly Nepal-Tibet flood renewed attention on melting glaciers, risky development, and the need for stronger early-warning systems in vulnerable mountain communities.",
-      "discussionPrompt": "What kind of warning would actually make everyone in the studio stop joking and move?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Reuters"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/03/climate-injustices-have-been-laid-bare-in-the-nepal-tibet-flood-disaster", "https://www.yahoo.com/news/videos/ap-top-stories-september-3-032106956.html"]
-    },
-    {
-      "title": "Mercury mission nears orbit",
-      "summary": "The European-Japanese BepiColombo spacecraft separated from its carrier and entered the final stretch toward Mercury orbit after nearly a decade in space.",
-      "discussionPrompt": "After a ten-year trip, what would be the first thing you'd want to look at up close?",
+      "title": "Nepal flood rescue brings relief",
+      "summary": "Rescuers pulled two trapped workers from a hydropower tunnel nine days after severe Nepal floods, while the disaster kept attention on mountain-region warning systems.",
+      "discussionPrompt": "What kind of survival story would make the whole studio go quiet for a second, then ask a hundred questions?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/8840475f5f873b9bcc7245f45ffdc50c"]
+      "sourceUrls": ["https://nz.news.yahoo.com/ap-top-stories-september-4-125818619.html"]
     },
     {
-      "title": "Gloria Steinem remembered at 92",
-      "summary": "Tributes from political leaders, writers, and actors honored Gloria Steinem's decades of feminist organizing, journalism, and influence on U.S. public life.",
-      "discussionPrompt": "Who is someone whose ideas kept changing rooms long after they left them?",
+      "title": "Hollywood summer rebounds",
+      "summary": "The summer box office had its strongest showing in years, helped by younger audiences, premium screens, familiar franchises, and several original breakout films.",
+      "discussionPrompt": "What gets people off the couch for a movie now: spectacle, nostalgia, friends, or just needing a night out?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a61fcf4ebe57b31dd83bf14d10a0321b"]
+    },
+    {
+      "title": "Quirky science wins Ig Nobels",
+      "summary": "This year's Ig Nobel prizes highlighted oddball research, including studies tied to unusual animal biology and everyday habits, celebrating science that makes people laugh and think.",
+      "discussionPrompt": "What ridiculous question would secretly deserve a proper experiment in the studio?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://nz.news.yahoo.com/ap-top-stories-september-4-125818619.html"]
+    },
+    {
+      "title": "Australia debates skilled migration",
+      "summary": "Australian leaders and unions debated how skilled migration, AI, trades shortages, and worker protections should fit together as the country plans for future labor needs.",
+      "discussionPrompt": "If a workplace suddenly needs totally new skills, should it hire, retrain, or slow down and rethink the whole plan?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb"]
+    },
+    {
+      "title": "Malta verdict alarms journalists",
+      "summary": "The acquittal of Yorgen Fenech in the Daphne Caruana Galizia case renewed concern about journalist safety, accountability, and press freedom in Europe.",
+      "discussionPrompt": "When a verdict leaves people uneasy, what should happen next: appeal, reform, public pressure, or all of it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/04/friday-briefing-what-does-the-acquittal-in-the-caruana-galizia-case-mean-for-the-safety-of-journalists"]
+    },
+    {
+      "title": "Mail-voting fight reaches court again",
+      "summary": "The Trump administration asked the U.S. Supreme Court to intervene over blocked USPS mail-voting restrictions as states prepare ballots for the midterm elections.",
+      "discussionPrompt": "If an election rule changes right before voting starts, what would make people trust the process?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/62a49a8baba7a70bc4a657e65b94b415", "https://www.theguardian.com/world/2026/sep/03/gloria-steinem-obituary"]
-    },
-    {
-      "title": "NBA penalizes Clippers heavily",
-      "summary": "The NBA suspended Clippers owner Steve Ballmer, fined the team, and took draft picks after a salary-cap circumvention investigation involving Kawhi Leonard.",
-      "discussionPrompt": "If a team bends the rules to keep a star, what penalty would actually feel fair?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/0dc5e1a0d34224d5c65dbc39a74076c5"]
+      "sourceUrls": ["https://apnews.com/article/63899f738d28d161b629054a314f161a", "https://www.theguardian.com/us-news/live/2026/sep/03/donald-trump-immigration-tariffs-canada-trade-iran-jd-vance-latest-news-updates"]
     }
   ]
 }
