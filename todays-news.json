@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-05T16:16:10Z",
+  "updatedUtc": "2026-09-06T18:47:56Z",
   "topics": [
     {
-      "title": "Gulf tensions unsettle oil routes",
-      "summary": "Fresh reports of tanker strikes and missile claims around the Persian Gulf put shipping routes, energy prices, and diplomacy back in the spotlight.",
-      "discussionPrompt": "If one crowded waterway can make the whole room nervous, who starts watching prices and who starts drawing maps?",
+      "title": "Ukraine talks move to Kyiv",
+      "summary": "U.S. envoys met Ukrainian leaders after Moscow talks, with air defense, winter energy support, security guarantees, and reconstruction all on the table.",
+      "discussionPrompt": "If a peace pitch arrives after a Moscow meeting, what would make the studio cautiously hopeful instead of just suspicious?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/44bba3b57b480560d9f48dba7d28534e", "https://www.npr.org/"]
+    },
+    {
+      "title": "Hormuz claim raises tension",
+      "summary": "Iran said it struck an unmanned U.S. vessel near the Strait of Hormuz, while the U.S. denied the claim amid wider tanker and missile tensions.",
+      "discussionPrompt": "When two sides describe the same sea incident completely differently, who in the studio starts checking maps and oil prices?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "CBC News"],
+      "sourceUrls": ["https://apnews.com/article/a52beec77dc90af3d040d0553837ad20", "https://www.cbc.ca/news/world/iran-us-ship-9.7334159"]
+    },
+    {
+      "title": "Volcano disrupts Indonesia flights",
+      "summary": "Anak Krakatau eruptions sent ash across western Indonesia, shutting airports, cancelling flights, and pushing officials to warn people away from the crater.",
+      "discussionPrompt": "If ash clouds grounded everyone, who would handle the schedule calmly and who would immediately overpack snacks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters Connect"],
+      "sourceUrls": ["https://apnews.com/article/12c3cb67859b2c51054b378d60148d33", "https://www.reutersconnect.com/collection/latest-news"]
+    },
+    {
+      "title": "Mail-ballot fight returns",
+      "summary": "The Trump administration again asked the Supreme Court to allow mail-ballot restrictions as states prepare ballots for the 2026 midterms.",
+      "discussionPrompt": "If election rules are still being argued while ballots are going out, what would make regular voters feel clear on what to do?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/b3650799901c56a6deeca962cbaa4109"]
+      "sourceUrls": ["https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c"]
     },
     {
-      "title": "US jobs report complicates rate hopes",
-      "summary": "A stronger August jobs report showed solid hiring, but markets worried it could keep interest rates higher while inflation concerns linger.",
-      "discussionPrompt": "When good job numbers make investors frown, how would the studio decide whether that is good news or tricky news?",
+      "title": "Canadian travelers prove hard to win back",
+      "summary": "U.S. tourism groups are trying discounts and promotions to lure Canadian visitors, but trade tensions and politics are weighing on cross-border trips.",
+      "discussionPrompt": "What would actually win back a cautious traveler: a bargain, a warmer welcome, or just less drama at the border?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2c0c0495d4931d3724e0144285cfa010"]
+      "sourceUrls": ["https://apnews.com/article/42ea6dd35e3ee24898f6a07495576435"]
     },
     {
-      "title": "China storm cleanup continues",
-      "summary": "Heavy rain from tropical storm Saudel triggered flooding, evacuations, and rescue work in eastern China after mudslides damaged homes.",
-      "discussionPrompt": "What would the studio pack first if everyone had to leave fast: documents, snacks, chargers, or something totally sentimental?",
+      "title": "Inflation data looms over Fed",
+      "summary": "Markets are watching August inflation numbers before the Federal Reserve meets, with economists focused on whether price pressure changes the rate outlook.",
+      "discussionPrompt": "Why does one inflation report make everyone act like they are waiting for exam results?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Financial Times", "NPR"],
+      "sourceUrls": ["https://www.ft.com/content/cffea5bc-0255-4029-8e76-0c3671bf4d92", "https://www.npr.org/"]
+    },
+    {
+      "title": "Summer box office ends strong",
+      "summary": "Spider-Man stayed No. 1 for a sixth week as Hollywood wrapped its strongest summer box-office season in years, helped by several big crowd-pleasers.",
+      "discussionPrompt": "What keeps people showing up for the same hit movie: comfort, spectacle, friends dragging friends, or pure curiosity?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f129132156a3bf65d493c7af356b41bf"]
+      "sourceUrls": ["https://apnews.com/article/0985d43deebda5f5721267b51104ef4c"]
     },
     {
-      "title": "Ukraine diplomacy gets a pause",
-      "summary": "A proposed pause in strikes around Kyiv raised cautious hopes for talks, though fighting and mistrust continue to shape the wider war.",
-      "discussionPrompt": "What makes a pause feel real: quiet skies, serious negotiators, or people finally believing the other side means it?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Times"],
-      "sourceUrls": ["https://www.thetimes.com/world/russia-ukraine-war/article/steve-witkoff-jared-kushner-us-russia-ukraine-talks-jfcbxjm5f"]
-    },
-    {
-      "title": "US mail-voting fight returns",
-      "summary": "Courts kept wrestling with proposed federal mail-voting restrictions as states prepare for midterm ballots and election officials seek clarity.",
-      "discussionPrompt": "If a rule changes right before a big vote, what would make people in the studio trust the process?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/63899f738d28d161b629054a314f161a", "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates"]
-    },
-    {
-      "title": "California race tests Latino vote",
-      "summary": "A Central Valley House race is drawing national attention as campaigns watch how Latino voters respond to local issues and national politics.",
-      "discussionPrompt": "When a neighborhood race becomes a national symbol, does that help voters feel seen or just talked about?",
+      "title": "NBC voice marks milestone season",
+      "summary": "Broadcaster Dan Hicks marked his 35th NBC Sports season while calling Notre Dame and Wisconsin from Lambeau Field, reflecting on decades across major events.",
+      "discussionPrompt": "Who in the studio would be best at making one voice feel familiar for decades of big sports moments?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f2da959acb96c2c565204bd9c5c26e45"]
+      "sourceUrls": ["https://apnews.com/article/ae22b2644f7cd273dc54c3da5a7afe88"]
     },
     {
-      "title": "Data-center backlash grows",
-      "summary": "Communities are pushing back on rapid data-center expansion, raising questions about electricity, water use, local planning, and who benefits from AI infrastructure.",
-      "discussionPrompt": "If a giant server farm moved next door, what would the studio ask first: jobs, noise, bills, or water?",
+      "title": "Smart-ring IPO draws attention",
+      "summary": "NPR reported smart-ring maker Aura is preparing a major IPO, drawing interest around wearable health data, subscriptions, and biometric privacy.",
+      "discussionPrompt": "Would the studio wear a health ring if it meant useful tips, or would everyone argue over who sees the data?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres"]
+      "sourceNames": ["NPR News Now"],
+      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-06-2026-3am-edt"]
     },
     {
-      "title": "Scientists flag methane fixes",
-      "summary": "Climate researchers and advocates are spotlighting methane leaks as a fast, practical target for slowing near-term warming if countries and companies act.",
-      "discussionPrompt": "What is more satisfying to talk about: a huge climate plan, or one obvious leak somebody can actually plug?",
+      "title": "Roman telescope launch sparks interest",
+      "summary": "NPR highlighted the launch of the Nancy Grace Roman Space Telescope, a mission expected to deepen studies of planets, galaxies, and dark energy.",
+      "discussionPrompt": "If a new space telescope could answer one giant question, what would the studio vote to point it at first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/series/science+environment/climate-crisis"]
-    },
-    {
-      "title": "Rhino drones show conservation shift",
-      "summary": "African nature reserves are expanding their use of drones and other technology to monitor wildlife, deter poaching, and support conservation teams.",
-      "discussionPrompt": "Would the studio trust a drone to help protect wildlife, or would someone immediately worry about where all the footage goes?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment+technology/technology"]
-    },
-    {
-      "title": "County cricket table tightens",
-      "summary": "A busy County Championship day brought draws, close finishes, and promotion movement, with Somerset leading and several clubs shifting the race.",
-      "discussionPrompt": "What is better studio drama: a one-wicket finish, a surprise draw, or a coach trying to explain a collapse?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/live/2026/sep/05/nottinghamshire-leicestershire-essex-sussex-county-cricket-day-four-live"]
+      "sourceNames": ["NPR News Now"],
+      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-06-2026-5am-edt"]
     }
   ]
 }
