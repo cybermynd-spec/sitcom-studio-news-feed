@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-06T18:47:56Z",
+  "updatedUtc": "2026-09-07T18:01:50Z",
   "topics": [
     {
-      "title": "Ukraine talks move to Kyiv",
-      "summary": "U.S. envoys met Ukrainian leaders after Moscow talks, with air defense, winter energy support, security guarantees, and reconstruction all on the table.",
-      "discussionPrompt": "If a peace pitch arrives after a Moscow meeting, what would make the studio cautiously hopeful instead of just suspicious?",
+      "title": "Ukraine diplomacy returns to Kyiv",
+      "summary": "U.S. envoys held talks in Kyiv aimed at reviving Ukraine peace efforts, with security guarantees, energy resilience, and reconstruction questions still central.",
+      "discussionPrompt": "If a peace team showed up after months of stalemate, what question would the studio ask first before getting hopeful?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/44bba3b57b480560d9f48dba7d28534e", "https://www.npr.org/"]
+      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-september-7-042417635.html", "https://www.wrkf.org/2026-09-07/morning-news-brief?_amp=true"]
     },
     {
-      "title": "Hormuz claim raises tension",
-      "summary": "Iran said it struck an unmanned U.S. vessel near the Strait of Hormuz, while the U.S. denied the claim amid wider tanker and missile tensions.",
-      "discussionPrompt": "When two sides describe the same sea incident completely differently, who in the studio starts checking maps and oil prices?",
+      "title": "Asian chip shares rally",
+      "summary": "Markets were mixed Monday, but chipmakers lifted Tokyo and Seoul as AI hardware demand kept investors interested despite oil and rate worries.",
+      "discussionPrompt": "Who in the studio would understand chip stocks, and who would just ask why every gadget suddenly feels more expensive?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "CBC News"],
-      "sourceUrls": ["https://apnews.com/article/a52beec77dc90af3d040d0553837ad20", "https://www.cbc.ca/news/world/iran-us-ship-9.7334159"]
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/5fed4e21cb3f80eef06087217dbbd9f7", "https://www.marketscreener.com/news/asia-tech-shares-rally-others-hesitant-as-oil-rises-ce785bdbdd81f02d"]
     },
     {
-      "title": "Volcano disrupts Indonesia flights",
-      "summary": "Anak Krakatau eruptions sent ash across western Indonesia, shutting airports, cancelling flights, and pushing officials to warn people away from the crater.",
-      "discussionPrompt": "If ash clouds grounded everyone, who would handle the schedule calmly and who would immediately overpack snacks?",
+      "title": "Oil worries follow Gulf tension",
+      "summary": "Oil prices climbed as U.S.-Iran clashes around Gulf shipping routes kept traders focused on fuel costs, inflation, and possible knock-on effects.",
+      "discussionPrompt": "If oil prices jump after a tense headline, who starts planning errands and who insists it is too soon to panic?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters Connect"],
-      "sourceUrls": ["https://apnews.com/article/12c3cb67859b2c51054b378d60148d33", "https://www.reutersconnect.com/collection/latest-news"]
+      "sourceNames": ["Reuters", "Associated Press"],
+      "sourceUrls": ["https://www.marketscreener.com/news/asia-tech-shares-rally-others-hesitant-as-oil-rises-ce785bdbdd81f02d", "https://apnews.com/article/5fed4e21cb3f80eef06087217dbbd9f7"]
     },
     {
-      "title": "Mail-ballot fight returns",
-      "summary": "The Trump administration again asked the Supreme Court to allow mail-ballot restrictions as states prepare ballots for the 2026 midterms.",
-      "discussionPrompt": "If election rules are still being argued while ballots are going out, what would make regular voters feel clear on what to do?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c"]
-    },
-    {
-      "title": "Canadian travelers prove hard to win back",
-      "summary": "U.S. tourism groups are trying discounts and promotions to lure Canadian visitors, but trade tensions and politics are weighing on cross-border trips.",
-      "discussionPrompt": "What would actually win back a cautious traveler: a bargain, a warmer welcome, or just less drama at the border?",
+      "title": "North Korea adds destroyer",
+      "summary": "North Korea commissioned a second advanced destroyer as the U.S., South Korea, and Japan began a joint military exercise nearby.",
+      "discussionPrompt": "When a military parade and a military drill happen at the same time, how does everyone avoid reading too much into one day?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/42ea6dd35e3ee24898f6a07495576435"]
+      "sourceUrls": ["https://apnews.com/article/5c3ab31efd058e734ac645991fd22567"]
     },
     {
-      "title": "Inflation data looms over Fed",
-      "summary": "Markets are watching August inflation numbers before the Federal Reserve meets, with economists focused on whether price pressure changes the rate outlook.",
-      "discussionPrompt": "Why does one inflation report make everyone act like they are waiting for exam results?",
+      "title": "AI rules hit classrooms",
+      "summary": "Major school districts are tightening AI use for younger students, while teachers and parents debate safety, cheating, tutoring, and critical thinking.",
+      "discussionPrompt": "Would the studio ban classroom AI, teach everyone how to use it, or invent a hilariously complicated permission slip?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Financial Times", "NPR"],
-      "sourceUrls": ["https://www.ft.com/content/cffea5bc-0255-4029-8e76-0c3671bf4d92", "https://www.npr.org/"]
+      "sourceNames": ["Axios", "NPR"],
+      "sourceUrls": ["https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles", "https://www.wrkf.org/2026-09-07/labor-unions-nationwide-are-navigating-the-explosive-growth-of-ai?_amp=true"]
     },
     {
-      "title": "Summer box office ends strong",
-      "summary": "Spider-Man stayed No. 1 for a sixth week as Hollywood wrapped its strongest summer box-office season in years, helped by several big crowd-pleasers.",
-      "discussionPrompt": "What keeps people showing up for the same hit movie: comfort, spectacle, friends dragging friends, or pure curiosity?",
+      "title": "Unions confront AI at work",
+      "summary": "Labor unions are increasingly bargaining over AI tools, from health-care staffing software to job security and worker oversight concerns.",
+      "discussionPrompt": "If a workplace AI promised efficiency, what rule would the studio want in writing before anyone trusted it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NPR"],
+      "sourceUrls": ["https://www.wrkf.org/2026-09-07/labor-unions-nationwide-are-navigating-the-explosive-growth-of-ai?_amp=true"]
+    },
+    {
+      "title": "Air quality gains face setbacks",
+      "summary": "A WMO report says heatwaves and wildfire smoke are undoing some air-quality progress, linking climate change more tightly with everyday breathing risks.",
+      "discussionPrompt": "What would make smoky-sky days feel less abstract: health advice, better alerts, or someone finally fixing the office air filter?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian", "World Meteorological Organization"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds", "https://wmo.int/"]
+    },
+    {
+      "title": "Exoplanet survives dead star",
+      "summary": "Researchers studied a Jupiter-like planet that endured its star's transformation into a white dwarf, offering clues about long-term planetary survival.",
+      "discussionPrompt": "If a planet can outlast its own sun, who in the studio turns that into science wonder and who makes it weirdly personal?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.devdiscourse.com/article/science-environment/3947880-reuters-science-news-summary"]
+    },
+    {
+      "title": "Midterms enter final stretch",
+      "summary": "Candidates used Labor Day events to sharpen midterm messages, with Senate and governor races drawing attention as early voting nears in some states.",
+      "discussionPrompt": "Why does Labor Day make campaigns feel like someone rang a bell, even when everyone was already campaigning?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/0985d43deebda5f5721267b51104ef4c"]
+      "sourceUrls": ["https://apnews.com/article/bf59e0d457677ae19b84536d96031a47"]
     },
     {
-      "title": "NBC voice marks milestone season",
-      "summary": "Broadcaster Dan Hicks marked his 35th NBC Sports season while calling Notre Dame and Wisconsin from Lambeau Field, reflecting on decades across major events.",
-      "discussionPrompt": "Who in the studio would be best at making one voice feel familiar for decades of big sports moments?",
+      "title": "Streaming week gets crowded",
+      "summary": "New picks this week include The Paper, Call My Agent!, music releases, and a Halloween game as fall entertainment schedules fill up.",
+      "discussionPrompt": "If everyone in the studio got one pick for the watchlist, who chooses comfort TV and who chooses chaos gaming?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/ae22b2644f7cd273dc54c3da5a7afe88"]
-    },
-    {
-      "title": "Smart-ring IPO draws attention",
-      "summary": "NPR reported smart-ring maker Aura is preparing a major IPO, drawing interest around wearable health data, subscriptions, and biometric privacy.",
-      "discussionPrompt": "Would the studio wear a health ring if it meant useful tips, or would everyone argue over who sees the data?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR News Now"],
-      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-06-2026-3am-edt"]
-    },
-    {
-      "title": "Roman telescope launch sparks interest",
-      "summary": "NPR highlighted the launch of the Nancy Grace Roman Space Telescope, a mission expected to deepen studies of planets, galaxies, and dark energy.",
-      "discussionPrompt": "If a new space telescope could answer one giant question, what would the studio vote to point it at first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR News Now"],
-      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-06-2026-5am-edt"]
+      "sourceUrls": ["https://apnews.com/article/fb3d9fd9de075e87db013d004b607143"]
     }
   ]
 }
