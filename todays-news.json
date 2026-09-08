@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-07T18:01:50Z",
+  "updatedUtc": "2026-09-08T17:59:34Z",
   "topics": [
     {
-      "title": "Ukraine diplomacy returns to Kyiv",
-      "summary": "U.S. envoys held talks in Kyiv aimed at reviving Ukraine peace efforts, with security guarantees, energy resilience, and reconstruction questions still central.",
-      "discussionPrompt": "If a peace team showed up after months of stalemate, what question would the studio ask first before getting hopeful?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-september-7-042417635.html", "https://www.wrkf.org/2026-09-07/morning-news-brief?_amp=true"]
-    },
-    {
-      "title": "Asian chip shares rally",
-      "summary": "Markets were mixed Monday, but chipmakers lifted Tokyo and Seoul as AI hardware demand kept investors interested despite oil and rate worries.",
-      "discussionPrompt": "Who in the studio would understand chip stocks, and who would just ask why every gadget suddenly feels more expensive?",
+      "title": "Oil jump weighs on markets",
+      "summary": "Oil prices climbed toward recent highs as Middle East tensions rattled traders, while Wall Street opened mixed and investors watched upcoming inflation data.",
+      "discussionPrompt": "If fuel prices start tugging on everything else, who in the studio notices first: the budget hawk, the driver, or the snack buyer?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/5fed4e21cb3f80eef06087217dbbd9f7", "https://www.marketscreener.com/news/asia-tech-shares-rally-others-hesitant-as-oil-rises-ce785bdbdd81f02d"]
+      "sourceUrls": ["https://apnews.com/article/d3d6157a534584985987f828a940cffa", "https://www.marketscreener.com/news/wall-st-mixed-at-open-as-gulf-tensions-send-oil-to-over-six-week-high-ce785bd8df8bff25"]
     },
     {
-      "title": "Oil worries follow Gulf tension",
-      "summary": "Oil prices climbed as U.S.-Iran clashes around Gulf shipping routes kept traders focused on fuel costs, inflation, and possible knock-on effects.",
-      "discussionPrompt": "If oil prices jump after a tense headline, who starts planning errands and who insists it is too soon to panic?",
+      "title": "UK flights face tech disruption",
+      "summary": "A UK air traffic control technical issue caused hundreds of flight cancellations, leaving airlines and passengers sorting through delays after the system was restored.",
+      "discussionPrompt": "When a travel system breaks for one afternoon, who calmly rebooks and who starts ranking airports by sandwich quality?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "Associated Press"],
-      "sourceUrls": ["https://www.marketscreener.com/news/asia-tech-shares-rally-others-hesitant-as-oil-rises-ce785bdbdd81f02d", "https://apnews.com/article/5fed4e21cb3f80eef06087217dbbd9f7"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates"]
     },
     {
-      "title": "North Korea adds destroyer",
-      "summary": "North Korea commissioned a second advanced destroyer as the U.S., South Korea, and Japan began a joint military exercise nearby.",
-      "discussionPrompt": "When a military parade and a military drill happen at the same time, how does everyone avoid reading too much into one day?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/5c3ab31efd058e734ac645991fd22567"]
-    },
-    {
-      "title": "AI rules hit classrooms",
-      "summary": "Major school districts are tightening AI use for younger students, while teachers and parents debate safety, cheating, tutoring, and critical thinking.",
-      "discussionPrompt": "Would the studio ban classroom AI, teach everyone how to use it, or invent a hilariously complicated permission slip?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Axios", "NPR"],
-      "sourceUrls": ["https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles", "https://www.wrkf.org/2026-09-07/labor-unions-nationwide-are-navigating-the-explosive-growth-of-ai?_amp=true"]
-    },
-    {
-      "title": "Unions confront AI at work",
-      "summary": "Labor unions are increasingly bargaining over AI tools, from health-care staffing software to job security and worker oversight concerns.",
-      "discussionPrompt": "If a workplace AI promised efficiency, what rule would the studio want in writing before anyone trusted it?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR"],
-      "sourceUrls": ["https://www.wrkf.org/2026-09-07/labor-unions-nationwide-are-navigating-the-explosive-growth-of-ai?_amp=true"]
-    },
-    {
-      "title": "Air quality gains face setbacks",
-      "summary": "A WMO report says heatwaves and wildfire smoke are undoing some air-quality progress, linking climate change more tightly with everyday breathing risks.",
-      "discussionPrompt": "What would make smoky-sky days feel less abstract: health advice, better alerts, or someone finally fixing the office air filter?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "World Meteorological Organization"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds", "https://wmo.int/"]
-    },
-    {
-      "title": "Exoplanet survives dead star",
-      "summary": "Researchers studied a Jupiter-like planet that endured its star's transformation into a white dwarf, offering clues about long-term planetary survival.",
-      "discussionPrompt": "If a planet can outlast its own sun, who in the studio turns that into science wonder and who makes it weirdly personal?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.devdiscourse.com/article/science-environment/3947880-reuters-science-news-summary"]
-    },
-    {
-      "title": "Midterms enter final stretch",
-      "summary": "Candidates used Labor Day events to sharpen midterm messages, with Senate and governor races drawing attention as early voting nears in some states.",
-      "discussionPrompt": "Why does Labor Day make campaigns feel like someone rang a bell, even when everyone was already campaigning?",
+      "title": "School satisfaction hits low",
+      "summary": "A new Gallup poll found Americans' satisfaction with K-12 schools at a 27-year low, though many parents still rate their own children's schools more positively.",
+      "discussionPrompt": "Why do people often distrust the whole school system but still defend the school down the street?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/bf59e0d457677ae19b84536d96031a47"]
+      "sourceUrls": ["https://apnews.com/article/2e2826f7508e7b13fb62690e8f4ec71f"]
     },
     {
-      "title": "Streaming week gets crowded",
-      "summary": "New picks this week include The Paper, Call My Agent!, music releases, and a Halloween game as fall entertainment schedules fill up.",
-      "discussionPrompt": "If everyone in the studio got one pick for the watchlist, who chooses comfort TV and who chooses chaos gaming?",
+      "title": "Food inspections get scrutiny",
+      "summary": "An outbreak linked to iceberg lettuce renewed questions about declining FDA foreign food inspections and how regulators track risks in global supply chains.",
+      "discussionPrompt": "If the salad has a supply chain, does anyone in the studio still call lunch simple?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/fb3d9fd9de075e87db013d004b607143"]
+      "sourceUrls": ["https://apnews.com/article/7eb876d3e37864e8b589aeeff2bca384"]
+    },
+    {
+      "title": "Nepal floods test new government",
+      "summary": "Nepal's new government is managing a massive flood recovery effort after damage to homes, hydropower, roads, and tourism in climate-vulnerable Himalayan regions.",
+      "discussionPrompt": "When a new leader inherits a giant cleanup job, what matters more on day one: speeches, spreadsheets, or someone with dry socks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/54356ff1125e24493c003916e2280e03", "https://www.theguardian.com/world/2026/sep/08/all"]
+    },
+    {
+      "title": "Germany watches AfD breakthrough",
+      "summary": "Germany's far-right AfD made a major regional gain in Saxony-Anhalt, raising new questions about coalition politics, voter frustration, and Europe's democratic guardrails.",
+      "discussionPrompt": "How should people talk about a shocking election result without turning every conversation into a shouting contest?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/08/tuesday-briefing-what-happens-next-after-germanys-far-right-breakthrough"]
+    },
+    {
+      "title": "Qualcomm gets Amazon AI boost",
+      "summary": "Qualcomm shares rose after a new Amazon partnership signaled a bigger push into custom AI chips and data-center hardware beyond smartphones.",
+      "discussionPrompt": "If every big tech company wants custom AI chips, who in the studio pretends to understand the hardware and who actually does?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["MarketWatch", "Barron's"],
+      "sourceUrls": ["https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca", "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808"]
+    },
+    {
+      "title": "Tokyo ward limits short rentals",
+      "summary": "Tokyo's Shinjuku ward moved to restrict short-term rentals in some residential and cultural areas after complaints about noise, trash, and tourism pressure.",
+      "discussionPrompt": "What makes a neighborhood feel welcoming to visitors without making the people who live there feel like extras?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/08/all"]
+    },
+    {
+      "title": "Slime mould reopens intelligence debate",
+      "summary": "Researchers and philosophers are still debating whether problem-solving slime moulds should change how science talks about learning, memory, and intelligence.",
+      "discussionPrompt": "If something solves a maze without a brain, does the studio call it smart, weird, or both?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"]
+    },
+    {
+      "title": "Star Trek turns sixty",
+      "summary": "William Shatner reflected on Star Trek's 60-year legacy, from its hopeful future to its lasting arguments about technology, diversity, and human potential.",
+      "discussionPrompt": "Which studio character would want a Star Trek future, and which one would immediately complain about the uniforms?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"]
     }
   ]
 }
