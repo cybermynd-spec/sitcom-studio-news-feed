@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-08T17:59:34Z",
+  "updatedUtc": "2026-09-09T21:33:36Z",
   "topics": [
     {
-      "title": "Oil jump weighs on markets",
-      "summary": "Oil prices climbed toward recent highs as Middle East tensions rattled traders, while Wall Street opened mixed and investors watched upcoming inflation data.",
-      "discussionPrompt": "If fuel prices start tugging on everything else, who in the studio notices first: the budget hawk, the driver, or the snack buyer?",
+      "title": "Oil spike rattles markets",
+      "summary": "Oil moved above $100 a barrel as Middle East tensions raised supply worries, pressuring stocks and putting fresh attention on inflation and household fuel costs.",
+      "discussionPrompt": "If gas prices suddenly become the studio's main villain, who starts budgeting and who just blames the coffee run?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/d3d6157a534584985987f828a940cffa", "https://www.marketscreener.com/news/wall-st-mixed-at-open-as-gulf-tensions-send-oil-to-over-six-week-high-ce785bd8df8bff25"]
+      "sourceUrls": ["https://apnews.com/article/7538e6386a819bcdc2547d530ec3472e", "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"]
     },
     {
-      "title": "UK flights face tech disruption",
-      "summary": "A UK air traffic control technical issue caused hundreds of flight cancellations, leaving airlines and passengers sorting through delays after the system was restored.",
-      "discussionPrompt": "When a travel system breaks for one afternoon, who calmly rebooks and who starts ranking airports by sandwich quality?",
+      "title": "Wall Street loses ground",
+      "summary": "Major U.S. stock indexes slipped as higher crude prices and rising Treasury yields made investors cautious ahead of the next inflation readings.",
+      "discussionPrompt": "When markets get jumpy, who checks the numbers calmly and who treats every red arrow like a personal insult?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates"]
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/d1284eb72934a3b076c14449bc087fbd", "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"]
     },
     {
-      "title": "School satisfaction hits low",
-      "summary": "A new Gallup poll found Americans' satisfaction with K-12 schools at a 27-year low, though many parents still rate their own children's schools more positively.",
-      "discussionPrompt": "Why do people often distrust the whole school system but still defend the school down the street?",
+      "title": "Apple unveils foldable iPhone",
+      "summary": "Apple introduced a foldable iPhone design, giving the company a major product refresh while investors watched how the launch might affect its growth story.",
+      "discussionPrompt": "Would a folding phone make anyone in the studio more productive, or just give them twice as much screen to procrastinate on?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters", "Wall Street Journal"],
+      "sourceUrls": ["https://podcasts.apple.com/us/podcast/pricey-oil-gop-convention-and-a-folding-iphone-update/id1665219519?i=1000788662622", "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z"]
+    },
+    {
+      "title": "Meta launches AI assistant",
+      "summary": "Meta shares rose after the company rolled out Muse, an AI assistant pitched as able to help users complete online tasks across services.",
+      "discussionPrompt": "If an AI assistant offers to book travel or sell a car, who trusts it first and who demands to supervise every click?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters", "Wall Street Journal"],
+      "sourceUrls": ["https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524", "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z"]
+    },
+    {
+      "title": "Global test scores slide",
+      "summary": "New PISA results showed falling math, reading, and science scores in many high-income countries, with family support and digital habits under renewed scrutiny.",
+      "discussionPrompt": "If school scores drop everywhere at once, does the studio blame phones, homework, parents, or the whole system?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2e2826f7508e7b13fb62690e8f4ec71f"]
+      "sourceUrls": ["https://apnews.com/article/2c1c7b338e3d5b38031ef0eecef9ce5d"]
     },
     {
-      "title": "Food inspections get scrutiny",
-      "summary": "An outbreak linked to iceberg lettuce renewed questions about declining FDA foreign food inspections and how regulators track risks in global supply chains.",
-      "discussionPrompt": "If the salad has a supply chain, does anyone in the studio still call lunch simple?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/7eb876d3e37864e8b589aeeff2bca384"]
-    },
-    {
-      "title": "Nepal floods test new government",
-      "summary": "Nepal's new government is managing a massive flood recovery effort after damage to homes, hydropower, roads, and tourism in climate-vulnerable Himalayan regions.",
-      "discussionPrompt": "When a new leader inherits a giant cleanup job, what matters more on day one: speeches, spreadsheets, or someone with dry socks?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/54356ff1125e24493c003916e2280e03", "https://www.theguardian.com/world/2026/sep/08/all"]
-    },
-    {
-      "title": "Germany watches AfD breakthrough",
-      "summary": "Germany's far-right AfD made a major regional gain in Saxony-Anhalt, raising new questions about coalition politics, voter frustration, and Europe's democratic guardrails.",
-      "discussionPrompt": "How should people talk about a shocking election result without turning every conversation into a shouting contest?",
+      "title": "BBC faces strike risk",
+      "summary": "BBC leadership acknowledged a real possibility of strikes as staff push back against pay plans and large job cuts tied to the broadcaster's funding squeeze.",
+      "discussionPrompt": "When a beloved institution says money is tight, who argues for saving jobs and who asks what the budget actually says?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/08/tuesday-briefing-what-happens-next-after-germanys-far-right-breakthrough"]
+      "sourceUrls": ["https://www.theguardian.com/media/2026/sep/09/bbc-boss-matt-brittin-strikes-pay-and-job-cuts"]
     },
     {
-      "title": "Qualcomm gets Amazon AI boost",
-      "summary": "Qualcomm shares rose after a new Amazon partnership signaled a bigger push into custom AI chips and data-center hardware beyond smartphones.",
-      "discussionPrompt": "If every big tech company wants custom AI chips, who in the studio pretends to understand the hardware and who actually does?",
+      "title": "Republicans gather for midterms",
+      "summary": "Republicans opened a two-day midterm convention in Dallas, aiming to energize voters while Democrats countered with criticism on inflation and foreign policy.",
+      "discussionPrompt": "If a political convention came to town, who watches for the speeches and who only notices the traffic?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["MarketWatch", "Barron's"],
-      "sourceUrls": ["https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca", "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808"]
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/4139b7912dbf1eebdcfde8c1cc12f23d", "https://podcasts.apple.com/us/podcast/pricey-oil-gop-convention-and-a-folding-iphone-update/id1665219519?i=1000788662622"]
     },
     {
-      "title": "Tokyo ward limits short rentals",
-      "summary": "Tokyo's Shinjuku ward moved to restrict short-term rentals in some residential and cultural areas after complaints about noise, trash, and tourism pressure.",
-      "discussionPrompt": "What makes a neighborhood feel welcoming to visitors without making the people who live there feel like extras?",
+      "title": "Smithsonian chief steps down",
+      "summary": "NPR reported that Smithsonian Secretary Lonnie G. Bunch III resigned, adding another cultural-institution story to a busy political news week.",
+      "discussionPrompt": "When a major museum leader resigns, who in the studio wants the backstory and who just asks if the exhibits stay open?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/08/all"]
+      "sourceNames": ["NPR"],
+      "sourceUrls": ["https://www.wrkf.org/2026-09-09/morning-news-brief?_amp=true"]
     },
     {
-      "title": "Slime mould reopens intelligence debate",
-      "summary": "Researchers and philosophers are still debating whether problem-solving slime moulds should change how science talks about learning, memory, and intelligence.",
-      "discussionPrompt": "If something solves a maze without a brain, does the studio call it smart, weird, or both?",
+      "title": "Debate grows over AI risk",
+      "summary": "Researchers, lawmakers, and campaigners renewed arguments over advanced AI safety, balancing warnings about future systems with concerns about present-day harms.",
+      "discussionPrompt": "How does the studio talk about scary AI predictions without turning the whole conversation into a sci-fi emergency meeting?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence"]
+      "sourceNames": ["The Guardian", "BBC News"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians", "https://www.zaqs.org/news.php?cat=technology&site=bbcnews"]
     },
     {
-      "title": "Star Trek turns sixty",
-      "summary": "William Shatner reflected on Star Trek's 60-year legacy, from its hopeful future to its lasting arguments about technology, diversity, and human potential.",
-      "discussionPrompt": "Which studio character would want a Star Trek future, and which one would immediately complain about the uniforms?",
+      "title": "GPS jamming draws attention",
+      "summary": "BBC technology coverage highlighted growing concern over GPS interference and the hidden infrastructure that keeps timing, navigation, and networks synchronized.",
+      "discussionPrompt": "If GPS suddenly got unreliable, who in the studio could navigate by memory and who would immediately be lost?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/culture/2026/sep/08/star-trek-at-60-william-shatner"]
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.zaqs.org/news.php?cat=technology&site=bbcnews"]
     }
   ]
 }
