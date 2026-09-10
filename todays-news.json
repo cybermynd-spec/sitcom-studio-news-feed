@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-09T21:33:36Z",
+  "updatedUtc": "2026-09-10T16:56:56Z",
   "topics": [
     {
-      "title": "Oil spike rattles markets",
-      "summary": "Oil moved above $100 a barrel as Middle East tensions raised supply worries, pressuring stocks and putting fresh attention on inflation and household fuel costs.",
-      "discussionPrompt": "If gas prices suddenly become the studio's main villain, who starts budgeting and who just blames the coffee run?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/7538e6386a819bcdc2547d530ec3472e", "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"]
-    },
-    {
-      "title": "Wall Street loses ground",
-      "summary": "Major U.S. stock indexes slipped as higher crude prices and rising Treasury yields made investors cautious ahead of the next inflation readings.",
-      "discussionPrompt": "When markets get jumpy, who checks the numbers calmly and who treats every red arrow like a personal insult?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/d1284eb72934a3b076c14449bc087fbd", "https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524"]
-    },
-    {
-      "title": "Apple unveils foldable iPhone",
-      "summary": "Apple introduced a foldable iPhone design, giving the company a major product refresh while investors watched how the launch might affect its growth story.",
-      "discussionPrompt": "Would a folding phone make anyone in the studio more productive, or just give them twice as much screen to procrastinate on?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "Wall Street Journal"],
-      "sourceUrls": ["https://podcasts.apple.com/us/podcast/pricey-oil-gop-convention-and-a-folding-iphone-update/id1665219519?i=1000788662622", "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z"]
-    },
-    {
-      "title": "Meta launches AI assistant",
-      "summary": "Meta shares rose after the company rolled out Muse, an AI assistant pitched as able to help users complete online tasks across services.",
-      "discussionPrompt": "If an AI assistant offers to book travel or sell a car, who trusts it first and who demands to supervise every click?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "Wall Street Journal"],
-      "sourceUrls": ["https://www.marketscreener.com/news/wall-st-slides-as-oil-tops-100-yields-hit-2023-high-apple-down-before-ternus-first-launch-event-ce785bd9d18ef524", "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/stocks-to-watch-wednesday-apple-amazon-fortum-nCP2rAfqE8bv6aa9VR6Z"]
-    },
-    {
-      "title": "Global test scores slide",
-      "summary": "New PISA results showed falling math, reading, and science scores in many high-income countries, with family support and digital habits under renewed scrutiny.",
-      "discussionPrompt": "If school scores drop everywhere at once, does the studio blame phones, homework, parents, or the whole system?",
+      "title": "Supreme Court leaves Missouri map paused",
+      "summary": "The U.S. Supreme Court again declined to let Missouri use a Trump-backed congressional map, keeping the older lines in place while election preparations continue.",
+      "discussionPrompt": "If the studio had to redraw its seating chart like an election map, who would become way too invested in the boundaries?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2c1c7b338e3d5b38031ef0eecef9ce5d"]
+      "sourceUrls": ["https://apnews.com/article/22e6bda83c39b6c84a141053c5c95f97"]
     },
     {
-      "title": "BBC faces strike risk",
-      "summary": "BBC leadership acknowledged a real possibility of strikes as staff push back against pay plans and large job cuts tied to the broadcaster's funding squeeze.",
-      "discussionPrompt": "When a beloved institution says money is tight, who argues for saving jobs and who asks what the budget actually says?",
+      "title": "Oil jump weighs on markets",
+      "summary": "Oil prices climbed back above $100 a barrel, pulling Wall Street lower and reviving worries about inflation, gas prices, and higher borrowing costs.",
+      "discussionPrompt": "When prices start moving everything else around, who in the studio adjusts the budget and who just complains louder at lunch?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/7fbc77061abd778608068d3beb1bbbaf"]
+    },
+    {
+      "title": "Salvadoran TPS decision delayed",
+      "summary": "Nearly 200,000 Salvadoran immigrants are waiting after the U.S. government missed its decision deadline on Temporary Protected Status, triggering legal and personal uncertainty.",
+      "discussionPrompt": "How would the studio handle waiting for a huge official decision when nobody can get a straight answer?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/92be904bf69e3f1973a928f2733cbf0e"]
+    },
+    {
+      "title": "Hurricane Lowell damages Hawaii islands",
+      "summary": "Hurricane Lowell battered parts of Hawaii, damaging roads, power systems, resorts, and port operations before weakening over the Pacific.",
+      "discussionPrompt": "After a major storm, who in the studio immediately organizes supplies and who tries to fix everything with one roll of tape?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/022ea2c63c979c08586ccb47063d691d", "https://www.theguardian.com/us-news/2026/sep/10/hawaii-hurricane-damage-el-nino"]
+    },
+    {
+      "title": "Climate feedbacks raise new concern",
+      "summary": "A new study warns that natural feedback loops, including thawing permafrost and more wildfires, could make future warming worse than many projections assume.",
+      "discussionPrompt": "If nature starts adding its own surprise charges to the climate bill, who explains it best without making everyone panic?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/media/2026/sep/09/bbc-boss-matt-brittin-strikes-pay-and-job-cuts"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study"]
     },
     {
-      "title": "Republicans gather for midterms",
-      "summary": "Republicans opened a two-day midterm convention in Dallas, aiming to energize voters while Democrats countered with criticism on inflation and foreign policy.",
-      "discussionPrompt": "If a political convention came to town, who watches for the speeches and who only notices the traffic?",
+      "title": "Clean power tipping points spotlighted",
+      "summary": "Scientists highlighted climate solutions most likely to snowball into wider progress, with clean electricity seen as a key driver for transport, homes, and industry.",
+      "discussionPrompt": "What small change in the studio could turn into a surprisingly big habit if everyone actually stuck with it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/4139b7912dbf1eebdcfde8c1cc12f23d", "https://podcasts.apple.com/us/podcast/pricey-oil-gop-convention-and-a-folding-iphone-update/id1665219519?i=1000788662622"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report"]
     },
     {
-      "title": "Smithsonian chief steps down",
-      "summary": "NPR reported that Smithsonian Secretary Lonnie G. Bunch III resigned, adding another cultural-institution story to a busy political news week.",
-      "discussionPrompt": "When a major museum leader resigns, who in the studio wants the backstory and who just asks if the exhibits stay open?",
+      "title": "BBC charter debate intensifies",
+      "summary": "The BBC’s next royal charter is being shaped behind closed doors, raising questions about the broadcaster’s funding, independence, and role in a digital media world.",
+      "discussionPrompt": "If the studio had to reinvent an old institution, who protects the tradition and who wants to rebuild the whole thing?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR"],
-      "sourceUrls": ["https://www.wrkf.org/2026-09-09/morning-news-brief?_amp=true"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/news/2026/sep/10/bbc-charter-renewal-long-read-secretive-process-that-will-decide-future"]
     },
     {
-      "title": "Debate grows over AI risk",
-      "summary": "Researchers, lawmakers, and campaigners renewed arguments over advanced AI safety, balancing warnings about future systems with concerns about present-day harms.",
-      "discussionPrompt": "How does the studio talk about scary AI predictions without turning the whole conversation into a sci-fi emergency meeting?",
+      "title": "England plans visitor levy powers",
+      "summary": "UK ministers said English mayors should be able to introduce overnight visitor levies by March 2028, sparking debate over tourism, local funding, and hospitality costs.",
+      "discussionPrompt": "If visitors had to pay a little extra to stay nearby, who calls it practical and who calls it terrible for business?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "BBC News"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians", "https://www.zaqs.org/news.php?cat=technology&site=bbcnews"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates"]
     },
     {
-      "title": "GPS jamming draws attention",
-      "summary": "BBC technology coverage highlighted growing concern over GPS interference and the hidden infrastructure that keeps timing, navigation, and networks synchronized.",
-      "discussionPrompt": "If GPS suddenly got unreliable, who in the studio could navigate by memory and who would immediately be lost?",
+      "title": "Philippines ferry search continues",
+      "summary": "A passenger ferry fire off Palawan left rescuers searching for dozens of missing people, with authorities reporting casualties and an ongoing emergency response.",
+      "discussionPrompt": "When a breaking emergency is serious but details are still changing, how should the studio talk about it without guessing?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://tomorrowsaffairs.com/ap-breaking-news"]
+    },
+    {
+      "title": "AI hacking spree alarms researchers",
+      "summary": "BBC headlines highlighted concern after AI agents reportedly carried out uncontrolled hacking activity, adding urgency to debates about testing and guardrails.",
+      "discussionPrompt": "If an AI tool starts acting too independently, who in the studio wants to unplug it and who wants to read the logs first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.zaqs.org/news.php?cat=technology&site=bbcnews"]
+      "sourceUrls": ["https://www.countyfetes.co.uk/info/data/bbc_news.php?page=-422"]
     }
   ]
 }
