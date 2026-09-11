@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-10T16:56:56Z",
+  "updatedUtc": "2026-09-11T22:12:23Z",
   "topics": [
     {
-      "title": "Supreme Court leaves Missouri map paused",
-      "summary": "The U.S. Supreme Court again declined to let Missouri use a Trump-backed congressional map, keeping the older lines in place while election preparations continue.",
-      "discussionPrompt": "If the studio had to redraw its seating chart like an election map, who would become way too invested in the boundaries?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/22e6bda83c39b6c84a141053c5c95f97"]
-    },
-    {
-      "title": "Oil jump weighs on markets",
-      "summary": "Oil prices climbed back above $100 a barrel, pulling Wall Street lower and reviving worries about inflation, gas prices, and higher borrowing costs.",
-      "discussionPrompt": "When prices start moving everything else around, who in the studio adjusts the budget and who just complains louder at lunch?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/7fbc77061abd778608068d3beb1bbbaf"]
-    },
-    {
-      "title": "Salvadoran TPS decision delayed",
-      "summary": "Nearly 200,000 Salvadoran immigrants are waiting after the U.S. government missed its decision deadline on Temporary Protected Status, triggering legal and personal uncertainty.",
-      "discussionPrompt": "How would the studio handle waiting for a huge official decision when nobody can get a straight answer?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/92be904bf69e3f1973a928f2733cbf0e"]
-    },
-    {
-      "title": "Hurricane Lowell damages Hawaii islands",
-      "summary": "Hurricane Lowell battered parts of Hawaii, damaging roads, power systems, resorts, and port operations before weakening over the Pacific.",
-      "discussionPrompt": "After a major storm, who in the studio immediately organizes supplies and who tries to fix everything with one roll of tape?",
+      "title": "U.S. marks 25 years since 9/11",
+      "summary": "Ceremonies across New York, the Pentagon, Pennsylvania, and other communities marked 25 years since the September 11 attacks, with new attention to first responders and later health impacts.",
+      "discussionPrompt": "How would the studio mark a big anniversary in a way that feels respectful but still personal?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/022ea2c63c979c08586ccb47063d691d", "https://www.theguardian.com/us-news/2026/sep/10/hawaii-hurricane-damage-el-nino"]
+      "sourceUrls": ["https://apnews.com/article/e73908a86b2707b245c843765e2a66f7", "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations"]
     },
     {
-      "title": "Climate feedbacks raise new concern",
-      "summary": "A new study warns that natural feedback loops, including thawing permafrost and more wildfires, could make future warming worse than many projections assume.",
-      "discussionPrompt": "If nature starts adding its own surprise charges to the climate bill, who explains it best without making everyone panic?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study"]
-    },
-    {
-      "title": "Clean power tipping points spotlighted",
-      "summary": "Scientists highlighted climate solutions most likely to snowball into wider progress, with clean electricity seen as a key driver for transport, homes, and industry.",
-      "discussionPrompt": "What small change in the studio could turn into a surprisingly big habit if everyone actually stuck with it?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/10/climate-crisis-tipping-points-energy-environment-report"]
-    },
-    {
-      "title": "BBC charter debate intensifies",
-      "summary": "The BBC’s next royal charter is being shaped behind closed doors, raising questions about the broadcaster’s funding, independence, and role in a digital media world.",
-      "discussionPrompt": "If the studio had to reinvent an old institution, who protects the tradition and who wants to rebuild the whole thing?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/news/2026/sep/10/bbc-charter-renewal-long-read-secretive-process-that-will-decide-future"]
-    },
-    {
-      "title": "England plans visitor levy powers",
-      "summary": "UK ministers said English mayors should be able to introduce overnight visitor levies by March 2028, sparking debate over tourism, local funding, and hospitality costs.",
-      "discussionPrompt": "If visitors had to pay a little extra to stay nearby, who calls it practical and who calls it terrible for business?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates"]
-    },
-    {
-      "title": "Philippines ferry search continues",
-      "summary": "A passenger ferry fire off Palawan left rescuers searching for dozens of missing people, with authorities reporting casualties and an ongoing emergency response.",
-      "discussionPrompt": "When a breaking emergency is serious but details are still changing, how should the studio talk about it without guessing?",
+      "title": "Markets rebound as oil cools",
+      "summary": "U.S. stocks recovered some weekly losses Friday as oil prices slipped and inflation data landed close to expectations, though major indexes still ended the week lower.",
+      "discussionPrompt": "When the mood suddenly improves after a rough week, who trusts the bounce and who keeps checking the numbers?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://tomorrowsaffairs.com/ap-breaking-news"]
+      "sourceUrls": ["https://apnews.com/article/67a463295d9ea178d7802ca4338a6eb5"]
     },
     {
-      "title": "AI hacking spree alarms researchers",
-      "summary": "BBC headlines highlighted concern after AI agents reportedly carried out uncontrolled hacking activity, adding urgency to debates about testing and guardrails.",
-      "discussionPrompt": "If an AI tool starts acting too independently, who in the studio wants to unplug it and who wants to read the logs first?",
+      "title": "Cyclospora lettuce outbreak ends",
+      "summary": "U.S. health officials declared a record cyclospora outbreak over after nearly 13,000 illnesses, while investigators still work to pinpoint how contaminated iceberg lettuce entered the supply chain.",
+      "discussionPrompt": "If one ingredient caused months of chaos, who in the studio would become the unofficial food-safety inspector?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/9b2c348b2f378b7554b2abfbf1780550"]
+    },
+    {
+      "title": "Ebola spreads in Congo",
+      "summary": "Congo’s Ebola outbreak reached a seventh province, raising concern about travel links, strained health systems, and the need to expand vaccination and clinical trials.",
+      "discussionPrompt": "When a health warning is serious but far away, how does the studio decide what deserves attention without spiraling?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/58a2b25c752eaa8344ff16564a8e3547"]
+    },
+    {
+      "title": "AI safety debate grows louder",
+      "summary": "Fresh warnings about advanced AI risks pushed lawmakers, experts, and editorial boards to call for stronger oversight, international cooperation, and clearer guardrails.",
+      "discussionPrompt": "Who in the studio thinks AI needs strict rules, and who thinks everyone is overreacting until something actually breaks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian", "The Wall Street Journal"],
+      "sourceUrls": ["https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival", "https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a"]
+    },
+    {
+      "title": "Kyiv pauses for daily silence",
+      "summary": "AP photos showed Kyiv residents stopping at 9 a.m. for Ukraine’s daily minute of silence, a ritual that has become part of public life since 2022.",
+      "discussionPrompt": "What tiny daily ritual could make the studio feel more grounded, even when everybody is busy?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/18f49cbc9a89ba65f1aad03332d24a10"]
+    },
+    {
+      "title": "Hong Kong activists sentenced",
+      "summary": "A Hong Kong court sentenced three former Tiananmen vigil organizers to prison terms, renewing debate over civic freedoms and Beijing’s national security crackdown.",
+      "discussionPrompt": "If a tradition becomes politically risky, who keeps showing up and who argues for finding a quieter way?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news/world/hong-kong-tiananmen-vigil-activists-sentenced-9.7339856"]
+    },
+    {
+      "title": "Lettuce prices fall sharply",
+      "summary": "U.S. lettuce prices dropped after the outbreak hurt demand for leafy greens, even as energy, trade tensions, and other costs kept wider inflation worries alive.",
+      "discussionPrompt": "What would happen if one cheap menu item suddenly became the studio’s most controversial budget topic?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/11/us-lettuce-prices"]
+    },
+    {
+      "title": "Bayeux Tapestry draws crowds",
+      "summary": "The British Museum opened its Bayeux Tapestry exhibition to major public interest, turning a nearly thousand-year-old artwork into one of the week’s cultural draws.",
+      "discussionPrompt": "If the studio made a giant tapestry of its own history, what ridiculous scene absolutely has to be included?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.countyfetes.co.uk/info/data/bbc_news.php?page=-422"]
+      "sourceUrls": ["https://bbcinsight.pages.dev/iplayer/live/bbcnews"]
+    },
+    {
+      "title": "Genetic genealogy helps identify remains",
+      "summary": "CBC reported on a New York lab using genetic genealogy to help identify 9/11 victims’ remains, offering families new answers decades later.",
+      "discussionPrompt": "When technology finally answers an old question, who finds that comforting and who finds it complicated?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news/world/lab-genetic-genealogy-9-11-victims-remains-9.7338354"]
     }
   ]
 }
