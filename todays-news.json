@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-11T22:12:23Z",
+  "updatedUtc": "2026-09-12T17:03:46Z",
   "topics": [
     {
-      "title": "U.S. marks 25 years since 9/11",
-      "summary": "Ceremonies across New York, the Pentagon, Pennsylvania, and other communities marked 25 years since the September 11 attacks, with new attention to first responders and later health impacts.",
-      "discussionPrompt": "How would the studio mark a big anniversary in a way that feels respectful but still personal?",
+      "title": "Saudi pipeline attack raises oil worries",
+      "summary": "Iraq said drone attacks on a key Saudi oil pipeline originated from its territory, prompting an investigation and renewed concern about regional shipping and energy prices.",
+      "discussionPrompt": "If one faraway pipeline suddenly changes everyone’s budget, who in the studio becomes the emergency energy expert?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/e73908a86b2707b245c843765e2a66f7", "https://www.theguardian.com/us-news/2026/sep/11/september-11-commemorations"]
+      "sourceUrls": ["https://apnews.com/article/c1359273dd970b969e823356e5ead377", "https://www.theguardian.com/world/middleeast/2026/sep/12/all"]
     },
     {
-      "title": "Markets rebound as oil cools",
-      "summary": "U.S. stocks recovered some weekly losses Friday as oil prices slipped and inflation data landed close to expectations, though major indexes still ended the week lower.",
-      "discussionPrompt": "When the mood suddenly improves after a rough week, who trusts the bounce and who keeps checking the numbers?",
+      "title": "BRICS summit spotlights global tensions",
+      "summary": "BRICS leaders meeting in New Delhi raised concerns over conflicts in the Middle East and Ukraine while pushing for a larger role for emerging economies in global decisions.",
+      "discussionPrompt": "When a huge summit promises a new world order, who wants details and who just wants the lunch menu?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/67a463295d9ea178d7802ca4338a6eb5"]
+      "sourceUrls": ["https://apnews.com/article/5393274f87a16461b195d13f324e747a"]
     },
     {
-      "title": "Cyclospora lettuce outbreak ends",
-      "summary": "U.S. health officials declared a record cyclospora outbreak over after nearly 13,000 illnesses, while investigators still work to pinpoint how contaminated iceberg lettuce entered the supply chain.",
-      "discussionPrompt": "If one ingredient caused months of chaos, who in the studio would become the unofficial food-safety inspector?",
+      "title": "India and China try a reset",
+      "summary": "Narendra Modi and Xi Jinping met during the BRICS summit, signaling a cautious thaw after years of border tension and strategic rivalry between India and China.",
+      "discussionPrompt": "What does a believable reset look like when two people have a long history and neither wants to blink first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
+      "sourceUrls": ["https://apnews.com/article/e51a7eb70cfb3c79c978fbf9cc9cbed5", "https://www.brecorder.com/authors/76222/reuters"]
+    },
+    {
+      "title": "AI safety debate intensifies",
+      "summary": "Anthropic’s CEO called for slowing AI development so safety work can catch up, as new reports highlighted misuse risks involving weapons, spying, and cyber operations.",
+      "discussionPrompt": "Who in the studio thinks slowing down is responsible, and who hears that as somebody grabbing the brakes too hard?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
+      "sourceUrls": ["https://apnews.com/article/d59552edcb27892d8ee4d98a48397706", "https://www.brecorder.com/authors/76222/reuters"]
+    },
+    {
+      "title": "Trump comments stir Ireland debate",
+      "summary": "During a visit to Ireland, Donald Trump said Irish reunification would be fantastic, prompting political pushback and renewed attention to the Good Friday Agreement’s consent principle.",
+      "discussionPrompt": "When an outsider casually pokes a sensitive local issue, who changes the subject and who pulls up a chair?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/57e48996a3b30a210243b7d7ae66930a", "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"]
+    },
+    {
+      "title": "Ukraine drone lessons reach U.S. troops",
+      "summary": "Ukrainian personnel embedded with U.S. forces during drills in Germany to share battlefield drone tactics, highlighting how fast modern military training is changing.",
+      "discussionPrompt": "If the studio had to learn a whole new tool under pressure, who adapts fastest and who demands a manual?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/9b2c348b2f378b7554b2abfbf1780550"]
+      "sourceUrls": ["https://apnews.com/article/e5e754608f13831463e42cb7f8346369"]
     },
     {
-      "title": "Ebola spreads in Congo",
-      "summary": "Congo’s Ebola outbreak reached a seventh province, raising concern about travel links, strained health systems, and the need to expand vaccination and clinical trials.",
-      "discussionPrompt": "When a health warning is serious but far away, how does the studio decide what deserves attention without spiraling?",
+      "title": "Wall Street rebounds after oil slips",
+      "summary": "U.S. stock indexes rose Friday as oil prices eased and inflation data matched expectations, though the major indexes still finished the week lower.",
+      "discussionPrompt": "After a rough week ends on a decent note, who celebrates early and who keeps refreshing the chart?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
+      "sourceUrls": ["https://apnews.com/article/67a463295d9ea178d7802ca4338a6eb5", "https://www.brecorder.com/authors/76222/reuters"]
+    },
+    {
+      "title": "Local news cuts hit McClatchy",
+      "summary": "McClatchy laid off more than 90 unionized journalists across 17 publications, sharpening worries about local reporting capacity and civic accountability.",
+      "discussionPrompt": "If the town paper suddenly shrinks, what stories would the studio miss first: sports, politics, food, or gossip?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/58a2b25c752eaa8344ff16564a8e3547"]
+      "sourceUrls": ["https://apnews.com/article/c27bcd1a875f1b788afe8b49c1f8beaf"]
     },
     {
-      "title": "AI safety debate grows louder",
-      "summary": "Fresh warnings about advanced AI risks pushed lawmakers, experts, and editorial boards to call for stronger oversight, international cooperation, and clearer guardrails.",
-      "discussionPrompt": "Who in the studio thinks AI needs strict rules, and who thinks everyone is overreacting until something actually breaks?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "The Wall Street Journal"],
-      "sourceUrls": ["https://www.theguardian.com/commentisfree/2026/sep/11/the-guardian-view-on-controlling-ai-humanity-cannot-outsource-its-survival", "https://www.wsj.com/politics/policy/congress-is-suddenly-waking-up-to-the-ai-doomsday-threat-b40ab25a"]
-    },
-    {
-      "title": "Kyiv pauses for daily silence",
-      "summary": "AP photos showed Kyiv residents stopping at 9 a.m. for Ukraine’s daily minute of silence, a ritual that has become part of public life since 2022.",
-      "discussionPrompt": "What tiny daily ritual could make the studio feel more grounded, even when everybody is busy?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/18f49cbc9a89ba65f1aad03332d24a10"]
-    },
-    {
-      "title": "Hong Kong activists sentenced",
-      "summary": "A Hong Kong court sentenced three former Tiananmen vigil organizers to prison terms, renewing debate over civic freedoms and Beijing’s national security crackdown.",
-      "discussionPrompt": "If a tradition becomes politically risky, who keeps showing up and who argues for finding a quieter way?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBC News"],
-      "sourceUrls": ["https://www.cbc.ca/news/world/hong-kong-tiananmen-vigil-activists-sentenced-9.7339856"]
-    },
-    {
-      "title": "Lettuce prices fall sharply",
-      "summary": "U.S. lettuce prices dropped after the outbreak hurt demand for leafy greens, even as energy, trade tensions, and other costs kept wider inflation worries alive.",
-      "discussionPrompt": "What would happen if one cheap menu item suddenly became the studio’s most controversial budget topic?",
+      "title": "Hurricane Lowell batters Hawaii",
+      "summary": "The Guardian’s weather tracker reported widespread damage across parts of Hawaii’s western islands as Hurricane Lowell brought severe conditions to Niihau, Kauai, and Oahu.",
+      "discussionPrompt": "When bad weather becomes the whole day’s plot, who prepares perfectly and who improvises with snacks and tape?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/11/us-lettuce-prices"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/sep/12"]
     },
     {
-      "title": "Bayeux Tapestry draws crowds",
-      "summary": "The British Museum opened its Bayeux Tapestry exhibition to major public interest, turning a nearly thousand-year-old artwork into one of the week’s cultural draws.",
-      "discussionPrompt": "If the studio made a giant tapestry of its own history, what ridiculous scene absolutely has to be included?",
+      "title": "College football eyes Ohio State-Texas",
+      "summary": "A highly anticipated No. 1 Ohio State versus No. 4 Texas matchup leads the college football weekend, with playoff talk already hovering over the game.",
+      "discussionPrompt": "Who in the studio turns one big game into a full production, and who only shows up for the snacks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://bbcinsight.pages.dev/iplayer/live/bbcnews"]
-    },
-    {
-      "title": "Genetic genealogy helps identify remains",
-      "summary": "CBC reported on a New York lab using genetic genealogy to help identify 9/11 victims’ remains, offering families new answers decades later.",
-      "discussionPrompt": "When technology finally answers an old question, who finds that comforting and who finds it complicated?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBC News"],
-      "sourceUrls": ["https://www.cbc.ca/news/world/lab-genetic-genealogy-9-11-victims-remains-9.7338354"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/c1ad5adbf317ecbee2c0ed668fd918cd"]
     }
   ]
 }
