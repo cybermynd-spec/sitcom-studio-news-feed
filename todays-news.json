@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-12T17:03:46Z",
+  "updatedUtc": "2026-09-14T19:11:27Z",
   "topics": [
     {
-      "title": "Saudi pipeline attack raises oil worries",
-      "summary": "Iraq said drone attacks on a key Saudi oil pipeline originated from its territory, prompting an investigation and renewed concern about regional shipping and energy prices.",
-      "discussionPrompt": "If one faraway pipeline suddenly changes everyone’s budget, who in the studio becomes the emergency energy expert?",
+      "title": "AI safety warnings heat up",
+      "summary": "AI leaders and researchers renewed calls for stronger safeguards, while U.S. officials pushed back on slowing development amid competition with China.",
+      "discussionPrompt": "If everyone agrees the new tool is powerful but not everyone agrees on brakes, who in the studio gets to hold the instruction manual?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/98316b0d64de17191f33c0fbf1d37858", "https://www.wusf.org/2026-09-14/morning-news-brief"]
+    },
+    {
+      "title": "EPA drops power-plant climate rule",
+      "summary": "The EPA moved to repeal greenhouse-gas limits for coal and natural-gas power plants, setting up a major legal and environmental fight.",
+      "discussionPrompt": "When a rule disappears and everyone claims the future is safer their way, who asks about the electric bill first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/c1359273dd970b969e823356e5ead377", "https://www.theguardian.com/world/middleeast/2026/sep/12/all"]
+      "sourceUrls": ["https://apnews.com/article/cac1c2c75f8656d8eaf5f0a240edae15", "https://www.theguardian.com/us-news/2026/sep/14/all"]
     },
     {
-      "title": "BRICS summit spotlights global tensions",
-      "summary": "BRICS leaders meeting in New Delhi raised concerns over conflicts in the Middle East and Ukraine while pushing for a larger role for emerging economies in global decisions.",
-      "discussionPrompt": "When a huge summit promises a new world order, who wants details and who just wants the lunch menu?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/5393274f87a16461b195d13f324e747a"]
-    },
-    {
-      "title": "India and China try a reset",
-      "summary": "Narendra Modi and Xi Jinping met during the BRICS summit, signaling a cautious thaw after years of border tension and strategic rivalry between India and China.",
-      "discussionPrompt": "What does a believable reset look like when two people have a long history and neither wants to blink first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
-      "sourceUrls": ["https://apnews.com/article/e51a7eb70cfb3c79c978fbf9cc9cbed5", "https://www.brecorder.com/authors/76222/reuters"]
-    },
-    {
-      "title": "AI safety debate intensifies",
-      "summary": "Anthropic’s CEO called for slowing AI development so safety work can catch up, as new reports highlighted misuse risks involving weapons, spying, and cyber operations.",
-      "discussionPrompt": "Who in the studio thinks slowing down is responsible, and who hears that as somebody grabbing the brakes too hard?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
-      "sourceUrls": ["https://apnews.com/article/d59552edcb27892d8ee4d98a48397706", "https://www.brecorder.com/authors/76222/reuters"]
-    },
-    {
-      "title": "Trump comments stir Ireland debate",
-      "summary": "During a visit to Ireland, Donald Trump said Irish reunification would be fantastic, prompting political pushback and renewed attention to the Good Friday Agreement’s consent principle.",
-      "discussionPrompt": "When an outsider casually pokes a sensitive local issue, who changes the subject and who pulls up a chair?",
+      "title": "Saudi pipeline damage lifts oil worries",
+      "summary": "A damaged Saudi pipeline is expected to stay partly offline for weeks, raising concern about oil flows, shipping routes, and fuel prices.",
+      "discussionPrompt": "If one pipeline problem can ripple into everyone’s week, who starts conserving gas and who starts explaining geopolitics badly?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/57e48996a3b30a210243b7d7ae66930a", "https://www.theguardian.com/us-news/live/2026/sep/12/donald-trump-ireland-golf-catherine-connolly-us-politics-latest-news-updates"]
+      "sourceUrls": ["https://apnews.com/article/8c18d82c109a8ea91347ce53c0096c53", "https://www.theguardian.com/world/2026/sep/14/all"]
     },
     {
-      "title": "Ukraine drone lessons reach U.S. troops",
-      "summary": "Ukrainian personnel embedded with U.S. forces during drills in Germany to share battlefield drone tactics, highlighting how fast modern military training is changing.",
-      "discussionPrompt": "If the studio had to learn a whole new tool under pressure, who adapts fastest and who demands a manual?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/e5e754608f13831463e42cb7f8346369"]
-    },
-    {
-      "title": "Wall Street rebounds after oil slips",
-      "summary": "U.S. stock indexes rose Friday as oil prices eased and inflation data matched expectations, though the major indexes still finished the week lower.",
-      "discussionPrompt": "After a rough week ends on a decent note, who celebrates early and who keeps refreshing the chart?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Business Recorder"],
-      "sourceUrls": ["https://apnews.com/article/67a463295d9ea178d7802ca4338a6eb5", "https://www.brecorder.com/authors/76222/reuters"]
-    },
-    {
-      "title": "Local news cuts hit McClatchy",
-      "summary": "McClatchy laid off more than 90 unionized journalists across 17 publications, sharpening worries about local reporting capacity and civic accountability.",
-      "discussionPrompt": "If the town paper suddenly shrinks, what stories would the studio miss first: sports, politics, food, or gossip?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/c27bcd1a875f1b788afe8b49c1f8beaf"]
-    },
-    {
-      "title": "Hurricane Lowell batters Hawaii",
-      "summary": "The Guardian’s weather tracker reported widespread damage across parts of Hawaii’s western islands as Hurricane Lowell brought severe conditions to Niihau, Kauai, and Oahu.",
-      "discussionPrompt": "When bad weather becomes the whole day’s plot, who prepares perfectly and who improvises with snacks and tape?",
+      "title": "Ukraine energy-strike claim disputed",
+      "summary": "Trump said Ukraine and Russia agreed not to hit energy targets, but Ukrainian officials sounded cautious and asked for guarantees.",
+      "discussionPrompt": "When someone announces a deal before everyone else sounds convinced, who claps politely and who starts checking the fine print?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/sep/12"]
+      "sourceUrls": ["https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"]
     },
     {
-      "title": "College football eyes Ohio State-Texas",
-      "summary": "A highly anticipated No. 1 Ohio State versus No. 4 Texas matchup leads the college football weekend, with playoff talk already hovering over the game.",
-      "discussionPrompt": "Who in the studio turns one big game into a full production, and who only shows up for the snacks?",
+      "title": "Sweden vote stays tight",
+      "summary": "Sweden’s centre-left opposition held a narrow lead as most votes were counted, leaving coalition talks likely to be complicated.",
+      "discussionPrompt": "If a whole country ends up in group-project mode after an election, who becomes the negotiator and who just brings coffee?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/c1ad5adbf317ecbee2c0ed668fd918cd"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"]
+    },
+    {
+      "title": "UK donation fight grows",
+      "summary": "Reform UK faced new questions after Nigel Farage suggested large donations may run into problems under proposed election-law changes.",
+      "discussionPrompt": "When campaign money comes with footnotes, who wants a spreadsheet and who says every party needs better labels?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"]
+    },
+    {
+      "title": "Court blocks mail-tracking plan",
+      "summary": "A federal judge blocked parts of a plan involving Postal Service tracking of mail and election ballots, citing limits on agency authority.",
+      "discussionPrompt": "If the mail suddenly becomes an election argument, who trusts the system and who starts labeling every envelope dramatically?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NPR"],
+      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-14-2026-2am-edt"]
+    },
+    {
+      "title": "Floods and erosion test communities",
+      "summary": "Severe flooding in eastern India and hurricane damage along California’s Orange County coast put local emergency planning back in focus.",
+      "discussionPrompt": "When weather rewrites the plan, who checks on neighbors first and who tries to engineer the perfect backup plan?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/14/all"]
+    },
+    {
+      "title": "Alaska deep-sea sponges discovered",
+      "summary": "Scientists reported nine new sponge species from Alaska’s deep sea, while warning their habitat could face pressure from trawling and mining.",
+      "discussionPrompt": "If the ocean keeps introducing new roommates, who is amazed and who asks whether they pay rent?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/14/all"]
+    },
+    {
+      "title": "Kennedy Center finances wobble",
+      "summary": "Reports said Washington’s Kennedy Center faces serious financial strain, with leaders considering dramatic moves to avoid a possible closure.",
+      "discussionPrompt": "When an iconic venue says the budget is suddenly the main character, who proposes a fundraiser and who wants to inspect the books?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/14/all"]
     }
   ]
 }
