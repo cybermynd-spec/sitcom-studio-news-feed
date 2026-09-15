@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-14T19:11:27Z",
+  "updatedUtc": "2026-09-15T17:50:53Z",
   "topics": [
     {
-      "title": "AI safety warnings heat up",
-      "summary": "AI leaders and researchers renewed calls for stronger safeguards, while U.S. officials pushed back on slowing development amid competition with China.",
-      "discussionPrompt": "If everyone agrees the new tool is powerful but not everyone agrees on brakes, who in the studio gets to hold the instruction manual?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/98316b0d64de17191f33c0fbf1d37858", "https://www.wusf.org/2026-09-14/morning-news-brief"]
-    },
-    {
-      "title": "EPA drops power-plant climate rule",
-      "summary": "The EPA moved to repeal greenhouse-gas limits for coal and natural-gas power plants, setting up a major legal and environmental fight.",
-      "discussionPrompt": "When a rule disappears and everyone claims the future is safer their way, who asks about the electric bill first?",
+      "title": "Supreme Court keeps mail voting rules",
+      "summary": "The U.S. Supreme Court rejected an effort to restrict mail-in voting before the midterms, leaving state voting procedures in place.",
+      "discussionPrompt": "If voting rules become the day’s argument, who trusts the mailbox and who immediately wants a laminated flowchart?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/cac1c2c75f8656d8eaf5f0a240edae15", "https://www.theguardian.com/us-news/2026/sep/14/all"]
+      "sourceUrls": ["https://apnews.com/article/5810f85e2e422fce7f9f8423e367c902", "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates"]
     },
     {
-      "title": "Saudi pipeline damage lifts oil worries",
-      "summary": "A damaged Saudi pipeline is expected to stay partly offline for weeks, raising concern about oil flows, shipping routes, and fuel prices.",
-      "discussionPrompt": "If one pipeline problem can ripple into everyone’s week, who starts conserving gas and who starts explaining geopolitics badly?",
+      "title": "AI regulation debate keeps building",
+      "summary": "Washington’s AI debate intensified as some leaders urged stronger safeguards, while the White House argued regulation could slow U.S. competitiveness.",
+      "discussionPrompt": "When a tool gets powerful enough to make everyone nervous and excited, who says ‘slow down’ and who asks to try it first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/8c18d82c109a8ea91347ce53c0096c53", "https://www.theguardian.com/world/2026/sep/14/all"]
+      "sourceNames": ["Associated Press", "Financial Times"],
+      "sourceUrls": ["https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9", "https://www.ft.com/content/4420bf7d-320f-431c-8ca9-5e554b356890"]
     },
     {
-      "title": "Ukraine energy-strike claim disputed",
-      "summary": "Trump said Ukraine and Russia agreed not to hit energy targets, but Ukrainian officials sounded cautious and asked for guarantees.",
-      "discussionPrompt": "When someone announces a deal before everyone else sounds convinced, who claps politely and who starts checking the fine print?",
+      "title": "Gates Foundation backs inclusive AI",
+      "summary": "The Gates Foundation pledged $1 billion to expand AI access in health, education, agriculture, and language tools for underserved communities.",
+      "discussionPrompt": "If AI help finally reaches places that usually get tech last, who celebrates first and who asks how they’ll know it actually works?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/26ce25f9be20574a4fa04a5f983521ae"]
     },
     {
-      "title": "Sweden vote stays tight",
-      "summary": "Sweden’s centre-left opposition held a narrow lead as most votes were counted, leaving coalition talks likely to be complicated.",
-      "discussionPrompt": "If a whole country ends up in group-project mode after an election, who becomes the negotiator and who just brings coffee?",
+      "title": "Markets watch oil and rates",
+      "summary": "Global markets stayed uneasy as oil prices, bond yields, central-bank expectations, and AI-stock worries shaped investor mood.",
+      "discussionPrompt": "When oil, interest rates, and tech stocks all walk into the same conversation, who pretends to understand the chart?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates"]
+      "sourceNames": ["Reuters", "Associated Press"],
+      "sourceUrls": ["https://currently.att.yahoo.com/att/morning-bid-trump-says-hit-043414629.html", "https://apnews.com/article/8f72a301be85728018018735163f4dad"]
     },
     {
-      "title": "UK donation fight grows",
-      "summary": "Reform UK faced new questions after Nigel Farage suggested large donations may run into problems under proposed election-law changes.",
-      "discussionPrompt": "When campaign money comes with footnotes, who wants a spreadsheet and who says every party needs better labels?",
+      "title": "NATO responds to Baltic drone",
+      "summary": "NATO jets shot down a drone in Lithuanian airspace, while Denmark reported a tense encounter involving a Russian warship and a helicopter.",
+      "discussionPrompt": "When the neighborhood watch suddenly involves fighter jets, who wants calm facts and who starts moving chairs away from the windows?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates"]
+      "sourceNames": ["Associated Press", "BBC News"],
+      "sourceUrls": ["https://apnews.com/article/9671662649ebed2eca41879982f366ad", "https://www.1stheadlines.com/from/1064"]
     },
     {
-      "title": "Court blocks mail-tracking plan",
-      "summary": "A federal judge blocked parts of a plan involving Postal Service tracking of mail and election ballots, citing limits on agency authority.",
-      "discussionPrompt": "If the mail suddenly becomes an election argument, who trusts the system and who starts labeling every envelope dramatically?",
+      "title": "US says drone boat was protected",
+      "summary": "The U.S. military said it destroyed two small Iranian boats that tried to seize an unmanned American sea drone near Iranian waters.",
+      "discussionPrompt": "If a robot boat causes an international incident, who asks what it was doing there and who wants to name it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["NPR"],
-      "sourceUrls": ["https://podcastrex.com/shows/npr-news-now/npr-news-09-14-2026-2am-edt"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/98b49e9a5e10452ae8da42191205ab53"]
     },
     {
-      "title": "Floods and erosion test communities",
-      "summary": "Severe flooding in eastern India and hurricane damage along California’s Orange County coast put local emergency planning back in focus.",
-      "discussionPrompt": "When weather rewrites the plan, who checks on neighbors first and who tries to engineer the perfect backup plan?",
+      "title": "Apple enters foldable phone race",
+      "summary": "Apple unveiled its first folding handset, adding a major new competitor to a phone category that rivals have been testing for years.",
+      "discussionPrompt": "If your phone folds like a tiny laptop, who calls it genius and who worries about sitting on it wrong?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/14/all"]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://ae.marketscreener.com/news/tech-weekly-apocalypse-soon-but-cool-gadgets-for-now-ce785bdddb89f020"]
     },
     {
-      "title": "Alaska deep-sea sponges discovered",
-      "summary": "Scientists reported nine new sponge species from Alaska’s deep sea, while warning their habitat could face pressure from trawling and mining.",
-      "discussionPrompt": "If the ocean keeps introducing new roommates, who is amazed and who asks whether they pay rent?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/14/all"]
-    },
-    {
-      "title": "Kennedy Center finances wobble",
-      "summary": "Reports said Washington’s Kennedy Center faces serious financial strain, with leaders considering dramatic moves to avoid a possible closure.",
-      "discussionPrompt": "When an iconic venue says the budget is suddenly the main character, who proposes a fundraiser and who wants to inspect the books?",
+      "title": "UK nations press constitutional change",
+      "summary": "Nationalist leaders from Scotland, Wales, and Northern Ireland called for Westminster to allow clearer paths toward constitutional change.",
+      "discussionPrompt": "When several roommates ask to renegotiate the house rules at once, who brings history and who brings snacks?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/14/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"]
+    },
+    {
+      "title": "Pokemon fans await big reveal",
+      "summary": "Pokemon fans prepared for what BBC described as one of the franchise’s biggest days in years, with major announcements expected.",
+      "discussionPrompt": "If a fandom says today is enormous, who queues up calmly and who has already made three theories before breakfast?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/1064"]
+    },
+    {
+      "title": "Canada extortion crackdown continues",
+      "summary": "Canada deported four more Indian nationals in an extortion-linked immigration crackdown, bringing reported removals in the operation to 111.",
+      "discussionPrompt": "When a crime story turns into a cross-border paperwork story too, who follows the case and who asks how communities rebuild trust?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Indian Express"],
+      "sourceUrls": ["https://indianexpress.com/article/cities/chandigarh/canada-deports-four-indians-punjabis-extortion-crackdown-111-removals-10878432/"]
     }
   ]
 }
