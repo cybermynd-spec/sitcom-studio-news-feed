@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-15T17:50:53Z",
+  "updatedUtc": "2026-09-16T16:55:05Z",
   "topics": [
     {
-      "title": "Supreme Court keeps mail voting rules",
-      "summary": "The U.S. Supreme Court rejected an effort to restrict mail-in voting before the midterms, leaving state voting procedures in place.",
-      "discussionPrompt": "If voting rules become the day’s argument, who trusts the mailbox and who immediately wants a laminated flowchart?",
+      "title": "Fed decision keeps markets cautious",
+      "summary": "Wall Street held mostly steady as investors waited for a Federal Reserve rate decision, with oil prices and bond yields easing from recent highs.",
+      "discussionPrompt": "If everyone waits for one announcement before making a move, who stays calm and who refreshes the numbers every ten seconds?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/e2e82957e490b7be205db6013f621c3d", "https://www.wprl.org/npr-news/2026-09-16/morning-news-brief"]
+    },
+    {
+      "title": "House challenges Iran war powers",
+      "summary": "The U.S. House again passed a war-powers measure aimed at ending unauthorized military operations in Iran, though a veto fight remains likely.",
+      "discussionPrompt": "When lawmakers argue over who gets to say yes to a war, who cares most about the rulebook and who just wants the fighting to stop?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/5810f85e2e422fce7f9f8423e367c902", "https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates"]
+      "sourceUrls": ["https://apnews.com/article/f0ea070bd8d0d6bfa88203b62c33fed7", "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates"]
     },
     {
-      "title": "AI regulation debate keeps building",
-      "summary": "Washington’s AI debate intensified as some leaders urged stronger safeguards, while the White House argued regulation could slow U.S. competitiveness.",
-      "discussionPrompt": "When a tool gets powerful enough to make everyone nervous and excited, who says ‘slow down’ and who asks to try it first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Financial Times"],
-      "sourceUrls": ["https://apnews.com/article/b85df16775ff7e9611a456b061a0e4b9", "https://www.ft.com/content/4420bf7d-320f-431c-8ca9-5e554b356890"]
-    },
-    {
-      "title": "Gates Foundation backs inclusive AI",
-      "summary": "The Gates Foundation pledged $1 billion to expand AI access in health, education, agriculture, and language tools for underserved communities.",
-      "discussionPrompt": "If AI help finally reaches places that usually get tech last, who celebrates first and who asks how they’ll know it actually works?",
+      "title": "Surgeon general nominee faces questions",
+      "summary": "Dr. Nicole Saphier faced Senate scrutiny over vaccine policy, qualifications, and financial ties as the administration tries to fill the U.S. surgeon general role.",
+      "discussionPrompt": "If a public-health job interview becomes national drama, who asks about credentials and who asks whether anyone will trust the advice?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/26ce25f9be20574a4fa04a5f983521ae"]
+      "sourceUrls": ["https://apnews.com/article/c1da4b1805ac33850e891c4459e0a5a9"]
     },
     {
-      "title": "Markets watch oil and rates",
-      "summary": "Global markets stayed uneasy as oil prices, bond yields, central-bank expectations, and AI-stock worries shaped investor mood.",
-      "discussionPrompt": "When oil, interest rates, and tech stocks all walk into the same conversation, who pretends to understand the chart?",
+      "title": "AI safety consensus meets friction",
+      "summary": "Major AI leaders voiced rare agreement on slowing frontier development for safety, but enforcement, competition, and antitrust concerns remain unresolved.",
+      "discussionPrompt": "When rival companies suddenly agree to slow down, who thinks it is responsible and who wonders what they are protecting?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "Associated Press"],
-      "sourceUrls": ["https://currently.att.yahoo.com/att/morning-bid-trump-says-hit-043414629.html", "https://apnews.com/article/8f72a301be85728018018735163f4dad"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/b61f28b6212338e88c0baec31f661701", "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws"]
     },
     {
-      "title": "NATO responds to Baltic drone",
-      "summary": "NATO jets shot down a drone in Lithuanian airspace, while Denmark reported a tense encounter involving a Russian warship and a helicopter.",
-      "discussionPrompt": "When the neighborhood watch suddenly involves fighter jets, who wants calm facts and who starts moving chairs away from the windows?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "BBC News"],
-      "sourceUrls": ["https://apnews.com/article/9671662649ebed2eca41879982f366ad", "https://www.1stheadlines.com/from/1064"]
-    },
-    {
-      "title": "US says drone boat was protected",
-      "summary": "The U.S. military said it destroyed two small Iranian boats that tried to seize an unmanned American sea drone near Iranian waters.",
-      "discussionPrompt": "If a robot boat causes an international incident, who asks what it was doing there and who wants to name it?",
+      "title": "Ice loss study raises alarms",
+      "summary": "A new satellite-based study estimates Greenland and Antarctica have lost more than 12 trillion tons of ice since 1979, adding to sea-level rise.",
+      "discussionPrompt": "If an inch of sea-level rise sounds small until the flooding map appears, who changes their mind first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/98b49e9a5e10452ae8da42191205ab53"]
+      "sourceUrls": ["https://apnews.com/article/4721be25690317bc8f7bd9699b6f41f1"]
     },
     {
-      "title": "Apple enters foldable phone race",
-      "summary": "Apple unveiled its first folding handset, adding a major new competitor to a phone category that rivals have been testing for years.",
-      "discussionPrompt": "If your phone folds like a tiny laptop, who calls it genius and who worries about sitting on it wrong?",
+      "title": "EU plans firefighting fleet",
+      "summary": "After a punishing heatwave and wildfire season, the European Union announced plans for a larger shared firefighting fleet and heatwave response plan.",
+      "discussionPrompt": "If a whole region starts sharing emergency gear, who likes the teamwork and who asks why it took this long?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://ae.marketscreener.com/news/tech-weekly-apocalypse-soon-but-cool-gadgets-for-now-ce785bdddb89f020"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/55aa1da3b3b18c4986a69f7e186a6383"]
     },
     {
-      "title": "UK nations press constitutional change",
-      "summary": "Nationalist leaders from Scotland, Wales, and Northern Ireland called for Westminster to allow clearer paths toward constitutional change.",
-      "discussionPrompt": "When several roommates ask to renegotiate the house rules at once, who brings history and who brings snacks?",
+      "title": "Heathrow climate condition debated",
+      "summary": "UK climate advisers said a third Heathrow runway should proceed only if airlines pay for cleaner flying and carbon removal commitments.",
+      "discussionPrompt": "When travel plans meet climate math, who wants the runway and who starts asking exactly where the emissions go?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian", "BBC News"],
+      "sourceUrls": ["https://www.theguardian.com/environment/fossil-fuels", "https://headline-history.com/climate/"]
+    },
+    {
+      "title": "Britain sees butterfly boom",
+      "summary": "Britain recorded its second-best butterfly count in 16 years after record heat, though conservationists warned drought could hurt next year’s caterpillars.",
+      "discussionPrompt": "If one summer brings more butterflies but maybe fewer next year, who enjoys the moment and who worries about the pattern?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/15/tuesday-briefing-how-to-understand-wales-scotland-and-northern-irelands-joint-call-for-change"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/16/record-heatwaves-britain-second-best-butterfly-season"]
     },
     {
-      "title": "Pokemon fans await big reveal",
-      "summary": "Pokemon fans prepared for what BBC described as one of the franchise’s biggest days in years, with major announcements expected.",
-      "discussionPrompt": "If a fandom says today is enormous, who queues up calmly and who has already made three theories before breakfast?",
+      "title": "US confirms space weapons",
+      "summary": "The U.S. acknowledged it has deployed space-control weapons, intensifying debate over orbital security and military competition with Russia and China.",
+      "discussionPrompt": "If space stops feeling neutral, who wants strict treaties and who says defense has to follow the threat?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.1stheadlines.com/from/1064"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/5a2a0ada771daaf4fbef0991d8c09259"]
     },
     {
-      "title": "Canada extortion crackdown continues",
-      "summary": "Canada deported four more Indian nationals in an extortion-linked immigration crackdown, bringing reported removals in the operation to 111.",
-      "discussionPrompt": "When a crime story turns into a cross-border paperwork story too, who follows the case and who asks how communities rebuild trust?",
+      "title": "Microplastics soil warning grows",
+      "summary": "Scientists warned microplastics in soil can act like carriers for toxins, raising concerns about farms, ecosystems, and long-term food-chain effects.",
+      "discussionPrompt": "When pollution hides under everyone’s feet, who wants better testing and who immediately looks suspiciously at the garden?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Indian Express"],
-      "sourceUrls": ["https://indianexpress.com/article/cities/chandigarh/canada-deports-four-indians-punjabis-extortion-crackdown-111-removals-10878432/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science%2Btone/news"]
     }
   ]
 }
