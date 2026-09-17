@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-16T16:55:05Z",
+  "updatedUtc": "2026-09-17T21:14:54Z",
   "topics": [
     {
-      "title": "Fed decision keeps markets cautious",
-      "summary": "Wall Street held mostly steady as investors waited for a Federal Reserve rate decision, with oil prices and bond yields easing from recent highs.",
-      "discussionPrompt": "If everyone waits for one announcement before making a move, who stays calm and who refreshes the numbers every ten seconds?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/e2e82957e490b7be205db6013f621c3d", "https://www.wprl.org/npr-news/2026-09-16/morning-news-brief"]
-    },
-    {
-      "title": "House challenges Iran war powers",
-      "summary": "The U.S. House again passed a war-powers measure aimed at ending unauthorized military operations in Iran, though a veto fight remains likely.",
-      "discussionPrompt": "When lawmakers argue over who gets to say yes to a war, who cares most about the rulebook and who just wants the fighting to stop?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/f0ea070bd8d0d6bfa88203b62c33fed7", "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates"]
-    },
-    {
-      "title": "Surgeon general nominee faces questions",
-      "summary": "Dr. Nicole Saphier faced Senate scrutiny over vaccine policy, qualifications, and financial ties as the administration tries to fill the U.S. surgeon general role.",
-      "discussionPrompt": "If a public-health job interview becomes national drama, who asks about credentials and who asks whether anyone will trust the advice?",
+      "title": "Huawei pushes new AI chips",
+      "summary": "Huawei unveiled new AI computing systems and future Ascend chips, underscoring China's push for homegrown alternatives as global chip restrictions keep shaping the AI race.",
+      "discussionPrompt": "If a company builds its own tech because the usual parts are off-limits, who calls it clever adaptation and who worries the race just got faster?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/c1da4b1805ac33850e891c4459e0a5a9"]
+      "sourceUrls": ["https://apnews.com/article/26ab418df1339c518483918218ffbe57"]
     },
     {
-      "title": "AI safety consensus meets friction",
-      "summary": "Major AI leaders voiced rare agreement on slowing frontier development for safety, but enforcement, competition, and antitrust concerns remain unresolved.",
-      "discussionPrompt": "When rival companies suddenly agree to slow down, who thinks it is responsible and who wonders what they are protecting?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/b61f28b6212338e88c0baec31f661701", "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws"]
-    },
-    {
-      "title": "Ice loss study raises alarms",
-      "summary": "A new satellite-based study estimates Greenland and Antarctica have lost more than 12 trillion tons of ice since 1979, adding to sea-level rise.",
-      "discussionPrompt": "If an inch of sea-level rise sounds small until the flooding map appears, who changes their mind first?",
+      "title": "US-China AI safety talks loom",
+      "summary": "AI safety experts say meaningful global rules may depend on U.S.-China cooperation, but both governments remain wary of giving the other side an advantage.",
+      "discussionPrompt": "When two rivals both say AI needs guardrails, who tries to build trust first and who keeps checking the fine print?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/4721be25690317bc8f7bd9699b6f41f1"]
+      "sourceUrls": ["https://apnews.com/article/cd680bd072ec95e5f4b9c99dbee91319"]
     },
     {
-      "title": "EU plans firefighting fleet",
-      "summary": "After a punishing heatwave and wildfire season, the European Union announced plans for a larger shared firefighting fleet and heatwave response plan.",
-      "discussionPrompt": "If a whole region starts sharing emergency gear, who likes the teamwork and who asks why it took this long?",
+      "title": "OpenAI flags model misalignment cases",
+      "summary": "OpenAI disclosed several concerning model-behavior cases and said it will track and report misalignment incidents more systematically as AI systems grow more capable.",
+      "discussionPrompt": "If a tool starts doing weird things during testing, who wants total transparency and who says, okay, but tell me how bad it actually got?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/55aa1da3b3b18c4986a69f7e186a6383"]
+      "sourceUrls": ["https://apnews.com/article/089e75b95bc935af092da7b79d92706d"]
     },
     {
-      "title": "Heathrow climate condition debated",
-      "summary": "UK climate advisers said a third Heathrow runway should proceed only if airlines pay for cleaner flying and carbon removal commitments.",
-      "discussionPrompt": "When travel plans meet climate math, who wants the runway and who starts asking exactly where the emissions go?",
+      "title": "King Charles hosts AI leaders",
+      "summary": "King Charles met AI leaders from major labs and chip companies in Scotland, urging safety principles and international cooperation around fast-moving technology.",
+      "discussionPrompt": "If royalty calls a tech meeting, who treats it like symbolism and who thinks a formal room might actually slow everyone down for five minutes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "BBC News"],
-      "sourceUrls": ["https://www.theguardian.com/environment/fossil-fuels", "https://headline-history.com/climate/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/0765bee1e338cf65846a046fb5825a4a"]
     },
     {
-      "title": "Britain sees butterfly boom",
-      "summary": "Britain recorded its second-best butterfly count in 16 years after record heat, though conservationists warned drought could hurt next year’s caterpillars.",
-      "discussionPrompt": "If one summer brings more butterflies but maybe fewer next year, who enjoys the moment and who worries about the pattern?",
+      "title": "Nepal glacier collapse linked to warming",
+      "summary": "A new climate analysis found global heating likely made the Nepal glacier and rock collapse more dangerous by thinning ice and destabilizing high mountain slopes.",
+      "discussionPrompt": "When a mountain disaster has both natural and human-made causes, who focuses on warning systems and who asks what prevention really means?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/65ee7e50dfe7914dff37d893a5e6b810"]
+    },
+    {
+      "title": "Energy shocks boost clean power interest",
+      "summary": "Volatile fossil fuel prices tied to conflict have pushed more governments toward renewables and efficiency, though analysts say emissions cuts still lag behind the need.",
+      "discussionPrompt": "If expensive energy makes clean power look more practical, who sees a turning point and who says people are mostly reacting to the bill?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/48bb12e1cd5713764bca103e9104309d"]
+    },
+    {
+      "title": "Stocks rebound after rate jitters",
+      "summary": "U.S. stocks rose Thursday as oil prices fell and bond-market pressure eased following the Federal Reserve's first rate hike in years.",
+      "discussionPrompt": "When markets bounce right after everyone panics, who claims they saw it coming and who admits they were just holding their breath?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a8ce06ff4ffcf66d9f28bd3453bdf998"]
+    },
+    {
+      "title": "Black hole jet timing explained",
+      "summary": "Astronomers studying star-shredding black holes found their powerful jets appear in two predictable feeding phases, helping telescopes know when to watch.",
+      "discussionPrompt": "If black holes have table manners after all, who gets excited about the pattern and who just wants to know why space is so dramatic?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/16/record-heatwaves-britain-second-best-butterfly-season"]
+      "sourceUrls": ["https://www.theguardian.com/science/2026/sep/17/black-hole-burps-scientists-solve-mystery-astronomy"]
     },
     {
-      "title": "US confirms space weapons",
-      "summary": "The U.S. acknowledged it has deployed space-control weapons, intensifying debate over orbital security and military competition with Russia and China.",
-      "discussionPrompt": "If space stops feeling neutral, who wants strict treaties and who says defense has to follow the threat?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/5a2a0ada771daaf4fbef0991d8c09259"]
-    },
-    {
-      "title": "Microplastics soil warning grows",
-      "summary": "Scientists warned microplastics in soil can act like carriers for toxins, raising concerns about farms, ecosystems, and long-term food-chain effects.",
-      "discussionPrompt": "When pollution hides under everyone’s feet, who wants better testing and who immediately looks suspiciously at the garden?",
+      "title": "Local measles campaigns expand",
+      "summary": "Local U.S. officials and health groups are expanding vaccine outreach as measles concerns rise and federal guidance draws criticism from medical experts.",
+      "discussionPrompt": "When public health gets messy, who trusts the neighborhood clinic more than national leaders and who wants one clear voice?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/17/measles-deaths-local-vaccine-campaigns"]
+    },
+    {
+      "title": "Climate Week spotlights energy costs",
+      "summary": "At New York Climate Week, rising electricity costs and AI-driven power demand are pushing affordability into the center of climate-policy debates.",
+      "discussionPrompt": "If climate plans have to win over people watching their utility bills, who talks technology and who talks household budgets first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Axios"],
+      "sourceUrls": ["https://www.axios.com/2026/09/17/costs-center-stage-new-york-climate-week"]
     }
   ]
 }
