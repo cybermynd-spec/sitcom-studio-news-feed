@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-18T15:52:16Z",
+  "updatedUtc": "2026-09-20T03:04:21Z",
   "topics": [
     {
-      "title": "Early midterm voting begins",
-      "summary": "Early voting opened in several U.S. states as campaigns focus on prices, trust in elections, foreign policy, and control of Congress.",
-      "discussionPrompt": "If people vote early because the whole year feels tense, who says that is civic commitment and who says it is just wanting one decision off the table?",
+      "title": "Greenland security deal advances",
+      "summary": "Denmark and Greenland reacted cautiously to a new U.S.-Greenland security arrangement that would expand American Arctic military access while keeping Danish sovereignty intact.",
+      "discussionPrompt": "If Greenland gets more security attention without changing flags, who calls that clever diplomacy and who still wants to read every footnote?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/0eac9ad2196551525bcb8c71e80c480e"]
+    },
+    {
+      "title": "China stockpiles steady oil markets",
+      "summary": "Oil prices remain volatile, but analysts say China's large reserves and lower imports have helped prevent sharper spikes during the Iran conflict.",
+      "discussionPrompt": "When a country's oil stash calms everyone else's prices, who admires the planning and who wonders what else is sitting in storage?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/78b8ccd21cbc4bc0ab19a79f68372ec0"]
+    },
+    {
+      "title": "Riyadh missile attack intercepted",
+      "summary": "Saudi Arabia said it intercepted a Houthi ballistic missile aimed at Riyadh, adding to fears that Yemen's renewed fighting could threaten regional shipping and energy routes.",
+      "discussionPrompt": "If one intercepted missile can make airports, oil markets, and diplomats nervous, who starts with the map and who starts with the group chat?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/9e8603ba58eee87d8f305615d11871af", "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates"]
+      "sourceUrls": ["https://apnews.com/article/b1286cad816dd3e553f50f6dd5205972", "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport"]
     },
     {
-      "title": "Hormuz shipping worries grow",
-      "summary": "Iran said it struck a tanker in the Strait of Hormuz, adding fresh concern for global shipping, oil prices, and naval traffic through a key route.",
-      "discussionPrompt": "When one narrow stretch of water can shake prices everywhere, who starts checking maps and who starts checking their gas budget?",
+      "title": "Voter groups face funding gaps",
+      "summary": "U.S. voter registration and turnout groups warn that reduced donations and staffing could limit outreach as the 2026 midterms get underway.",
+      "discussionPrompt": "When civic groups have fewer people and less money, who worries about turnout and who thinks campaigns will find new ways to reach voters?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/024350a0820dfc5dd433b4e13445fab5"]
+      "sourceUrls": ["https://apnews.com/article/2cc2ecb19bc16b572c9c97798303c397"]
     },
     {
-      "title": "Markets wobble after yield rise",
-      "summary": "Wall Street ended mixed as bond yields climbed, oil prices swung, and investors weighed inflation pressure after a volatile week.",
-      "discussionPrompt": "If the market shrugs, dips, and shrugs again in one afternoon, who reads it as strategy and who calls it expensive mood swings?",
+      "title": "AI worries get practical",
+      "summary": "The Guardian answered reader questions about AI risks, emphasizing misuse, regulation, industry incentives, and everyday accountability over simple doomsday framing.",
+      "discussionPrompt": "If AI fear gets turned into practical questions, who wants rules right now and who says everyone needs to stop naming everything a robot apocalypse?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity"]
+    },
+    {
+      "title": "Australia debates AI readiness",
+      "summary": "Australian leaders and commentators are pressing for clearer AI policy as concerns grow over misinformation, copyright, youth safety, and tech company power.",
+      "discussionPrompt": "If a country admits the technology is moving faster than the rules, who drafts a policy memo and who asks whether anyone read the last one?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb"]
+    },
+    {
+      "title": "Sydney metro stations reopen soon",
+      "summary": "New South Wales officials said ten historic Sydney train stations will reopen as part of the Sydenham to Bankstown metro extension.",
+      "discussionPrompt": "When old stations come back with a metro upgrade, who gets nostalgic about the platforms and who just wants the train to arrive on time?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb"]
+    },
+    {
+      "title": "Vanderbilt wins on final mistake",
+      "summary": "Vanderbilt stunned NC State after a late fumble on an intentional-safety attempt, turning a 17-point deficit into a wild 35-31 win.",
+      "discussionPrompt": "If a game flips because the safest play goes wrong, who calls it destiny and who refuses to relax during any final ten seconds ever again?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/1ff3311788bcc4555d00e283a57289fe"]
+      "sourceUrls": ["https://apnews.com/article/9ac6ce0d04f1b4294891660a6d377809"]
     },
     {
-      "title": "Asia prepares for El Nino",
-      "summary": "Governments across Asia are expanding heat alerts, water planning, crop measures, and emergency drills ahead of a potentially intense El Nino.",
-      "discussionPrompt": "If weather planning becomes everyday government work, who feels reassured by the checklists and who wonders why it took this long?",
+      "title": "Weekend culture calendar fills up",
+      "summary": "A Guardian entertainment guide highlighted new films, concerts, stage shows, games, albums, and streaming releases arriving across the week.",
+      "discussionPrompt": "When one week has too many shows, games, and albums, who makes a schedule and who picks whatever has the best snacks nearby?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/18/how-asia-is-preparing-for-supersized-el-nino-global-warming"]
+      "sourceUrls": ["https://www.theguardian.com/culture/2026/sep/19/entertainment-guide-week-ahead-shaun-the-sheep-miley-cyrus-brothers-cinema-theatre-art-music"]
     },
     {
-      "title": "Cleaner air linked to toddlers",
-      "summary": "A long-running New York study linked cleaner air with stronger early childhood development, adding evidence that pollution cuts can help young brains.",
-      "discussionPrompt": "When cleaner air shows up in toddler development, who celebrates the policy win and who asks what other quiet benefits we have missed?",
+      "title": "Sports gambling scrutiny grows",
+      "summary": "CBS News examined the rapid growth of online sports betting and lawsuits questioning how major platforms design and market their apps.",
+      "discussionPrompt": "If betting apps feel like entertainment until the bill arrives, who blames personal choices and who wants the app design put on trial?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study"]
-    },
-    {
-      "title": "Rivers face global stress",
-      "summary": "A new Guardian river project highlights drought, pollution, altered flows, and local restoration efforts as freshwater systems face mounting strain.",
-      "discussionPrompt": "If a river is both infrastructure and a living neighbor, who wants stricter rules and who wants people to fall back in love with it first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/17/down-to-earth-our-rivers-project"]
-    },
-    {
-      "title": "Wheat farmers face uncertainty",
-      "summary": "U.S. wheat farmers are weighing high prices against drought risk, fuel costs, and disrupted global grain trade as weather forecasts stay unsettled.",
-      "discussionPrompt": "If crop prices rise but everything needed to farm costs more too, who calls it opportunity and who calls it a headache with paperwork?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics"]
-    },
-    {
-      "title": "BBC cash reserves shrink",
-      "summary": "The BBC's public service cash reserves fell sharply after heavy spending, raising questions about future cuts, digital plans, and funding pressure.",
-      "discussionPrompt": "When a public broadcaster starts watching its savings closely, who worries about quality and who says every institution needs a budget reality check?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/media/2026/sep/18/bbc-cash-reserves-drop-lowest-level-decade"]
-    },
-    {
-      "title": "AI guardrail visions diverge",
-      "summary": "Reports ahead of U.S.-China talks say both countries want AI guardrails, but they define the biggest risks in very different ways.",
-      "discussionPrompt": "If two rivals agree on needing rules but disagree on what danger means, who tries finding common ground and who brings extra coffee?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Wall Street Journal", "Associated Press"],
-      "sourceUrls": ["https://www.wsj.com/world/china/u-s-and-china-agree-ai-needs-guardrails-their-ideas-are-very-different-845415ff", "https://apnews.com/article/cd680bd072ec95e5f4b9c99dbee91319"]
-    },
-    {
-      "title": "South Pole chess draws debate",
-      "summary": "A planned chess event at the South Pole drew attention for its all-continent ambition and criticism over the travel footprint.",
-      "discussionPrompt": "If someone stages chess at the South Pole, who loves the weird achievement and who immediately starts calculating the carbon bill?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/sep/18/chess-nigel-short-to-play-at-south-pole-in-event-criticised-over-climate-impact"]
+      "sourceNames": ["CBS News"],
+      "sourceUrls": ["https://www.cbsnews.com/news/this-week-on-sunday-morning-sept-20-2026/"]
     }
   ]
 }
