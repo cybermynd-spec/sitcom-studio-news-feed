@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-20T03:04:21Z",
+  "updatedUtc": "2026-09-20T17:11:22Z",
   "topics": [
     {
-      "title": "Greenland security deal advances",
-      "summary": "Denmark and Greenland reacted cautiously to a new U.S.-Greenland security arrangement that would expand American Arctic military access while keeping Danish sovereignty intact.",
-      "discussionPrompt": "If Greenland gets more security attention without changing flags, who calls that clever diplomacy and who still wants to read every footnote?",
+      "title": "North Korea launches missiles",
+      "summary": "North Korea fired two short-range ballistic missiles toward the sea, prompting responses from South Korea and Japan as regional diplomacy remains stalled.",
+      "discussionPrompt": "When a tense country launches missiles again, who thinks the answer is more diplomacy and who starts checking every map in the room?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/0eac9ad2196551525bcb8c71e80c480e"]
+      "sourceUrls": ["https://apnews.com/article/ad020d996b61dedd358cc689db614fdb"]
     },
     {
-      "title": "China stockpiles steady oil markets",
-      "summary": "Oil prices remain volatile, but analysts say China's large reserves and lower imports have helped prevent sharper spikes during the Iran conflict.",
-      "discussionPrompt": "When a country's oil stash calms everyone else's prices, who admires the planning and who wonders what else is sitting in storage?",
+      "title": "Canada and France deepen ties",
+      "summary": "Emmanuel Macron and Mark Carney met in Saint-Pierre-et-Miquelon to discuss stronger Canada-France cooperation on defense, energy, aerospace, rare earths, and advanced technology.",
+      "discussionPrompt": "If Canada and France start talking bigger partnerships, who sees smart diversification and who just wants to know what Saint-Pierre-et-Miquelon is like?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/78b8ccd21cbc4bc0ab19a79f68372ec0"]
+      "sourceUrls": ["https://apnews.com/article/73454c45d9a9428fabbfd00a5daeb23f"]
     },
     {
-      "title": "Riyadh missile attack intercepted",
-      "summary": "Saudi Arabia said it intercepted a Houthi ballistic missile aimed at Riyadh, adding to fears that Yemen's renewed fighting could threaten regional shipping and energy routes.",
-      "discussionPrompt": "If one intercepted missile can make airports, oil markets, and diplomats nervous, who starts with the map and who starts with the group chat?",
+      "title": "Higher-rate economy takes shape",
+      "summary": "AP reports that sticky inflation, government borrowing, and AI-driven data-center investment are helping keep long-term borrowing costs elevated despite debate over Fed policy.",
+      "discussionPrompt": "When rates stay high because the whole economy is changing, who blames the Fed and who blames all those giant data centers?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a633de46f84a3487f3bdc03f788188fa"]
+    },
+    {
+      "title": "Gas prices strain voters",
+      "summary": "Rising U.S. fuel prices are frustrating voters and complicating campaign messaging as households weigh gas, grocery, and housing costs before the midterms.",
+      "discussionPrompt": "If gas prices become the dinner-table issue, who talks global strategy and who says the pump total is the whole speech?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/d2f5d5aa7ecc1f6d55d8f5759db03150"]
+    },
+    {
+      "title": "Ukraine expands drone campaign",
+      "summary": "Ukraine launched a large drone offensive aimed at Russian oil and logistics infrastructure, underscoring how long-range unmanned systems are reshaping the war.",
+      "discussionPrompt": "When drones become central to a war, who sees strategy changing fast and who wonders what defense even looks like now?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/b1286cad816dd3e553f50f6dd5205972", "https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport"]
+      "sourceUrls": ["https://apnews.com/article/5f7889d027c0247ca2c2c64425b9ffa9", "https://www.theguardian.com/tone/news/2026/sep/20/all"]
     },
     {
-      "title": "Voter groups face funding gaps",
-      "summary": "U.S. voter registration and turnout groups warn that reduced donations and staffing could limit outreach as the 2026 midterms get underway.",
-      "discussionPrompt": "When civic groups have fewer people and less money, who worries about turnout and who thinks campaigns will find new ways to reach voters?",
+      "title": "Climate summer pressures Europe",
+      "summary": "The Guardian reports Europe's record heat, wildfires, dry rivers, and economic damage are pushing leaders to confront climate adaptation and emissions policy.",
+      "discussionPrompt": "After a brutal summer, who wants huge climate action and who starts by asking whether the buses even have shade?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking"]
+    },
+    {
+      "title": "Air holds record moisture",
+      "summary": "Scientists say August brought record atmospheric water vapour, with global heating and El Nino increasing risks from extreme heat, rain, and stronger storms.",
+      "discussionPrompt": "If warmer air can hold that much more water, who makes a science face and who immediately checks the basement?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/18/planets-atmosphere-breaks-record-for-water-vapour-levels-increasing-risk-of-extreme-heat-and-rainfall"]
+    },
+    {
+      "title": "AI self-improvement debate grows",
+      "summary": "Leading AI labs say systems that can help improve future models are nearing reality, renewing debate over safety, oversight, and scientific benefits.",
+      "discussionPrompt": "If AI starts helping build better AI, who thinks that is amazing and who quietly asks where the off switch lives?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2cc2ecb19bc16b572c9c97798303c397"]
+      "sourceUrls": ["https://apnews.com/article/1526da03842cfeef12d0fb69b6b7ad28"]
     },
     {
-      "title": "AI worries get practical",
-      "summary": "The Guardian answered reader questions about AI risks, emphasizing misuse, regulation, industry incentives, and everyday accountability over simple doomsday framing.",
-      "discussionPrompt": "If AI fear gets turned into practical questions, who wants rules right now and who says everyone needs to stop naming everything a robot apocalypse?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity"]
-    },
-    {
-      "title": "Australia debates AI readiness",
-      "summary": "Australian leaders and commentators are pressing for clearer AI policy as concerns grow over misinformation, copyright, youth safety, and tech company power.",
-      "discussionPrompt": "If a country admits the technology is moving faster than the rules, who drafts a policy memo and who asks whether anyone read the last one?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb"]
-    },
-    {
-      "title": "Sydney metro stations reopen soon",
-      "summary": "New South Wales officials said ten historic Sydney train stations will reopen as part of the Sydenham to Bankstown metro extension.",
-      "discussionPrompt": "When old stations come back with a metro upgrade, who gets nostalgic about the platforms and who just wants the train to arrive on time?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb"]
-    },
-    {
-      "title": "Vanderbilt wins on final mistake",
-      "summary": "Vanderbilt stunned NC State after a late fumble on an intentional-safety attempt, turning a 17-point deficit into a wild 35-31 win.",
-      "discussionPrompt": "If a game flips because the safest play goes wrong, who calls it destiny and who refuses to relax during any final ten seconds ever again?",
+      "title": "College football rankings shift",
+      "summary": "Ole Miss is expected to rise in the AP Top 25 after beating LSU, while several ranked teams stumbled in a volatile weekend.",
+      "discussionPrompt": "When one Saturday scrambles the rankings, who trusts the poll voters and who starts building their own spreadsheet immediately?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/9ac6ce0d04f1b4294891660a6d377809"]
+      "sourceUrls": ["https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5"]
     },
     {
-      "title": "Weekend culture calendar fills up",
-      "summary": "A Guardian entertainment guide highlighted new films, concerts, stage shows, games, albums, and streaming releases arriving across the week.",
-      "discussionPrompt": "When one week has too many shows, games, and albums, who makes a schedule and who picks whatever has the best snacks nearby?",
+      "title": "Streaming week gets crowded",
+      "summary": "AP's weekly entertainment guide spotlights new streaming releases, music, TV, films, and games arriving across a packed late-September schedule.",
+      "discussionPrompt": "When the watchlist gets this crowded, who makes a careful queue and who just picks the thing with the best thumbnail?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/culture/2026/sep/19/entertainment-guide-week-ahead-shaun-the-sheep-miley-cyrus-brothers-cinema-theatre-art-music"]
-    },
-    {
-      "title": "Sports gambling scrutiny grows",
-      "summary": "CBS News examined the rapid growth of online sports betting and lawsuits questioning how major platforms design and market their apps.",
-      "discussionPrompt": "If betting apps feel like entertainment until the bill arrives, who blames personal choices and who wants the app design put on trial?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBS News"],
-      "sourceUrls": ["https://www.cbsnews.com/news/this-week-on-sunday-morning-sept-20-2026/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/65cebed05f0efba4fe3f0e6fb41ea9ed"]
     }
   ]
 }
