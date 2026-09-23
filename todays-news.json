@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-22T16:16:16Z",
+  "updatedUtc": "2026-09-23T16:20:12Z",
   "topics": [
     {
-      "title": "UN week opens under pressure",
-      "summary": "World leaders opened the UN General Assembly amid anxiety over wars, AI competition, climate pressure, and the future role of the world body.",
-      "discussionPrompt": "If every leader walks into the UN with a different crisis folder, who tries to mediate and who asks where the coffee is?",
+      "title": "UN speeches put diplomacy on stage",
+      "summary": "World leaders used the UN General Assembly to press competing views on security, climate, trade, and diplomacy during a tense week in New York.",
+      "discussionPrompt": "If everyone gets one big UN speech, who uses it to persuade people and who accidentally turns it into a group chat argument?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/692e1e171a791be0c9b9c1f56718a0d0"]
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://apnews.com/article/692e1e171a791be0c9b9c1f56718a0d0", "https://www.wprl.org/2026-09-23/morning-news-brief"]
     },
     {
-      "title": "Burnham pitches UK AI role",
-      "summary": "British Prime Minister Andy Burnham used meetings in New York to frame the UK as a serious AI player while acknowledging both benefits and risks.",
-      "discussionPrompt": "When a country says it wants to lead on AI, who imagines new breakthroughs and who immediately asks about guardrails?",
+      "title": "Markets watch oil rebound",
+      "summary": "U.S. stocks slipped from near-record levels as Brent crude rebounded above $100 and bond yields rose after a stronger economic report.",
+      "discussionPrompt": "When oil prices bounce and stocks get twitchy, who starts reading charts and who just asks if gas is about to get annoying?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/4d8b92508638bd0db3f64e44779895aa"]
+      "sourceUrls": ["https://www.local10.com/business/2026/09/23/us-stocks-drift-after-oil-prices-halt-their-weeklong-drop/"]
     },
     {
-      "title": "US-China talks eye AI and trade",
-      "summary": "Ahead of another Trump-Xi meeting, AP reports uneven progress on earlier agreements as both countries weigh trade, technology, investment, and AI competition.",
-      "discussionPrompt": "If two superpowers keep negotiating and competing at the same time, who calls that diplomacy and who calls it multitasking with consequences?",
+      "title": "Doordash settles New York pay case",
+      "summary": "DoorDash agreed to pay $131.5 million after New York investigators said delivery workers were underpaid, a settlement the company acknowledged publicly.",
+      "discussionPrompt": "If an app has to pay workers back, who focuses on fairness and who starts wondering how many tiny fees were involved?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/8488ef4c2944d348193f441199179ae6"]
+      "sourceNames": ["BBC News", "The Guardian"],
+      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews", "https://www.theguardian.com/tone/news/2026/sep/23/all"]
     },
     {
-      "title": "Markets hover near records",
-      "summary": "Wall Street stayed close to record highs while Brent oil briefly dipped below $98, with investors watching earnings, energy prices, and global policy talks.",
-      "discussionPrompt": "When stocks are calm but oil keeps everyone watching, who says the market is confident and who says it is just pretending?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/de8c5f9659e44556e40e661f794b48ad"]
-    },
-    {
-      "title": "Ukraine and Russia trade strikes",
-      "summary": "Ukraine and Russia exchanged new strikes as Zelenskyy prepared meetings at the UN, with Ukraine saying it hit more Russian oil refineries.",
-      "discussionPrompt": "When energy sites become part of the battlefield, who sees strategy shifting and who worries about how long ordinary people can absorb it?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/9c3d38e7e97132884f915e157dbf9ef1"]
-    },
-    {
-      "title": "Middle East issues shadow UN",
-      "summary": "Middle East conflicts and diplomacy remained prominent around the UN gathering, including developments involving Yemen, Iraq, Iran, and wider regional tensions.",
-      "discussionPrompt": "If one summit has to hold this many tangled problems, who looks for tiny progress and who wants a giant whiteboard?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f1ef966c0f89e8dd13806768e3af4a0f"]
-    },
-    {
-      "title": "Climate Week weighs AI demand",
-      "summary": "Climate Week talks highlighted renewable energy momentum while raising concerns that AI data centers could increase power and water demand.",
-      "discussionPrompt": "If AI can help solve climate problems but also uses a lot of energy, who sees tool and who sees headache?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f3208930e39c7d233bdc24315065dcd2"]
-    },
-    {
-      "title": "Planetary boundaries report alarms scientists",
-      "summary": "A new scientific update says key Earth health indicators have moved further outside safe ranges, intensifying debate about pollution, ecosystems, and climate stability.",
-      "discussionPrompt": "When scientists describe the planet like a dashboard full of warning lights, who wants big policy and who starts with their own habits?",
+      "title": "Climate action questions reach UN week",
+      "summary": "Climate advocates are watching whether the next UN leader will keep climate action central as governments debate energy security, costs, and accountability.",
+      "discussionPrompt": "If the UN gets a new boss, who wants climate at the top of the inbox and who says every crisis is already in the inbox?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/21/planetary-boundaries-breached-scientists-warn-climate-crisis"]
+      "sourceUrls": ["https://www.theguardian.com/world/all"]
     },
     {
-      "title": "El Nino raises climate concern",
-      "summary": "The Guardian reports world leaders are facing renewed climate urgency as a powerful El Nino adds heat and disruption to already strained systems.",
-      "discussionPrompt": "If the weather pattern itself becomes a main character, who wants charts and who just wants to know what summer will feel like?",
+      "title": "AI looms over Trump-Xi meeting",
+      "summary": "AI, trade, and strategic trust are expected to feature heavily as Donald Trump and Xi Jinping prepare for high-stakes talks.",
+      "discussionPrompt": "When leaders talk about AI, who pictures chips and rules, and who pictures two people pretending the future fits on an agenda?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino"]
+      "sourceUrls": ["https://www.theguardian.com/world/china/2026/sep/23/all"]
     },
     {
-      "title": "Deep-sea film spotlights seabed life",
-      "summary": "A new Guardian-featured documentary explores strange Pacific seabed life, arriving as debate continues over possible industrial mining in deep ocean habitats.",
-      "discussionPrompt": "When a film makes the deep sea look alive and weird, who wants exploration and who says maybe leave the seafloor alone?",
+      "title": "China expands AI data centers",
+      "summary": "BBC reports huge data centers are rising quickly in Inner Mongolia as China races to power its AI ambitions and compete with the U.S.",
+      "discussionPrompt": "If AI needs whole landscapes of data centers, who is impressed by the engineering and who asks about the electricity bill?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews"]
+    },
+    {
+      "title": "Paris dig points to ancient settlement",
+      "summary": "Archaeologists found an ancient wall beneath Paris that officials say could help confirm the site of the city’s first settlement.",
+      "discussionPrompt": "If a city finds an ancient wall under itself, who wants a museum tour and who wants to know what else is under the sidewalk?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/series/seascape-the-state-of-our-oceans/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/europe-news/2026/sep/23/all"]
+    },
+    {
+      "title": "Offshore wind dispute heads to court",
+      "summary": "California and New York sued the Trump administration over plans to buy back offshore wind leases, escalating a fight over U.S. energy priorities.",
+      "discussionPrompt": "When wind projects turn into a courtroom story, who talks clean energy and who talks about who gets to steer the power grid?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/e757e0492d91ac0dbb0d5992175a869a", "https://www.theguardian.com/world/all"]
+    },
+    {
+      "title": "Debt costs worry global institutions",
+      "summary": "The IMF and other major institutions warned that rising debt and borrowing costs are pressuring governments, including the U.S. and UK.",
+      "discussionPrompt": "If countries have budget stress like households do, who says tighten spending and who says the spreadsheet needs imagination?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News", "The Guardian"],
+      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews", "https://www.theguardian.com/tone/news/2026/sep/23/all"]
+    },
+    {
+      "title": "Rubik's Cube record turns heads",
+      "summary": "A six-year-old broke a women’s world Rubik’s Cube record, giving a lighter moment to a busy international news day.",
+      "discussionPrompt": "If a six-year-old solves a cube faster than adults can find their keys, who celebrates and who quietly hides their puzzle?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/all"]
     }
   ]
 }
