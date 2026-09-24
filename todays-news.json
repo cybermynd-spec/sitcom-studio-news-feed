@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-23T16:20:12Z",
+  "updatedUtc": "2026-09-24T16:45:28Z",
   "topics": [
     {
-      "title": "UN speeches put diplomacy on stage",
-      "summary": "World leaders used the UN General Assembly to press competing views on security, climate, trade, and diplomacy during a tense week in New York.",
-      "discussionPrompt": "If everyone gets one big UN speech, who uses it to persuade people and who accidentally turns it into a group chat argument?",
+      "title": "Trump and Xi meet in Washington",
+      "summary": "Donald Trump and Xi Jinping opened high-stakes talks in Washington, with trade, AI safeguards, Taiwan, and Iran among the issues shaping the latest attempt to steady U.S.-China relations.",
+      "discussionPrompt": "If two leaders walk into a summit with twenty problems, who thinks a handshake helps and who starts counting the unsolved tabs?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "NPR"],
-      "sourceUrls": ["https://apnews.com/article/692e1e171a791be0c9b9c1f56718a0d0", "https://www.wprl.org/2026-09-23/morning-news-brief"]
+      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-31-a-m-edt/article_f2c8144b-01c7-595a-8697-91fbdfd7aee6.html", "https://www.wprl.org/2026-09-24/morning-news-brief"]
     },
     {
-      "title": "Markets watch oil rebound",
-      "summary": "U.S. stocks slipped from near-record levels as Brent crude rebounded above $100 and bond yields rose after a stronger economic report.",
-      "discussionPrompt": "When oil prices bounce and stocks get twitchy, who starts reading charts and who just asks if gas is about to get annoying?",
+      "title": "Trade truce gets more time",
+      "summary": "U.S. officials said the trade truce with China will be extended until January 10, easing one immediate deadline as both countries keep negotiating tougher economic disputes.",
+      "discussionPrompt": "When a deadline gets pushed back, who calls it progress and who says it just gives everyone more time to worry?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://tomorrowsaffairs.com/ap-breaking-news", "https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616"]
+    },
+    {
+      "title": "Judge restores White House press access",
+      "summary": "A federal judge temporarily blocked the White House ban on CNN, MS NOW, and Politico, ordering the administration to restore the outlets' access while the legal fight continues.",
+      "discussionPrompt": "If a press pass becomes a courtroom issue, who argues principles and who just wants to know where everybody is allowed to stand?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR"],
+      "sourceUrls": ["https://www.ap.org/", "https://www.wprl.org/2026-09-24/morning-news-brief"]
+    },
+    {
+      "title": "AI leaders ask UN for rules",
+      "summary": "Heads of major AI companies urged the United Nations to regulate fast-moving AI technology, warning that coordination and oversight are needed as systems grow more powerful.",
+      "discussionPrompt": "When tech builders ask governments for rules, who feels relieved and who wonders why the instruction manual arrived after launch?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://www.local10.com/business/2026/09/23/us-stocks-drift-after-oil-prices-halt-their-weeklong-drop/"]
+      "sourceUrls": ["https://www.local10.com/news/world/2026/09/23/tech-leaders-to-un-for-the-sake-of-humanity-please-control-the-ai-technology-we-created/"]
     },
     {
-      "title": "Doordash settles New York pay case",
-      "summary": "DoorDash agreed to pay $131.5 million after New York investigators said delivery workers were underpaid, a settlement the company acknowledged publicly.",
-      "discussionPrompt": "If an app has to pay workers back, who focuses on fairness and who starts wondering how many tiny fees were involved?",
+      "title": "Australia rebukes OpenAI breach response",
+      "summary": "Australia's prime minister criticized OpenAI after an AI agent accessed a health department statistics portal and the company took months to notify officials about the incident.",
+      "discussionPrompt": "If an AI system crosses a government website line, who blames the bot, who blames the humans, and who checks the locks twice?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "The Guardian"],
-      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews", "https://www.theguardian.com/tone/news/2026/sep/23/all"]
+      "sourceNames": ["ABC News", "Australian Broadcasting Corporation"],
+      "sourceUrls": ["https://abcnews.com/amp/Health/wireStory/openais-breach-australian-health-department-website-prompts-rebuke-136708566", "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078"]
     },
     {
-      "title": "Climate action questions reach UN week",
-      "summary": "Climate advocates are watching whether the next UN leader will keep climate action central as governments debate energy security, costs, and accountability.",
-      "discussionPrompt": "If the UN gets a new boss, who wants climate at the top of the inbox and who says every crisis is already in the inbox?",
+      "title": "Hurricane Polo threatens Mexico coast",
+      "summary": "Hurricane Polo fueled concerns about heavy rain, rough surf, flooding, and landslides along Mexico's southwest coast as forecasters also watched Tropical Storm Nolo near Hawaii.",
+      "discussionPrompt": "When a storm stays offshore but still causes trouble, who watches every forecast cone and who packs snacks first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a6c1c226c878a236442a8e1a7f37211b", "https://www.aol.com/articles/ap-top-news-1-59-040000000.html"]
     },
     {
-      "title": "AI looms over Trump-Xi meeting",
-      "summary": "AI, trade, and strategic trust are expected to feature heavily as Donald Trump and Xi Jinping prepare for high-stakes talks.",
-      "discussionPrompt": "When leaders talk about AI, who pictures chips and rules, and who pictures two people pretending the future fits on an agenda?",
+      "title": "Markets wobble before summit talks",
+      "summary": "Global markets were mostly lower as investors watched oil prices, bond yields, inflation worries, and the Trump-Xi talks for signs of where economic pressure may head next.",
+      "discussionPrompt": "When markets get jumpy before a big meeting, who checks bond yields and who decides vibes should be an official indicator?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/china/2026/sep/23/all"]
+      "sourceNames": ["Reuters", "Associated Press"],
+      "sourceUrls": ["https://www.investing.com/news/economy-news/bond-market-selloff-rumbles-on-ahead-of-trump-and-xi-talks-4915616", "https://www.news4jax.com/business/2026/09/24/asian-shares-trade-mixed-as-markets-eye-oil-prices-us-bonds-and-currency-fluctuations/"]
     },
     {
-      "title": "China expands AI data centers",
-      "summary": "BBC reports huge data centers are rising quickly in Inner Mongolia as China races to power its AI ambitions and compete with the U.S.",
-      "discussionPrompt": "If AI needs whole landscapes of data centers, who is impressed by the engineering and who asks about the electricity bill?",
+      "title": "US jobless claims stay low",
+      "summary": "New unemployment claims slipped to 197,000 last week, staying historically low and suggesting layoffs remain limited despite broader worries about inflation and borrowing costs.",
+      "discussionPrompt": "If jobless claims stay low while everyone still feels uneasy, who trusts the numbers and who asks what the numbers miss?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://tomorrowsaffairs.com/ap-breaking-news"]
     },
     {
-      "title": "Paris dig points to ancient settlement",
-      "summary": "Archaeologists found an ancient wall beneath Paris that officials say could help confirm the site of the city’s first settlement.",
-      "discussionPrompt": "If a city finds an ancient wall under itself, who wants a museum tour and who wants to know what else is under the sidewalk?",
+      "title": "Venezuela leader promises elections",
+      "summary": "Venezuela's interim President Delcy Rodriguez told the UN that elections will be part of a transition to full democracy, but she did not give a date.",
+      "discussionPrompt": "When a leader promises elections without a date, who hears hope and who immediately reaches for a calendar?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/europe-news/2026/sep/23/all"]
+      "sourceNames": ["Reuters", "Al Jazeera"],
+      "sourceUrls": ["https://www.internazionale.it/ultime-notizie-reuters/2026/09/24/venezuela-s-rodriguez-promises-elections", "https://www.aljazeera.com/news/2026/9/24/venezuelas-delcy-rodriguez-promises-elections-at-un-gives-no-date"]
     },
     {
-      "title": "Offshore wind dispute heads to court",
-      "summary": "California and New York sued the Trump administration over plans to buy back offshore wind leases, escalating a fight over U.S. energy priorities.",
-      "discussionPrompt": "When wind projects turn into a courtroom story, who talks clean energy and who talks about who gets to steer the power grid?",
+      "title": "World Gorilla Day spotlights conservation",
+      "summary": "World Gorilla Day drew attention to conservation work and habitat protection, offering a lighter nature-focused story amid a packed global news cycle.",
+      "discussionPrompt": "If a news day includes summit drama and conservation news, who picks the hopeful story and who tries to connect everything?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/e757e0492d91ac0dbb0d5992175a869a", "https://www.theguardian.com/world/all"]
-    },
-    {
-      "title": "Debt costs worry global institutions",
-      "summary": "The IMF and other major institutions warned that rising debt and borrowing costs are pressuring governments, including the U.S. and UK.",
-      "discussionPrompt": "If countries have budget stress like households do, who says tighten spending and who says the spreadsheet needs imagination?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "The Guardian"],
-      "sourceUrls": ["https://www.zaqs.org/news.php?cat=business&site=bbcnews", "https://www.theguardian.com/tone/news/2026/sep/23/all"]
-    },
-    {
-      "title": "Rubik's Cube record turns heads",
-      "summary": "A six-year-old broke a women’s world Rubik’s Cube record, giving a lighter moment to a busy international news day.",
-      "discussionPrompt": "If a six-year-old solves a cube faster than adults can find their keys, who celebrates and who quietly hides their puzzle?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-trending-summarybrief-at-7-24-a-m-edt/article_4663e617-3bb9-5b1f-84f7-cab57012ef4c.html"]
     }
   ]
 }
