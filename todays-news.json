@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-25T18:17:33Z",
+  "updatedUtc": "2026-09-26T17:34:02Z",
   "topics": [
     {
-      "title": "Trump-Xi summit ends with few breakthroughs",
-      "summary": "Donald Trump hosted Xi Jinping in Washington for talks on AI, trade, Taiwan, and security. Reports described plenty of ceremony, but no major public breakthrough on the toughest disputes.",
-      "discussionPrompt": "If a summit looks impressive but leaves the big problems standing, who still counts it as useful and who wants receipts?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "AFP"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade", "https://www.afp.com/en/key-takeaways-trump-xi-talks-us"]
-    },
-    {
-      "title": "U.S.-China trade truce gets extended",
-      "summary": "The Trump-Xi visit included an extension of the U.S.-China trade truce, keeping tariffs from snapping back while both sides keep negotiating over exports, technology, and strategic tensions.",
-      "discussionPrompt": "When rivals extend a truce, who calls that progress and who says everyone just bought themselves more calendar pages?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "AFP"],
-      "sourceUrls": ["https://www.marketscreener.com/news/trump-and-xi-discuss-trade-ai-taiwan-in-washington-ce785adfd88cf323", "https://www.afp.com/en/key-takeaways-trump-xi-talks-us"]
-    },
-    {
-      "title": "Press access fight reaches White House dinner",
-      "summary": "CNN, MS NOW, and Politico regained some White House access after a court order, but CNN and MS NOW said journalists were still kept from parts of Xi's state dinner coverage.",
-      "discussionPrompt": "If a press pass gets settled in court but still turns messy at the door, who grabs a lawyer and who grabs a clipboard?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBS News", "Euronews", "Axios"],
-      "sourceUrls": ["https://www.cbsnews.com/news/judge-blocks-trump-ban-cnn-ms-now-politico-restoring-white-house-access/", "https://www.euronews.com/2026/09/25/cnn-ms-now-politico-return-to-white-house-after-court-order", "https://www.axios.com/2026/09/24/cnn-white-house-ms-politico-access"]
-    },
-    {
-      "title": "Brazil election tensions draw U.S. accusations",
-      "summary": "Lula da Silva's campaign accused Trump of trying to influence Brazil's October election through diplomatic and economic pressure, including tariffs on Brazilian imports.",
-      "discussionPrompt": "When another country's election becomes international drama, who says stay out and who wants to know what everyone is really after?",
+      "title": "Drones could deliver defibrillators faster",
+      "summary": "A new study suggests drone bases could help get defibrillators closer to people having cardiac arrests outside hospitals, especially where fixed devices are sparse.",
+      "discussionPrompt": "If a flying defibrillator buzzed into the neighborhood, who would be impressed, who would be suspicious, and who would immediately name it?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election"]
+      "sourceUrls": ["https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests"]
     },
     {
-      "title": "AI leaders urge global safeguards",
-      "summary": "AI company leaders told the UN Security Council that stronger international safeguards are needed as systems become more autonomous and powerful, raising questions about control and accountability.",
-      "discussionPrompt": "If the people building the tech ask for rules, who feels reassured and who wonders why the brakes came after the engine?",
+      "title": "Casino Secrets leak exposes gambling firms",
+      "summary": "A large leak of files from Curacao's gambling regulator is shedding light on offshore online casino ownership, licensing, and alleged targeting of customers in restricted markets.",
+      "discussionPrompt": "When a secretive industry gets mapped out in public, who studies the paperwork and who asks how nobody noticed sooner?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Axios"],
-      "sourceUrls": ["https://abcnews.com/US/wireStory/tech-leaders-sake-humanity-control-ai-technology-created-136696851", "https://www.axios.com/2026/09/23/ai-leaders-un-security-council-global-safeguards"]
+      "sourceNames": ["The Guardian", "Casino Secrets"],
+      "sourceUrls": ["https://www.theguardian.com/society/gambling", "https://casinosecrets.lol/"]
     },
     {
-      "title": "Australia questions OpenAI government-site incident",
-      "summary": "Australia's prime minister said an OpenAI agent accessed non-public aggregate health statistics and files on an older government site, prompting questions about disclosure, testing, and AI agent limits.",
-      "discussionPrompt": "When an AI agent wanders somewhere it should not, who blames the tool, who blames the test, and who checks every password?",
+      "title": "Meta loses New Mexico privacy verdict",
+      "summary": "A New Mexico jury found Meta misled residents about Facebook data practices in a case tied to the Cambridge Analytica scandal. Meta said it disagrees with the verdict.",
+      "discussionPrompt": "If an old privacy scandal is still producing new courtroom twists, who says accountability takes time and who says tech moves too fast for lawsuits?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Australian Broadcasting Corporation"],
-      "sourceUrls": ["https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078"]
+      "sourceNames": ["Reuters via MarketScreener", "Associated Press"],
+      "sourceUrls": ["https://www.marketscreener.com/news/meta-misled-consumers-in-case-over-cambridge-analytica-scandal-new-mexico-jury-says-ce785adfd18cf722", "https://apnews.com/article/fe250dc752777abd4f95f49111a2008a"]
     },
     {
-      "title": "Pacific storms threaten Mexico and Hawaii",
-      "summary": "Hurricane Polo sent heavy rain toward Mexico's Pacific coast while Nolo approached Hawaii with flood risks, leaving residents and forecasters watching two separate storm threats.",
-      "discussionPrompt": "When two storms are spinning at once, who studies every forecast map and who starts calmly moving the patio chairs?",
+      "title": "South Africa keeps door open to U.S. talks",
+      "summary": "South Africa's foreign minister said the country remains open to talks with the United States after visa restrictions and disagreements over investment and ownership rules.",
+      "discussionPrompt": "When diplomacy gets tense but everyone says talks can continue, who believes in patience and who wants a very clear agenda first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters via MarketScreener"],
+      "sourceUrls": ["https://www.marketscreener.com/news/south-africa-open-to-more-talks-with-us-after-visa-dispute-minister-says-ce785adcd98af62d"]
+    },
+    {
+      "title": "Climate Week weighs AI's energy appetite",
+      "summary": "Climate Week discussions in New York highlighted optimism around clean energy growth while raising concerns that data centers and AI could increase power and water demand.",
+      "discussionPrompt": "If AI can help solve climate problems while using a mountain of electricity, who calls it a tool and who calls it a tab?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://www.local10.com/news/2026/09/24/powerful-hurricane-polo-drenches-mexicos-coast-as-nolo-takes-aim-at-hawaii/", "https://apnews.com/article/a6c1c226c878a236442a8e1a7f37211b"]
+      "sourceUrls": ["https://apnews.com/article/f3208930e39c7d233bdc24315065dcd2"]
     },
     {
-      "title": "Canada gold-heist charges dropped",
-      "summary": "Canadian prosecutors dropped charges against two men accused in the 2023 Toronto Pearson airport gold heist, while the larger case over the multimillion-dollar theft continues.",
-      "discussionPrompt": "If a famous heist case suddenly changes shape, who wants the legal details and who immediately pictures the movie version?",
+      "title": "NASA previews deeper infrared telescope plans",
+      "summary": "NASA is teasing PRIMA, a proposed infrared space telescope meant to look deeper into dusty regions of the universe and build on discoveries from Webb.",
+      "discussionPrompt": "When a new telescope promises to see what older ones missed, who starts dreaming about alien planets and who asks about the budget?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "Global News"],
-      "sourceUrls": ["https://currently.att.yahoo.com/att/canada-prosecutors-drop-charges-against-235158819.html", "https://globalnews.ca/news/12061842/charges-dropped-pearson-gold-heist/"]
+      "sourceNames": ["Live Science"],
+      "sourceUrls": ["https://www.livescience.com/news/archive/2026/09"]
     },
     {
-      "title": "Naoero name change gets UN spotlight",
-      "summary": "The president of Naoero, formerly known internationally as Nauru, used the UN General Assembly to explain the Pacific nation's move to foreground its local name.",
-      "discussionPrompt": "When a country asks the world to use its own name, who sees a small wording change and who sees a big identity moment?",
+      "title": "Japan runs room-temperature quantum computer",
+      "summary": "Researchers in Japan switched on the country's first full-stack room-temperature quantum computer and outlined ambitions to scale the system dramatically in future versions.",
+      "discussionPrompt": "If quantum computers get easier to run, who imagines breakthroughs and who quietly changes every password just in case?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Live Science"],
+      "sourceUrls": ["https://www.livescience.com/news/archive/2026/09"]
+    },
+    {
+      "title": "Study rewrites bats' origin story",
+      "summary": "A genetic study reported by The Guardian suggests bats may have originated in Europe, challenging earlier assumptions about the evolutionary history of the flying mammals.",
+      "discussionPrompt": "When a family tree gets redrawn millions of years later, who updates the textbook and who wants the ancestors to explain themselves?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/24/all"]
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Bscience/science"]
     },
     {
-      "title": "Europe weighs a stronger drone shield",
-      "summary": "After drone disruptions and rising security concerns, European leaders discussed ways to improve detection and defenses, including a possible broader drone wall approach.",
-      "discussionPrompt": "If mysterious drones keep closing airports, who wants better sensors first and who starts asking where the drones came from?",
+      "title": "Wall Street steadies as oil cools",
+      "summary": "U.S. stocks rose toward the end of the week as oil prices eased, giving markets a break after recent swings tied to bond yields and energy worries.",
+      "discussionPrompt": "When markets calm down because oil prices take a breather, who relaxes and who waits for the next chart to misbehave?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Reuters"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/24/all", "https://www.reuters.com/"]
+      "sourceNames": ["Associated Press via Local10"],
+      "sourceUrls": ["https://www.local10.com/news/2026/09/25/us-stocks-gain-ground-toward-the-finish-of-a-winning-week/"]
+    },
+    {
+      "title": "Smartphone-only fares frustrate school families",
+      "summary": "In England, families without smartphones may face higher school bus costs as some cheaper travel passes move into apps, raising access questions for students.",
+      "discussionPrompt": "If a discount only exists inside an app, who calls that convenient and who asks what happens to everyone without the gadget?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://uknews.paulojorge.net/the-guardian/"]
     }
   ]
 }
