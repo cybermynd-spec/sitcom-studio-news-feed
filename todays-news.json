@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-27T16:41:14Z",
+  "updatedUtc": "2026-09-28T17:18:00Z",
   "topics": [
     {
-      "title": "Nor'easter floods Northeast coast",
-      "summary": "A slow-moving nor'easter brought coastal flooding, strong winds, power outages, travel delays, and event disruptions across parts of the U.S. Northeast, with forecasters warning rough conditions could continue Sunday.",
-      "discussionPrompt": "When the weather ruins everybody's plans, who becomes the emergency planner and who insists the show can still go on?",
+      "title": "U.S. and China cut tariffs",
+      "summary": "The United States and China agreed to trim tariffs on about $60 billion in goods, including agriculture and household items, while extending their trade truce.",
+      "discussionPrompt": "If two rivals suddenly lower tariffs, who starts planning cheaper snacks and who wonders what they traded behind closed doors?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via WV News"],
-      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["Reuters via Business Recorder", "Reuters via Lexington Herald Leader"],
+      "sourceUrls": ["https://www.brecorder.com/authors/76222/reuters", "https://www.kentucky.com/news/nation-world/world/"]
     },
     {
-      "title": "U.S. and China add AI safety channel",
-      "summary": "China and the United States agreed to create a channel for AI-related incidents, continue military crisis communication work, extend a trade truce, and meet again at upcoming international summits.",
-      "discussionPrompt": "If two rivals open an AI hotline, who trusts the paperwork and who wants to know what counts as an AI emergency?",
+      "title": "Iran talks continue through mediators",
+      "summary": "U.S. and Iranian representatives were expected to hold separate mediator-led talks in New York after Washington dismissed Tehran's latest proposal over sanctions and the Strait of Hormuz.",
+      "discussionPrompt": "When talks happen in separate rooms, who thinks that keeps things calm and who says everyone should just sit at one table?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via WV News"],
-      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["Reuters via Business Recorder", "NPR via WXXI"],
+      "sourceUrls": ["https://www.brecorder.com/authors/76222/reuters", "https://www.wxxinews.org/npr-news/2026-09-28/morning-news-brief"]
     },
     {
-      "title": "Iran pushes diplomacy after rejected plan",
-      "summary": "Iran said diplomacy remains the path forward after President Trump rejected its proposal tied to reopening the Strait of Hormuz, sanctions relief, oil sales, and a wider ceasefire.",
-      "discussionPrompt": "When one side says diplomacy is still possible after a hard no, who sees an opening and who hears a door slam?",
+      "title": "UK airbase arrests investigated",
+      "summary": "British police said five suspects arrested near RAF Fairford were British nationals as investigators examined an explosives case and possible international links.",
+      "discussionPrompt": "If a quiet airbase suddenly becomes headline news, who wants every detail and who immediately starts guessing how security missed it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Internazionale", "Associated Press via WV News"],
-      "sourceUrls": ["https://www.internazionale.it/ultime-notizie-reuters", "https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["The Guardian", "Associated Press via NDTV", "NPR via WXXI"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/sep/28/all", "https://www.ndtv.com/agencies/associated-press-1327/", "https://www.wxxinews.org/npr-news/2026-09-28/morning-news-brief"]
     },
     {
-      "title": "Hawaii watches Hurricane Nolo",
-      "summary": "Hurricane Nolo passed south of Hawaii's Big Island, but officials warned it could still bring flash flooding, dangerous surf, and strong winds to areas recovering from earlier storms.",
-      "discussionPrompt": "If a storm misses the island but still causes trouble, who relaxes too early and who keeps checking every forecast map?",
+      "title": "Starship heads toward orbit",
+      "summary": "SpaceX launched Starship on its 14th test flight, with the vehicle reported as the first in the program aimed at reaching orbit.",
+      "discussionPrompt": "When a giant rocket finally aims for orbit, who is counting engineering milestones and who just wants the launch replay on loop?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via WV News"],
-      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["Reuters via Lexington Herald Leader"],
+      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
     },
     {
-      "title": "Swiss voters keep flexible neutrality",
-      "summary": "Swiss voters rejected a proposal for stricter neutrality rules that would have limited cooperation with NATO and narrowed Switzerland's ability to join sanctions or partnerships.",
-      "discussionPrompt": "When a country votes on what neutrality should mean, who wants a strict rulebook and who prefers room to maneuver?",
+      "title": "Bangkok shelters fill after floods",
+      "summary": "Thousands of Bangkok residents stayed in shelters as officials assessed flood damage estimated above $320 million after heavy rains disrupted parts of the city.",
+      "discussionPrompt": "After a city floods, who focuses on helping neighbors first and who wants to redesign the entire drainage map?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Internazionale"],
-      "sourceUrls": ["https://www.internazionale.it/ultime-notizie-reuters"]
+      "sourceNames": ["Reuters via Lexington Herald Leader"],
+      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
     },
     {
-      "title": "Pope Leo draws huge Paris crowd",
-      "summary": "Pope Leo XIV drew a Vatican-estimated 800,000 people to an outdoor Mass on Paris' Champs-Elysees before continuing his visit with a trip to Lourdes.",
-      "discussionPrompt": "If a public event pulls a crowd bigger than expected, who studies the logistics and who just wants to know where everyone parked?",
+      "title": "South Korea questions Ukraine disclosure",
+      "summary": "South Korea summoned Ukraine's acting ambassador after Kyiv disclosed the transfer of captured North Korean soldiers to Seoul, saying the matter was meant to stay confidential.",
+      "discussionPrompt": "When allies disagree over what should stay private, who says transparency matters and who reaches for the diplomatic apology template?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via WV News"],
-      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["Reuters via Devdiscourse", "Reuters via Lexington Herald Leader"],
+      "sourceUrls": ["https://www.devdiscourse.com/article/international/3983209-reuters-world-news-summary", "https://www.kentucky.com/news/nation-world/world/"]
     },
     {
-      "title": "Bangkok recovers from floodwaters",
-      "summary": "Floodwaters receded in many parts of Bangkok after torrential rain, while residents assessed losses and Thai officials approved special civil-service holidays for Bangkok and nearby provinces.",
-      "discussionPrompt": "After city flooding, who starts cleaning immediately and who begins a full investigation into the drainage system?",
+      "title": "Pope Leo wraps France visit",
+      "summary": "Pope Leo was expected to address Europe's role in the world in Metz, with remarks touching on peace in Ukraine and concerns over rising nationalism.",
+      "discussionPrompt": "If a pope gives Europe homework, who nods seriously and who asks whether anyone actually turns in the assignment?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Internazionale"],
-      "sourceUrls": ["https://www.internazionale.it/ultime-notizie-reuters"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/28/all"]
     },
     {
-      "title": "Kennedy Center repairs questioned",
-      "summary": "Former Kennedy Center employees alleged officials delayed planned repair work despite known structural issues, while the venue says newer investigations found safety risks behind its temporary closure.",
-      "discussionPrompt": "When a famous venue closes over safety concerns, who asks about the engineering and who asks what happens to all the performances?",
+      "title": "Ukraine allies hear NATO warning",
+      "summary": "NATO's top commander in Europe told EU lawmakers that Russia's activity is aimed at weakening allies' will to keep supporting Ukraine.",
+      "discussionPrompt": "When a commander says morale is the target, who talks strategy and who checks whether everyone is getting enough sleep?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press via WV News"],
-      "sourceUrls": ["https://www.wvnews.com/newsfeed/us/ap-news-summary-at-12-06-a-m-edt/article_745c6a1b-8c6b-54c5-98bb-6486ef0ec1bb.html"]
+      "sourceNames": ["Reuters via Lexington Herald Leader"],
+      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
     },
     {
-      "title": "Ukraine mobile provider hit",
-      "summary": "Kyivstar, Ukraine's largest mobile service provider, said its headquarters was hit as Russia continued strikes on logistics, port, transport, and data infrastructure.",
-      "discussionPrompt": "When communications infrastructure becomes part of a conflict, who worries about daily life first and who focuses on backup plans?",
+      "title": "UK homebuilders rise on buyer plan",
+      "summary": "Shares in British homebuilders climbed after a new support scheme for first-time buyers was announced, lifting hopes for demand in the housing market.",
+      "discussionPrompt": "When a housing plan boosts builders, who sees opportunity and who immediately asks whether first-time buyers actually feel helped?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Internazionale"],
-      "sourceUrls": ["https://www.internazionale.it/ultime-notizie-reuters"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/series/guardian-business-live"]
     },
     {
-      "title": "International NFL schedule expands",
-      "summary": "The NFL's international schedule includes a record nine regular-season games across seven countries and four continents, with Baltimore and Dallas set for Rio de Janeiro on Sept. 27.",
-      "discussionPrompt": "If your team plays halfway around the world, who calls it exciting growth and who worries about jet lag ruining everything?",
+      "title": "Sami history exhibition opens",
+      "summary": "An exhibition in Kiruna, Sweden highlights Sami lives and history as a long-awaited report on state abuses against Indigenous people is handed over.",
+      "discussionPrompt": "When a museum exhibit arrives with a difficult public report, who wants quiet reflection and who wants the government response first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/22f863c998eb55915d7d41e6f50523f1"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/28/all"]
     }
   ]
 }
