@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-28T17:18:00Z",
+  "updatedUtc": "2026-09-29T16:26:00Z",
   "topics": [
     {
-      "title": "U.S. and China cut tariffs",
-      "summary": "The United States and China agreed to trim tariffs on about $60 billion in goods, including agriculture and household items, while extending their trade truce.",
-      "discussionPrompt": "If two rivals suddenly lower tariffs, who starts planning cheaper snacks and who wonders what they traded behind closed doors?",
+      "title": "America.gov AI changes answers",
+      "summary": "The U.S. launched an AI-powered America.gov helper, but AP reported its answers to politically sensitive questions shifted soon after launch, raising questions about public information and AI guardrails.",
+      "discussionPrompt": "If a government chatbot changes its tune mid-conversation, who trusts the new answer and who asks for a human at the counter?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Business Recorder", "Reuters via Lexington Herald Leader"],
-      "sourceUrls": ["https://www.brecorder.com/authors/76222/reuters", "https://www.kentucky.com/news/nation-world/world/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/c6dd26d8e67270db543c37ac3762acd9"]
     },
     {
-      "title": "Iran talks continue through mediators",
-      "summary": "U.S. and Iranian representatives were expected to hold separate mediator-led talks in New York after Washington dismissed Tehran's latest proposal over sanctions and the Strait of Hormuz.",
-      "discussionPrompt": "When talks happen in separate rooms, who thinks that keeps things calm and who says everyone should just sit at one table?",
+      "title": "Wall Street steadies as oil eases",
+      "summary": "U.S. stocks were little changed as oil prices slipped and Treasury yields steadied, while consumer confidence fell and tech shares helped offset broader market weakness.",
+      "discussionPrompt": "When markets calm down for a day, who relaxes immediately and who says the coffee is still more stable than the economy?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Business Recorder", "NPR via WXXI"],
-      "sourceUrls": ["https://www.brecorder.com/authors/76222/reuters", "https://www.wxxinews.org/npr-news/2026-09-28/morning-news-brief"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/269abea6fd8ea7f314a8c34152788e0c"]
     },
     {
-      "title": "UK airbase arrests investigated",
-      "summary": "British police said five suspects arrested near RAF Fairford were British nationals as investigators examined an explosives case and possible international links.",
-      "discussionPrompt": "If a quiet airbase suddenly becomes headline news, who wants every detail and who immediately starts guessing how security missed it?",
+      "title": "Yemen talks seek calmer path",
+      "summary": "A UN envoy met Houthi negotiators as international officials tried to reduce renewed violence in Yemen and restart a more stable political track.",
+      "discussionPrompt": "When peace talks restart after things flare up, who brings cautious optimism and who keeps asking what would actually make both sides stick with it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Associated Press via NDTV", "NPR via WXXI"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/sep/28/all", "https://www.ndtv.com/agencies/associated-press-1327/", "https://www.wxxinews.org/npr-news/2026-09-28/morning-news-brief"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/049d586b6e8ca0a0394bc013e3322da3"]
     },
     {
-      "title": "Starship heads toward orbit",
-      "summary": "SpaceX launched Starship on its 14th test flight, with the vehicle reported as the first in the program aimed at reaching orbit.",
-      "discussionPrompt": "When a giant rocket finally aims for orbit, who is counting engineering milestones and who just wants the launch replay on loop?",
+      "title": "NASA backs Starliner cargo test",
+      "summary": "NASA said Boeing's redesigned Starliner should be ready for an uncrewed cargo trip to the space station by December, a step toward recovering from earlier capsule problems.",
+      "discussionPrompt": "If a spacecraft gets a cargo-only comeback, who calls that smart testing and who jokes that snacks are braver than astronauts?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Lexington Herald Leader"],
-      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/236036f051edf05ddc58c1014b199278"]
     },
     {
-      "title": "Bangkok shelters fill after floods",
-      "summary": "Thousands of Bangkok residents stayed in shelters as officials assessed flood damage estimated above $320 million after heavy rains disrupted parts of the city.",
-      "discussionPrompt": "After a city floods, who focuses on helping neighbors first and who wants to redesign the entire drainage map?",
+      "title": "Maui study tracks wildfire residue",
+      "summary": "New research found elevated metal mixtures linked to lung impacts among residents near Maui's 2023 wildfires, suggesting disaster recovery may need longer-term air and soil monitoring.",
+      "discussionPrompt": "After a fire is officially over, who thinks cleanup means rebuilding walls and who worries about the invisible stuff left behind?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Lexington Herald Leader"],
-      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/c7ea730977c8e11aece702a58ab1d898"]
     },
     {
-      "title": "South Korea questions Ukraine disclosure",
-      "summary": "South Korea summoned Ukraine's acting ambassador after Kyiv disclosed the transfer of captured North Korean soldiers to Seoul, saying the matter was meant to stay confidential.",
-      "discussionPrompt": "When allies disagree over what should stay private, who says transparency matters and who reaches for the diplomatic apology template?",
+      "title": "Anthropic IPO spotlights AI risk",
+      "summary": "Reuters-reviewed IPO materials said Anthropic is warning investors about advanced AI risks while preparing a major public listing, highlighting tension between fast growth and safety concerns.",
+      "discussionPrompt": "If a company says its product could be risky while asking investors to pile in, who calls that honesty and who calls that awkward marketing?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Devdiscourse", "Reuters via Lexington Herald Leader"],
-      "sourceUrls": ["https://www.devdiscourse.com/article/international/3983209-reuters-world-news-summary", "https://www.kentucky.com/news/nation-world/world/"]
+      "sourceNames": ["Reuters via MarketScreener", "The Guardian"],
+      "sourceUrls": ["https://www.marketscreener.com/news/anthropic-s-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-ce785addd98afe2c", "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates"]
     },
     {
-      "title": "Pope Leo wraps France visit",
-      "summary": "Pope Leo was expected to address Europe's role in the world in Metz, with remarks touching on peace in Ukraine and concerns over rising nationalism.",
-      "discussionPrompt": "If a pope gives Europe homework, who nods seriously and who asks whether anyone actually turns in the assignment?",
+      "title": "AstraZeneca invests in cancer-drug partner",
+      "summary": "AstraZeneca announced a $2 billion investment and clinical collaboration with Summit Therapeutics to test cancer-treatment combinations using Summit's PD-1 and VEGF-targeting drug.",
+      "discussionPrompt": "When a huge drug partnership lands, who gets hopeful about the science and who immediately asks how long patients wait to see results?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["AstraZeneca", "Reuters via Boursorama", "The Guardian"],
+      "sourceUrls": ["https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-announces-equity-investment-summit.html", "https://www.boursorama.com/bourse/actualites/astrazeneca-va-investir-2-milliards-de-dollars-dans-summit-therapeutics-dans-le-cadre-d-un-partenariat-pour-le-developpement-de-medicaments-anticancereux-080f918f62d96ee776fdaeadeaf625eb", "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates"]
+    },
+    {
+      "title": "Madrid rent protest keeps growing",
+      "summary": "The Guardian reported that a tent camp in Madrid's Puerta del Sol has expanded as residents protest high rents and Spain's housing pressures.",
+      "discussionPrompt": "If a housing protest turns a plaza into a camp, who sees civic courage and who starts wondering where the portable bathrooms go?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/28/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/29/all"]
     },
     {
-      "title": "Ukraine allies hear NATO warning",
-      "summary": "NATO's top commander in Europe told EU lawmakers that Russia's activity is aimed at weakening allies' will to keep supporting Ukraine.",
-      "discussionPrompt": "When a commander says morale is the target, who talks strategy and who checks whether everyone is getting enough sleep?",
+      "title": "Canada watches softer growth signals",
+      "summary": "Statistics Canada scheduled July GDP-by-industry data for today after June growth and an earlier estimate that July was essentially unchanged, keeping attention on the economy's summer momentum.",
+      "discussionPrompt": "When the economy barely moves for a month, who says steady is fine and who starts interrogating every chart like it owes them rent?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via Lexington Herald Leader"],
-      "sourceUrls": ["https://www.kentucky.com/news/nation-world/world/"]
+      "sourceNames": ["Statistics Canada"],
+      "sourceUrls": ["https://www150.statcan.gc.ca/n1/daily-quotidien/260828/dq260828b-eng.htm"]
     },
     {
-      "title": "UK homebuilders rise on buyer plan",
-      "summary": "Shares in British homebuilders climbed after a new support scheme for first-time buyers was announced, lifting hopes for demand in the housing market.",
-      "discussionPrompt": "When a housing plan boosts builders, who sees opportunity and who immediately asks whether first-time buyers actually feel helped?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/series/guardian-business-live"]
-    },
-    {
-      "title": "Sami history exhibition opens",
-      "summary": "An exhibition in Kiruna, Sweden highlights Sami lives and history as a long-awaited report on state abuses against Indigenous people is handed over.",
-      "discussionPrompt": "When a museum exhibit arrives with a difficult public report, who wants quiet reflection and who wants the government response first?",
+      "title": "Europe heat-pump sales rise",
+      "summary": "Guardian coverage highlighted industry data showing European heat-pump sales rising after some governments cut electricity taxes, making cleaner home heating more attractive.",
+      "discussionPrompt": "If cheaper electricity makes heat pumps popular, who wants one installed tomorrow and who needs three spreadsheets before touching the thermostat?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/28/all"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"]
     }
   ]
 }
