@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-29T16:26:00Z",
+  "updatedUtc": "2026-09-30T16:54:56Z",
   "topics": [
     {
-      "title": "America.gov AI changes answers",
-      "summary": "The U.S. launched an AI-powered America.gov helper, but AP reported its answers to politically sensitive questions shifted soon after launch, raising questions about public information and AI guardrails.",
-      "discussionPrompt": "If a government chatbot changes its tune mid-conversation, who trusts the new answer and who asks for a human at the counter?",
+      "title": "Inflation cools while spending rises",
+      "summary": "AP reported U.S. inflation eased slightly last month even as consumer spending picked up, keeping prices and household confidence central economic questions before the midterms.",
+      "discussionPrompt": "If prices cool a little but groceries still feel pricey, who celebrates the chart and who keeps side-eyeing the receipt?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/c6dd26d8e67270db543c37ac3762acd9"]
+      "sourceUrls": ["https://apnews.com/article/01d0c6f32f74d9101a39ca6007813b61"]
     },
     {
-      "title": "Wall Street steadies as oil eases",
-      "summary": "U.S. stocks were little changed as oil prices slipped and Treasury yields steadied, while consumer confidence fell and tech shares helped offset broader market weakness.",
-      "discussionPrompt": "When markets calm down for a day, who relaxes immediately and who says the coffee is still more stable than the economy?",
+      "title": "Stocks eye a winning September",
+      "summary": "Wall Street moved toward a positive September after an encouraging inflation update eased pressure in the bond market, though investors are still watching rates and expensive tech shares.",
+      "discussionPrompt": "When the market gets one calm afternoon, who relaxes instantly and who says the spreadsheet is still holding its breath?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/269abea6fd8ea7f314a8c34152788e0c"]
+      "sourceUrls": ["https://apnews.com/article/e61d3d7b947a390c7eee6c8758e3095d"]
     },
     {
-      "title": "Yemen talks seek calmer path",
-      "summary": "A UN envoy met Houthi negotiators as international officials tried to reduce renewed violence in Yemen and restart a more stable political track.",
-      "discussionPrompt": "When peace talks restart after things flare up, who brings cautious optimism and who keeps asking what would actually make both sides stick with it?",
+      "title": "U.S. GDP estimate improves",
+      "summary": "The Commerce Department upgraded second-quarter U.S. growth to a 2.2% annual pace, citing firmer consumer spending and business investment than earlier estimates showed.",
+      "discussionPrompt": "If the economy gets a better grade after the fact, who says nice and who asks why the report card was late?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/049d586b6e8ca0a0394bc013e3322da3"]
+      "sourceUrls": ["https://apnews.com/article/b759367e9e6149fe145652cc95887aa0"]
     },
     {
-      "title": "NASA backs Starliner cargo test",
-      "summary": "NASA said Boeing's redesigned Starliner should be ready for an uncrewed cargo trip to the space station by December, a step toward recovering from earlier capsule problems.",
-      "discussionPrompt": "If a spacecraft gets a cargo-only comeback, who calls that smart testing and who jokes that snacks are braver than astronauts?",
+      "title": "AI firms sign voluntary accord",
+      "summary": "Top technology companies signed a White House-backed voluntary AI accord focused on self-policing, outside reviews and safety controls, reviving debate over whether industry promises are enough.",
+      "discussionPrompt": "If powerful AI companies promise to check themselves, who trusts the honor system and who wants a very awake referee?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters via Investing.com"],
+      "sourceUrls": ["https://apnews.com/article/595796511f110fc006cca0d01329733e", "https://www.investing.com/news/stock-market-news/trump-releases-ai-accord-with-tech-executives-4923759"]
+    },
+    {
+      "title": "Starliner gets cargo-first path",
+      "summary": "NASA said Boeing's Starliner may fly an uncrewed cargo mission to the space station in December or January, with astronaut flights pushed farther down the certification path.",
+      "discussionPrompt": "If a spacecraft has to prove itself with cargo first, who calls that sensible and who wonders what snacks qualify as brave?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NASA", "Space.com"],
+      "sourceUrls": ["https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/", "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says"]
+    },
+    {
+      "title": "Gaza strikes mark tense day",
+      "summary": "AP reported new Israeli strikes in Gaza as diplomats and regional leaders continued navigating a volatile Middle East, with civilians and aid access still at the center of concern.",
+      "discussionPrompt": "When a conflict stays in the headlines for so long, who tries to follow every update and who needs the plain-language version first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/236036f051edf05ddc58c1014b199278"]
+      "sourceUrls": ["https://apnews.com/article/449f9e378b8c9bc66fe36712efdfa6b5"]
     },
     {
-      "title": "Maui study tracks wildfire residue",
-      "summary": "New research found elevated metal mixtures linked to lung impacts among residents near Maui's 2023 wildfires, suggesting disaster recovery may need longer-term air and soil monitoring.",
-      "discussionPrompt": "After a fire is officially over, who thinks cleanup means rebuilding walls and who worries about the invisible stuff left behind?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/c7ea730977c8e11aece702a58ab1d898"]
-    },
-    {
-      "title": "Anthropic IPO spotlights AI risk",
-      "summary": "Reuters-reviewed IPO materials said Anthropic is warning investors about advanced AI risks while preparing a major public listing, highlighting tension between fast growth and safety concerns.",
-      "discussionPrompt": "If a company says its product could be risky while asking investors to pile in, who calls that honesty and who calls that awkward marketing?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters via MarketScreener", "The Guardian"],
-      "sourceUrls": ["https://www.marketscreener.com/news/anthropic-s-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-ce785addd98afe2c", "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates"]
-    },
-    {
-      "title": "AstraZeneca invests in cancer-drug partner",
-      "summary": "AstraZeneca announced a $2 billion investment and clinical collaboration with Summit Therapeutics to test cancer-treatment combinations using Summit's PD-1 and VEGF-targeting drug.",
-      "discussionPrompt": "When a huge drug partnership lands, who gets hopeful about the science and who immediately asks how long patients wait to see results?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["AstraZeneca", "Reuters via Boursorama", "The Guardian"],
-      "sourceUrls": ["https://www.astrazeneca.com/media-centre/press-releases/2026/astrazeneca-announces-equity-investment-summit.html", "https://www.boursorama.com/bourse/actualites/astrazeneca-va-investir-2-milliards-de-dollars-dans-summit-therapeutics-dans-le-cadre-d-un-partenariat-pour-le-developpement-de-medicaments-anticancereux-080f918f62d96ee776fdaeadeaf625eb", "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates"]
-    },
-    {
-      "title": "Madrid rent protest keeps growing",
-      "summary": "The Guardian reported that a tent camp in Madrid's Puerta del Sol has expanded as residents protest high rents and Spain's housing pressures.",
-      "discussionPrompt": "If a housing protest turns a plaza into a camp, who sees civic courage and who starts wondering where the portable bathrooms go?",
+      "title": "Ukraine missile alerts carry costs",
+      "summary": "The Guardian reported Ukraine's economy minister said missile alerts can cost businesses about $45 million per halted hour, highlighting the economic strain of staying alert during war.",
+      "discussionPrompt": "How would a city balance staying safe with keeping daily life moving when alarms can freeze everything at once?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/sep/29/all"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
     },
     {
-      "title": "Canada watches softer growth signals",
-      "summary": "Statistics Canada scheduled July GDP-by-industry data for today after June growth and an earlier estimate that July was essentially unchanged, keeping attention on the economy's summer momentum.",
-      "discussionPrompt": "When the economy barely moves for a month, who says steady is fine and who starts interrogating every chart like it owes them rent?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Statistics Canada"],
-      "sourceUrls": ["https://www150.statcan.gc.ca/n1/daily-quotidien/260828/dq260828b-eng.htm"]
-    },
-    {
-      "title": "Europe heat-pump sales rise",
-      "summary": "Guardian coverage highlighted industry data showing European heat-pump sales rising after some governments cut electricity taxes, making cleaner home heating more attractive.",
-      "discussionPrompt": "If cheaper electricity makes heat pumps popular, who wants one installed tomorrow and who needs three spreadsheets before touching the thermostat?",
+      "title": "Antarctic sea ice stays low",
+      "summary": "The Guardian reported Antarctic winter sea ice fell to its third-lowest level on record, with scientists warning the shift is already affecting oceans and climate systems.",
+      "discussionPrompt": "When climate records keep sounding unusual, who wants bold action now and who asks what change would actually stick?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+    },
+    {
+      "title": "England tern colonies rebound",
+      "summary": "National Trust figures highlighted by The Guardian showed encouraging signs for tern colonies in England after earlier declines, while conservationists said continued habitat work remains important.",
+      "discussionPrompt": "If a struggling species starts bouncing back, who throws a tiny parade and who asks what protected the nesting spots?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+    },
+    {
+      "title": "Australian EV demand jumps",
+      "summary": "The Guardian reported Australian electric-vehicle demand more than doubled, with industry figures showing an EV sold about every 100 seconds amid changing buyer interest.",
+      "discussionPrompt": "If EV sales suddenly surge, who wants to talk charging stations and who immediately asks about road trips and snacks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
     }
   ]
 }
