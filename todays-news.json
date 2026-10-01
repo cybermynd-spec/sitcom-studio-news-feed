@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-09-30T16:54:56Z",
+  "updatedUtc": "2026-10-01T16:55:18Z",
   "topics": [
     {
-      "title": "Inflation cools while spending rises",
-      "summary": "AP reported U.S. inflation eased slightly last month even as consumer spending picked up, keeping prices and household confidence central economic questions before the midterms.",
-      "discussionPrompt": "If prices cool a little but groceries still feel pricey, who celebrates the chart and who keeps side-eyeing the receipt?",
+      "title": "Prices weigh on voter mood",
+      "summary": "AP reported a new AP-NORC poll found many Americans still blame President Trump's policies for high prices, keeping everyday costs central as midterm campaigning intensifies.",
+      "discussionPrompt": "When prices become the whole kitchen-table conversation, who starts with policy and who just wants to compare grocery receipts?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/01d0c6f32f74d9101a39ca6007813b61"]
+      "sourceUrls": ["https://apnews.com/article/8d5809758a31b29c73f4351a8008147c"]
     },
     {
-      "title": "Stocks eye a winning September",
-      "summary": "Wall Street moved toward a positive September after an encouraging inflation update eased pressure in the bond market, though investors are still watching rates and expensive tech shares.",
-      "discussionPrompt": "When the market gets one calm afternoon, who relaxes instantly and who says the spreadsheet is still holding its breath?",
+      "title": "Campaigns chase midterm energy",
+      "summary": "AP said President Trump and Vice President JD Vance are campaigning in Republican-leaning areas as candidates try to build enthusiasm before November's midterm elections.",
+      "discussionPrompt": "If a campaign visits friendly territory, who calls it smart morale-building and who asks whether it changes any minds?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/e61d3d7b947a390c7eee6c8758e3095d"]
+      "sourceUrls": ["https://apnews.com/article/b686e72598df56656bdcae3270799d65"]
     },
     {
-      "title": "U.S. GDP estimate improves",
-      "summary": "The Commerce Department upgraded second-quarter U.S. growth to a 2.2% annual pace, citing firmer consumer spending and business investment than earlier estimates showed.",
-      "discussionPrompt": "If the economy gets a better grade after the fact, who says nice and who asks why the report card was late?",
+      "title": "Governors races carry big stakes",
+      "summary": "AP reported competitive governor races in several states could decide whether one party controls both legislative chambers and the governor's office, shaping state policy power.",
+      "discussionPrompt": "When state races decide who can actually pass things, who pays close attention and who admits they only know the national drama?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/b759367e9e6149fe145652cc95887aa0"]
+      "sourceUrls": ["https://apnews.com/article/bf9b5c8d95b8ded65d8a955191c7dcf2"]
     },
     {
-      "title": "AI firms sign voluntary accord",
-      "summary": "Top technology companies signed a White House-backed voluntary AI accord focused on self-policing, outside reviews and safety controls, reviving debate over whether industry promises are enough.",
-      "discussionPrompt": "If powerful AI companies promise to check themselves, who trusts the honor system and who wants a very awake referee?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via Investing.com"],
-      "sourceUrls": ["https://apnews.com/article/595796511f110fc006cca0d01329733e", "https://www.investing.com/news/stock-market-news/trump-releases-ai-accord-with-tech-executives-4923759"]
-    },
-    {
-      "title": "Starliner gets cargo-first path",
-      "summary": "NASA said Boeing's Starliner may fly an uncrewed cargo mission to the space station in December or January, with astronaut flights pushed farther down the certification path.",
-      "discussionPrompt": "If a spacecraft has to prove itself with cargo first, who calls that sensible and who wonders what snacks qualify as brave?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NASA", "Space.com"],
-      "sourceUrls": ["https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/", "https://www.space.com/space-exploration/human-spaceflight/boeing-starliner-wont-launch-astronauts-until-2028-and-may-need-a-new-rocket-nasa-says"]
-    },
-    {
-      "title": "Gaza strikes mark tense day",
-      "summary": "AP reported new Israeli strikes in Gaza as diplomats and regional leaders continued navigating a volatile Middle East, with civilians and aid access still at the center of concern.",
-      "discussionPrompt": "When a conflict stays in the headlines for so long, who tries to follow every update and who needs the plain-language version first?",
+      "title": "Astronaut crew launches fast",
+      "summary": "AP reported SpaceX launched four astronauts toward the International Space Station on a quick trip, including a Canadian astronaut whose family has a baby due while he is away.",
+      "discussionPrompt": "If your work trip is orbit, who focuses on the science and who immediately worries about missing the family group chat?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/449f9e378b8c9bc66fe36712efdfa6b5"]
+      "sourceUrls": ["https://apnews.com/article/d885ec0dcb9fab8bbf8977103118caa0"]
     },
     {
-      "title": "Ukraine missile alerts carry costs",
-      "summary": "The Guardian reported Ukraine's economy minister said missile alerts can cost businesses about $45 million per halted hour, highlighting the economic strain of staying alert during war.",
-      "discussionPrompt": "How would a city balance staying safe with keeping daily life moving when alarms can freeze everything at once?",
+      "title": "Energy permitting deal advances",
+      "summary": "AP reported senators from both parties reached a deal to speed approvals for energy and infrastructure projects as electricity demand grows and reviews often take years.",
+      "discussionPrompt": "If building power projects gets faster, who cheers the progress and who wants to double-check what protections stay in place?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/80d203a503d5843f32c8160dc004646b"]
     },
     {
-      "title": "Antarctic sea ice stays low",
-      "summary": "The Guardian reported Antarctic winter sea ice fell to its third-lowest level on record, with scientists warning the shift is already affecting oceans and climate systems.",
-      "discussionPrompt": "When climate records keep sounding unusual, who wants bold action now and who asks what change would actually stick?",
+      "title": "Cars raise privacy worries",
+      "summary": "The Guardian reported Dutch intelligence chiefs warned connected car technology could expose cameras, microphones and GPS data to hostile states, especially amid concerns over imported vehicles.",
+      "discussionPrompt": "If your car can collect that much data, who gets creeped out first and who starts hunting for the privacy settings?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
     },
     {
-      "title": "England tern colonies rebound",
-      "summary": "National Trust figures highlighted by The Guardian showed encouraging signs for tern colonies in England after earlier declines, while conservationists said continued habitat work remains important.",
-      "discussionPrompt": "If a struggling species starts bouncing back, who throws a tiny parade and who asks what protected the nesting spots?",
+      "title": "Male contraceptive research inches forward",
+      "summary": "The Guardian's Thursday briefing highlighted renewed attention on the long-running search for a male contraceptive pill, with researchers still working through science, safety and adoption questions.",
+      "discussionPrompt": "If contraception options finally became more balanced, who says about time and who wonders how people would actually split responsibility?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/01/all"]
     },
     {
-      "title": "Australian EV demand jumps",
-      "summary": "The Guardian reported Australian electric-vehicle demand more than doubled, with industry figures showing an EV sold about every 100 seconds amid changing buyer interest.",
-      "discussionPrompt": "If EV sales suddenly surge, who wants to talk charging stations and who immediately asks about road trips and snacks?",
+      "title": "Swiss glaciers shrink sharply",
+      "summary": "The Guardian reported Swiss glaciers have lost about 20% of their volume in five years, with scientists describing unusually rapid melt rates across the Alps.",
+      "discussionPrompt": "When a landscape changes that fast, who wants the science details and who thinks about the towns, trails and memories tied to it?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/sep/30/all"]
+      "sourceUrls": ["https://www.theguardian.com/science/all"]
+    },
+    {
+      "title": "Slackliner crosses Seoul skyline",
+      "summary": "The Guardian reported Estonian daredevil Jaan Roose completed a high slackline walk near Seoul's Gyeongbokgung palace, crossing a narrow ribbon 120 metres above the city.",
+      "discussionPrompt": "Watching someone balance above a city, who says beautiful, who says absolutely not, and who asks how the shoes work?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/01/all"]
+    },
+    {
+      "title": "U.S. may host club tournament",
+      "summary": "The Guardian reported the United States is lined up to host the first Women's Club World Cup, adding another major event to a fast-growing global women's soccer calendar.",
+      "discussionPrompt": "If clubs from around the world meet in one tournament, who picks a team by tactics and who picks by best kit colors?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/01/all"]
     }
   ]
 }
