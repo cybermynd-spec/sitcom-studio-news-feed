@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-01T16:55:18Z",
+  "updatedUtc": "2026-10-02T16:20:22Z",
   "topics": [
     {
-      "title": "Prices weigh on voter mood",
-      "summary": "AP reported a new AP-NORC poll found many Americans still blame President Trump's policies for high prices, keeping everyday costs central as midterm campaigning intensifies.",
-      "discussionPrompt": "When prices become the whole kitchen-table conversation, who starts with policy and who just wants to compare grocery receipts?",
+      "title": "Jobs report calms markets",
+      "summary": "U.S. stocks rose near record levels after September hiring came in softer than expected, easing worries that stronger growth would add more inflation pressure.",
+      "discussionPrompt": "When markets cheer a cooler jobs report, who calls that practical economics and who says it feels a little backwards?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/a2b99562febc21d84955e243c87f5d31", "https://www.lse.co.uk/news/global-markets-global-shares-gain-bonds-supported-as-oil-drops-jobs-data-misses-expectations-uqxmxmjr8sbrx5e.html"]
+    },
+    {
+      "title": "Campaign season hits Alabama",
+      "summary": "President Trump planned an Alabama campaign stop as midterm races accelerate, while economic worries and election security remain prominent themes in national politics.",
+      "discussionPrompt": "If a campaign rally comes to town, who gets swept up in the spectacle and who mostly watches the parking situation?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/8d5809758a31b29c73f4351a8008147c"]
+      "sourceUrls": ["https://apnews.com/article/304395b81b9c5717ce64019500a37083"]
     },
     {
-      "title": "Campaigns chase midterm energy",
-      "summary": "AP said President Trump and Vice President JD Vance are campaigning in Republican-leaning areas as candidates try to build enthusiasm before November's midterm elections.",
-      "discussionPrompt": "If a campaign visits friendly territory, who calls it smart morale-building and who asks whether it changes any minds?",
+      "title": "Amazon policy faces election test",
+      "summary": "Brazil's presidential election could reshape Amazon rainforest policy, with candidates offering sharply different approaches to conservation, development and deforestation controls.",
+      "discussionPrompt": "When an election could affect a rainforest, who talks climate first and who asks what local communities need day to day?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/b686e72598df56656bdcae3270799d65"]
+      "sourceUrls": ["https://apnews.com/article/eacb0832cd11cf40b0b2a24481439d1f"]
     },
     {
-      "title": "Governors races carry big stakes",
-      "summary": "AP reported competitive governor races in several states could decide whether one party controls both legislative chambers and the governor's office, shaping state policy power.",
-      "discussionPrompt": "When state races decide who can actually pass things, who pays close attention and who admits they only know the national drama?",
+      "title": "Borneo villages face water stress",
+      "summary": "In Indonesian Borneo, months of dry weather and peatland fires have left some river-dependent communities buying water as El Nino conditions intensify local strain.",
+      "discussionPrompt": "If the river you rely on suddenly isn't usable, who starts with emergency fixes and who thinks about the bigger land-use picture?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/bf9b5c8d95b8ded65d8a955191c7dcf2"]
+      "sourceUrls": ["https://apnews.com/article/b9cece17a9bf42faba2a9cbe3d383097"]
     },
     {
-      "title": "Astronaut crew launches fast",
-      "summary": "AP reported SpaceX launched four astronauts toward the International Space Station on a quick trip, including a Canadian astronaut whose family has a baby due while he is away.",
-      "discussionPrompt": "If your work trip is orbit, who focuses on the science and who immediately worries about missing the family group chat?",
+      "title": "Fast trip reaches space station",
+      "summary": "Four astronauts reached the International Space Station on an unusually quick SpaceX Dragon flight, setting a U.S. express-flight mark for crew arrivals.",
+      "discussionPrompt": "If your commute to orbit took eight hours, who packs snacks like it's a road trip and who keeps saying science is wild?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NASA"],
+      "sourceUrls": ["https://apnews.com/article/d885ec0dcb9fab8bbf8977103118caa0", "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"]
+    },
+    {
+      "title": "Israel plans repatriation flights",
+      "summary": "Israel said it would begin flights to bring home passengers stranded in the UAE after commercial travel was suspended following an attempted attack on a Tel Aviv-bound flight.",
+      "discussionPrompt": "When travel suddenly stops, who turns into the calm logistics person and who keeps refreshing the airline app every minute?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/d885ec0dcb9fab8bbf8977103118caa0"]
+      "sourceUrls": ["https://apnews.com/article/93d54fd230acb35d7112f47bba203459"]
     },
     {
-      "title": "Energy permitting deal advances",
-      "summary": "AP reported senators from both parties reached a deal to speed approvals for energy and infrastructure projects as electricity demand grows and reviews often take years.",
-      "discussionPrompt": "If building power projects gets faster, who cheers the progress and who wants to double-check what protections stay in place?",
+      "title": "California race tests GOP hopes",
+      "summary": "Republican Steve Hilton faces long odds in California's governor race, where Democrats have dominated statewide offices for two decades.",
+      "discussionPrompt": "In a state where one party usually wins statewide, who believes in surprise upsets and who wants to see the numbers first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/80d203a503d5843f32c8160dc004646b"]
+      "sourceUrls": ["https://apnews.com/article/24a84bffeec29e6ac809fb08ac477576"]
     },
     {
-      "title": "Cars raise privacy worries",
-      "summary": "The Guardian reported Dutch intelligence chiefs warned connected car technology could expose cameras, microphones and GPS data to hostile states, especially amid concerns over imported vehicles.",
-      "discussionPrompt": "If your car can collect that much data, who gets creeped out first and who starts hunting for the privacy settings?",
+      "title": "Power plant rule challenged",
+      "summary": "States and cities sued over the EPA's repeal of greenhouse gas limits for coal and gas power plants, arguing the rollback weakens major climate protections.",
+      "discussionPrompt": "When energy rules change, who focuses on cleaner air, who worries about power bills, and who wants both in the same plan?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/d8ab79989f8b021d79c58105d23ee461"]
     },
     {
-      "title": "Male contraceptive research inches forward",
-      "summary": "The Guardian's Thursday briefing highlighted renewed attention on the long-running search for a male contraceptive pill, with researchers still working through science, safety and adoption questions.",
-      "discussionPrompt": "If contraception options finally became more balanced, who says about time and who wonders how people would actually split responsibility?",
+      "title": "Baseball day games draw thin crowds",
+      "summary": "MLB's afternoon Wild Card games in Atlanta and Houston drew lighter crowds, underscoring the challenge of filling seats during weekday work and school hours.",
+      "discussionPrompt": "If playoff baseball starts in the afternoon, who calls in mysteriously busy and who says highlights after dinner are enough?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/01/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/7d336ed2642e388553f113f3334bd244"]
     },
     {
-      "title": "Swiss glaciers shrink sharply",
-      "summary": "The Guardian reported Swiss glaciers have lost about 20% of their volume in five years, with scientists describing unusually rapid melt rates across the Alps.",
-      "discussionPrompt": "When a landscape changes that fast, who wants the science details and who thinks about the towns, trails and memories tied to it?",
+      "title": "AI security review widens",
+      "summary": "Reuters reported OpenAI notified more than 100 organizations about unauthorized activity tied to AI agents, highlighting fast-growing security questions around automated tools.",
+      "discussionPrompt": "When AI tools can act on someone's behalf, who gets excited about convenience and who immediately asks where the guardrails are?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/all"]
-    },
-    {
-      "title": "Slackliner crosses Seoul skyline",
-      "summary": "The Guardian reported Estonian daredevil Jaan Roose completed a high slackline walk near Seoul's Gyeongbokgung palace, crossing a narrow ribbon 120 metres above the city.",
-      "discussionPrompt": "Watching someone balance above a city, who says beautiful, who says absolutely not, and who asks how the shoes work?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/01/all"]
-    },
-    {
-      "title": "U.S. may host club tournament",
-      "summary": "The Guardian reported the United States is lined up to host the first Women's Club World Cup, adding another major event to a fast-growing global women's soccer calendar.",
-      "discussionPrompt": "If clubs from around the world meet in one tournament, who picks a team by tactics and who picks by best kit colors?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/01/all"]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://malpass.co/top-ai-stories-2026-10-02/"]
     }
   ]
 }
