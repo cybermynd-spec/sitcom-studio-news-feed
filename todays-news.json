@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-02T16:20:22Z",
+  "updatedUtc": "2026-10-03T17:57:07Z",
   "topics": [
     {
-      "title": "Jobs report calms markets",
-      "summary": "U.S. stocks rose near record levels after September hiring came in softer than expected, easing worries that stronger growth would add more inflation pressure.",
-      "discussionPrompt": "When markets cheer a cooler jobs report, who calls that practical economics and who says it feels a little backwards?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/a2b99562febc21d84955e243c87f5d31", "https://www.lse.co.uk/news/global-markets-global-shares-gain-bonds-supported-as-oil-drops-jobs-data-misses-expectations-uqxmxmjr8sbrx5e.html"]
-    },
-    {
-      "title": "Campaign season hits Alabama",
-      "summary": "President Trump planned an Alabama campaign stop as midterm races accelerate, while economic worries and election security remain prominent themes in national politics.",
-      "discussionPrompt": "If a campaign rally comes to town, who gets swept up in the spectacle and who mostly watches the parking situation?",
+      "title": "West Coast water pulse raises flood worries",
+      "summary": "Forecasters say warm Pacific Kelvin waves could lift West Coast sea levels by up to a foot this month, increasing erosion and nuisance flooding risks through winter.",
+      "discussionPrompt": "If the ocean starts acting extra dramatic for months, who checks the tide charts and who just moves the beach picnic inland?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/304395b81b9c5717ce64019500a37083"]
+      "sourceUrls": ["https://apnews.com/article/52246a73e6842e4561b5195df526dd8e"]
     },
     {
-      "title": "Amazon policy faces election test",
-      "summary": "Brazil's presidential election could reshape Amazon rainforest policy, with candidates offering sharply different approaches to conservation, development and deforestation controls.",
-      "discussionPrompt": "When an election could affect a rainforest, who talks climate first and who asks what local communities need day to day?",
+      "title": "Supreme Court takes climate-fire case",
+      "summary": "The U.S. Supreme Court will hear a major climate case tied to Colorado's Marshall Fire, with governments seeking damages over fossil fuel companies' alleged role in warming.",
+      "discussionPrompt": "When a lawsuit tries to connect climate change to one disaster, who wants accountability and who worries courts are being asked to do too much?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/eacb0832cd11cf40b0b2a24481439d1f"]
+      "sourceUrls": ["https://apnews.com/article/688e1297b3c683b2a0e210850d1dd185"]
     },
     {
-      "title": "Borneo villages face water stress",
-      "summary": "In Indonesian Borneo, months of dry weather and peatland fires have left some river-dependent communities buying water as El Nino conditions intensify local strain.",
-      "discussionPrompt": "If the river you rely on suddenly isn't usable, who starts with emergency fixes and who thinks about the bigger land-use picture?",
+      "title": "Voters frustrated with both parties",
+      "summary": "An AP-NORC poll found voters favor Democrats on several issues but still lack confidence that either major party can solve the country's biggest problems.",
+      "discussionPrompt": "When people dislike both teams but still have to vote, who becomes the practical chooser and who starts inventing a third option over coffee?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/b9cece17a9bf42faba2a9cbe3d383097"]
+      "sourceUrls": ["https://apnews.com/article/109768f7544c9e0fcc7e716de0dc2157"]
     },
     {
-      "title": "Fast trip reaches space station",
-      "summary": "Four astronauts reached the International Space Station on an unusually quick SpaceX Dragon flight, setting a U.S. express-flight mark for crew arrivals.",
-      "discussionPrompt": "If your commute to orbit took eight hours, who packs snacks like it's a road trip and who keeps saying science is wild?",
+      "title": "Brazil campaign tests global alliances",
+      "summary": "Brazil's tight presidential race is drawing international attention as candidates spar over sovereignty, security and relations with the United States ahead of Sunday's vote.",
+      "discussionPrompt": "If another country's election could shift global politics, who follows every poll and who admits they're mostly trying to learn the basics?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NASA"],
-      "sourceUrls": ["https://apnews.com/article/d885ec0dcb9fab8bbf8977103118caa0", "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/"]
+      "sourceNames": ["BBC News", "The Guardian"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668", "https://www.theguardian.com/international"]
     },
     {
-      "title": "Israel plans repatriation flights",
-      "summary": "Israel said it would begin flights to bring home passengers stranded in the UAE after commercial travel was suspended following an attempted attack on a Tel Aviv-bound flight.",
-      "discussionPrompt": "When travel suddenly stops, who turns into the calm logistics person and who keeps refreshing the airline app every minute?",
+      "title": "Spain protests over housing squeeze",
+      "summary": "More than 50 housing protests were scheduled across Spain after parliament rejected emergency measures, keeping pressure on leaders over rents and affordability.",
+      "discussionPrompt": "When housing gets too expensive, who blames slow politics, who blames the market, and who just wants a place with decent sunlight?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/93d54fd230acb35d7112f47bba203459"]
+      "sourceNames": ["BBC News", "The Guardian"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668", "https://www.theguardian.com/world/2026/oct/03/all"]
     },
     {
-      "title": "California race tests GOP hopes",
-      "summary": "Republican Steve Hilton faces long odds in California's governor race, where Democrats have dominated statewide offices for two decades.",
-      "discussionPrompt": "In a state where one party usually wins statewide, who believes in surprise upsets and who wants to see the numbers first?",
+      "title": "Kyiv bridges hit by new disruption tactic",
+      "summary": "Russian aerial strikes snarled traffic on three Kyiv bridges, a disruption Ukraine described as part of a broader effort to pressure the capital's daily life.",
+      "discussionPrompt": "When a city keeps functioning under pressure, who notices the logistics first and who notices how stubborn everyday routines can be?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/24a84bffeec29e6ac809fb08ac477576"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/1949f2a68b6b8b4bfeba5a86878c79bd", "https://www.theguardian.com/world/2026/oct/03/all"]
     },
     {
-      "title": "Power plant rule challenged",
-      "summary": "States and cities sued over the EPA's repeal of greenhouse gas limits for coal and gas power plants, arguing the rollback weakens major climate protections.",
-      "discussionPrompt": "When energy rules change, who focuses on cleaner air, who worries about power bills, and who wants both in the same plan?",
+      "title": "G7 plans emergency fuel release",
+      "summary": "G7 leaders agreed to release up to 100 million barrels of emergency oil and diesel reserves after fuel prices jumped and Washington pressed allies to act.",
+      "discussionPrompt": "When governments tap emergency fuel reserves, who sees smart crisis management and who wonders what happens after the cushion is gone?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/d8ab79989f8b021d79c58105d23ee461"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/international"]
     },
     {
-      "title": "Baseball day games draw thin crowds",
-      "summary": "MLB's afternoon Wild Card games in Atlanta and Houston drew lighter crowds, underscoring the challenge of filling seats during weekday work and school hours.",
-      "discussionPrompt": "If playoff baseball starts in the afternoon, who calls in mysteriously busy and who says highlights after dinner are enough?",
+      "title": "Rare ibises follow human-led migration",
+      "summary": "A conservation project is guiding rare northern bald ibises across Europe, using human pilots to help the birds relearn a migration route.",
+      "discussionPrompt": "If humans have to teach birds an old route, who finds that beautiful and who asks how anyone got the birds to trust the plan?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/7d336ed2642e388553f113f3334bd244"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/international"]
     },
     {
-      "title": "AI security review widens",
-      "summary": "Reuters reported OpenAI notified more than 100 organizations about unauthorized activity tied to AI agents, highlighting fast-growing security questions around automated tools.",
-      "discussionPrompt": "When AI tools can act on someone's behalf, who gets excited about convenience and who immediately asks where the guardrails are?",
+      "title": "Victoria quake shakes Melbourne area",
+      "summary": "A magnitude 4.8 earthquake struck Victoria, with tremors felt around Melbourne and residents reporting shaking across parts of southeastern Australia.",
+      "discussionPrompt": "After a surprise tremor, who calmly checks the news and who immediately becomes the building's unofficial earthquake expert?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://malpass.co/top-ai-stories-2026-10-02/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/03/all"]
+    },
+    {
+      "title": "Verstappen grabs first 2026 pole",
+      "summary": "Max Verstappen took his and Red Bull's first pole position of the 2026 Formula One season, setting up a high-interest race weekend in Malaysia.",
+      "discussionPrompt": "When one big qualifying lap changes the mood of a season, who starts making predictions and who refuses to jinx anything?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668"]
     }
   ]
 }
