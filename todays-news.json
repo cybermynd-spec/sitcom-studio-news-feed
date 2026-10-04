@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-03T17:57:07Z",
+  "updatedUtc": "2026-10-04T16:38:48Z",
   "topics": [
     {
-      "title": "West Coast water pulse raises flood worries",
-      "summary": "Forecasters say warm Pacific Kelvin waves could lift West Coast sea levels by up to a foot this month, increasing erosion and nuisance flooding risks through winter.",
-      "discussionPrompt": "If the ocean starts acting extra dramatic for months, who checks the tide charts and who just moves the beach picnic inland?",
+      "title": "Germany boosts Ukraine aid during Kyiv visit",
+      "summary": "German Chancellor Friedrich Merz announced more than 1.3 billion euros in new aid for Ukraine during a Kyiv visit as Russia intensified attacks on Ukrainian cities.",
+      "discussionPrompt": "When a leader visits during an active crisis, who sees a powerful signal and who wonders how much symbolism actually changes on the ground?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/89bb8d2a97cc09d01a316723d08d2fb3"]
+    },
+    {
+      "title": "Brazil votes in high-stakes presidential race",
+      "summary": "Brazilians are choosing between President Lula and Trump-aligned challenger Flavio Bolsonaro, with a runoff set for Oct. 25 if no candidate clears a majority.",
+      "discussionPrompt": "If a huge country is almost evenly split, who watches the numbers all day and who waits until the dust settles before forming a take?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/57a4175077593f2f3517d80c3146b6bc", "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"]
+    },
+    {
+      "title": "French schools brace for more protests",
+      "summary": "Hundreds of French schools may stay closed Monday as student protests over teacher shortages, building conditions and education funding continue to pressure the government.",
+      "discussionPrompt": "When students start protesting school conditions, who thinks the adults should have acted sooner and who worries about classes getting disrupted?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/8d7e85c276be051571d4df7df442cb9e", "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"]
+    },
+    {
+      "title": "White House names new AI lead",
+      "summary": "President Trump tapped national intelligence director Jay Clayton to lead a new federal artificial intelligence task force, framing AI as both opportunity and risk.",
+      "discussionPrompt": "If one person suddenly gets handed the AI steering wheel, who asks about innovation first and who asks about guardrails first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901", "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar"]
+    },
+    {
+      "title": "West Coast watches rising sea levels",
+      "summary": "Warm Pacific Kelvin waves could raise sea levels along the West Coast by up to a foot this month, increasing erosion and nuisance flooding concerns.",
+      "discussionPrompt": "If the ocean gets temporarily higher for months, who checks tide charts before every outing and who just moves the picnic blanket uphill?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
       "sourceUrls": ["https://apnews.com/article/52246a73e6842e4561b5195df526dd8e"]
     },
     {
-      "title": "Supreme Court takes climate-fire case",
-      "summary": "The U.S. Supreme Court will hear a major climate case tied to Colorado's Marshall Fire, with governments seeking damages over fossil fuel companies' alleged role in warming.",
-      "discussionPrompt": "When a lawsuit tries to connect climate change to one disaster, who wants accountability and who worries courts are being asked to do too much?",
+      "title": "October heat hits baseball playoffs",
+      "summary": "The Braves-Dodgers playoff opener in Los Angeles unfolded under triple-digit heat, part of an extreme heat warning expected to last at least a week.",
+      "discussionPrompt": "When a playoff game feels like summer turned up too high, who talks strategy and who mostly worries about everybody staying hydrated?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/688e1297b3c683b2a0e210850d1dd185"]
+      "sourceUrls": ["https://apnews.com/article/55fc55769d5000b67ab800d6874f7c98"]
     },
     {
-      "title": "Voters frustrated with both parties",
-      "summary": "An AP-NORC poll found voters favor Democrats on several issues but still lack confidence that either major party can solve the country's biggest problems.",
-      "discussionPrompt": "When people dislike both teams but still have to vote, who becomes the practical chooser and who starts inventing a third option over coffee?",
+      "title": "Colorado students earn climate seal",
+      "summary": "More than 1,200 Colorado students have earned a climate literacy seal through coursework and community projects, and similar programs are spreading to other states.",
+      "discussionPrompt": "If students can graduate with climate projects on their transcript, who would build something practical and who would start with a giant idea?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/109768f7544c9e0fcc7e716de0dc2157"]
+      "sourceNames": ["The Guardian", "The Hechinger Report"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students"]
     },
     {
-      "title": "Brazil campaign tests global alliances",
-      "summary": "Brazil's tight presidential race is drawing international attention as candidates spar over sovereignty, security and relations with the United States ahead of Sunday's vote.",
-      "discussionPrompt": "If another country's election could shift global politics, who follows every poll and who admits they're mostly trying to learn the basics?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "The Guardian"],
-      "sourceUrls": ["https://www.1stheadlines.com/from/668", "https://www.theguardian.com/international"]
-    },
-    {
-      "title": "Spain protests over housing squeeze",
-      "summary": "More than 50 housing protests were scheduled across Spain after parliament rejected emergency measures, keeping pressure on leaders over rents and affordability.",
-      "discussionPrompt": "When housing gets too expensive, who blames slow politics, who blames the market, and who just wants a place with decent sunlight?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News", "The Guardian"],
-      "sourceUrls": ["https://www.1stheadlines.com/from/668", "https://www.theguardian.com/world/2026/oct/03/all"]
-    },
-    {
-      "title": "Kyiv bridges hit by new disruption tactic",
-      "summary": "Russian aerial strikes snarled traffic on three Kyiv bridges, a disruption Ukraine described as part of a broader effort to pressure the capital's daily life.",
-      "discussionPrompt": "When a city keeps functioning under pressure, who notices the logistics first and who notices how stubborn everyday routines can be?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/1949f2a68b6b8b4bfeba5a86878c79bd", "https://www.theguardian.com/world/2026/oct/03/all"]
-    },
-    {
-      "title": "G7 plans emergency fuel release",
-      "summary": "G7 leaders agreed to release up to 100 million barrels of emergency oil and diesel reserves after fuel prices jumped and Washington pressed allies to act.",
-      "discussionPrompt": "When governments tap emergency fuel reserves, who sees smart crisis management and who wonders what happens after the cushion is gone?",
+      "title": "New York sewer rumors keep spreading",
+      "summary": "Reports of people entering New York City sewers in search of lost valuables have become a strange local mystery, while officials warn the tunnels are dangerous.",
+      "discussionPrompt": "If someone claims there is treasure under the city, who wants a documentary and who says absolutely nobody should lift that manhole cover?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/international"]
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people"]
     },
     {
-      "title": "Rare ibises follow human-led migration",
-      "summary": "A conservation project is guiding rare northern bald ibises across Europe, using human pilots to help the birds relearn a migration route.",
-      "discussionPrompt": "If humans have to teach birds an old route, who finds that beautiful and who asks how anyone got the birds to trust the plan?",
+      "title": "Guardian highlights Egyptian press crackdown",
+      "summary": "The Guardian reports calls for the release of detained Matsadaash newsroom staff after an Egyptian journalist faced terrorism charges tied to the outlet.",
+      "discussionPrompt": "When a newsroom becomes the story, who focuses on press freedom and who asks what protections journalists actually have day to day?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/international"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/04/all"]
     },
     {
-      "title": "Victoria quake shakes Melbourne area",
-      "summary": "A magnitude 4.8 earthquake struck Victoria, with tremors felt around Melbourne and residents reporting shaking across parts of southeastern Australia.",
-      "discussionPrompt": "After a surprise tremor, who calmly checks the news and who immediately becomes the building's unofficial earthquake expert?",
+      "title": "China Open keeps sports spotlight busy",
+      "summary": "Reuters photo coverage tracked China Open action in Beijing alongside a packed international sports day, from tennis to the NFL's London game.",
+      "discussionPrompt": "On a crowded sports day, who flips between everything at once and who picks one match and commits like it is a sacred appointment?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/03/all"]
-    },
-    {
-      "title": "Verstappen grabs first 2026 pole",
-      "summary": "Max Verstappen took his and Red Bull's first pole position of the 2026 Formula One season, setting up a high-interest race weekend in Malaysia.",
-      "discussionPrompt": "When one big qualifying lap changes the mood of a season, who starts making predictions and who refuses to jinx anything?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.1stheadlines.com/from/668"]
+      "sourceNames": ["Reuters Connect"],
+      "sourceUrls": ["https://www.reutersconnect.com/feed"]
     }
   ]
 }
