@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-04T16:38:48Z",
+  "updatedUtc": "2026-10-05T18:13:35Z",
   "topics": [
     {
-      "title": "Germany boosts Ukraine aid during Kyiv visit",
-      "summary": "German Chancellor Friedrich Merz announced more than 1.3 billion euros in new aid for Ukraine during a Kyiv visit as Russia intensified attacks on Ukrainian cities.",
-      "discussionPrompt": "When a leader visits during an active crisis, who sees a powerful signal and who wonders how much symbolism actually changes on the ground?",
+      "title": "Supreme Court opens a packed new term",
+      "summary": "The U.S. Supreme Court began a new term with major cases expected on climate change, immigration, gun rights and religious rights.",
+      "discussionPrompt": "When a court term starts with huge issues lined up, who reads every preview and who waits for the actual decisions?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/89bb8d2a97cc09d01a316723d08d2fb3"]
+      "sourceUrls": ["https://apnews.com/article/389e2c111d351361c406e5ed7e0728c5"]
     },
     {
-      "title": "Brazil votes in high-stakes presidential race",
-      "summary": "Brazilians are choosing between President Lula and Trump-aligned challenger Flavio Bolsonaro, with a runoff set for Oct. 25 if no candidate clears a majority.",
-      "discussionPrompt": "If a huge country is almost evenly split, who watches the numbers all day and who waits until the dust settles before forming a take?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/57a4175077593f2f3517d80c3146b6bc", "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro"]
-    },
-    {
-      "title": "French schools brace for more protests",
-      "summary": "Hundreds of French schools may stay closed Monday as student protests over teacher shortages, building conditions and education funding continue to pressure the government.",
-      "discussionPrompt": "When students start protesting school conditions, who thinks the adults should have acted sooner and who worries about classes getting disrupted?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/8d7e85c276be051571d4df7df442cb9e", "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"]
-    },
-    {
-      "title": "White House names new AI lead",
-      "summary": "President Trump tapped national intelligence director Jay Clayton to lead a new federal artificial intelligence task force, framing AI as both opportunity and risk.",
-      "discussionPrompt": "If one person suddenly gets handed the AI steering wheel, who asks about innovation first and who asks about guardrails first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/b8689ea07de9102a52bd1cd2049b5901", "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar"]
-    },
-    {
-      "title": "West Coast watches rising sea levels",
-      "summary": "Warm Pacific Kelvin waves could raise sea levels along the West Coast by up to a foot this month, increasing erosion and nuisance flooding concerns.",
-      "discussionPrompt": "If the ocean gets temporarily higher for months, who checks tide charts before every outing and who just moves the picnic blanket uphill?",
+      "title": "Nobel medicine prize honors brain-light research",
+      "summary": "Three scientists won the Nobel Prize in medicine for work connected to optogenetics, a field that uses light to study and influence brain activity.",
+      "discussionPrompt": "If scientists can use light to understand the brain, who gets excited about the possibilities and who immediately asks about the limits?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/52246a73e6842e4561b5195df526dd8e"]
+      "sourceUrls": ["https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba"]
     },
     {
-      "title": "October heat hits baseball playoffs",
-      "summary": "The Braves-Dodgers playoff opener in Los Angeles unfolded under triple-digit heat, part of an extreme heat warning expected to last at least a week.",
-      "discussionPrompt": "When a playoff game feels like summer turned up too high, who talks strategy and who mostly worries about everybody staying hydrated?",
+      "title": "Markets hover near record highs",
+      "summary": "U.S. stocks rose near record levels, with technology shares helping lift the Nasdaq as investors waited for the next earnings season.",
+      "discussionPrompt": "When markets are near records but everyone is waiting on earnings, who feels optimistic and who keeps checking the fine print?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/55fc55769d5000b67ab800d6874f7c98"]
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/f83cf147deaf5a2361b1ae7eee74a627", "https://www.fidelity.com/news/article/international/202610042117RTRSNEWSCOMBINED_L1N45R011_1"]
     },
     {
-      "title": "Colorado students earn climate seal",
-      "summary": "More than 1,200 Colorado students have earned a climate literacy seal through coursework and community projects, and similar programs are spreading to other states.",
-      "discussionPrompt": "If students can graduate with climate projects on their transcript, who would build something practical and who would start with a giant idea?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "The Hechinger Report"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students"]
-    },
-    {
-      "title": "New York sewer rumors keep spreading",
-      "summary": "Reports of people entering New York City sewers in search of lost valuables have become a strange local mystery, while officials warn the tunnels are dangerous.",
-      "discussionPrompt": "If someone claims there is treasure under the city, who wants a documentary and who says absolutely nobody should lift that manhole cover?",
+      "title": "Southern California faces late heat",
+      "summary": "Extreme heat warnings covered parts of Southern California, with forecasts calling for temperatures in the high 30s Celsius during a late-season hot spell.",
+      "discussionPrompt": "When October suddenly acts like midsummer, who changes every plan and who insists they can still handle the patio?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/04/new-york-sewers-gold-mole-people"]
+      "sourceUrls": ["https://www.theguardian.com/environment/extreme-heat"]
     },
     {
-      "title": "Guardian highlights Egyptian press crackdown",
-      "summary": "The Guardian reports calls for the release of detained Matsadaash newsroom staff after an Egyptian journalist faced terrorism charges tied to the outlet.",
-      "discussionPrompt": "When a newsroom becomes the story, who focuses on press freedom and who asks what protections journalists actually have day to day?",
+      "title": "Black Sea grain ship attack raises concern",
+      "summary": "Ukraine said Russian drones hit a commercial vessel carrying corn in the Black Sea, adding fresh worry around shipping and food routes.",
+      "discussionPrompt": "When a food shipment becomes part of a war story, who thinks about global supply chains and who thinks about the crew first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/4c97a0881505c62b1bb8f5b2f608176c"]
+    },
+    {
+      "title": "Yemen forces retake areas near key strait",
+      "summary": "Officials said Saudi-backed Yemeni forces expelled Houthi rebels from several areas around the Bab el-Mandeb Strait, a major shipping corridor.",
+      "discussionPrompt": "When a faraway strait matters to world trade, who already knows the map and who needs someone to point at it dramatically?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32"]
+    },
+    {
+      "title": "Museums try new licensing deals",
+      "summary": "Major museums are increasingly licensing collections and exhibitions for products, hotel suites and virtual reality as cultural institutions look for new revenue.",
+      "discussionPrompt": "If a museum collection shows up in VR or a hotel room, who calls it clever outreach and who worries it feels too commercial?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/04/all"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/05/all"]
     },
     {
-      "title": "China Open keeps sports spotlight busy",
-      "summary": "Reuters photo coverage tracked China Open action in Beijing alongside a packed international sports day, from tennis to the NFL's London game.",
-      "discussionPrompt": "On a crowded sports day, who flips between everything at once and who picks one match and commits like it is a sacred appointment?",
+      "title": "Saturn reaches a prime viewing moment",
+      "summary": "Skywatchers are being encouraged to look for Saturn as it makes its closest approach to Earth this year, appearing as a creamy-white point.",
+      "discussionPrompt": "On a good Saturn night, who brings the telescope and who just wants someone else to say which dot is the planet?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters Connect"],
-      "sourceUrls": ["https://www.reutersconnect.com/feed"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/05/all"]
+    },
+    {
+      "title": "NASA highlights the Sombrero Galaxy",
+      "summary": "NASA's astronomy picture feature spotlighted the Sombrero Galaxy and its tidal streams, offering a striking look at how galaxies carry traces of past interactions.",
+      "discussionPrompt": "When a galaxy looks calm but carries evidence of old cosmic drama, who sees beauty and who starts asking what happened there?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["NASA Science"],
+      "sourceUrls": ["https://science.nasa.gov/2026/10/05/"]
+    },
+    {
+      "title": "College football rankings keep shifting",
+      "summary": "AP college football coverage tracked another shakeup in the rankings, with early-season wins and upsets reshaping the national conversation.",
+      "discussionPrompt": "When rankings move around this much, who argues the whole list and who just wants their team to survive Saturday?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5"]
     }
   ]
 }
