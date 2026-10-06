@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-05T18:13:35Z",
+  "updatedUtc": "2026-10-06T16:38:12Z",
   "topics": [
     {
-      "title": "Supreme Court opens a packed new term",
-      "summary": "The U.S. Supreme Court began a new term with major cases expected on climate change, immigration, gun rights and religious rights.",
-      "discussionPrompt": "When a court term starts with huge issues lined up, who reads every preview and who waits for the actual decisions?",
+      "title": "Quebec vote puts PQ back in power",
+      "summary": "Quebec's separatist Parti Quebecois won the provincial election but fell short of a majority, setting up a minority government and new national unity conversations in Canada.",
+      "discussionPrompt": "When an election changes the whole mood of a province, who starts gaming out the next referendum and who just wants the roads fixed first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/a4e8ecaa4026c46d0346e9487c5e333d", "https://www.theguardian.com/world/2026/oct/06/election-canada-win-quebec-separatists-parti-quebecois"]
+    },
+    {
+      "title": "Physics Nobel goes to neutrino pioneer",
+      "summary": "Francis Halzen won the 2026 Nobel Prize in physics for work tied to IceCube, the Antarctic observatory that studies high-energy neutrinos from space.",
+      "discussionPrompt": "If the universe sends tiny mystery particles through Antarctic ice, who wants the science lecture and who just wants to hear the weirdest fact?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/389e2c111d351361c406e5ed7e0728c5"]
+      "sourceUrls": ["https://apnews.com/article/47d0ab2b92f3512eb09ed44ceb6006d8"]
     },
     {
-      "title": "Nobel medicine prize honors brain-light research",
-      "summary": "Three scientists won the Nobel Prize in medicine for work connected to optogenetics, a field that uses light to study and influence brain activity.",
-      "discussionPrompt": "If scientists can use light to understand the brain, who gets excited about the possibilities and who immediately asks about the limits?",
+      "title": "Kenya confirms first Ebola case",
+      "summary": "Kenyan officials confirmed the country's first imported Ebola case and launched contact tracing, while the WHO said it is supporting containment efforts.",
+      "discussionPrompt": "When public health teams have to move fast, who trusts the checklist and who starts asking how contact tracing actually works?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "WHO Africa"],
+      "sourceUrls": ["https://apnews.com/article/32ccde1e74048396ad5cb9f9fe47495e", "https://www.afro.who.int/countries/kenya/news/kenya-confirms-first-imported-bundibugyo-virus-disease-case-who-supports-control-efforts"]
+    },
+    {
+      "title": "Paramount closes Warner takeover",
+      "summary": "Skydance-owned Paramount completed its Warner Bros. Discovery takeover, creating a larger entertainment company that brings major studios, streamers and networks under one roof.",
+      "discussionPrompt": "When two entertainment giants merge, who predicts better shows and who immediately worries every subscription price is about to get spicy?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba"]
+      "sourceUrls": ["https://apnews.com/article/5f4326c083ca2fc084ff399c1b8aa035"]
     },
     {
-      "title": "Markets hover near record highs",
-      "summary": "U.S. stocks rose near record levels, with technology shares helping lift the Nasdaq as investors waited for the next earnings season.",
-      "discussionPrompt": "When markets are near records but everyone is waiting on earnings, who feels optimistic and who keeps checking the fine print?",
+      "title": "Supreme Court weighs climate lawsuits",
+      "summary": "The U.S. Supreme Court heard arguments over whether local governments can sue energy companies in state court for climate-related costs.",
+      "discussionPrompt": "If a city says climate damage hit its budget, who thinks courts should sort it out and who thinks lawmakers should handle it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/f83cf147deaf5a2361b1ae7eee74a627", "https://www.fidelity.com/news/article/international/202610042117RTRSNEWSCOMBINED_L1N45R011_1"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/6f8bb7d17b03c128017c961f872cff3e"]
     },
     {
-      "title": "Southern California faces late heat",
-      "summary": "Extreme heat warnings covered parts of Southern California, with forecasts calling for temperatures in the high 30s Celsius during a late-season hot spell.",
-      "discussionPrompt": "When October suddenly acts like midsummer, who changes every plan and who insists they can still handle the patio?",
+      "title": "Measles outbreak prompts emergency order",
+      "summary": "Pennsylvania's measles outbreak passed 1,000 cases, and New York declared a disaster emergency to expand vaccine and testing access.",
+      "discussionPrompt": "When an old disease comes roaring back, who reaches for the public health history book and who asks what changed recently?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/4cae9e5cd28a164a07ac69147505b763"]
+    },
+    {
+      "title": "Ofcom investigates Instagram Instants",
+      "summary": "UK regulator Ofcom opened an investigation into whether Meta properly assessed illegal-content risks around Instagram's Instants sharing feature.",
+      "discussionPrompt": "When a social app adds a fast new sharing feature, who says move quickly and who wants the safety review before launch day?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Ofcom", "The Guardian"],
+      "sourceUrls": ["https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-metas-compliance-with-illegal-content-risk-assessment-duties", "https://www.theguardian.com/media/social-media/2026/oct/06/all"]
+    },
+    {
+      "title": "South Africa eyes 2036 Olympics",
+      "summary": "South Africa was named among countries preparing to present a case to host the 2036 Olympics, a bid that could bring the Games to Africa for the first time.",
+      "discussionPrompt": "If Africa hosted its first Olympics, who gets excited about the symbolism and who immediately starts planning the venues and transport map?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/extreme-heat"]
+      "sourceUrls": ["https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"]
     },
     {
-      "title": "Black Sea grain ship attack raises concern",
-      "summary": "Ukraine said Russian drones hit a commercial vessel carrying corn in the Black Sea, adding fresh worry around shipping and food routes.",
-      "discussionPrompt": "When a food shipment becomes part of a war story, who thinks about global supply chains and who thinks about the crew first?",
+      "title": "US water bills keep rising",
+      "summary": "A new analysis found household drinking-water bills among major U.S. systems rose about 62% over the past decade, outpacing inflation and income growth.",
+      "discussionPrompt": "When a basic utility gets more expensive every year, who blames old pipes, who blames policy, and who starts checking the bill line by line?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/4c97a0881505c62b1bb8f5b2f608176c"]
+      "sourceNames": ["Stateline", "Inside Climate News"],
+      "sourceUrls": ["https://stateline.org/2026/10/06/americans-water-bills-are-growing-faster-than-groceries-overall-inflation/", "https://insideclimatenews.org/news/06102026/water-bills-surged-more-than-other-costs-in-us-homes-over-10-years-a-striking-new-report-shows/"]
     },
     {
-      "title": "Yemen forces retake areas near key strait",
-      "summary": "Officials said Saudi-backed Yemeni forces expelled Houthi rebels from several areas around the Bab el-Mandeb Strait, a major shipping corridor.",
-      "discussionPrompt": "When a faraway strait matters to world trade, who already knows the map and who needs someone to point at it dramatically?",
+      "title": "AI worries top brand risk list",
+      "summary": "A new survey reported that misuse of artificial intelligence has become a leading reputational concern for brands as companies race to adopt the technology.",
+      "discussionPrompt": "When a company says it is using AI responsibly, who wants receipts and who thinks the real test is what happens when something goes wrong?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/e87beb84a0d146e4f0546b50508f7e32"]
-    },
-    {
-      "title": "Museums try new licensing deals",
-      "summary": "Major museums are increasingly licensing collections and exhibitions for products, hotel suites and virtual reality as cultural institutions look for new revenue.",
-      "discussionPrompt": "If a museum collection shows up in VR or a hotel room, who calls it clever outreach and who worries it feels too commercial?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/05/all"]
-    },
-    {
-      "title": "Saturn reaches a prime viewing moment",
-      "summary": "Skywatchers are being encouraged to look for Saturn as it makes its closest approach to Earth this year, appearing as a creamy-white point.",
-      "discussionPrompt": "On a good Saturn night, who brings the telescope and who just wants someone else to say which dot is the planet?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/05/all"]
-    },
-    {
-      "title": "NASA highlights the Sombrero Galaxy",
-      "summary": "NASA's astronomy picture feature spotlighted the Sombrero Galaxy and its tidal streams, offering a striking look at how galaxies carry traces of past interactions.",
-      "discussionPrompt": "When a galaxy looks calm but carries evidence of old cosmic drama, who sees beauty and who starts asking what happened there?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["NASA Science"],
-      "sourceUrls": ["https://science.nasa.gov/2026/10/05/"]
-    },
-    {
-      "title": "College football rankings keep shifting",
-      "summary": "AP college football coverage tracked another shakeup in the rankings, with early-season wins and upsets reshaping the national conversation.",
-      "discussionPrompt": "When rankings move around this much, who argues the whole list and who just wants their team to survive Saturday?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/7515ebb53ea460c1f3249f1d70b41da5"]
+      "sourceNames": ["The Guardian", "Associated Press"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/06/all", "https://apnews.com/article/595796511f110fc006cca0d01329733e"]
     }
   ]
 }
