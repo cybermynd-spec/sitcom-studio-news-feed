@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-06T16:38:12Z",
+  "updatedUtc": "2026-10-07T16:36:07Z",
   "topics": [
     {
-      "title": "Quebec vote puts PQ back in power",
-      "summary": "Quebec's separatist Parti Quebecois won the provincial election but fell short of a majority, setting up a minority government and new national unity conversations in Canada.",
-      "discussionPrompt": "When an election changes the whole mood of a province, who starts gaming out the next referendum and who just wants the roads fixed first?",
+      "title": "Chemistry Nobel honors mirrored molecules",
+      "summary": "Henri Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry for discoveries about mirror-image molecules that helped shape modern medicines and molecular research.",
+      "discussionPrompt": "If two molecules can be mirror twins with totally different effects, who wants the chemistry demo and who starts comparing it to identical cousins?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/a4e8ecaa4026c46d0346e9487c5e333d", "https://www.theguardian.com/world/2026/oct/06/election-canada-win-quebec-separatists-parti-quebecois"]
+      "sourceUrls": ["https://apnews.com/article/e92801a294ba29d5ff1fbbf63904c977", "https://www.theguardian.com/science/all"]
     },
     {
-      "title": "Physics Nobel goes to neutrino pioneer",
-      "summary": "Francis Halzen won the 2026 Nobel Prize in physics for work tied to IceCube, the Antarctic observatory that studies high-energy neutrinos from space.",
-      "discussionPrompt": "If the universe sends tiny mystery particles through Antarctic ice, who wants the science lecture and who just wants to hear the weirdest fact?",
+      "title": "IMF warns on debt and AI",
+      "summary": "IMF chief Kristalina Georgieva urged governments to curb record debt while also preparing clearer rules for artificial intelligence and high energy costs.",
+      "discussionPrompt": "When a global money boss says debt, AI, and energy are all tangled together, who asks for the spreadsheet and who asks for coffee first?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/47d0ab2b92f3512eb09ed44ceb6006d8"]
+      "sourceUrls": ["https://apnews.com/article/2da9d879e2eb70e1e16d14fd1a307a99"]
     },
     {
-      "title": "Kenya confirms first Ebola case",
-      "summary": "Kenyan officials confirmed the country's first imported Ebola case and launched contact tracing, while the WHO said it is supporting containment efforts.",
-      "discussionPrompt": "When public health teams have to move fast, who trusts the checklist and who starts asking how contact tracing actually works?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "WHO Africa"],
-      "sourceUrls": ["https://apnews.com/article/32ccde1e74048396ad5cb9f9fe47495e", "https://www.afro.who.int/countries/kenya/news/kenya-confirms-first-imported-bundibugyo-virus-disease-case-who-supports-control-efforts"]
-    },
-    {
-      "title": "Paramount closes Warner takeover",
-      "summary": "Skydance-owned Paramount completed its Warner Bros. Discovery takeover, creating a larger entertainment company that brings major studios, streamers and networks under one roof.",
-      "discussionPrompt": "When two entertainment giants merge, who predicts better shows and who immediately worries every subscription price is about to get spicy?",
+      "title": "Markets pull back from records",
+      "summary": "U.S. stocks retreated from record highs as global markets fell, with investors watching bond yields, French budget worries, oil prices and the broader economic outlook.",
+      "discussionPrompt": "When markets dip after hitting records, who calls it a healthy breather and who immediately checks every account password they own?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/5f4326c083ca2fc084ff399c1b8aa035"]
+      "sourceUrls": ["https://apnews.com/article/44b75c188756038371cf3112ede9cee8"]
     },
     {
-      "title": "Supreme Court weighs climate lawsuits",
-      "summary": "The U.S. Supreme Court heard arguments over whether local governments can sue energy companies in state court for climate-related costs.",
-      "discussionPrompt": "If a city says climate damage hit its budget, who thinks courts should sort it out and who thinks lawmakers should handle it?",
+      "title": "Ukraine faces major overnight attack",
+      "summary": "Russia launched a large missile and drone attack across Kyiv and other Ukrainian regions, while Ukrainian officials continued seeking more air-defense support.",
+      "discussionPrompt": "When air defense becomes the whole conversation, who focuses on the engineering challenge and who focuses on how people keep daily life going?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/6f8bb7d17b03c128017c961f872cff3e"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/650e298d7bc3881351533683ff4040ed", "https://www.theguardian.com/world/2026/oct/07/all"]
     },
     {
-      "title": "Measles outbreak prompts emergency order",
-      "summary": "Pennsylvania's measles outbreak passed 1,000 cases, and New York declared a disaster emergency to expand vaccine and testing access.",
-      "discussionPrompt": "When an old disease comes roaring back, who reaches for the public health history book and who asks what changed recently?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/4cae9e5cd28a164a07ac69147505b763"]
-    },
-    {
-      "title": "Ofcom investigates Instagram Instants",
-      "summary": "UK regulator Ofcom opened an investigation into whether Meta properly assessed illegal-content risks around Instagram's Instants sharing feature.",
-      "discussionPrompt": "When a social app adds a fast new sharing feature, who says move quickly and who wants the safety review before launch day?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Ofcom", "The Guardian"],
-      "sourceUrls": ["https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/investigation-into-metas-compliance-with-illegal-content-risk-assessment-duties", "https://www.theguardian.com/media/social-media/2026/oct/06/all"]
-    },
-    {
-      "title": "South Africa eyes 2036 Olympics",
-      "summary": "South Africa was named among countries preparing to present a case to host the 2036 Olympics, a bid that could bring the Games to Africa for the first time.",
-      "discussionPrompt": "If Africa hosted its first Olympics, who gets excited about the symbolism and who immediately starts planning the venues and transport map?",
+      "title": "El Nino questions go global",
+      "summary": "A powerful El Nino is being linked to extreme weather around the world, with climate journalists fielding public questions about risks, records and preparation.",
+      "discussionPrompt": "If the weather pattern gets a blockbuster nickname, who wants the science behind it and who starts rating which cities need the biggest umbrella?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"]
+      "sourceUrls": ["https://www.theguardian.com/community/live/2026/oct/07/a-godzilla-level-el-nino-is-causing-extreme-weather-conditions-around-the-world-put-your-questions-to-our-environment-writers"]
     },
     {
-      "title": "US water bills keep rising",
-      "summary": "A new analysis found household drinking-water bills among major U.S. systems rose about 62% over the past decade, outpacing inflation and income growth.",
-      "discussionPrompt": "When a basic utility gets more expensive every year, who blames old pipes, who blames policy, and who starts checking the bill line by line?",
+      "title": "Researchers question techno-optimism",
+      "summary": "A new climate-focused study reported that scientists who put stronger faith in technology may be less likely to support immediate climate action.",
+      "discussionPrompt": "When someone says future tech will fix everything, who nods along and who asks what we are doing before the future arrives?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Stateline", "Inside Climate News"],
-      "sourceUrls": ["https://stateline.org/2026/10/06/americans-water-bills-are-growing-faster-than-groceries-overall-inflation/", "https://insideclimatenews.org/news/06102026/water-bills-surged-more-than-other-costs-in-us-homes-over-10-years-a-striking-new-report-shows/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
     },
     {
-      "title": "AI worries top brand risk list",
-      "summary": "A new survey reported that misuse of artificial intelligence has become a leading reputational concern for brands as companies race to adopt the technology.",
-      "discussionPrompt": "When a company says it is using AI responsibly, who wants receipts and who thinks the real test is what happens when something goes wrong?",
+      "title": "BBC tracks tense Israel anniversary",
+      "summary": "Israel marked three years since the October 7 attacks, with memorials and difficult conversations about rebuilding communities near the Gaza border.",
+      "discussionPrompt": "When a community debates whether to rebuild after trauma, who thinks about home first and who thinks about whether home can feel the same again?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Associated Press"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/06/all", "https://apnews.com/article/595796511f110fc006cca0d01329733e"]
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://bbclatestnews.pages.dev/news/hi/english/world/"]
+    },
+    {
+      "title": "France reviews protest policing tool",
+      "summary": "France halted the use of stun grenades after a student protest injury, following complaints that police tactics toward teenagers had become disproportionate.",
+      "discussionPrompt": "When a crowd-control tool gets paused, who talks public safety first and who asks how protests stay loud without turning dangerous?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://bbclatestnews.pages.dev/news/hi/english/world/"]
+    },
+    {
+      "title": "Oil tanker burns near Sochi",
+      "summary": "A naval drone hit an oil tanker off Russia's Black Sea coast near Sochi, sparking a large fire while officials said the crew was rescued.",
+      "discussionPrompt": "When conflict reaches shipping lanes, who starts mapping trade routes and who wonders how crews train for a crisis at sea?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/07/all"]
+    },
+    {
+      "title": "Smart glasses scrutiny keeps growing",
+      "summary": "Privacy concerns around camera-enabled smart glasses continued to build, with regulators and governments weighing restrictions, safety checks and public-space rules.",
+      "discussionPrompt": "If glasses can quietly record, who loves the gadget future and who wants every pair to blink like a lighthouse when filming?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
     }
   ]
 }
