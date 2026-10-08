@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-07T16:36:07Z",
+  "updatedUtc": "2026-10-08T15:59:18Z",
   "topics": [
     {
-      "title": "Chemistry Nobel honors mirrored molecules",
-      "summary": "Henri Kagan and Kenso Soai won the 2026 Nobel Prize in chemistry for discoveries about mirror-image molecules that helped shape modern medicines and molecular research.",
-      "discussionPrompt": "If two molecules can be mirror twins with totally different effects, who wants the chemistry demo and who starts comparing it to identical cousins?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/e92801a294ba29d5ff1fbbf63904c977", "https://www.theguardian.com/science/all"]
-    },
-    {
-      "title": "IMF warns on debt and AI",
-      "summary": "IMF chief Kristalina Georgieva urged governments to curb record debt while also preparing clearer rules for artificial intelligence and high energy costs.",
-      "discussionPrompt": "When a global money boss says debt, AI, and energy are all tangled together, who asks for the spreadsheet and who asks for coffee first?",
+      "title": "Americans worry AI is moving fast",
+      "summary": "A new AP-NORC poll found many U.S. adults think artificial intelligence is developing too quickly and want clearer human control as the technology spreads.",
+      "discussionPrompt": "If AI is sprinting ahead, who wants a big red pause button and who just wants a better instruction manual?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/2da9d879e2eb70e1e16d14fd1a307a99"]
+      "sourceUrls": ["https://apnews.com/article/9ce5531b7ea53234c4e600f8c0e9cf27"]
     },
     {
-      "title": "Markets pull back from records",
-      "summary": "U.S. stocks retreated from record highs as global markets fell, with investors watching bond yields, French budget worries, oil prices and the broader economic outlook.",
-      "discussionPrompt": "When markets dip after hitting records, who calls it a healthy breather and who immediately checks every account password they own?",
+      "title": "Anne Carson wins literature Nobel",
+      "summary": "Canadian writer Anne Carson won the 2026 Nobel Prize in literature, recognized for genre-crossing work that blends poetry, classics, essays and experimentation.",
+      "discussionPrompt": "When a writer refuses to stay in one lane, who calls it genius and who asks which shelf the book even goes on?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+    },
+    {
+      "title": "Energy prices jump on shipping worries",
+      "summary": "Oil and gas prices rose as tanker attacks in the Middle East and hurricane risks near U.S. Gulf output added fresh pressure to markets.",
+      "discussionPrompt": "When fuel prices jump because of weather and shipping routes, who maps the global chain and who blames their next grocery bill?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+    },
+    {
+      "title": "Myanmar leader courts Malaysia ties",
+      "summary": "Myanmar's military-backed leader visited Malaysia for talks, part of a diplomatic push after years of regional pressure over the country's political crisis.",
+      "discussionPrompt": "When a heavily isolated leader starts a charm tour, who watches the handshake photos and who watches what actually changes afterward?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/44b75c188756038371cf3112ede9cee8"]
+      "sourceUrls": ["https://apnews.com/article/f2f19285f759b5d1d17638442e877112"]
     },
     {
-      "title": "Ukraine faces major overnight attack",
-      "summary": "Russia launched a large missile and drone attack across Kyiv and other Ukrainian regions, while Ukrainian officials continued seeking more air-defense support.",
-      "discussionPrompt": "When air defense becomes the whole conversation, who focuses on the engineering challenge and who focuses on how people keep daily life going?",
+      "title": "NATO spending pressure continues",
+      "summary": "U.S. Secretary of State Marco Rubio said American pressure on NATO allies to spend more on defense is not hostile, while visiting Portugal for talks.",
+      "discussionPrompt": "When allies argue over who pays for security, who brings out the group dinner analogy and who starts auditing everyone’s receipts?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/6b21651fdb610bc3aadb0020efff7288"]
+    },
+    {
+      "title": "Asos reports customer data hack",
+      "summary": "Asos said customer names, contact details and search histories were hacked, raising concerns that attackers could use the information for convincing scams.",
+      "discussionPrompt": "If a store loses your search history, who worries about fraud first and who worries everyone now knows their weird shopping phase?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+    },
+    {
+      "title": "White House press ban reaches court",
+      "summary": "A federal judge heard arguments over the White House banning CNN, Politico and MS Now from its grounds, keeping press access in the spotlight.",
+      "discussionPrompt": "When press access becomes a courtroom fight, who quotes free speech principles and who asks how anyone gets a hallway interview now?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/650e298d7bc3881351533683ff4040ed", "https://www.theguardian.com/world/2026/oct/07/all"]
+      "sourceUrls": ["https://apnews.com/article/5d82589267bf715e5388a63e548cc266", "https://www.theguardian.com/tone/news/2026/oct/08/all"]
     },
     {
-      "title": "El Nino questions go global",
-      "summary": "A powerful El Nino is being linked to extreme weather around the world, with climate journalists fielding public questions about risks, records and preparation.",
-      "discussionPrompt": "If the weather pattern gets a blockbuster nickname, who wants the science behind it and who starts rating which cities need the biggest umbrella?",
+      "title": "UK banknotes choose nature theme",
+      "summary": "The next UK banknotes will feature native species including barn owls, bumblebees, puffins and hedgehogs after a public consultation.",
+      "discussionPrompt": "If money gets wildlife portraits, who campaigns for the cutest bill and who argues the bee deserves the biggest denomination?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/community/live/2026/oct/07/a-godzilla-level-el-nino-is-causing-extreme-weather-conditions-around-the-world-put-your-questions-to-our-environment-writers"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
     },
     {
-      "title": "Researchers question techno-optimism",
-      "summary": "A new climate-focused study reported that scientists who put stronger faith in technology may be less likely to support immediate climate action.",
-      "discussionPrompt": "When someone says future tech will fix everything, who nods along and who asks what we are doing before the future arrives?",
+      "title": "Workplace AI monitoring faces scrutiny",
+      "summary": "Co-op became the latest major employer criticized for putting staff under AI surveillance, adding to debates about privacy, productivity and trust at work.",
+      "discussionPrompt": "If your boss used AI to watch productivity, who would game the system and who would write a polite complaint in all caps?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
     },
     {
-      "title": "BBC tracks tense Israel anniversary",
-      "summary": "Israel marked three years since the October 7 attacks, with memorials and difficult conversations about rebuilding communities near the Gaza border.",
-      "discussionPrompt": "When a community debates whether to rebuild after trauma, who thinks about home first and who thinks about whether home can feel the same again?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://bbclatestnews.pages.dev/news/hi/english/world/"]
-    },
-    {
-      "title": "France reviews protest policing tool",
-      "summary": "France halted the use of stun grenades after a student protest injury, following complaints that police tactics toward teenagers had become disproportionate.",
-      "discussionPrompt": "When a crowd-control tool gets paused, who talks public safety first and who asks how protests stay loud without turning dangerous?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://bbclatestnews.pages.dev/news/hi/english/world/"]
-    },
-    {
-      "title": "Oil tanker burns near Sochi",
-      "summary": "A naval drone hit an oil tanker off Russia's Black Sea coast near Sochi, sparking a large fire while officials said the crew was rescued.",
-      "discussionPrompt": "When conflict reaches shipping lanes, who starts mapping trade routes and who wonders how crews train for a crisis at sea?",
+      "title": "Students admit procrastination problem",
+      "summary": "A UK university survey found students see procrastination as a major threat to academic performance, more than some traditional study worries.",
+      "discussionPrompt": "When procrastination gets named the villain, who says they work better under pressure and who demands the phone go in a drawer?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/07/all"]
-    },
-    {
-      "title": "Smart glasses scrutiny keeps growing",
-      "summary": "Privacy concerns around camera-enabled smart glasses continued to build, with regulators and governments weighing restrictions, safety checks and public-space rules.",
-      "discussionPrompt": "If glasses can quietly record, who loves the gadget future and who wants every pair to blink like a lighthouse when filming?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
     }
   ]
 }
