@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-08T15:59:18Z",
+  "updatedUtc": "2026-10-09T16:22:47Z",
   "topics": [
     {
-      "title": "Americans worry AI is moving fast",
-      "summary": "A new AP-NORC poll found many U.S. adults think artificial intelligence is developing too quickly and want clearer human control as the technology spreads.",
-      "discussionPrompt": "If AI is sprinting ahead, who wants a big red pause button and who just wants a better instruction manual?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/9ce5531b7ea53234c4e600f8c0e9cf27"]
-    },
-    {
-      "title": "Anne Carson wins literature Nobel",
-      "summary": "Canadian writer Anne Carson won the 2026 Nobel Prize in literature, recognized for genre-crossing work that blends poetry, classics, essays and experimentation.",
-      "discussionPrompt": "When a writer refuses to stay in one lane, who calls it genius and who asks which shelf the book even goes on?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
-    },
-    {
-      "title": "Energy prices jump on shipping worries",
-      "summary": "Oil and gas prices rose as tanker attacks in the Middle East and hurricane risks near U.S. Gulf output added fresh pressure to markets.",
-      "discussionPrompt": "When fuel prices jump because of weather and shipping routes, who maps the global chain and who blames their next grocery bill?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
-    },
-    {
-      "title": "Myanmar leader courts Malaysia ties",
-      "summary": "Myanmar's military-backed leader visited Malaysia for talks, part of a diplomatic push after years of regional pressure over the country's political crisis.",
-      "discussionPrompt": "When a heavily isolated leader starts a charm tour, who watches the handshake photos and who watches what actually changes afterward?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/f2f19285f759b5d1d17638442e877112"]
-    },
-    {
-      "title": "NATO spending pressure continues",
-      "summary": "U.S. Secretary of State Marco Rubio said American pressure on NATO allies to spend more on defense is not hostile, while visiting Portugal for talks.",
-      "discussionPrompt": "When allies argue over who pays for security, who brings out the group dinner analogy and who starts auditing everyone’s receipts?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/6b21651fdb610bc3aadb0020efff7288"]
-    },
-    {
-      "title": "Asos reports customer data hack",
-      "summary": "Asos said customer names, contact details and search histories were hacked, raising concerns that attackers could use the information for convincing scams.",
-      "discussionPrompt": "If a store loses your search history, who worries about fraud first and who worries everyone now knows their weird shopping phase?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
-    },
-    {
-      "title": "White House press ban reaches court",
-      "summary": "A federal judge heard arguments over the White House banning CNN, Politico and MS Now from its grounds, keeping press access in the spotlight.",
-      "discussionPrompt": "When press access becomes a courtroom fight, who quotes free speech principles and who asks how anyone gets a hallway interview now?",
+      "title": "Hurricane Isaias nears Gulf Coast",
+      "summary": "Isaias strengthened into a major hurricane as Gulf Coast communities prepared for dangerous surge, heavy rain and possible late changes before landfall.",
+      "discussionPrompt": "When a storm forecast keeps shifting, who trusts the cone map and who starts packing snacks before anyone asks?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/5d82589267bf715e5388a63e548cc266", "https://www.theguardian.com/tone/news/2026/oct/08/all"]
+      "sourceUrls": ["https://apnews.com/article/919a46d4bd705726b4e57f18ce677ac5", "https://www.theguardian.com/us-news/2026/oct/09/all"]
     },
     {
-      "title": "UK banknotes choose nature theme",
-      "summary": "The next UK banknotes will feature native species including barn owls, bumblebees, puffins and hedgehogs after a public consultation.",
-      "discussionPrompt": "If money gets wildlife portraits, who campaigns for the cutest bill and who argues the bee deserves the biggest denomination?",
+      "title": "Warm Gulf waters fuel storm debate",
+      "summary": "Scientists say unusually warm Gulf water helped Isaias intensify, while El Nino wind shear may still weaken it before landfall.",
+      "discussionPrompt": "If warm water and wind shear are wrestling over a hurricane, who narrates it like sports and who just checks the rain boots?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/8ab63c748db4549f6bd96fb977fe98d0"]
     },
     {
-      "title": "Workplace AI monitoring faces scrutiny",
-      "summary": "Co-op became the latest major employer criticized for putting staff under AI surveillance, adding to debates about privacy, productivity and trust at work.",
-      "discussionPrompt": "If your boss used AI to watch productivity, who would game the system and who would write a polite complaint in all caps?",
+      "title": "US stocks cap record week",
+      "summary": "U.S. stocks rose Friday toward the end of a record-setting week, even as bond, oil and technology shares kept investors cautious.",
+      "discussionPrompt": "When markets break records but everyone still sounds nervous, who celebrates and who checks what the fine print is hiding?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9"]
     },
     {
-      "title": "Students admit procrastination problem",
-      "summary": "A UK university survey found students see procrastination as a major threat to academic performance, more than some traditional study worries.",
-      "discussionPrompt": "When procrastination gets named the villain, who says they work better under pressure and who demands the phone go in a drawer?",
+      "title": "Navi Pillay wins peace Nobel",
+      "summary": "Former UN rights chief and ICJ judge Navi Pillay won the 2026 Nobel Peace Prize for work promoting international law and accountability.",
+      "discussionPrompt": "When a peace prize honors legal accountability, who wants courtroom details and who asks whether it actually changes behavior?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/08/all"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/09/all"]
+    },
+    {
+      "title": "Flights paused after Riyadh attack claim",
+      "summary": "Airlines suspended flights to Saudi Arabia's capital after Houthis claimed an airport attack; Saudi officials had confirmed deaths from strikes earlier in the week.",
+      "discussionPrompt": "When airport routes suddenly change, who studies the regional map and who wonders how many suitcases are now in limbo?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/09/all"]
+    },
+    {
+      "title": "Italian winery hit by huge theft",
+      "summary": "Reports say thieves stole about 30,000 wine bottles worth roughly 5 million euros from a Florence-area winery in a major heist.",
+      "discussionPrompt": "If someone steals a mountain of fancy wine, who imagines an elaborate caper and who asks where you even hide 30,000 bottles?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News", "The Guardian"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668", "https://www.theguardian.com/world/world%2Btone/news"]
+    },
+    {
+      "title": "Cyberpunk 2077 heads to film",
+      "summary": "Paramount is set to adapt Cyberpunk 2077 into a live-action movie, extending the game franchise beyond consoles and streaming animation.",
+      "discussionPrompt": "When a huge game becomes a movie, who casts it immediately and who worries the neon city will steal every scene?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668"]
+    },
+    {
+      "title": "Japan succession debate grows",
+      "summary": "Calls are growing in Japan to let Princess Aiko take the throne as the imperial family faces a shrinking pool of male heirs.",
+      "discussionPrompt": "When tradition runs into a practical family math problem, who defends the old rule and who asks why not update it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/09/all"]
+    },
+    {
+      "title": "Climate finance pressure rises before Cop31",
+      "summary": "Australia's prime minister urged wealthy countries to spend much more on climate action than defense as Cop31 diplomacy gathered pace.",
+      "discussionPrompt": "If climate budgets and defense budgets sat at the same table, who would ask for receipts and who would rearrange the priorities?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/news"]
+    },
+    {
+      "title": "Star Wars prop goes to auction",
+      "summary": "The lightsaber used in Darth Vader's famous Empire Strikes Back duel is going up for auction, drawing attention from film memorabilia collectors.",
+      "discussionPrompt": "If a legendary movie prop goes on sale, who calls it priceless history and who asks whether it comes with display batteries?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/all"]
     }
   ]
 }
