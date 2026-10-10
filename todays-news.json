@@ -74,12 +74,12 @@
       "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/10/all"]
     },
     {
-      "title": "Panama cleanup checks begin",
-      "summary": "Officials assessed damaged buildings and transport disruptions after Panama's quakes while residents waited for clearer safety updates.",
-      "discussionPrompt": "When a city has to pause and inspect everything, who gets patient and who starts ranking the most inconvenient delays?",
+      "title": "Lebanon flight routes reopen",
+      "summary": "Lebanon welcomed the lifting of a US flight ban as regional aviation routes kept adjusting to security and diplomacy developments.",
+      "discussionPrompt": "When a route finally reopens, who starts planning a trip and who immediately asks what changed behind the scenes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55", "https://www.theguardian.com/world/americas/2026/oct/10/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a5f40b5e0ab08ae8128db5ed749114d8"]
     }
   ]
 }
