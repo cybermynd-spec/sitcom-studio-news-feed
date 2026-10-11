@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-10T16:29:58Z",
+  "updatedUtc": "2026-10-11T16:30:02Z",
   "topics": [
     {
-      "title": "Isaias moves across Gulf Coast",
-      "summary": "Hurricane Isaias made landfall in Florida as a Category 2 storm, with Gulf Coast states watching for surge, flooding and power disruptions.",
-      "discussionPrompt": "When a storm arrives after days of forecast watching, who trusts the official checklist and who starts improvising with pantry snacks?",
+      "title": "Simon lashes Mexico's Pacific coast",
+      "summary": "Hurricane Simon pounded Mexico's Pacific coast as a powerful Category 4 storm, bringing dangerous winds, flooding risk and disruption near Puerto Vallarta and nearby coastal towns.",
+      "discussionPrompt": "If a beach trip suddenly turns into storm prep, who gets practical first and who keeps refreshing the forecast like it owes them answers?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Associated Press"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/10/all", "https://apnews.com/article/c5a7c17b8b739dd81a9e5c64860757a4"]
+      "sourceNames": ["Associated Press", "Reuters via MarketScreener"],
+      "sourceUrls": ["https://apnews.com/article/0e33336ba92518117ca8008c5746d230e", "https://www.marketscreener.com/news/hurricane-simon-strengthens-to-category-4-off-mexico-coast-ce785ddcdd8ef22c"]
     },
     {
-      "title": "Panama shaken by powerful quakes",
-      "summary": "Two strong earthquakes and aftershocks rattled Panama, prompting evacuations and reminders that the region sits along the Pacific Ring of Fire.",
-      "discussionPrompt": "If the ground suddenly reminds everyone it has plans, who grabs the emergency bag and who checks whether the pictures stayed level?",
+      "title": "Isaias cleanup shifts inland",
+      "summary": "After hitting Florida and Alabama, Isaias' remnants pushed heavy rain toward Appalachia and the mid-Atlantic, keeping flood worries alive as crews worked on power and road cleanup.",
+      "discussionPrompt": "When the worst of a storm has passed but the errands are still a mess, who becomes the neighborhood logistics captain?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/e4e5dc85829714db88a74de3b7019d55", "https://www.theguardian.com/world/2026/oct/10/all"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/e1fc35b66ff106211e287dc88b6a8d1a"]
     },
     {
-      "title": "US-Russia diesel deal stirs debate",
-      "summary": "A White House deal to buy Russian diesel drew criticism from Ukraine supporters while officials argued it could ease high fuel prices.",
-      "discussionPrompt": "When a fuel-price fix comes with a diplomatic headache, who talks strategy and who just wants the gas receipt to stop hurting?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/12baccc7aade559bf329079b0548c9da", "https://www.theguardian.com/us-news/us-politics/2026/oct/10/all"]
-    },
-    {
-      "title": "Ukraine talks face fresh strain",
-      "summary": "Ukraine criticized new US-Russia fuel diplomacy as talks continued, while reports of strikes and energy security concerns kept pressure on negotiations.",
-      "discussionPrompt": "When peace talks and side deals happen at the same time, who thinks it is clever chess and who calls it a mixed signal?",
+      "title": "Trump cites Ukraine energy ceasefire",
+      "summary": "President Trump said Russia and Ukraine had reached an energy ceasefire, though he offered few details and Ukrainian diplomacy remained under close scrutiny.",
+      "discussionPrompt": "When someone announces a big deal without much fine print, who celebrates early and who immediately asks where the paperwork is?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/228ccf74b2848c1ff0ac23f038b37512", "https://www.theguardian.com/world/europe-news/2026/oct/10/all"]
+      "sourceUrls": ["https://apnews.com/article/f621fa788196f204448e7f75fcc78c68", "https://www.theguardian.com/world/2026/oct/11/all"]
     },
     {
-      "title": "AI safety returns to spotlight",
-      "summary": "At San Francisco Tech Week, AI founders welcomed a lighter federal approach while critics questioned whether voluntary safeguards are enough.",
-      "discussionPrompt": "If companies are asked to police their own super-smart tools, who trusts the honor system and who wants a bigger rulebook?",
+      "title": "Saudi Arabia heightens airport alert",
+      "summary": "Saudi Arabia remained on alert after strikes around Riyadh's airport, while Middle East diplomacy and regional security concerns continued to shift quickly.",
+      "discussionPrompt": "When travel plans depend on fast-changing security news, who calmly waits for updates and who starts building three backup itineraries?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "NPR News Now via Podcast Rex"],
+      "sourceUrls": ["https://apnews.com/article/baa06588f3ebe6dad93695581f68d3c1", "https://podcastrex.com/shows/npr-news-now/6am-et-october-11-the-latest-headlines-from-npr"]
+    },
+    {
+      "title": "DOJ reviews White House TV pool dispute",
+      "summary": "The Justice Department said it is investigating whether a halt in White House TV pool coverage violated antitrust law, extending a fight over press access.",
+      "discussionPrompt": "If covering an event turns into a rulebook argument, who defends the process and who just wants cameras back in the room?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/687c09a2377e7033c0b452c893c46e12"]
+    },
+    {
+      "title": "AI self-policing debate grows",
+      "summary": "San Francisco Tech Week put AI oversight back in the spotlight, with founders welcoming lighter federal regulation while critics questioned voluntary safety commitments.",
+      "discussionPrompt": "If a fast-moving industry says it can grade its own homework, who trusts the ambition and who asks for a red pen?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
       "sourceUrls": ["https://apnews.com/article/32064fde8ad68c68f71d82336f7db525"]
     },
     {
-      "title": "France wrestles with budget pressure",
-      "summary": "Protests over public spending are colliding with market worries about debt, leaving France's government searching for a workable budget path.",
-      "discussionPrompt": "When everyone wants a budget to do opposite things, who brings a spreadsheet and who brings a dramatic sigh?",
+      "title": "Guardian highlights UK identity study",
+      "summary": "A new report covered by The Guardian says visible Christian nationalism in Britain may be driven largely by people who seldom attend church.",
+      "discussionPrompt": "When symbols mean different things to different people, who sees tradition and who sees politics sneaking into the room?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/europe-news/2026/oct/10/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/11/all"]
     },
     {
-      "title": "India tightens protest security",
-      "summary": "Indian authorities detained protesters and expanded security in New Delhi as youth-led anger grew over a disputed voter list revision.",
-      "discussionPrompt": "When young people turn a technical election issue into a street movement, who studies the rules and who watches the mood shift?",
+      "title": "Guardians complete playoff comeback",
+      "summary": "Cleveland beat the White Sox in Game 5, completing an ALDS comeback from two games down behind a dominant Gavin Williams pitching performance.",
+      "discussionPrompt": "After a team digs out of a 2-0 hole, who calls it destiny and who insists the bullpen spreadsheet explains everything?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/sport/us-sport/2026/oct/11/all"]
+    },
+    {
+      "title": "Kipchoge wins Melbourne Marathon",
+      "summary": "Eliud Kipchoge won his first marathon in three years, breaking the Melbourne Marathon record and saying his body is still peaking.",
+      "discussionPrompt": "When a legend says they are still peaking, who gets inspired and who suddenly feels judged by their unused running shoes?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/sport/2026/oct/11/all"]
+    },
+    {
+      "title": "Streaming week mixes music and games",
+      "summary": "AP's weekly entertainment picks spotlight new releases from Katseye, Marvel's VisionQuest, a Tenzing Norgay drama and a new Castlevania game.",
+      "discussionPrompt": "When the watchlist and game backlog both expand at once, who makes a schedule and who samples everything for five minutes?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/030b35e23279c75394b7654233c99d6b"]
-    },
-    {
-      "title": "TSA chair rule draws union anger",
-      "summary": "A union criticized a move removing chairs from TSA checkpoints, saying morale and basic working conditions matter for airport staff.",
-      "discussionPrompt": "If a workplace rule is supposed to look professional but makes people miserable, who enforces it and who quietly drags the chair back?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/us-politics/2026/oct/10/all"]
-    },
-    {
-      "title": "Surf breaks face climate risk",
-      "summary": "A new climate study warns many famous surf breaks could be reshaped by rising seas and changing coastal conditions.",
-      "discussionPrompt": "If a favorite beach slowly changes shape, who sees science in motion and who just mourns the perfect wave?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/10/all"]
-    },
-    {
-      "title": "Lebanon flight routes reopen",
-      "summary": "Lebanon welcomed the lifting of a US flight ban as regional aviation routes kept adjusting to security and diplomacy developments.",
-      "discussionPrompt": "When a route finally reopens, who starts planning a trip and who immediately asks what changed behind the scenes?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/a5f40b5e0ab08ae8128db5ed749114d8"]
+      "sourceUrls": ["https://apnews.com/article/00be8937c13825fa70dbf9fe6e212ce5"]
     }
   ]
 }
