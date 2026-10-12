@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-11T16:30:02Z",
+  "updatedUtc": "2026-10-12T15:46:53Z",
   "topics": [
     {
-      "title": "Simon lashes Mexico's Pacific coast",
-      "summary": "Hurricane Simon pounded Mexico's Pacific coast as a powerful Category 4 storm, bringing dangerous winds, flooding risk and disruption near Puerto Vallarta and nearby coastal towns.",
-      "discussionPrompt": "If a beach trip suddenly turns into storm prep, who gets practical first and who keeps refreshing the forecast like it owes them answers?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters via MarketScreener"],
-      "sourceUrls": ["https://apnews.com/article/0e33336ba92518117ca8008c5746d230e", "https://www.marketscreener.com/news/hurricane-simon-strengthens-to-category-4-off-mexico-coast-ce785ddcdd8ef22c"]
-    },
-    {
-      "title": "Isaias cleanup shifts inland",
-      "summary": "After hitting Florida and Alabama, Isaias' remnants pushed heavy rain toward Appalachia and the mid-Atlantic, keeping flood worries alive as crews worked on power and road cleanup.",
-      "discussionPrompt": "When the worst of a storm has passed but the errands are still a mess, who becomes the neighborhood logistics captain?",
+      "title": "Saudi Arabia probes airport defenses",
+      "summary": "Saudi Arabia opened an investigation into how missiles and drones reached Riyadh's airport, while officials weighed wider regional security concerns after recent Houthi attacks.",
+      "discussionPrompt": "If a major airport suddenly becomes the center of a security mystery, who wants the technical explanation and who just wants their flight refunded?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/e1fc35b66ff106211e287dc88b6a8d1a"]
+      "sourceUrls": ["https://apnews.com/article/40c6ab822df376688ce1a0955a044488"]
     },
     {
-      "title": "Trump cites Ukraine energy ceasefire",
-      "summary": "President Trump said Russia and Ukraine had reached an energy ceasefire, though he offered few details and Ukrainian diplomacy remained under close scrutiny.",
-      "discussionPrompt": "When someone announces a big deal without much fine print, who celebrates early and who immediately asks where the paperwork is?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/f621fa788196f204448e7f75fcc78c68", "https://www.theguardian.com/world/2026/oct/11/all"]
-    },
-    {
-      "title": "Saudi Arabia heightens airport alert",
-      "summary": "Saudi Arabia remained on alert after strikes around Riyadh's airport, while Middle East diplomacy and regional security concerns continued to shift quickly.",
-      "discussionPrompt": "When travel plans depend on fast-changing security news, who calmly waits for updates and who starts building three backup itineraries?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "NPR News Now via Podcast Rex"],
-      "sourceUrls": ["https://apnews.com/article/baa06588f3ebe6dad93695581f68d3c1", "https://podcastrex.com/shows/npr-news-now/6am-et-october-11-the-latest-headlines-from-npr"]
-    },
-    {
-      "title": "DOJ reviews White House TV pool dispute",
-      "summary": "The Justice Department said it is investigating whether a halt in White House TV pool coverage violated antitrust law, extending a fight over press access.",
-      "discussionPrompt": "If covering an event turns into a rulebook argument, who defends the process and who just wants cameras back in the room?",
+      "title": "Nobel laureate backs international courts",
+      "summary": "Nobel Peace Prize winner Navi Pillay urged countries to defend international justice and the broader legal order, saying courts need collective support, not only public praise.",
+      "discussionPrompt": "When someone says rules only matter if people back them up, who nods like a civics teacher and who asks who enforces the enforcers?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/687c09a2377e7033c0b452c893c46e12"]
+      "sourceUrls": ["https://apnews.com/article/744bffc669568617e3abba0323d04ce1"]
     },
     {
-      "title": "AI self-policing debate grows",
-      "summary": "San Francisco Tech Week put AI oversight back in the spotlight, with founders welcoming lighter federal regulation while critics questioned voluntary safety commitments.",
-      "discussionPrompt": "If a fast-moving industry says it can grade its own homework, who trusts the ambition and who asks for a red pen?",
+      "title": "Indigenous Peoples Day marked in US",
+      "summary": "Communities across the United States marked Indigenous Peoples Day with celebrations, protests and calls to rethink how history is taught and remembered.",
+      "discussionPrompt": "If a holiday asks everyone to look at history from another angle, who gets reflective and who starts planning the community potluck?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/32064fde8ad68c68f71d82336f7db525"]
+      "sourceUrls": ["https://apnews.com/article/fa0bef826c2198e632f7099b7b471491"]
     },
     {
-      "title": "Guardian highlights UK identity study",
-      "summary": "A new report covered by The Guardian says visible Christian nationalism in Britain may be driven largely by people who seldom attend church.",
-      "discussionPrompt": "When symbols mean different things to different people, who sees tradition and who sees politics sneaking into the room?",
+      "title": "Ukraine power sites hit again",
+      "summary": "Ukraine reported Russian attacks on multiple power plants after President Trump claimed an energy ceasefire, while Moscow declined to confirm the reported arrangement.",
+      "discussionPrompt": "When two sides describe the same supposed deal very differently, who waits for receipts and who starts reading between every line?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian", "Associated Press"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all", "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"]
+    },
+    {
+      "title": "Indonesia eyes mosque quake alerts",
+      "summary": "Indonesia is exploring whether mosque loudspeakers could also broadcast earthquake warnings, using familiar community infrastructure to move alerts faster in risky areas.",
+      "discussionPrompt": "If everyday neighborhood speakers could double as emergency tech, who loves the practical shortcut and who worries about false alarms?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/11/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all"]
     },
     {
-      "title": "Guardians complete playoff comeback",
-      "summary": "Cleveland beat the White Sox in Game 5, completing an ALDS comeback from two games down behind a dominant Gavin Williams pitching performance.",
-      "discussionPrompt": "After a team digs out of a 2-0 hole, who calls it destiny and who insists the bullpen spreadsheet explains everything?",
+      "title": "Pakistan provincial suspension sparks dispute",
+      "summary": "Imran Khan's party denounced Pakistan's suspension of a provincial government as a coup, adding another flashpoint to the country's already tense political scene.",
+      "discussionPrompt": "When a political fight turns into an argument over who gets to run the room, who reaches for the constitution and who reaches for tea?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/us-sport/2026/oct/11/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all"]
     },
     {
-      "title": "Kipchoge wins Melbourne Marathon",
-      "summary": "Eliud Kipchoge won his first marathon in three years, breaking the Melbourne Marathon record and saying his body is still peaking.",
-      "discussionPrompt": "When a legend says they are still peaking, who gets inspired and who suddenly feels judged by their unused running shoes?",
+      "title": "EU caps Chinese hybrid imports",
+      "summary": "The European Union plans to limit Chinese hybrid vehicle imports to 350,000 a year, a move expected to shrink China's market share in Europe.",
+      "discussionPrompt": "If car rules change the showroom overnight, who talks trade policy and who just asks whether the cup holders are still good?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/oct/11/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/europe-news/2026/oct/12/all"]
     },
     {
-      "title": "Streaming week mixes music and games",
-      "summary": "AP's weekly entertainment picks spotlight new releases from Katseye, Marvel's VisionQuest, a Tenzing Norgay drama and a new Castlevania game.",
-      "discussionPrompt": "When the watchlist and game backlog both expand at once, who makes a schedule and who samples everything for five minutes?",
+      "title": "Economists win Nobel for crisis models",
+      "summary": "American economists Robert E. Hall and Michael Woodford won the Nobel Memorial Prize in economics for work on models used to understand spending, saving and shocks.",
+      "discussionPrompt": "When economists win for explaining why people spend or save, who says humans are predictable and who points at their own impulse purchases?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/00be8937c13825fa70dbf9fe6e212ce5"]
+      "sourceUrls": ["https://apnews.com/article/96f32f1aaeff1054e2dd653e6ea86268"]
+    },
+    {
+      "title": "Markets watch oil and inflation",
+      "summary": "US stocks hovered near records as oil prices climbed and investors looked ahead to inflation, retail sales and bank earnings reports later this week.",
+      "discussionPrompt": "When markets look calm but everyone is watching oil prices, who trusts the charts and who starts budgeting for snacks differently?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d"]
+    },
+    {
+      "title": "Brewers take NLCS opener",
+      "summary": "Milwaukee edged Los Angeles 2-1 in the National League Championship Series opener, with Brice Turang homering and the Brewers bullpen protecting the lead.",
+      "discussionPrompt": "After a tight playoff opener, who becomes instantly superstitious and who insists it is still just one game?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/sport/us-sport/2026/oct/12/all"]
     }
   ]
 }
