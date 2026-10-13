@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-12T15:46:53Z",
+  "updatedUtc": "2026-10-13T14:40:39Z",
   "topics": [
     {
-      "title": "Saudi Arabia probes airport defenses",
-      "summary": "Saudi Arabia opened an investigation into how missiles and drones reached Riyadh's airport, while officials weighed wider regional security concerns after recent Houthi attacks.",
-      "discussionPrompt": "If a major airport suddenly becomes the center of a security mystery, who wants the technical explanation and who just wants their flight refunded?",
+      "title": "Chip stocks pull markets lower",
+      "summary": "Global markets dipped as worries about the AI trade hit major chipmakers, while strong earnings from Goldman Sachs and UnitedHealth helped cushion Wall Street.",
+      "discussionPrompt": "When investors suddenly cool on AI stocks, who thinks it is healthy caution and who starts defending every gadget in the room?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/40c6ab822df376688ce1a0955a044488"]
+      "sourceNames": ["Reuters", "Associated Press"],
+      "sourceUrls": ["https://uk.marketscreener.com/news/world-stocks-dip-as-chips-slide-bonds-rise-ce785ddddc8cf522", "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"]
     },
     {
-      "title": "Nobel laureate backs international courts",
-      "summary": "Nobel Peace Prize winner Navi Pillay urged countries to defend international justice and the broader legal order, saying courts need collective support, not only public praise.",
-      "discussionPrompt": "When someone says rules only matter if people back them up, who nods like a civics teacher and who asks who enforces the enforcers?",
+      "title": "IMF lifts growth forecast, flags risks",
+      "summary": "The IMF raised its 2026 global growth forecast to 3.1%, but warned that debt, low oil buffers and AI-driven market swings could test economic resilience.",
+      "discussionPrompt": "If the forecast says things are growing but still fragile, who celebrates the good news and who reads every footnote twice?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/744bffc669568617e3abba0323d04ce1"]
+      "sourceNames": ["Associated Press", "The Guardian"],
+      "sourceUrls": ["https://apnews.com/article/23aa01c0c6922fbf0b564a0ff9b2c8e5", "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"]
     },
     {
-      "title": "Indigenous Peoples Day marked in US",
-      "summary": "Communities across the United States marked Indigenous Peoples Day with celebrations, protests and calls to rethink how history is taught and remembered.",
-      "discussionPrompt": "If a holiday asks everyone to look at history from another angle, who gets reflective and who starts planning the community potluck?",
+      "title": "Rwanda lands future F1 race",
+      "summary": "Formula 1 announced a 10-year deal for Rwanda to host an African Grand Prix in the early 2030s, marking the sport's planned return to the continent.",
+      "discussionPrompt": "If F1 comes back to Africa after decades away, who talks engineering dreams and who immediately asks about traffic near the track?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/fa0bef826c2198e632f7099b7b471491"]
+      "sourceNames": ["Associated Press", "Formula 1"],
+      "sourceUrls": ["https://apnews.com/article/0f71bcd619e82380ab226b012e4ec21f", "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES.13xs9VMK7cGFiBd2IplyES"]
     },
     {
-      "title": "Ukraine power sites hit again",
-      "summary": "Ukraine reported Russian attacks on multiple power plants after President Trump claimed an energy ceasefire, while Moscow declined to confirm the reported arrangement.",
-      "discussionPrompt": "When two sides describe the same supposed deal very differently, who waits for receipts and who starts reading between every line?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Associated Press"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all", "https://apnews.com/article/f621fa788196f204448e7f75fcc78c68"]
-    },
-    {
-      "title": "Indonesia eyes mosque quake alerts",
-      "summary": "Indonesia is exploring whether mosque loudspeakers could also broadcast earthquake warnings, using familiar community infrastructure to move alerts faster in risky areas.",
-      "discussionPrompt": "If everyday neighborhood speakers could double as emergency tech, who loves the practical shortcut and who worries about false alarms?",
+      "title": "Mexico storms damage Pacific coast",
+      "summary": "Hurricane Simon and Tropical Storm Rachel battered Mexico's Pacific coast, damaging infrastructure, causing flash floods and prompting helicopter rescues in affected communities.",
+      "discussionPrompt": "When two storms hit the same coastline, who focuses on rescue logistics and who starts redesigning the emergency checklist?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/13/all"]
     },
     {
-      "title": "Pakistan provincial suspension sparks dispute",
-      "summary": "Imran Khan's party denounced Pakistan's suspension of a provincial government as a coup, adding another flashpoint to the country's already tense political scene.",
-      "discussionPrompt": "When a political fight turns into an argument over who gets to run the room, who reaches for the constitution and who reaches for tea?",
+      "title": "Iguazu Falls temporarily closes",
+      "summary": "Argentina temporarily closed Iguazu Falls after El Nino-linked rains sent water levels surging, turning a tourist landmark into a safety concern.",
+      "discussionPrompt": "If a famous waterfall gets too powerful for visitors, who is awed by nature and who quietly cancels the group selfie plan?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/12/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/13/all"]
     },
     {
-      "title": "EU caps Chinese hybrid imports",
-      "summary": "The European Union plans to limit Chinese hybrid vehicle imports to 350,000 a year, a move expected to shrink China's market share in Europe.",
-      "discussionPrompt": "If car rules change the showroom overnight, who talks trade policy and who just asks whether the cup holders are still good?",
+      "title": "Epic Games leans harder into AI",
+      "summary": "Epic Games confirmed a major shift toward AI across its tools and projects, with CEO Tim Sweeney saying game development is changing quickly.",
+      "discussionPrompt": "If game studios go all-in on AI tools, who sees creative shortcuts and who worries the weird human touches disappear?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/europe-news/2026/oct/12/all"]
+      "sourceNames": ["BBC Newsbeat"],
+      "sourceUrls": ["https://www.aol.com/articles/fortnite-maker-epic-games-confirms-102013000.html"]
     },
     {
-      "title": "Economists win Nobel for crisis models",
-      "summary": "American economists Robert E. Hall and Michael Woodford won the Nobel Memorial Prize in economics for work on models used to understand spending, saving and shocks.",
-      "discussionPrompt": "When economists win for explaining why people spend or save, who says humans are predictable and who points at their own impulse purchases?",
+      "title": "Retail brands report cyber incident",
+      "summary": "TFG London, owner of Hobbs and Phase Eight, apologized for disruption after identifying a cybersecurity incident, while H&M investigated a separate hacking claim.",
+      "discussionPrompt": "When stores announce a cyber incident, who checks their password habits and who mainly wonders if their order still ships?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.1stheadlines.com/from/668"]
+    },
+    {
+      "title": "Nevada data centers stir debate",
+      "summary": "Plans for AI data centers on federal land are reshaping Nevada politics, with supporters citing jobs and critics raising questions about water, power and public land.",
+      "discussionPrompt": "If a giant data center promises jobs but needs lots of resources, who sees progress and who asks where the water comes from?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/96f32f1aaeff1054e2dd653e6ea86268"]
+      "sourceUrls": ["https://apnews.com/article/777894300ca0612493a4991da5f30308"]
     },
     {
-      "title": "Markets watch oil and inflation",
-      "summary": "US stocks hovered near records as oil prices climbed and investors looked ahead to inflation, retail sales and bank earnings reports later this week.",
-      "discussionPrompt": "When markets look calm but everyone is watching oil prices, who trusts the charts and who starts budgeting for snacks differently?",
+      "title": "Yemen oil facilities reportedly struck",
+      "summary": "A Houthi-backed broadcaster said Saudi-led coalition strikes hit oil facilities west of Yemen's capital, adding another flashpoint to the region's escalating conflict.",
+      "discussionPrompt": "When reports from a conflict zone arrive fast, who wants confirmed details first and who worries about fuel prices by dinner?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d"]
+      "sourceUrls": ["https://apnews.com/article/307d49abfe63ff66c99c318d94ca3e15"]
     },
     {
-      "title": "Brewers take NLCS opener",
-      "summary": "Milwaukee edged Los Angeles 2-1 in the National League Championship Series opener, with Brice Turang homering and the Brewers bullpen protecting the lead.",
-      "discussionPrompt": "After a tight playoff opener, who becomes instantly superstitious and who insists it is still just one game?",
+      "title": "Coastal erosion claims English homes",
+      "summary": "New figures reported by The Guardian found at least 183 homes in England have been demolished over 16 years after coastal erosion made them unsafe.",
+      "discussionPrompt": "If the coastline keeps moving closer, who argues for better defenses and who asks whether people should move earlier?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/us-sport/2026/oct/12/all"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/13/all"]
     }
   ]
 }
