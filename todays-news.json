@@ -1,85 +1,125 @@
 {
-  "updatedUtc": "2026-10-13T14:40:39Z",
+  "updatedUtc": "2026-10-14T15:43:47Z",
   "topics": [
     {
-      "title": "Chip stocks pull markets lower",
-      "summary": "Global markets dipped as worries about the AI trade hit major chipmakers, while strong earnings from Goldman Sachs and UnitedHealth helped cushion Wall Street.",
-      "discussionPrompt": "When investors suddenly cool on AI stocks, who thinks it is healthy caution and who starts defending every gadget in the room?",
+      "title": "Inflation remains a kitchen-table concern",
+      "summary": "U.S. inflation accelerated to 3.7% last month, driven by higher gasoline, clothing and airfare costs. The report keeps everyday prices at the center of economic conversations.",
+      "discussionPrompt": "If your usual groceries, clothes, or travel suddenly cost more, what is the first small luxury you would protect anyway?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "Associated Press"],
-      "sourceUrls": ["https://uk.marketscreener.com/news/world-stocks-dip-as-chips-slide-bonds-rise-ce785ddddc8cf522", "https://apnews.com/article/a2edaf9ec297fb75ff2a4e245063ec08"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://www.the-journal.com/associated-press/?q=&start=1240"
+      ]
     },
     {
-      "title": "IMF lifts growth forecast, flags risks",
-      "summary": "The IMF raised its 2026 global growth forecast to 3.1%, but warned that debt, low oil buffers and AI-driven market swings could test economic resilience.",
-      "discussionPrompt": "If the forecast says things are growing but still fragile, who celebrates the good news and who reads every footnote twice?",
+      "title": "Press-access ruling favors news outlets",
+      "summary": "A federal judge extended an order blocking the White House from barring reporters from CNN, MS NOW and Politico, finding the outlets are likely to succeed on constitutional claims.",
+      "discussionPrompt": "Should access rules for reporters be the same for every outlet, even when the questions get uncomfortable?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "The Guardian"],
-      "sourceUrls": ["https://apnews.com/article/23aa01c0c6922fbf0b564a0ff9b2c8e5", "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/1a023a8890e8d25d5d293862f4cd47af"
+      ]
     },
     {
-      "title": "Rwanda lands future F1 race",
-      "summary": "Formula 1 announced a 10-year deal for Rwanda to host an African Grand Prix in the early 2030s, marking the sport's planned return to the continent.",
-      "discussionPrompt": "If F1 comes back to Africa after decades away, who talks engineering dreams and who immediately asks about traffic near the track?",
+      "title": "Black Sea ship attacks investigated",
+      "summary": "Bulgaria said Russia was likely behind recent drone attacks on ships in the Black Sea, while acknowledging the claim could not yet be proved.",
+      "discussionPrompt": "When officials say something is likely but not proven, how much should people trust the first explanation?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Formula 1"],
-      "sourceUrls": ["https://apnews.com/article/0f71bcd619e82380ab226b012e4ec21f", "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES.13xs9VMK7cGFiBd2IplyES"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/8746f7f536b245dda36fb2b8778fc542"
+      ]
     },
     {
-      "title": "Mexico storms damage Pacific coast",
-      "summary": "Hurricane Simon and Tropical Storm Rachel battered Mexico's Pacific coast, damaging infrastructure, causing flash floods and prompting helicopter rescues in affected communities.",
-      "discussionPrompt": "When two storms hit the same coastline, who focuses on rescue logistics and who starts redesigning the emergency checklist?",
+      "title": "Saudi energy offices reportedly struck",
+      "summary": "Officials said Iran-backed Houthis struck Saudi Aramco executive offices, adding to regional tensions and raising fresh questions about energy security.",
+      "discussionPrompt": "When energy news heats up overseas, do you think about fuel prices first, diplomacy first, or neither?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/13/all"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/c81a91347c00b17097c8fafde7e4eeec"
+      ]
     },
     {
-      "title": "Iguazu Falls temporarily closes",
-      "summary": "Argentina temporarily closed Iguazu Falls after El Nino-linked rains sent water levels surging, turning a tourist landmark into a safety concern.",
-      "discussionPrompt": "If a famous waterfall gets too powerful for visitors, who is awed by nature and who quietly cancels the group selfie plan?",
+      "title": "Ukraine power concerns continue",
+      "summary": "Reports said Russian strikes damaged power facilities in Ukraine, leaving many people without electricity as arguments over a possible ceasefire continue.",
+      "discussionPrompt": "What everyday habit would be hardest to adjust if your neighborhood suddenly lost power for a day?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/13/all"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://theprint.in/world/russian-strikes-kill-three-damage-dozens-of-power-facilities/3071261/"
+      ]
     },
     {
-      "title": "Epic Games leans harder into AI",
-      "summary": "Epic Games confirmed a major shift toward AI across its tools and projects, with CEO Tim Sweeney saying game development is changing quickly.",
-      "discussionPrompt": "If game studios go all-in on AI tools, who sees creative shortcuts and who worries the weird human touches disappear?",
+      "title": "Thailand park closes after floods",
+      "summary": "Thailand's oldest amusement park closed after flooding damaged rides and left parts of the site inaccessible, highlighting how rising water can disrupt familiar local landmarks.",
+      "discussionPrompt": "If your favorite old amusement park had to close for repairs, which ride or snack stand would you miss most?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC Newsbeat"],
-      "sourceUrls": ["https://www.aol.com/articles/fortnite-maker-epic-games-confirms-102013000.html"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/oct/14/all"
+      ]
     },
     {
-      "title": "Retail brands report cyber incident",
-      "summary": "TFG London, owner of Hobbs and Phase Eight, apologized for disruption after identifying a cybersecurity incident, while H&M investigated a separate hacking claim.",
-      "discussionPrompt": "When stores announce a cyber incident, who checks their password habits and who mainly wonders if their order still ships?",
+      "title": "Wildlife photos celebrate odd moments",
+      "summary": "Winners of the 2026 Wildlife Photographer of the Year competition showcased scenes from underwater life to city wildlife, giving nature fans plenty of memorable images to compare.",
+      "discussionPrompt": "Would you rather photograph a rare animal in the wild or a hilarious everyday creature right in town?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.1stheadlines.com/from/668"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/world%2Bcontent/gallery"
+      ]
     },
     {
-      "title": "Nevada data centers stir debate",
-      "summary": "Plans for AI data centers on federal land are reshaping Nevada politics, with supporters citing jobs and critics raising questions about water, power and public land.",
-      "discussionPrompt": "If a giant data center promises jobs but needs lots of resources, who sees progress and who asks where the water comes from?",
+      "title": "Formula 1 eyes Africa return",
+      "summary": "BBC World Service programming highlighted Formula 1's planned return to Africa, renewing conversation about the sport's global reach and what a new race weekend could bring.",
+      "discussionPrompt": "If a major race came to your region, would you be there for the cars, the atmosphere, or the food vendors?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/777894300ca0612493a4991da5f30308"]
+      "sourceNames": [
+        "BBC News"
+      ],
+      "sourceUrls": [
+        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+      ]
     },
     {
-      "title": "Yemen oil facilities reportedly struck",
-      "summary": "A Houthi-backed broadcaster said Saudi-led coalition strikes hit oil facilities west of Yemen's capital, adding another flashpoint to the region's escalating conflict.",
-      "discussionPrompt": "When reports from a conflict zone arrive fast, who wants confirmed details first and who worries about fuel prices by dinner?",
+      "title": "AI safety enters security debate",
+      "summary": "The UK's intelligence chief warned about the possible misuse of AI in biological threats, bringing fresh attention to how powerful tools should be developed and safeguarded.",
+      "discussionPrompt": "What is one sensible rule you would want before powerful new AI tools become ordinary household tech?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/307d49abfe63ff66c99c318d94ca3e15"]
+      "sourceNames": [
+        "BBC News"
+      ],
+      "sourceUrls": [
+        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+      ]
     },
     {
-      "title": "Coastal erosion claims English homes",
-      "summary": "New figures reported by The Guardian found at least 183 homes in England have been demolished over 16 years after coastal erosion made them unsafe.",
-      "discussionPrompt": "If the coastline keeps moving closer, who argues for better defenses and who asks whether people should move earlier?",
+      "title": "Data centers keep reshaping debate",
+      "summary": "A BBC technology program examined the idea of virtual data centers in space, while AI infrastructure continues to prompt questions about energy, cost and future computing.",
+      "discussionPrompt": "If data centers someday moved into space, what would surprise you more: the engineering, the price tag, or the sci-fi vibes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/13/all"]
+      "sourceNames": [
+        "BBC World Service"
+      ],
+      "sourceUrls": [
+        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+      ]
     }
   ]
 }
