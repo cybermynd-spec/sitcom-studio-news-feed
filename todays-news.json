@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-10-14T15:43:47Z",
+  "updatedUtc": "2026-10-15T15:11:11Z",
   "topics": [
     {
-      "title": "Inflation remains a kitchen-table concern",
-      "summary": "U.S. inflation accelerated to 3.7% last month, driven by higher gasoline, clothing and airfare costs. The report keeps everyday prices at the center of economic conversations.",
-      "discussionPrompt": "If your usual groceries, clothes, or travel suddenly cost more, what is the first small luxury you would protect anyway?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://www.the-journal.com/associated-press/?q=&start=1240"
-      ]
-    },
-    {
-      "title": "Press-access ruling favors news outlets",
-      "summary": "A federal judge extended an order blocking the White House from barring reporters from CNN, MS NOW and Politico, finding the outlets are likely to succeed on constitutional claims.",
-      "discussionPrompt": "Should access rules for reporters be the same for every outlet, even when the questions get uncomfortable?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/1a023a8890e8d25d5d293862f4cd47af"
-      ]
-    },
-    {
-      "title": "Black Sea ship attacks investigated",
-      "summary": "Bulgaria said Russia was likely behind recent drone attacks on ships in the Black Sea, while acknowledging the claim could not yet be proved.",
-      "discussionPrompt": "When officials say something is likely but not proven, how much should people trust the first explanation?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/8746f7f536b245dda36fb2b8778fc542"
-      ]
-    },
-    {
-      "title": "Saudi energy offices reportedly struck",
-      "summary": "Officials said Iran-backed Houthis struck Saudi Aramco executive offices, adding to regional tensions and raising fresh questions about energy security.",
-      "discussionPrompt": "When energy news heats up overseas, do you think about fuel prices first, diplomacy first, or neither?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/c81a91347c00b17097c8fafde7e4eeec"
-      ]
-    },
-    {
-      "title": "Ukraine power concerns continue",
-      "summary": "Reports said Russian strikes damaged power facilities in Ukraine, leaving many people without electricity as arguments over a possible ceasefire continue.",
-      "discussionPrompt": "What everyday habit would be hardest to adjust if your neighborhood suddenly lost power for a day?",
+      "title": "AI stock sell-off rattles markets",
+      "summary": "Global markets were pressured as investors reassessed costly AI and data-center bets amid high interest rates. Tech shares led the declines while traders weighed how durable the investment boom may be.",
+      "discussionPrompt": "When a hot new technology starts looking expensive, are you the type to ride it out, take the profits, or avoid the drama entirely?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://theprint.in/world/russian-strikes-kill-three-damage-dozens-of-power-facilities/3071261/"
+        "https://www.marketscreener.com/news/stocks-and-dollar-slide-as-tech-rout-deepens-ce785dd3df8bf720"
       ]
     },
     {
-      "title": "Thailand park closes after floods",
-      "summary": "Thailand's oldest amusement park closed after flooding damaged rides and left parts of the site inaccessible, highlighting how rising water can disrupt familiar local landmarks.",
-      "discussionPrompt": "If your favorite old amusement park had to close for repairs, which ride or snack stand would you miss most?",
+      "title": "Study links warmer seas to Hurricane Polo",
+      "summary": "A new attribution study found human-caused warming and El Niño both helped intensify Hurricane Polo, with warming identified as the larger contributor. Researchers say the findings sharpen questions about preparing for stronger storms.",
+      "discussionPrompt": "What makes a weather warning feel real to you: a forecast map, a friend’s story, or seeing local preparations begin?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/b0dd859060d16ed26230b34ac0854bc9"
+      ]
+    },
+    {
+      "title": "Atlantic current study offers cautious hope",
+      "summary": "A Danish-led study suggests the Atlantic’s major ocean-current system could recover after severe weakening if the climate cools. Researchers stress that real-world uncertainty remains and changes could still last centuries.",
+      "discussionPrompt": "Does a little scientific good news make you feel more motivated to act, or mostly curious to learn what the fine print is?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://theprint.in/world/atlantic-ocean-currents-can-recover-from-severe-climate-weakening-study-finds/3072110/"
+      ]
+    },
+    {
+      "title": "Poland’s economy changes the migration story",
+      "summary": "The Guardian reports that Poland’s rise into the world’s top 20 economies is helping reverse a long-running brain drain, although higher living costs remain part of the picture.",
+      "discussionPrompt": "What would make you move back to a hometown you once left: better pay, family nearby, or just a feeling that the place had changed?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/14/all"
+        "https://www.theguardian.com/world/2026/oct/15/all"
       ]
     },
     {
-      "title": "Wildlife photos celebrate odd moments",
-      "summary": "Winners of the 2026 Wildlife Photographer of the Year competition showcased scenes from underwater life to city wildlife, giving nature fans plenty of memorable images to compare.",
-      "discussionPrompt": "Would you rather photograph a rare animal in the wild or a hilarious everyday creature right in town?",
+      "title": "Brazil trims its standard workweek",
+      "summary": "Brazil has cut its workweek to 40 hours, a move framed as a win for workers ahead of the country’s election runoff. Employers and employees are now watching how schedules and pay adapt.",
+      "discussionPrompt": "If your workweek lost a few hours, would you spend the extra time resting, learning something new, or making ambitious weekend plans?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/world%2Bcontent/gallery"
+        "https://www.theguardian.com/world/2026/oct/15/all"
       ]
     },
     {
-      "title": "Formula 1 eyes Africa return",
-      "summary": "BBC World Service programming highlighted Formula 1's planned return to Africa, renewing conversation about the sport's global reach and what a new race weekend could bring.",
-      "discussionPrompt": "If a major race came to your region, would you be there for the cars, the atmosphere, or the food vendors?",
+      "title": "Rotterdam’s bin lorries get poetic recognition",
+      "summary": "Rotterdam’s poetry-covered garbage trucks have received cultural status, turning an everyday city service into an unusual point of civic pride and conversation.",
+      "discussionPrompt": "What everyday vehicle or building in your town deserves an unexpectedly artistic makeover?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "BBC News"
+        "The Guardian"
       ],
       "sourceUrls": [
-        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+        "https://www.theguardian.com/world/2026/oct/15/all"
       ]
     },
     {
-      "title": "AI safety enters security debate",
-      "summary": "The UK's intelligence chief warned about the possible misuse of AI in biological threats, bringing fresh attention to how powerful tools should be developed and safeguarded.",
-      "discussionPrompt": "What is one sensible rule you would want before powerful new AI tools become ordinary household tech?",
+      "title": "Jobless claims edge up in the U.S.",
+      "summary": "New U.S. jobless claims rose by 1,000 to 199,000 in the latest weekly report. The modest increase landed as markets also tracked inflation and consumer spending.",
+      "discussionPrompt": "When people talk about the economy, do jobs, grocery prices, or interest rates feel most connected to your everyday life?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "BBC News"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+        "https://apnews.com/article/18131f88e983086649e6bf9928cb50f5"
       ]
     },
     {
-      "title": "Data centers keep reshaping debate",
-      "summary": "A BBC technology program examined the idea of virtual data centers in space, while AI infrastructure continues to prompt questions about energy, cost and future computing.",
-      "discussionPrompt": "If data centers someday moved into space, what would surprise you more: the engineering, the price tag, or the sci-fi vibes?",
+      "title": "Canada’s women prepare for England challenge",
+      "summary": "Canada’s women’s rugby team is preparing for a double-header against England, who have gone 41 matches unbeaten. The series offers Canada a high-profile test ahead of future international competition.",
+      "discussionPrompt": "Do you cheer harder for an underdog facing a huge streak, or do you secretly enjoy watching a dominant team try to keep the magic going?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "BBC World Service"
+        "CBC News"
       ],
       "sourceUrls": [
-        "https://wspartners.bbc.com/schedules/bbc_world_service_europe/week/2026-10-12"
+        "https://chathamvoice.com/canada-news-from-cbc/"
+      ]
+    },
+    {
+      "title": "FIFAe finals postponed in Jeddah",
+      "summary": "FIFA and the Saudi Esports Federation postponed the FIFAe Finals that were scheduled for October 16–25 in Jeddah, citing recent attacks on Saudi Arabia. Organizers have not set a new date.",
+      "discussionPrompt": "When a big esports event gets delayed, do you prefer a quick reschedule, or would you rather organizers wait until they can make it feel properly special?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.devdiscourse.com/article/international/3992688-reuters-sports-news-summary"
+      ]
+    },
+    {
+      "title": "Gaël Monfils retires from professional tennis",
+      "summary": "Former world No. 6 Gaël Monfils has retired from professional tennis at age 40, according to the International Tennis Integrity Agency. His departure closes a long, crowd-pleasing career.",
+      "discussionPrompt": "Which athlete or performer would you love to see take one final victory lap before calling it a career?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.devdiscourse.com/article/international/3992688-reuters-sports-news-summary"
       ]
     }
   ]
