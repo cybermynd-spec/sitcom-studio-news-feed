@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-10-15T15:11:11Z",
+  "updatedUtc": "2026-10-16T15:43:45Z",
   "topics": [
     {
-      "title": "AI stock sell-off rattles markets",
-      "summary": "Global markets were pressured as investors reassessed costly AI and data-center bets amid high interest rates. Tech shares led the declines while traders weighed how durable the investment boom may be.",
-      "discussionPrompt": "When a hot new technology starts looking expensive, are you the type to ride it out, take the profits, or avoid the drama entirely?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.marketscreener.com/news/stocks-and-dollar-slide-as-tech-rout-deepens-ce785dd3df8bf720"
-      ]
-    },
-    {
-      "title": "Study links warmer seas to Hurricane Polo",
-      "summary": "A new attribution study found human-caused warming and El Niño both helped intensify Hurricane Polo, with warming identified as the larger contributor. Researchers say the findings sharpen questions about preparing for stronger storms.",
-      "discussionPrompt": "What makes a weather warning feel real to you: a forecast map, a friend’s story, or seeing local preparations begin?",
+      "title": "Hurricane Trudy strengthens off Mexico",
+      "summary": "Hurricane Trudy intensified into a Category 3 storm off Mexico's Pacific coast. Forecasters said it was heading toward southwestern and west-central parts of the country, putting seasonal preparedness back in focus.",
+      "discussionPrompt": "When storm season starts making headlines, what’s your go-to comfort strategy: checking every forecast, stocking snacks, or pretending the weather app is being dramatic?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/b0dd859060d16ed26230b34ac0854bc9"
+        "https://apnews.com/article/e0522909a549cb4a43a8ab532f7d3668"
       ]
     },
     {
-      "title": "Atlantic current study offers cautious hope",
-      "summary": "A Danish-led study suggests the Atlantic’s major ocean-current system could recover after severe weakening if the climate cools. Researchers stress that real-world uncertainty remains and changes could still last centuries.",
-      "discussionPrompt": "Does a little scientific good news make you feel more motivated to act, or mostly curious to learn what the fine print is?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://theprint.in/world/atlantic-ocean-currents-can-recover-from-severe-climate-weakening-study-finds/3072110/"
-      ]
-    },
-    {
-      "title": "Poland’s economy changes the migration story",
-      "summary": "The Guardian reports that Poland’s rise into the world’s top 20 economies is helping reverse a long-running brain drain, although higher living costs remain part of the picture.",
-      "discussionPrompt": "What would make you move back to a hometown you once left: better pay, family nearby, or just a feeling that the place had changed?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/15/all"
-      ]
-    },
-    {
-      "title": "Brazil trims its standard workweek",
-      "summary": "Brazil has cut its workweek to 40 hours, a move framed as a win for workers ahead of the country’s election runoff. Employers and employees are now watching how schedules and pay adapt.",
-      "discussionPrompt": "If your workweek lost a few hours, would you spend the extra time resting, learning something new, or making ambitious weekend plans?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/15/all"
-      ]
-    },
-    {
-      "title": "Rotterdam’s bin lorries get poetic recognition",
-      "summary": "Rotterdam’s poetry-covered garbage trucks have received cultural status, turning an everyday city service into an unusual point of civic pride and conversation.",
-      "discussionPrompt": "What everyday vehicle or building in your town deserves an unexpectedly artistic makeover?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/15/all"
-      ]
-    },
-    {
-      "title": "Jobless claims edge up in the U.S.",
-      "summary": "New U.S. jobless claims rose by 1,000 to 199,000 in the latest weekly report. The modest increase landed as markets also tracked inflation and consumer spending.",
-      "discussionPrompt": "When people talk about the economy, do jobs, grocery prices, or interest rates feel most connected to your everyday life?",
+      "title": "Fed chair emphasizes price stability",
+      "summary": "Federal Reserve Chair Kevin Warsh said price stability remains central to the Fed’s work, while declining to signal what policymakers may do at their October and December meetings.",
+      "discussionPrompt": "Interest-rate talk can sound abstract—what makes the economy feel real to you: rent, groceries, a loan payment, or something completely different?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Associated Press"
       ],
       "sourceUrls": [
-        "https://apnews.com/article/18131f88e983086649e6bf9928cb50f5"
+        "https://apnews.com/article/4c80750c113a82a464a46f58a4fdab43"
       ]
     },
     {
-      "title": "Canada’s women prepare for England challenge",
-      "summary": "Canada’s women’s rugby team is preparing for a double-header against England, who have gone 41 matches unbeaten. The series offers Canada a high-profile test ahead of future international competition.",
-      "discussionPrompt": "Do you cheer harder for an underdog facing a huge streak, or do you secretly enjoy watching a dominant team try to keep the magic going?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "CBC News"
-      ],
-      "sourceUrls": [
-        "https://chathamvoice.com/canada-news-from-cbc/"
-      ]
-    },
-    {
-      "title": "FIFAe finals postponed in Jeddah",
-      "summary": "FIFA and the Saudi Esports Federation postponed the FIFAe Finals that were scheduled for October 16–25 in Jeddah, citing recent attacks on Saudi Arabia. Organizers have not set a new date.",
-      "discussionPrompt": "When a big esports event gets delayed, do you prefer a quick reschedule, or would you rather organizers wait until they can make it feel properly special?",
+      "title": "Tech shares keep markets on edge",
+      "summary": "U.S. stock futures were subdued as technology shares faced fresh pressure over concerns about the AI trade. Tesla gains and lower oil prices provided some counterweight before the market opened.",
+      "discussionPrompt": "If you had to pick one future-facing industry to follow for fun, would it be AI, electric cars, space, clean energy, or something stranger?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.devdiscourse.com/article/international/3992688-reuters-sports-news-summary"
+        "https://katcountry989.com/2026/10/16/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains/"
       ]
     },
     {
-      "title": "Gaël Monfils retires from professional tennis",
-      "summary": "Former world No. 6 Gaël Monfils has retired from professional tennis at age 40, according to the International Tennis Integrity Agency. His departure closes a long, crowd-pleasing career.",
-      "discussionPrompt": "Which athlete or performer would you love to see take one final victory lap before calling it a career?",
+      "title": "Tesla unveils a dramatic Roadster concept",
+      "summary": "Tesla showcased a redesigned Roadster that it says uses SpaceX-style thrusters, drawing attention for a demonstration involving a ramp, flight, flip and landing.",
+      "discussionPrompt": "Would you rather own a wildly futuristic car with a few party tricks, or a wonderfully boring one that never needs attention?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/technology%2Btheguardian/mainsection"
+      ]
+    },
+    {
+      "title": "Meta releases Muse Spark Open",
+      "summary": "Meta released Muse Spark Open, an open-weight AI model it says can handle multi-step reasoning and complex software engineering as it competes with Chinese AI rivals.",
+      "discussionPrompt": "If an AI could handle one tedious task around your home or work, what would you happily hand over first?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/2026/oct/16/all"
+      ]
+    },
+    {
+      "title": "Dodo revival project reports progress",
+      "summary": "A U.S. biotech company says it has made progress toward its long-term goal of bringing back the extinct dodo and returning it to Mauritius, where the bird disappeared centuries ago.",
+      "discussionPrompt": "If science could bring back one extinct animal, would you choose a dodo, mammoth, passenger pigeon, or leave the past alone?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "Reuters"
       ],
       "sourceUrls": [
-        "https://www.devdiscourse.com/article/international/3992688-reuters-sports-news-summary"
+        "https://www.devdiscourse.com/article/international/3993280-reuters-science-news-summary"
+      ]
+    },
+    {
+      "title": "Gobi dinosaur museum opens in a harsh landscape",
+      "summary": "Architects have built a pterosaur museum in China’s Gobi desert near fossil discoveries, designing it to work with the demanding environment while supporting research and visitors.",
+      "discussionPrompt": "What kind of museum could tempt you into a long trip: dinosaurs, old machines, movie props, strange local history, or something hands-on?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/all"
+      ]
+    },
+    {
+      "title": "Spain’s Poncelet sets downhill skateboard record",
+      "summary": "Spanish downhill skateboarder Diego Poncelet set a world speed record of 151.83 kph in Canada, surpassing the previous mark on the same road after years of chasing it.",
+      "discussionPrompt": "What sounds more thrilling to watch than try yourself: downhill skating, skydiving, racing, surfing giant waves, or something else?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.devdiscourse.com/article/international/3993209-reuters-sports-news-summary"
+      ]
+    },
+    {
+      "title": "Indonesia wildfire haze reaches Singapore",
+      "summary": "Smoke from Indonesia’s severe wildfire season pushed Singapore’s air pollution to a yearly high, while parts of East Timor and Malaysia adjusted school plans amid the haze.",
+      "discussionPrompt": "When air quality or weather changes your plans, do you adapt quickly, get annoyed, or use it as an excuse for an unexpectedly cozy day indoors?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.daily8news.com/?date=2026-10-16"
+      ]
+    },
+    {
+      "title": "Fall foliage draws crowds and cameras",
+      "summary": "Autumn’s vivid colors are spreading across the American landscape, with seasonal scenery becoming a bright counterpoint to the usual daily rush and a popular reason to head outdoors.",
+      "discussionPrompt": "Are you someone who plans a fall drive for the colors, or do you only notice the leaves when they start covering your doorstep?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/d204548f6d9e4eaba6d31b829d716698"
       ]
     }
   ]
