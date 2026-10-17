@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-10-16T15:43:45Z",
+  "updatedUtc": "2026-10-17T14:59:33.552Z",
   "topics": [
     {
-      "title": "Hurricane Trudy strengthens off Mexico",
-      "summary": "Hurricane Trudy intensified into a Category 3 storm off Mexico's Pacific coast. Forecasters said it was heading toward southwestern and west-central parts of the country, putting seasonal preparedness back in focus.",
-      "discussionPrompt": "When storm season starts making headlines, what’s your go-to comfort strategy: checking every forecast, stocking snacks, or pretending the weather app is being dramatic?",
+      "title": "French supermarket fridges hit by hackers",
+      "summary": "A wave of cyberattacks disrupted supermarket refrigeration in France, raising questions about how everyday infrastructure is protected when connected systems go offline.",
+      "discussionPrompt": "It’s strange how quickly a fridge can become a national story. What everyday gadget would cause the biggest chaos if it suddenly stopped working everywhere?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/e0522909a549cb4a43a8ab532f7d3668"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/17/all"]
     },
     {
-      "title": "Fed chair emphasizes price stability",
-      "summary": "Federal Reserve Chair Kevin Warsh said price stability remains central to the Fed’s work, while declining to signal what policymakers may do at their October and December meetings.",
-      "discussionPrompt": "Interest-rate talk can sound abstract—what makes the economy feel real to you: rent, groceries, a loan payment, or something completely different?",
+      "title": "Thailand celebrates its vegetarian festival",
+      "summary": "Communities across Thailand are marking the annual vegetarian festival, a nine-day Taoist observance centered on meat-free food, rituals and renewal.",
+      "discussionPrompt": "Could you happily eat vegetarian for nine days if the food was amazing, or would you start bargaining for one very specific comfort meal?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/4c80750c113a82a464a46f58a4fdab43"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/17/all"]
     },
     {
-      "title": "Tech shares keep markets on edge",
-      "summary": "U.S. stock futures were subdued as technology shares faced fresh pressure over concerns about the AI trade. Tesla gains and lower oil prices provided some counterweight before the market opened.",
-      "discussionPrompt": "If you had to pick one future-facing industry to follow for fun, would it be AI, electric cars, space, clean energy, or something stranger?",
+      "title": "UN leadership vote remains unsettled",
+      "summary": "A new informal Security Council poll found that none of seven candidates for the next UN secretary-general has backing from all five permanent members.",
+      "discussionPrompt": "When a group has to choose one leader, is a compromise pick usually wise—or does it just make everyone mildly unhappy?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://katcountry989.com/2026/10/16/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains/"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/hub/world-news"]
     },
     {
-      "title": "Tesla unveils a dramatic Roadster concept",
-      "summary": "Tesla showcased a redesigned Roadster that it says uses SpaceX-style thrusters, drawing attention for a demonstration involving a ramp, flight, flip and landing.",
-      "discussionPrompt": "Would you rather own a wildly futuristic car with a few party tricks, or a wonderfully boring one that never needs attention?",
+      "title": "Nature-protection funding gap draws attention",
+      "summary": "Fundraising for protecting oceans, forests and other important ecosystems remains well below the level advocates say is needed ahead of a UN biodiversity summit.",
+      "discussionPrompt": "If your neighborhood received a big nature budget, would you spend it on trees, water, wildlife habitat, parks, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/technology%2Btheguardian/mainsection"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/hub/climate-and-environment"]
     },
     {
-      "title": "Meta releases Muse Spark Open",
-      "summary": "Meta released Muse Spark Open, an open-weight AI model it says can handle multi-step reasoning and complex software engineering as it competes with Chinese AI rivals.",
-      "discussionPrompt": "If an AI could handle one tedious task around your home or work, what would you happily hand over first?",
+      "title": "Study examines honeybees and wild pollinators",
+      "summary": "A new study says honeybees can crowd out wild pollinators while competing for pollen and nectar, adding nuance to the familiar image of bees as uncomplicated helpers.",
+      "discussionPrompt": "What’s a creature you assumed was purely helpful until you learned it can be a bit of a neighborhood bully?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/oct/16/all"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/all"]
     },
     {
-      "title": "Dodo revival project reports progress",
-      "summary": "A U.S. biotech company says it has made progress toward its long-term goal of bringing back the extinct dodo and returning it to Mauritius, where the bird disappeared centuries ago.",
-      "discussionPrompt": "If science could bring back one extinct animal, would you choose a dodo, mammoth, passenger pigeon, or leave the past alone?",
+      "title": "Drought may shrink England’s Halloween pumpkins",
+      "summary": "Growers expect smaller pumpkins this Halloween after drought conditions in England, a reminder that weather can reshape even the most ordinary seasonal traditions.",
+      "discussionPrompt": "Would a smaller pumpkin ruin your carving plans, or just challenge you to make the tiniest, funniest jack-o’-lantern possible?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.devdiscourse.com/article/international/3993280-reuters-science-news-summary"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/all"]
     },
     {
-      "title": "Gobi dinosaur museum opens in a harsh landscape",
-      "summary": "Architects have built a pterosaur museum in China’s Gobi desert near fossil discoveries, designing it to work with the demanding environment while supporting research and visitors.",
-      "discussionPrompt": "What kind of museum could tempt you into a long trip: dinosaurs, old machines, movie props, strange local history, or something hands-on?",
+      "title": "Brazil reports record-low Amazon deforestation",
+      "summary": "Brazil says Amazon deforestation has fallen to its lowest recorded level, while the country weighs major environmental choices ahead of an important vote.",
+      "discussionPrompt": "What kind of long-term project makes you most hopeful: restoring forests, cleaning rivers, renewable power, or protecting wildlife?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/science/all"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/all"]
     },
     {
-      "title": "Spain’s Poncelet sets downhill skateboard record",
-      "summary": "Spanish downhill skateboarder Diego Poncelet set a world speed record of 151.83 kph in Canada, surpassing the previous mark on the same road after years of chasing it.",
-      "discussionPrompt": "What sounds more thrilling to watch than try yourself: downhill skating, skydiving, racing, surfing giant waves, or something else?",
+      "title": "NHS trusts question a patient-data platform",
+      "summary": "Many NHS trusts in England have declined a patient-data platform from Palantir, saying existing systems meet their needs and questioning the added value.",
+      "discussionPrompt": "Would you switch to a shiny new app if your current one works fine, or do you need a truly irresistible feature first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.devdiscourse.com/article/international/3993209-reuters-sports-news-summary"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/uk-news/england/2026/oct/17/all"]
     },
     {
-      "title": "Indonesia wildfire haze reaches Singapore",
-      "summary": "Smoke from Indonesia’s severe wildfire season pushed Singapore’s air pollution to a yearly high, while parts of East Timor and Malaysia adjusted school plans amid the haze.",
-      "discussionPrompt": "When air quality or weather changes your plans, do you adapt quickly, get annoyed, or use it as an excuse for an unexpectedly cozy day indoors?",
+      "title": "World Cup friendlies fill the football calendar",
+      "summary": "England, Scotland and the United States are preparing for international friendlies as teams continue building toward the 2026 World Cup cycle.",
+      "discussionPrompt": "Are friendly matches a fun preview, or do they only become exciting once somebody invents a dramatic rivalry out of nowhere?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.daily8news.com/?date=2026-10-16"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/football/series/matchday-live"]
     },
     {
-      "title": "Fall foliage draws crowds and cameras",
-      "summary": "Autumn’s vivid colors are spreading across the American landscape, with seasonal scenery becoming a bright counterpoint to the usual daily rush and a popular reason to head outdoors.",
-      "discussionPrompt": "Are you someone who plans a fall drive for the colors, or do you only notice the leaves when they start covering your doorstep?",
+      "title": "Pope Leo set to leave hospital",
+      "summary": "The Vatican says Pope Leo will leave hospital four days after lung surgery and plans to deliver the traditional Sunday blessing from a St. Peter’s Square window.",
+      "discussionPrompt": "When someone bounces back after a tough week, what small celebration feels right: flowers, a favorite meal, a silly card, or quiet company?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/d204548f6d9e4eaba6d31b829d716698"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/hub/world-news"]
     }
   ]
 }
