@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-17T14:59:33.552Z",
+  "updatedUtc": "2026-10-19T15:40:10.070Z",
   "topics": [
     {
-      "title": "French supermarket fridges hit by hackers",
-      "summary": "A wave of cyberattacks disrupted supermarket refrigeration in France, raising questions about how everyday infrastructure is protected when connected systems go offline.",
-      "discussionPrompt": "It’s strange how quickly a fridge can become a national story. What everyday gadget would cause the biggest chaos if it suddenly stopped working everywhere?",
+      "title": "Anthropic proposes public-benefit share fund",
+      "summary": "AI company Anthropic says it plans to commit 5% of its shares to a public-benefit fund, with the proposal subject to shareholder approval.",
+      "discussionPrompt": "If a huge tech company had money set aside for the public good, what would you hope it funded first: libraries, parks, training, research, or something delightfully weird?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/17/all"]
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"]
     },
     {
-      "title": "Thailand celebrates its vegetarian festival",
-      "summary": "Communities across Thailand are marking the annual vegetarian festival, a nine-day Taoist observance centered on meat-free food, rituals and renewal.",
-      "discussionPrompt": "Could you happily eat vegetarian for nine days if the food was amazing, or would you start bargaining for one very specific comfort meal?",
+      "title": "China reports export-led growth",
+      "summary": "China reported 4.5% year-over-year third-quarter growth, with electronics and AI-related exports helping industry outpace consumer spending.",
+      "discussionPrompt": "When a new technology boom arrives, what changes first in everyday life: jobs, shopping, school, entertainment, or the gadgets cluttering the kitchen?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/17/all"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"]
     },
     {
-      "title": "UN leadership vote remains unsettled",
-      "summary": "A new informal Security Council poll found that none of seven candidates for the next UN secretary-general has backing from all five permanent members.",
-      "discussionPrompt": "When a group has to choose one leader, is a compromise pick usually wise—or does it just make everyone mildly unhappy?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/hub/world-news"]
-    },
-    {
-      "title": "Nature-protection funding gap draws attention",
-      "summary": "Fundraising for protecting oceans, forests and other important ecosystems remains well below the level advocates say is needed ahead of a UN biodiversity summit.",
-      "discussionPrompt": "If your neighborhood received a big nature budget, would you spend it on trees, water, wildlife habitat, parks, or something else?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/hub/climate-and-environment"]
-    },
-    {
-      "title": "Study examines honeybees and wild pollinators",
-      "summary": "A new study says honeybees can crowd out wild pollinators while competing for pollen and nectar, adding nuance to the familiar image of bees as uncomplicated helpers.",
-      "discussionPrompt": "What’s a creature you assumed was purely helpful until you learned it can be a bit of a neighborhood bully?",
+      "title": "UK pledges stronger support for disabled flyers",
+      "summary": "The UK government says planned aviation measures would strengthen help for disabled passengers, including protections for mobility aids and new enforcement powers.",
+      "discussionPrompt": "What small change would make travel feel dramatically easier for you: clearer signs, quieter waiting areas, better seating, friendly staff, or luggage that follows instructions?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/all"]
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards"]
     },
     {
-      "title": "Drought may shrink England’s Halloween pumpkins",
-      "summary": "Growers expect smaller pumpkins this Halloween after drought conditions in England, a reminder that weather can reshape even the most ordinary seasonal traditions.",
-      "discussionPrompt": "Would a smaller pumpkin ruin your carving plans, or just challenge you to make the tiniest, funniest jack-o’-lantern possible?",
+      "title": "Seabirds rebound on England’s south coast",
+      "summary": "Conservation work has helped seabird colonies in the Solent recover after bird flu losses, with sandwich terns returning from zero to 756 breeding pairs.",
+      "discussionPrompt": "If you could help one local animal thrive, which would you choose: birds, bees, frogs, fish, or the mysterious creature that raids the compost bin?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/all"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb"]
     },
     {
-      "title": "Brazil reports record-low Amazon deforestation",
-      "summary": "Brazil says Amazon deforestation has fallen to its lowest recorded level, while the country weighs major environmental choices ahead of an important vote.",
-      "discussionPrompt": "What kind of long-term project makes you most hopeful: restoring forests, cleaning rivers, renewable power, or protecting wildlife?",
+      "title": "Countries gather for the COP17 nature summit",
+      "summary": "Countries are meeting in Armenia to review progress on global biodiversity promises, with pressure mounting to turn conservation targets into practical action.",
+      "discussionPrompt": "Big nature goals can sound abstract. What is one change you could actually picture in your neighborhood that would make it feel more alive?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/all"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals"]
     },
     {
-      "title": "NHS trusts question a patient-data platform",
-      "summary": "Many NHS trusts in England have declined a patient-data platform from Palantir, saying existing systems meet their needs and questioning the added value.",
-      "discussionPrompt": "Would you switch to a shiny new app if your current one works fine, or do you need a truly irresistible feature first?",
+      "title": "Orionid meteors light up October skies",
+      "summary": "The Orionid meteor shower is arriving as Earth passes through debris from Halley’s comet, offering skywatchers a chance to spot fast streaks of light.",
+      "discussionPrompt": "Would you stay up late for a meteor shower if the sky were clear, or do you prefer appreciating space from somewhere with snacks and central heating?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk-news/england/2026/oct/17/all"]
+      "sourceUrls": ["https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch"]
     },
     {
-      "title": "World Cup friendlies fill the football calendar",
-      "summary": "England, Scotland and the United States are preparing for international friendlies as teams continue building toward the 2026 World Cup cycle.",
-      "discussionPrompt": "Are friendly matches a fun preview, or do they only become exciting once somebody invents a dramatic rivalry out of nowhere?",
+      "title": "Austrian growers revive heritage apples",
+      "summary": "An Austrian initiative is bringing neglected apple varieties back into orchards, pairing local food traditions with efforts to preserve agricultural diversity.",
+      "discussionPrompt": "If you could bring back one forgotten food or flavor, what would make the cut: a family recipe, an old candy, a regional dish, or something from childhood?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/football/series/matchday-live"]
+      "sourceUrls": ["https://www.theguardian.com/food/2026/oct/19/core-values-the-austrian-scheme-bringing-forgotten-apple-varieties-back-to-life"]
     },
     {
-      "title": "Pope Leo set to leave hospital",
-      "summary": "The Vatican says Pope Leo will leave hospital four days after lung surgery and plans to deliver the traditional Sunday blessing from a St. Peter’s Square window.",
-      "discussionPrompt": "When someone bounces back after a tough week, what small celebration feels right: flowers, a favorite meal, a silly card, or quiet company?",
+      "title": "Venues set limits on influencer photoshoots",
+      "summary": "Some hotels, restaurants and beauty spots are restricting commercial-style social-media shoots as businesses try to balance visitors, staff and online promotion.",
+      "discussionPrompt": "If a café became famous online overnight, would you be excited by the buzz or miss being able to find a quiet table without a ring light nearby?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/hub/world-news"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"]
+    },
+    {
+      "title": "The Simpsons gives Apu a new voice",
+      "summary": "The Simpsons has cast actor Sunil Malhotra as the new voice of Apu, a change presented as part of the show’s effort to revisit a long-running character.",
+      "discussionPrompt": "When an old TV show updates a familiar character, do you enjoy the fresh take, or does your brain insist that the original version lives forever?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/tv-and-radio/2026/oct/19/a-reclamation-the-simpsons-gives-apu-a-new-voice-as-actor-sunil-malhotra-replaces-hank-azaria"]
+    },
+    {
+      "title": "Australian musicians raise AI training concerns",
+      "summary": "Australia’s music sector says songs including Kylie Minogue tracks have already been used in AI training, renewing debate over consent and creative rights.",
+      "discussionPrompt": "If an AI learned from music you loved, what would feel fair: payment, permission, credit, an opt-out button, or a tiny robot concert ticket?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnns"]
     }
   ]
 }
