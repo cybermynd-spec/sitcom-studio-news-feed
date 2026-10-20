@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-19T15:40:10.070Z",
+  "updatedUtc": "2026-10-20T15:31:46.000Z",
   "topics": [
     {
-      "title": "Anthropic proposes public-benefit share fund",
-      "summary": "AI company Anthropic says it plans to commit 5% of its shares to a public-benefit fund, with the proposal subject to shareholder approval.",
-      "discussionPrompt": "If a huge tech company had money set aside for the public good, what would you hope it funded first: libraries, parks, training, research, or something delightfully weird?",
+      "title": "Alberta rejects separation referendum plan",
+      "summary": "Alberta voters rejected a proposed referendum on leaving Canada, according to a CBC projection reported by multiple outlets.",
+      "discussionPrompt": "A province-wide vote can make a whole country pause. What local issue do you think people would actually enjoy debating over coffee instead of online?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/20/alberta-voters-reject-plan-for-referendum-to-leave-canada"]
     },
     {
-      "title": "China reports export-led growth",
-      "summary": "China reported 4.5% year-over-year third-quarter growth, with electronics and AI-related exports helping industry outpace consumer spending.",
-      "discussionPrompt": "When a new technology boom arrives, what changes first in everyday life: jobs, shopping, school, entertainment, or the gadgets cluttering the kitchen?",
+      "title": "Jio prepares India’s biggest-ever IPO",
+      "summary": "Mukesh Ambani’s Jio Platforms is preparing a public listing that would be India’s largest, with a reported valuation target of about £81 billion.",
+      "discussionPrompt": "When a familiar service becomes a giant public company, does it feel exciting, distant, or mostly like something you notice only when the app changes?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/20/all"]
     },
     {
-      "title": "UK pledges stronger support for disabled flyers",
-      "summary": "The UK government says planned aviation measures would strengthen help for disabled passengers, including protections for mobility aids and new enforcement powers.",
-      "discussionPrompt": "What small change would make travel feel dramatically easier for you: clearer signs, quieter waiting areas, better seating, friendly staff, or luggage that follows instructions?",
+      "title": "Bradford plans a new railway station",
+      "summary": "Plans for a new station in Bradford are being presented as a way to improve rail connections and reshape travel across northern England.",
+      "discussionPrompt": "If your town got one perfect transport upgrade tomorrow, would you pick a train station, bike lanes, late buses, a tram, or teleportation booths?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/19/uk-government-promises-disabled-air-passengers-better-safeguards"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
     },
     {
-      "title": "Seabirds rebound on England’s south coast",
-      "summary": "Conservation work has helped seabird colonies in the Solent recover after bird flu losses, with sandwich terns returning from zero to 756 breeding pairs.",
-      "discussionPrompt": "If you could help one local animal thrive, which would you choose: birds, bees, frogs, fish, or the mysterious creature that raids the compost bin?",
+      "title": "Royal Exchange unveils its new theatre season",
+      "summary": "Manchester’s Royal Exchange has announced a new season, including a Stockport-set reworking of the Phaedra myth by playwright Simon Stephens.",
+      "discussionPrompt": "Which ancient story deserves a modern version set somewhere ordinary: a grocery store, an apartment building, a bus route, or a very dramatic group chat?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
     },
     {
-      "title": "Countries gather for the COP17 nature summit",
-      "summary": "Countries are meeting in Armenia to review progress on global biodiversity promises, with pressure mounting to turn conservation targets into practical action.",
-      "discussionPrompt": "Big nature goals can sound abstract. What is one change you could actually picture in your neighborhood that would make it feel more alive?",
+      "title": "David Bowie inspires a new dance show",
+      "summary": "A new dance production will reinterpret David Bowie’s music and alter egos, exploring the performer’s knack for artistic reinvention.",
+      "discussionPrompt": "If you had to invent a stage alter ego for one evening, what would their name, outfit, and completely unnecessary special power be?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/19/can-countries-deliver-on-a-deal-to-save-the-worlds-plants-and-animals"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
     },
     {
-      "title": "Orionid meteors light up October skies",
-      "summary": "The Orionid meteor shower is arriving as Earth passes through debris from Halley’s comet, offering skywatchers a chance to spot fast streaks of light.",
-      "discussionPrompt": "Would you stay up late for a meteor shower if the sky were clear, or do you prefer appreciating space from somewhere with snacks and central heating?",
+      "title": "World Series guarantees a first-time champion",
+      "summary": "The Tampa Bay Rays and Milwaukee Brewers have set up a World Series matchup, ensuring the championship will go to a first-time winner.",
+      "discussionPrompt": "Do you cheer for the underdog, the team with the best snacks, or whichever side has a mascot you could imagine inviting to dinner?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/oct/19/orionid-meteor-shower-halley-comet-starwatch"]
+      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/20/all"]
     },
     {
-      "title": "Austrian growers revive heritage apples",
-      "summary": "An Austrian initiative is bringing neglected apple varieties back into orchards, pairing local food traditions with efforts to preserve agricultural diversity.",
-      "discussionPrompt": "If you could bring back one forgotten food or flavor, what would make the cut: a family recipe, an old candy, a regional dish, or something from childhood?",
+      "title": "Europe’s wild bees face mounting pressure",
+      "summary": "A new assessment says many of Europe’s wild bee species are in decline, renewing calls for stronger habitat protection and practical conservation.",
+      "discussionPrompt": "What would make your neighborhood friendlier to pollinators: more flowers, fewer tidy lawns, balcony planters, community gardens, or tiny bee hotels?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/food/2026/oct/19/core-values-the-austrian-scheme-bringing-forgotten-apple-varieties-back-to-life"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/19/crucial-opportunity-to-act-study-finds-most-of-europes-wild-bee-species-in-decline"]
     },
     {
-      "title": "Venues set limits on influencer photoshoots",
-      "summary": "Some hotels, restaurants and beauty spots are restricting commercial-style social-media shoots as businesses try to balance visitors, staff and online promotion.",
-      "discussionPrompt": "If a café became famous online overnight, would you be excited by the buzz or miss being able to find a quiet table without a ring light nearby?",
+      "title": "Air fares could rise in 2027",
+      "summary": "Ryanair’s chief executive says European air fares could rise by as much as 20% next year, citing industry costs and capacity pressures.",
+      "discussionPrompt": "When travel gets pricier, what is the first thing you would trade: the destination, the timing, the luggage, the hotel, or the fancy airport coffee?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots"]
+      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/news"]
     },
     {
-      "title": "The Simpsons gives Apu a new voice",
-      "summary": "The Simpsons has cast actor Sunil Malhotra as the new voice of Apu, a change presented as part of the show’s effort to revisit a long-running character.",
-      "discussionPrompt": "When an old TV show updates a familiar character, do you enjoy the fresh take, or does your brain insist that the original version lives forever?",
+      "title": "NHS founding principles draw fresh debate",
+      "summary": "New polling reported by the Guardian suggests public support for the NHS’s founding principles is weakening amid economic pressures and changing attitudes.",
+      "discussionPrompt": "What public service do you think people notice most when it works quietly in the background: libraries, parks, transit, health care, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tv-and-radio/2026/oct/19/a-reclamation-the-simpsons-gives-apu-a-new-voice-as-actor-sunil-malhotra-replaces-hank-azaria"]
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
     },
     {
-      "title": "Australian musicians raise AI training concerns",
-      "summary": "Australia’s music sector says songs including Kylie Minogue tracks have already been used in AI training, renewing debate over consent and creative rights.",
-      "discussionPrompt": "If an AI learned from music you loved, what would feel fair: payment, permission, credit, an opt-out button, or a tiny robot concert ticket?",
+      "title": "Jio listing puts broadband in the spotlight",
+      "summary": "Jio Platforms’ planned public offering has renewed attention on low-cost broadband and how access to fast internet can shape everyday life.",
+      "discussionPrompt": "If fast, reliable internet suddenly became free everywhere, what would change first in your day: work, learning, gaming, calling family, or binge-watching?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnns"]
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btheguardian/mainsection"]
     }
   ]
 }
