@@ -1,85 +1,125 @@
 {
-  "updatedUtc": "2026-10-20T15:31:46.000Z",
+  "updatedUtc": "2026-10-21T14:56:05Z",
   "topics": [
     {
-      "title": "Alberta rejects separation referendum plan",
-      "summary": "Alberta voters rejected a proposed referendum on leaving Canada, according to a CBC projection reported by multiple outlets.",
-      "discussionPrompt": "A province-wide vote can make a whole country pause. What local issue do you think people would actually enjoy debating over coffee instead of online?",
+      "title": "BBC plans to close two TV channels",
+      "summary": "The BBC says BBC Three and BBC Scotland will close as broadcast channels next year as it seeks £500m in savings, while their programming will continue online.",
+      "discussionPrompt": "When a favorite channel moves online, does it still feel like the same place? What old-school TV ritual would you happily bring back for one night?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/20/alberta-voters-reject-plan-for-referendum-to-leave-canada"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/2026/oct/21"
+      ]
     },
     {
-      "title": "Jio prepares India’s biggest-ever IPO",
-      "summary": "Mukesh Ambani’s Jio Platforms is preparing a public listing that would be India’s largest, with a reported valuation target of about £81 billion.",
-      "discussionPrompt": "When a familiar service becomes a giant public company, does it feel exciting, distant, or mostly like something you notice only when the app changes?",
+      "title": "Japan launches Phobos sample mission",
+      "summary": "Japan has launched a mission to collect material from Phobos, Mars's larger moon. Scientists hope the samples could reveal clues about the solar system and life on Earth.",
+      "discussionPrompt": "If you could request one tiny souvenir from space, would you choose moon dust, a Mars pebble, a photo, or something completely impractical?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/2026/oct/21"
+      ]
     },
     {
-      "title": "Bradford plans a new railway station",
-      "summary": "Plans for a new station in Bradford are being presented as a way to improve rail connections and reshape travel across northern England.",
-      "discussionPrompt": "If your town got one perfect transport upgrade tomorrow, would you pick a train station, bike lanes, late buses, a tram, or teleportation booths?",
+      "title": "Westminster Abbey sarcophagus mystery revisited",
+      "summary": "An archaeologist says a Roman sarcophagus at Westminster Abbey likely holds an 11th-century abbot, offering a new explanation for the coffin's long-debated identity.",
+      "discussionPrompt": "A mystery box beneath a famous building sounds like the start of a great story. What harmless historical surprise would you hope it contained?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk-news/2026/oct/21/all"
+      ]
     },
     {
-      "title": "Royal Exchange unveils its new theatre season",
-      "summary": "Manchester’s Royal Exchange has announced a new season, including a Stockport-set reworking of the Phaedra myth by playwright Simon Stephens.",
-      "discussionPrompt": "Which ancient story deserves a modern version set somewhere ordinary: a grocery store, an apartment building, a bus route, or a very dramatic group chat?",
+      "title": "Arctic town adapts to fast warming",
+      "summary": "Longyearbyen in Norway's Svalbard archipelago is confronting melting glaciers and thawing permafrost that affect water, housing and landslide risks.",
+      "discussionPrompt": "What is one everyday invention you think would make life easier in a place with extreme weather: better boots, smarter homes, indoor gardens, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/oct/21/all"
+      ]
     },
     {
-      "title": "David Bowie inspires a new dance show",
-      "summary": "A new dance production will reinterpret David Bowie’s music and alter egos, exploring the performer’s knack for artistic reinvention.",
-      "discussionPrompt": "If you had to invent a stage alter ego for one evening, what would their name, outfit, and completely unnecessary special power be?",
+      "title": "UN urges steeper emissions cuts",
+      "summary": "The UN says global emissions need to fall 18% within four years to help prevent a dangerous overshoot of climate targets, sharpening the focus on near-term action.",
+      "discussionPrompt": "What small change feels genuinely doable to you: wasting less food, walking more, fixing things, sharing tools, or growing something?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/oct/21/all"
+      ]
     },
     {
-      "title": "World Series guarantees a first-time champion",
-      "summary": "The Tampa Bay Rays and Milwaukee Brewers have set up a World Series matchup, ensuring the championship will go to a first-time winner.",
-      "discussionPrompt": "Do you cheer for the underdog, the team with the best snacks, or whichever side has a mascot you could imagine inviting to dinner?",
+      "title": "UK inflation rises to 3.5%",
+      "summary": "UK annual inflation rose to 3.5% in September, more than expected, with fuel prices among the factors pushing everyday costs higher.",
+      "discussionPrompt": "When prices creep up, what is the first ordinary thing people seem to notice: groceries, fuel, takeout, subscriptions, or the mysterious cost of snacks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tone/news/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/2026/oct/21/all"
+      ]
     },
     {
-      "title": "Europe’s wild bees face mounting pressure",
-      "summary": "A new assessment says many of Europe’s wild bee species are in decline, renewing calls for stronger habitat protection and practical conservation.",
-      "discussionPrompt": "What would make your neighborhood friendlier to pollinators: more flowers, fewer tidy lawns, balcony planters, community gardens, or tiny bee hotels?",
+      "title": "Beatles museum plans Liverpool expansion",
+      "summary": "Liverpool's Beatles Story museum is set to move into a much larger home in 2028, with plans including new exhibits and a Yellow Submarine-themed makeover.",
+      "discussionPrompt": "If you designed a museum for one band, game, show, or hobby, what absurdly fun exhibit would visitors absolutely have to try?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/19/crucial-opportunity-to-act-study-finds-most-of-europes-wild-bee-species-in-decline"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/2026/oct/21"
+      ]
     },
     {
-      "title": "Air fares could rise in 2027",
-      "summary": "Ryanair’s chief executive says European air fares could rise by as much as 20% next year, citing industry costs and capacity pressures.",
-      "discussionPrompt": "When travel gets pricier, what is the first thing you would trade: the destination, the timing, the luggage, the hotel, or the fancy airport coffee?",
+      "title": "Documentary draws packed cinema crowds",
+      "summary": "UK cinemas report strong demand for You Can See Everything, a documentary about Elizabeth Holmes, after its notable opening weekend in the United States.",
+      "discussionPrompt": "What makes a documentary irresistible to you: a strange true story, behind-the-scenes access, a mystery, a big idea, or a recommendation from a friend?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/news"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/culture/culture%2Btone/news"
+      ]
     },
     {
-      "title": "NHS founding principles draw fresh debate",
-      "summary": "New polling reported by the Guardian suggests public support for the NHS’s founding principles is weakening amid economic pressures and changing attitudes.",
-      "discussionPrompt": "What public service do you think people notice most when it works quietly in the background: libraries, parks, transit, health care, or something else?",
+      "title": "South Africa and Australia contest Test match",
+      "summary": "South Africa and Australia are in the fourth day of their second men's cricket Test, with Australia facing a demanding recovery in Gqeberha.",
+      "discussionPrompt": "For a long match or a long movie, are you the person who loves the slow build, skips to highlights, or keeps snacks ready for the dramatic finish?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/2026/oct/20/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/2026/oct/21/all"
+      ]
     },
     {
-      "title": "Jio listing puts broadband in the spotlight",
-      "summary": "Jio Platforms’ planned public offering has renewed attention on low-cost broadband and how access to fast internet can shape everyday life.",
-      "discussionPrompt": "If fast, reliable internet suddenly became free everywhere, what would change first in your day: work, learning, gaming, calling family, or binge-watching?",
+      "title": "Storm Austen heads toward southern UK",
+      "summary": "A yellow weather warning is in place as Storm Austen is forecast to bring gusts up to 60mph to southern parts of the UK.",
+      "discussionPrompt": "What is your ideal storm-day setup: a window seat, a board game, a comfort meal, a good playlist, or making sure every phone is charged?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Btheguardian/mainsection"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/2026/oct/21"
+      ]
     }
   ]
 }
