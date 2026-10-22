@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-10-21T14:56:05Z",
+  "updatedUtc": "2026-10-22T15:17:58Z",
   "topics": [
     {
-      "title": "BBC plans to close two TV channels",
-      "summary": "The BBC says BBC Three and BBC Scotland will close as broadcast channels next year as it seeks £500m in savings, while their programming will continue online.",
-      "discussionPrompt": "When a favorite channel moves online, does it still feel like the same place? What old-school TV ritual would you happily bring back for one night?",
+      "title": "PHP security flaw disrupts websites",
+      "summary": "A serious vulnerability in the PHP language prompted website shutdowns and urgent patching around the world. UK cyber officials said they had no evidence at that point of government systems being hacked.",
+      "discussionPrompt": "When a familiar website is suddenly down, what is your first move: wait patiently, hunt for an alternative, refresh far too often, or decide it is a sign to do something offline?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/2026/oct/21"
+        "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
       ]
     },
     {
-      "title": "Japan launches Phobos sample mission",
-      "summary": "Japan has launched a mission to collect material from Phobos, Mars's larger moon. Scientists hope the samples could reveal clues about the solar system and life on Earth.",
-      "discussionPrompt": "If you could request one tiny souvenir from space, would you choose moon dust, a Mars pebble, a photo, or something completely impractical?",
+      "title": "Finnish data-centre project draws anger",
+      "summary": "Google halted preparatory work after authorities questioned large-scale tree felling at proposed data-centre sites in Finland, renewing debate about local environmental impacts and the benefits of new digital infrastructure.",
+      "discussionPrompt": "If a giant data centre came to your town, what would you ask about first: jobs, power use, trees, water, taxes, or whether its waste heat could warm nearby buildings?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/2026/oct/21"
+        "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre"
       ]
     },
     {
-      "title": "Westminster Abbey sarcophagus mystery revisited",
-      "summary": "An archaeologist says a Roman sarcophagus at Westminster Abbey likely holds an 11th-century abbot, offering a new explanation for the coffin's long-debated identity.",
-      "discussionPrompt": "A mystery box beneath a famous building sounds like the start of a great story. What harmless historical surprise would you hope it contained?",
+      "title": "Butterflies flourish on restored farmland",
+      "summary": "More than 5,000 butterflies, including rare species, have appeared at a West Sussex farm transformed from intensive wheat fields with wildflowers, hedgerows, ponds and carefully managed grazing.",
+      "discussionPrompt": "If you could turn one unused patch of land into a tiny nature haven, what would you add first: wildflowers, a pond, a bird feeder, a log pile, or a very fancy bug hotel?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/uk-news/2026/oct/21/all"
+        "https://www.theguardian.com/environment/2026/oct/22/thousands-of-butterflies-surprise-experts-on-restored-west-sussex-farmland"
       ]
     },
     {
-      "title": "Arctic town adapts to fast warming",
-      "summary": "Longyearbyen in Norway's Svalbard archipelago is confronting melting glaciers and thawing permafrost that affect water, housing and landslide risks.",
-      "discussionPrompt": "What is one everyday invention you think would make life easier in a place with extreme weather: better boots, smarter homes, indoor gardens, or something else?",
+      "title": "Windermere clean-up plan takes shape",
+      "summary": "Campaigners, regulators and a water company have agreed a proposal to divert treated effluent away from England's largest lake, aiming to improve Lake Windermere after years of sewage concerns.",
+      "discussionPrompt": "What would make a lake or river feel worth looking after to you: swimming, fishing, wildlife, a good picnic spot, childhood memories, or simply knowing it is there?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/21/all"
+        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
       ]
     },
     {
-      "title": "UN urges steeper emissions cuts",
-      "summary": "The UN says global emissions need to fall 18% within four years to help prevent a dangerous overshoot of climate targets, sharpening the focus on near-term action.",
-      "discussionPrompt": "What small change feels genuinely doable to you: wasting less food, walking more, fixing things, sharing tools, or growing something?",
+      "title": "Rosebank decision could reshape UK energy debate",
+      "summary": "The UK energy secretary is reported to be leaning toward rejecting the Rosebank oilfield, a decision that would be closely watched by energy workers, investors and climate campaigners.",
+      "discussionPrompt": "When a big energy decision lands, what feels hardest to balance: affordable bills, reliable supply, local jobs, future technology, or reducing emissions? Can one choice genuinely serve all of them?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/21/all"
+        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
       ]
     },
     {
-      "title": "UK inflation rises to 3.5%",
-      "summary": "UK annual inflation rose to 3.5% in September, more than expected, with fuel prices among the factors pushing everyday costs higher.",
-      "discussionPrompt": "When prices creep up, what is the first ordinary thing people seem to notice: groceries, fuel, takeout, subscriptions, or the mysterious cost of snacks?",
+      "title": "Barclays plans major job cuts",
+      "summary": "Barclays reported higher quarterly profits while announcing plans to cut 5,000 roles, putting fresh attention on how banks are reshaping work as they pursue savings and changing customer habits.",
+      "discussionPrompt": "When big organizations talk about becoming more efficient, what do you hope that means in practice: better service, less paperwork, smarter tools, or a four-day week that nobody has told us about yet?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/21/all"
+        "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates"
       ]
     },
     {
-      "title": "Beatles museum plans Liverpool expansion",
-      "summary": "Liverpool's Beatles Story museum is set to move into a much larger home in 2028, with plans including new exhibits and a Yellow Submarine-themed makeover.",
-      "discussionPrompt": "If you designed a museum for one band, game, show, or hobby, what absurdly fun exhibit would visitors absolutely have to try?",
+      "title": "Markets wobble as AI shares slide",
+      "summary": "Stock markets fell in several regions as AI-linked shares retreated, while oil rose to its highest level since May. The moves highlighted how quickly technology expectations and energy prices can steer investor mood.",
+      "discussionPrompt": "Do big stock-market swings make technology feel more exciting, more fragile, or mostly like a distant weather report? What everyday sign tells you the economy is changing?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/2026/oct/21"
+        "https://apnews.com/article/33767691a4a0730b96d6f0c5100ea9b2"
       ]
     },
     {
-      "title": "Documentary draws packed cinema crowds",
-      "summary": "UK cinemas report strong demand for You Can See Everything, a documentary about Elizabeth Holmes, after its notable opening weekend in the United States.",
-      "discussionPrompt": "What makes a documentary irresistible to you: a strange true story, behind-the-scenes access, a mystery, a big idea, or a recommendation from a friend?",
+      "title": "EQT agrees deal for Qiagen",
+      "summary": "Investment firm EQT agreed to buy molecular-testing company Qiagen for about €9.6 billion, a deal that puts a spotlight on the value investors place on laboratory and diagnostic technology.",
+      "discussionPrompt": "Medical testing rarely gets dinner-table attention until something goes wrong. Which health invention do you think deserves more everyday appreciation: tests, vaccines, glasses, hearing aids, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/culture/culture%2Btone/news"
+        "https://www.reuters.com/commentary/breakingviews/lab-testing-lbo-offers-murky-result-both-sides-2026-10-22/"
       ]
     },
     {
-      "title": "South Africa and Australia contest Test match",
-      "summary": "South Africa and Australia are in the fourth day of their second men's cricket Test, with Australia facing a demanding recovery in Gqeberha.",
-      "discussionPrompt": "For a long match or a long movie, are you the person who loves the slow build, skips to highlights, or keeps snacks ready for the dramatic finish?",
+      "title": "Arsenal snatch late draw in Munich",
+      "summary": "Declan Rice scored a late equaliser as Arsenal drew 2-2 with Bayern Munich in the Champions League, keeping a high-profile match level after a back-and-forth contest.",
+      "discussionPrompt": "What makes a sports match memorable for you: a last-minute comeback, a rivalry, brilliant skill, a noisy crowd, or watching with someone who cares far more than you do?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/2026/oct/21/all"
+        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
       ]
     },
     {
-      "title": "Storm Austen heads toward southern UK",
-      "summary": "A yellow weather warning is in place as Storm Austen is forecast to bring gusts up to 60mph to southern parts of the UK.",
-      "discussionPrompt": "What is your ideal storm-day setup: a window seat, a board game, a comfort meal, a good playlist, or making sure every phone is charged?",
+      "title": "England maternity services face staffing pressure",
+      "summary": "Some smaller English hospitals have suspended or may reconsider maternity services amid staffing shortages and changing birth patterns, raising questions about access to care in rural and coastal communities.",
+      "discussionPrompt": "In a small community, which services feel most important to keep nearby: health care, schools, transit, libraries, groceries, or gathering places? How would you make the case for one?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/2026/oct/21"
+        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
       ]
     }
   ]
