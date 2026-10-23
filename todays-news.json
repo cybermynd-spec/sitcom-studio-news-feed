@@ -1,22 +1,94 @@
 {
-  "updatedUtc": "2026-10-22T15:17:58Z",
+  "updatedUtc": "2026-10-23T15:26:46Z",
   "topics": [
     {
-      "title": "PHP security flaw disrupts websites",
-      "summary": "A serious vulnerability in the PHP language prompted website shutdowns and urgent patching around the world. UK cyber officials said they had no evidence at that point of government systems being hacked.",
-      "discussionPrompt": "When a familiar website is suddenly down, what is your first move: wait patiently, hunt for an alternative, refresh far too often, or decide it is a sign to do something offline?",
+      "title": "PHP security flaw keeps sites patching",
+      "summary": "A serious PHP vulnerability has prompted urgent patching and precautionary website outages worldwide. Cybersecurity officials say the issue affects a language used by a large share of the web.",
+      "discussionPrompt": "When a familiar website goes offline, are you patient, do you hunt for a workaround, refresh too often, or decide it is fate telling you to do something offline?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
+        "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
       ]
     },
     {
-      "title": "Finnish data-centre project draws anger",
-      "summary": "Google halted preparatory work after authorities questioned large-scale tree felling at proposed data-centre sites in Finland, renewing debate about local environmental impacts and the benefits of new digital infrastructure.",
-      "discussionPrompt": "If a giant data centre came to your town, what would you ask about first: jobs, power use, trees, water, taxes, or whether its waste heat could warm nearby buildings?",
+      "title": "Astronomers revisit Starry Night's sky",
+      "summary": "A new study suggests Van Gogh's Starry Night may reflect a real July 1889 dawn, though museum experts say the case for the painting's established June dating remains stronger.",
+      "discussionPrompt": "If you could time-travel to watch one artist at work for an hour, who would you choose, and would you be helpful or just stand there trying not to breathe loudly?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting"
+      ]
+    },
+    {
+      "title": "Bridget Jones prize seeks new comedy voices",
+      "summary": "Author Helen Fielding has launched a 1,000-word comedy-writing prize for unpublished writers in northern England, with support and cash awards intended to spotlight fresh voices.",
+      "discussionPrompt": "What tiny everyday mishap could you turn into a great comedy scene: losing keys, a disastrous group chat, cooking confidence, awkward neighbours, or a shopping trip gone sideways?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/books/2026/oct/22/helen-fielding-launches-bridget-jones-prize-for-northern-comedy-writing"
+      ]
+    },
+    {
+      "title": "Four cities make culture shortlist",
+      "summary": "Blackpool, Sheffield, Milton Keynes and Wrexham have been shortlisted for UK City of Culture 2029. Each finalist will receive funding, while the winning city will receive a larger award.",
+      "discussionPrompt": "If your town hosted a year of culture, what would be its signature event: food festival, music trail, film night, public art, neighbourhood stories, or something wonderfully odd?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham"
+      ]
+    },
+    {
+      "title": "Retailer sees tougher holiday spending",
+      "summary": "Sainsbury's says households remain under financial pressure as the holiday shopping season approaches, a sign that retailers are watching customer spending closely.",
+      "discussionPrompt": "What makes a holiday gathering feel generous without becoming expensive: a favourite dish, homemade decorations, games, swapping skills, a shared playlist, or a strict no-gift rule?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze"
+      ]
+    },
+    {
+      "title": "UK energy debate returns to net zero",
+      "summary": "The UK government says it remains committed to net-zero targets after approving the Jackdaw gasfield, reopening discussion about how energy security, jobs and emissions can be balanced.",
+      "discussionPrompt": "When an energy choice involves bills, jobs and emissions, what question would you ask first? Is there a local solution you wish more people talked about?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval"
+      ]
+    },
+    {
+      "title": "Brewer flags changing pub habits",
+      "summary": "Heineken has told British pubs that widespread use of weight-loss medicines could reduce demand for beer and cider, encouraging venues to consider smaller serves and alcohol-free options.",
+      "discussionPrompt": "What makes a pub, café or hangout feel welcoming if you are not drinking alcohol: good snacks, better music, games, comfy seats, fancy soda, or staying open late?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
+      ]
+    },
+    {
+      "title": "Finnish data-centre project faces scrutiny",
+      "summary": "Finnish authorities halted work at proposed data-centre sites after environmental assessment concerns following extensive tree felling, fueling debate about the local costs of AI infrastructure.",
+      "discussionPrompt": "If a huge data centre came to your area, what would you ask about first: jobs, electricity, water, trees, taxes, or whether its heat could help nearby homes?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
@@ -26,99 +98,27 @@
       ]
     },
     {
-      "title": "Butterflies flourish on restored farmland",
-      "summary": "More than 5,000 butterflies, including rare species, have appeared at a West Sussex farm transformed from intensive wheat fields with wildflowers, hedgerows, ponds and carefully managed grazing.",
-      "discussionPrompt": "If you could turn one unused patch of land into a tiny nature haven, what would you add first: wildflowers, a pond, a bird feeder, a log pile, or a very fancy bug hotel?",
+      "title": "Banana researchers explore hardier crops",
+      "summary": "Researchers are exploring breeding advances that may help protect Cavendish bananas from disease and climate pressures, raising hope for a fruit supply that has long relied on a narrow genetic base.",
+      "discussionPrompt": "If one everyday food suddenly became rare, which would disrupt your routine most? Would you happily try a new version, or start a dramatic campaign to save the original?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/22/thousands-of-butterflies-surprise-experts-on-restored-west-sussex-farmland"
+        "https://www.theguardian.com/environment/gm%2Benvironment"
       ]
     },
     {
-      "title": "Windermere clean-up plan takes shape",
-      "summary": "Campaigners, regulators and a water company have agreed a proposal to divert treated effluent away from England's largest lake, aiming to improve Lake Windermere after years of sewage concerns.",
-      "discussionPrompt": "What would make a lake or river feel worth looking after to you: swimming, fishing, wildlife, a good picnic spot, childhood memories, or simply knowing it is there?",
+      "title": "Oil and markets react to global uncertainty",
+      "summary": "Oil reached a five-month high while global stocks wobbled, showing how energy worries and shifting expectations around technology can quickly change the mood in financial markets.",
+      "discussionPrompt": "When economic news feels abstract, what everyday clue makes it real for you: grocery prices, fuel, rent, a job search, travel costs, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
-      ]
-    },
-    {
-      "title": "Rosebank decision could reshape UK energy debate",
-      "summary": "The UK energy secretary is reported to be leaning toward rejecting the Rosebank oilfield, a decision that would be closely watched by energy workers, investors and climate campaigners.",
-      "discussionPrompt": "When a big energy decision lands, what feels hardest to balance: affordable bills, reliable supply, local jobs, future technology, or reducing emissions? Can one choice genuinely serve all of them?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
-      ]
-    },
-    {
-      "title": "Barclays plans major job cuts",
-      "summary": "Barclays reported higher quarterly profits while announcing plans to cut 5,000 roles, putting fresh attention on how banks are reshaping work as they pursue savings and changing customer habits.",
-      "discussionPrompt": "When big organizations talk about becoming more efficient, what do you hope that means in practice: better service, less paperwork, smarter tools, or a four-day week that nobody has told us about yet?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates"
-      ]
-    },
-    {
-      "title": "Markets wobble as AI shares slide",
-      "summary": "Stock markets fell in several regions as AI-linked shares retreated, while oil rose to its highest level since May. The moves highlighted how quickly technology expectations and energy prices can steer investor mood.",
-      "discussionPrompt": "Do big stock-market swings make technology feel more exciting, more fragile, or mostly like a distant weather report? What everyday sign tells you the economy is changing?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/33767691a4a0730b96d6f0c5100ea9b2"
-      ]
-    },
-    {
-      "title": "EQT agrees deal for Qiagen",
-      "summary": "Investment firm EQT agreed to buy molecular-testing company Qiagen for about €9.6 billion, a deal that puts a spotlight on the value investors place on laboratory and diagnostic technology.",
-      "discussionPrompt": "Medical testing rarely gets dinner-table attention until something goes wrong. Which health invention do you think deserves more everyday appreciation: tests, vaccines, glasses, hearing aids, or something else?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/commentary/breakingviews/lab-testing-lbo-offers-murky-result-both-sides-2026-10-22/"
-      ]
-    },
-    {
-      "title": "Arsenal snatch late draw in Munich",
-      "summary": "Declan Rice scored a late equaliser as Arsenal drew 2-2 with Bayern Munich in the Champions League, keeping a high-profile match level after a back-and-forth contest.",
-      "discussionPrompt": "What makes a sports match memorable for you: a last-minute comeback, a rivalry, brilliant skill, a noisy crowd, or watching with someone who cares far more than you do?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
-      ]
-    },
-    {
-      "title": "England maternity services face staffing pressure",
-      "summary": "Some smaller English hospitals have suspended or may reconsider maternity services amid staffing shortages and changing birth patterns, raising questions about access to care in rural and coastal communities.",
-      "discussionPrompt": "In a small community, which services feel most important to keep nearby: health care, schools, transit, libraries, groceries, or gathering places? How would you make the case for one?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure"
+        "https://www.theguardian.com/business/series/guardian-business-live"
       ]
     }
   ]
