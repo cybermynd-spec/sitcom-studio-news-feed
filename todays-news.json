@@ -1,46 +1,46 @@
 {
-  "updatedUtc": "2026-10-23T15:26:46Z",
+  "updatedUtc": "2026-10-24T15:34:00.946Z",
   "topics": [
     {
-      "title": "PHP security flaw keeps sites patching",
-      "summary": "A serious PHP vulnerability has prompted urgent patching and precautionary website outages worldwide. Cybersecurity officials say the issue affects a language used by a large share of the web.",
-      "discussionPrompt": "When a familiar website goes offline, are you patient, do you hunt for a workaround, refresh too often, or decide it is fate telling you to do something offline?",
+      "title": "Channel 4 tries bite-size phone drama",
+      "summary": "Channel 4 has launched a five-part vertical drama for social media, with episodes around 90 seconds long. The experiment joins the growing market for short, phone-first storytelling.",
+      "discussionPrompt": "Could you make a whole episode of your life fit into 90 seconds? What would be the opening shot, the cliffhanger, and the one tiny detail everyone would talk about afterward?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+        "https://www.theguardian.com/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts"
       ]
     },
     {
-      "title": "Astronomers revisit Starry Night's sky",
-      "summary": "A new study suggests Van Gogh's Starry Night may reflect a real July 1889 dawn, though museum experts say the case for the painting's established June dating remains stronger.",
-      "discussionPrompt": "If you could time-travel to watch one artist at work for an hour, who would you choose, and would you be helpful or just stand there trying not to breathe loudly?",
+      "title": "Blue Planet leans into real-world footage",
+      "summary": "Blue Planet III producers say they included cloudier, less polished shots to show viewers the wildlife footage is real, amid growing public concern about AI-generated images.",
+      "discussionPrompt": "Do you prefer nature shows that look perfectly polished, or ones that leave in the murky water and camera bumps? What makes something feel more trustworthy to you?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting"
+        "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
       ]
     },
     {
-      "title": "Bridget Jones prize seeks new comedy voices",
-      "summary": "Author Helen Fielding has launched a 1,000-word comedy-writing prize for unpublished writers in northern England, with support and cash awards intended to spotlight fresh voices.",
-      "discussionPrompt": "What tiny everyday mishap could you turn into a great comedy scene: losing keys, a disastrous group chat, cooking confidence, awkward neighbours, or a shopping trip gone sideways?",
+      "title": "Historian rechecks England's oldest pub",
+      "summary": "Tree-ring dating and historical research point to the George Inn in Somerset, serving customers continuously since the early 1430s, as England's oldest purpose-built pub.",
+      "discussionPrompt": "If you could visit a 600-year-old pub for one evening, what modern comfort would you miss first: music, menus, indoor plumbing, Wi-Fi, or being allowed to order dessert?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/books/2026/oct/22/helen-fielding-launches-bridget-jones-prize-for-northern-comedy-writing"
+        "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist"
       ]
     },
     {
-      "title": "Four cities make culture shortlist",
-      "summary": "Blackpool, Sheffield, Milton Keynes and Wrexham have been shortlisted for UK City of Culture 2029. Each finalist will receive funding, while the winning city will receive a larger award.",
-      "discussionPrompt": "If your town hosted a year of culture, what would be its signature event: food festival, music trail, film night, public art, neighbourhood stories, or something wonderfully odd?",
+      "title": "Four places vie for City of Culture",
+      "summary": "Blackpool, Sheffield, Milton Keynes and Wrexham are shortlisted for UK City of Culture 2029. Each receives bid-development funding before a winner is selected next year.",
+      "discussionPrompt": "If your town got a giant culture budget, what would you make its signature event: a midnight market, local film festival, public art trail, free concerts, or something stranger?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
@@ -50,45 +50,45 @@
       ]
     },
     {
-      "title": "Retailer sees tougher holiday spending",
-      "summary": "Sainsbury's says households remain under financial pressure as the holiday shopping season approaches, a sign that retailers are watching customer spending closely.",
-      "discussionPrompt": "What makes a holiday gathering feel generous without becoming expensive: a favourite dish, homemade decorations, games, swapping skills, a shared playlist, or a strict no-gift rule?",
+      "title": "Water bills face a value-for-money push",
+      "summary": "UK ministers plan an unusual intervention in the next water-bill review, asking companies and regulators to prioritize affordability, leak reduction, and local investment.",
+      "discussionPrompt": "When a public service needs upgrades, what feels fairest: paying a little more now, fixing waste first, changing who runs it, or letting neighbourhoods set priorities?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze"
+        "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment"
       ]
     },
     {
-      "title": "UK energy debate returns to net zero",
-      "summary": "The UK government says it remains committed to net-zero targets after approving the Jackdaw gasfield, reopening discussion about how energy security, jobs and emissions can be balanced.",
-      "discussionPrompt": "When an energy choice involves bills, jobs and emissions, what question would you ask first? Is there a local solution you wish more people talked about?",
+      "title": "Banana breeding offers new hope",
+      "summary": "Researchers say a newly fertile Cavendish banana line could help develop disease-resistant varieties, addressing crop threats while raising questions about taste, farming, and biodiversity.",
+      "discussionPrompt": "If the familiar banana disappeared from stores, would you try a new variety immediately, demand the closest possible replacement, or turn it into an excuse to explore totally different fruit?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval"
+        "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster"
       ]
     },
     {
-      "title": "Brewer flags changing pub habits",
-      "summary": "Heineken has told British pubs that widespread use of weight-loss medicines could reduce demand for beer and cider, encouraging venues to consider smaller serves and alcohol-free options.",
-      "discussionPrompt": "What makes a pub, café or hangout feel welcoming if you are not drinking alcohol: good snacks, better music, games, comfy seats, fancy soda, or staying open late?",
+      "title": "Bogong moths make a remarkable return",
+      "summary": "Citizen-science observations suggest endangered bogong moths are rebounding across eastern Australia this spring, a hopeful sign for ecosystems that depend on the insects.",
+      "discussionPrompt": "What creature would you be delighted to see suddenly everywhere again: butterflies, fireflies, frogs, songbirds, ladybugs, or a surprisingly charismatic moth?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
+        "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back"
       ]
     },
     {
-      "title": "Finnish data-centre project faces scrutiny",
-      "summary": "Finnish authorities halted work at proposed data-centre sites after environmental assessment concerns following extensive tree felling, fueling debate about the local costs of AI infrastructure.",
-      "discussionPrompt": "If a huge data centre came to your area, what would you ask about first: jobs, electricity, water, trees, taxes, or whether its heat could help nearby homes?",
+      "title": "Data-centre project sparks local debate",
+      "summary": "Finnish authorities halted work at planned data-centre sites after environmental concerns linked to extensive tree felling, highlighting tensions around AI infrastructure and local impacts.",
+      "discussionPrompt": "If a giant data centre came to your area, what would you ask about first: jobs, electricity, water, trees, taxes, or whether the waste heat could warm homes?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
@@ -98,27 +98,27 @@
       ]
     },
     {
-      "title": "Banana researchers explore hardier crops",
-      "summary": "Researchers are exploring breeding advances that may help protect Cavendish bananas from disease and climate pressures, raising hope for a fruit supply that has long relied on a narrow genetic base.",
-      "discussionPrompt": "If one everyday food suddenly became rare, which would disrupt your routine most? Would you happily try a new version, or start a dramatic campaign to save the original?",
+      "title": "Pubs consider more low-alcohol choices",
+      "summary": "Heineken has encouraged British pubs to consider smaller serves and alcohol-free options as changing health habits may affect demand for beer and cider.",
+      "discussionPrompt": "What makes a pub or café feel welcoming when you are not drinking alcohol: snacks, games, good music, comfy seats, great mocktails, or somewhere to stay late?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/gm%2Benvironment"
+        "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
       ]
     },
     {
-      "title": "Oil and markets react to global uncertainty",
-      "summary": "Oil reached a five-month high while global stocks wobbled, showing how energy worries and shifting expectations around technology can quickly change the mood in financial markets.",
-      "discussionPrompt": "When economic news feels abstract, what everyday clue makes it real for you: grocery prices, fuel, rent, a job search, travel costs, or something else?",
+      "title": "AI and cancer prediction prompt questions",
+      "summary": "A new discussion about AI tools for predicting cancer outcomes has renewed attention on how clinicians can test new systems, explain their limits, and use them alongside human judgment.",
+      "discussionPrompt": "Would you rather a doctor use a very good prediction tool and explain it plainly, or keep the technology out of the room? What would build your trust?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/series/guardian-business-live"
+        "https://www.theguardian.com/science/2026/oct/23/can-ai-really-predict-cancer-survival-better-than-a-doctor-i-have-my-doubts"
       ]
     }
   ]
