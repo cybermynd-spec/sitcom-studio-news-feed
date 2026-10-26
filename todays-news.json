@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-10-24T15:34:00.946Z",
+  "updatedUtc": "2026-10-26T15:44:49.451Z",
   "topics": [
     {
-      "title": "Channel 4 tries bite-size phone drama",
-      "summary": "Channel 4 has launched a five-part vertical drama for social media, with episodes around 90 seconds long. The experiment joins the growing market for short, phone-first storytelling.",
-      "discussionPrompt": "Could you make a whole episode of your life fit into 90 seconds? What would be the opening shot, the cliffhanger, and the one tiny detail everyone would talk about afterward?",
+      "title": "TrainTok puts railways in the spotlight",
+      "summary": "British train videos on TikTok have surged, with creators and rail workers sharing route tips, station history and practical travel advice. The trend is turning everyday transport into a lively online niche.",
+      "discussionPrompt": "What ordinary thing could you happily watch a whole stream of explainers about: buses, grocery stores, elevators, weather maps, kitchens, or something completely different?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos"]
     },
     {
-      "title": "Blue Planet leans into real-world footage",
-      "summary": "Blue Planet III producers say they included cloudier, less polished shots to show viewers the wildlife footage is real, amid growing public concern about AI-generated images.",
-      "discussionPrompt": "Do you prefer nature shows that look perfectly polished, or ones that leave in the murky water and camera bumps? What makes something feel more trustworthy to you?",
+      "title": "Sam Fender responds to ticket-price concerns",
+      "summary": "Sam Fender said prices for his 2027 stadium tour would be changed after fans objected. He also criticized tiered standing areas, reopening a wider conversation about what live music should cost.",
+      "discussionPrompt": "What would make a concert feel worth splashing out on: a favorite artist, a tiny venue, great seats, no hidden fees, or the chance to bring the whole friend group?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed"]
     },
     {
-      "title": "Historian rechecks England's oldest pub",
-      "summary": "Tree-ring dating and historical research point to the George Inn in Somerset, serving customers continuously since the early 1430s, as England's oldest purpose-built pub.",
-      "discussionPrompt": "If you could visit a 600-year-old pub for one evening, what modern comfort would you miss first: music, menus, indoor plumbing, Wi-Fi, or being allowed to order dessert?",
+      "title": "Bayeux Tapestry draws a younger crowd",
+      "summary": "Tickets for the Bayeux Tapestry exhibition at the British Museum sold quickly, with bank data indicating strong interest from people under 35. The thousand-year-old artwork is having an unexpected pop-culture moment.",
+      "discussionPrompt": "Which old thing deserves a surprise comeback: maps, handwritten letters, arcade cabinets, record players, public fountains, or a museum exhibit you would actually queue for?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters"]
     },
     {
-      "title": "Four places vie for City of Culture",
-      "summary": "Blackpool, Sheffield, Milton Keynes and Wrexham are shortlisted for UK City of Culture 2029. Each receives bid-development funding before a winner is selected next year.",
-      "discussionPrompt": "If your town got a giant culture budget, what would you make its signature event: a midnight market, local film festival, public art trail, free concerts, or something stranger?",
+      "title": "AI music-training lawsuit spotlights copyright",
+      "summary": "Authentic Brands Group has sued Anthropic, alleging the company used hundreds of Elvis Presley songs to train AI systems. The case adds to the ongoing debate about creative work and training data.",
+      "discussionPrompt": "If an AI learned from every song you loved, what rule would feel fairest: permission first, payment later, automatic credit, no music training at all, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"]
     },
     {
-      "title": "Water bills face a value-for-money push",
-      "summary": "UK ministers plan an unusual intervention in the next water-bill review, asking companies and regulators to prioritize affordability, leak reduction, and local investment.",
-      "discussionPrompt": "When a public service needs upgrades, what feels fairest: paying a little more now, fixing waste first, changing who runs it, or letting neighbourhoods set priorities?",
+      "title": "Pegasus gets an easy stargazing moment",
+      "summary": "The bright stars of Pegasus are especially easy to spot in the evening sky right now. Its famous Great Square offers a simple starting point for anyone wanting to learn a new constellation.",
+      "discussionPrompt": "If you could rename a constellation after something modern, what would it be: The Coffee Mug, The Wi-Fi Symbol, The Skateboard, or your own wildly dramatic invention?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science/2026/oct/26/starwatch-bright-stars-pegasus-distinctive-constellation"]
     },
     {
-      "title": "Banana breeding offers new hope",
-      "summary": "Researchers say a newly fertile Cavendish banana line could help develop disease-resistant varieties, addressing crop threats while raising questions about taste, farming, and biodiversity.",
-      "discussionPrompt": "If the familiar banana disappeared from stores, would you try a new variety immediately, demand the closest possible replacement, or turn it into an excuse to explore totally different fruit?",
+      "title": "Volkswagen plans a new US Audi factory",
+      "summary": "Volkswagen says it will invest $4 billion in an Audi SUV factory in Georgia, creating thousands of jobs. The move comes as the automaker manages global competition, tariffs and its costly shift toward electric vehicles.",
+      "discussionPrompt": "If you could design a car factory of the future, what would you insist it include: rooftop gardens, repair cafés, robot tours, quiet zones, or a way to recycle every scrap?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"]
     },
     {
-      "title": "Bogong moths make a remarkable return",
-      "summary": "Citizen-science observations suggest endangered bogong moths are rebounding across eastern Australia this spring, a hopeful sign for ecosystems that depend on the insects.",
-      "discussionPrompt": "What creature would you be delighted to see suddenly everywhere again: butterflies, fireflies, frogs, songbirds, ladybugs, or a surprisingly charismatic moth?",
+      "title": "Apprenticeship funding raises age questions",
+      "summary": "Employers warn that higher training costs for workers over 25 could complicate plans to tackle youth unemployment. The proposal has renewed debate about how apprenticeship support should be shared across generations.",
+      "discussionPrompt": "If you could learn any practical skill for free this year, what would you pick: cooking, coding, carpentry, languages, first aid, fixing bikes, or something wonderfully niche?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/news/2026/oct/23/the-great-moth-revival-how-bogongs-have-bounced-back"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet"]
     },
     {
-      "title": "Data-centre project sparks local debate",
-      "summary": "Finnish authorities halted work at planned data-centre sites after environmental concerns linked to extensive tree felling, highlighting tensions around AI infrastructure and local impacts.",
-      "discussionPrompt": "If a giant data centre came to your area, what would you ask about first: jobs, electricity, water, trees, taxes, or whether the waste heat could warm homes?",
+      "title": "Retail employers expand paternity leave",
+      "summary": "A report says retail employers are increasingly offering more generous paternity leave, while campaigners urge broader improvements. The story highlights how workplace policies can shape family time in those early weeks.",
+      "discussionPrompt": "What workplace benefit would improve everyday life most: flexible hours, more leave, a shorter week, free meals, a quiet room, or time set aside to learn something new?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer"]
     },
     {
-      "title": "Pubs consider more low-alcohol choices",
-      "summary": "Heineken has encouraged British pubs to consider smaller serves and alcohol-free options as changing health habits may affect demand for beer and cider.",
-      "discussionPrompt": "What makes a pub or café feel welcoming when you are not drinking alcohol: snacks, games, good music, comfy seats, great mocktails, or somewhere to stay late?",
+      "title": "Bank of England rate outlook stays uncertain",
+      "summary": "City economists say UK interest rates may not reach 4.75% next summer and could later fall. Their forecasts reflect uncertainty around inflation, growth and the path of future borrowing costs.",
+      "discussionPrompt": "When money feels uncertain, which small habit makes you feel most organized: a budget, cooking at home, comparison shopping, saving automatically, or avoiding spreadsheets entirely?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027"]
     },
     {
-      "title": "AI and cancer prediction prompt questions",
-      "summary": "A new discussion about AI tools for predicting cancer outcomes has renewed attention on how clinicians can test new systems, explain their limits, and use them alongside human judgment.",
-      "discussionPrompt": "Would you rather a doctor use a very good prediction tool and explain it plainly, or keep the technology out of the room? What would build your trust?",
+      "title": "A tech-funding warning rattles AI markets",
+      "summary": "In a live business update, Elon Musk warned that some AI cloud-computing companies could struggle as funding tightens. The comments reflect wider questions about which parts of the fast-growing AI sector can last.",
+      "discussionPrompt": "Which future tech would you actually use every day if it worked perfectly: a smart helper, instant translation, a home robot, a better transit app, or something nobody has invented yet?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/science/2026/oct/23/can-ai-really-predict-cancer-survival-better-than-a-doctor-i-have-my-doubts"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/26/ai-cloud-computing-companies-elon-musk-funding-business-live"]
     }
   ]
 }
