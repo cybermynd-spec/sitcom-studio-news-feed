@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-10-26T15:44:49.451Z",
+  "updatedUtc": "2026-10-27T15:03:31.657Z",
   "topics": [
     {
-      "title": "TrainTok puts railways in the spotlight",
-      "summary": "British train videos on TikTok have surged, with creators and rail workers sharing route tips, station history and practical travel advice. The trend is turning everyday transport into a lively online niche.",
-      "discussionPrompt": "What ordinary thing could you happily watch a whole stream of explainers about: buses, grocery stores, elevators, weather maps, kitchens, or something completely different?",
+      "title": "Israel holds a closely watched election",
+      "summary": "Israelis voted in an election widely seen as a major test for Benjamin Netanyahu. Election officials said they were reviewing reports of isolated ballot issues and found no evidence of a systematic attempt to disrupt voting.",
+      "discussionPrompt": "When an election feels especially important, what helps people stay informed without turning every conversation into an argument: local reporting, debates, talking with friends, fact-checking, or taking a news break?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/782c69f4a5389da8073b1c27aafa606f"]
     },
     {
-      "title": "Sam Fender responds to ticket-price concerns",
-      "summary": "Sam Fender said prices for his 2027 stadium tour would be changed after fans objected. He also criticized tiered standing areas, reopening a wider conversation about what live music should cost.",
-      "discussionPrompt": "What would make a concert feel worth splashing out on: a favorite artist, a tiny venue, great seats, no hidden fees, or the chance to bring the whole friend group?",
+      "title": "Fed watchers await its next signal",
+      "summary": "The US Federal Reserve is expected to hold its key rate steady this week. Investors and economists are watching its statement for clues about inflation, borrowing costs and what may come next.",
+      "discussionPrompt": "If you could make one everyday money topic easier to understand, would it be interest rates, mortgages, grocery prices, savings, taxes, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/991eeb23f8acd1e84b11de9b35278681"]
     },
     {
-      "title": "Bayeux Tapestry draws a younger crowd",
-      "summary": "Tickets for the Bayeux Tapestry exhibition at the British Museum sold quickly, with bank data indicating strong interest from people under 35. The thousand-year-old artwork is having an unexpected pop-culture moment.",
-      "discussionPrompt": "Which old thing deserves a surprise comeback: maps, handwritten letters, arcade cabinets, record players, public fountains, or a museum exhibit you would actually queue for?",
+      "title": "US base in Japan restricts BYD vehicles",
+      "summary": "A US military base in Okinawa has barred BYD vehicles from entering, citing security concerns around connected vehicle technology. The restriction also applies to taxis and delivery drivers using the Chinese-made cars.",
+      "discussionPrompt": "Would you trade some car convenience for more privacy? Which feature feels most useful to you, and which one feels like it knows a little too much?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base"]
     },
     {
-      "title": "AI music-training lawsuit spotlights copyright",
-      "summary": "Authentic Brands Group has sued Anthropic, alleging the company used hundreds of Elvis Presley songs to train AI systems. The case adds to the ongoing debate about creative work and training data.",
-      "discussionPrompt": "If an AI learned from every song you loved, what rule would feel fairest: permission first, payment later, automatic credit, no music training at all, or something else?",
+      "title": "China's AI-focused markets face a reality check",
+      "summary": "Chinese stock markets have lost trillions in recent months as investors question whether the country’s AI and robotics boom can deliver broad profits. The story highlights a widening gap between excitement and everyday demand.",
+      "discussionPrompt": "What makes a new technology feel genuinely useful instead of just flashy: saving time, lowering costs, being easy to repair, helping people connect, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"]
     },
     {
-      "title": "Pegasus gets an easy stargazing moment",
-      "summary": "The bright stars of Pegasus are especially easy to spot in the evening sky right now. Its famous Great Square offers a simple starting point for anyone wanting to learn a new constellation.",
-      "discussionPrompt": "If you could rename a constellation after something modern, what would it be: The Coffee Mug, The Wi-Fi Symbol, The Skateboard, or your own wildly dramatic invention?",
+      "title": "UK data-centre plans prompt calls for wider input",
+      "summary": "An investigation found UK officials met 137 businesses while developing AI data-centre plans, but no environmental groups. The findings have renewed questions about how communities should shape large technology infrastructure projects.",
+      "discussionPrompt": "If a huge new project came to your neighborhood, what would you want discussed first: jobs, water use, power demand, traffic, local benefits, or who gets a say?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/oct/26/starwatch-bright-stars-pegasus-distinctive-constellation"]
+      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation"]
     },
     {
-      "title": "Volkswagen plans a new US Audi factory",
-      "summary": "Volkswagen says it will invest $4 billion in an Audi SUV factory in Georgia, creating thousands of jobs. The move comes as the automaker manages global competition, tariffs and its costly shift toward electric vehicles.",
-      "discussionPrompt": "If you could design a car factory of the future, what would you insist it include: rooftop gardens, repair cafés, robot tours, quiet zones, or a way to recycle every scrap?",
+      "title": "England considers opening Land Registry data",
+      "summary": "The UK government has proposed free public access to Land Registry information in England and Wales. Supporters say it could improve planning and transparency, while campaigners expect resistance from some landowners.",
+      "discussionPrompt": "What public information would make your town easier to understand: who owns vacant buildings, future construction plans, transit data, local budgets, or something more surprising?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"]
+      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn"]
     },
     {
-      "title": "Apprenticeship funding raises age questions",
-      "summary": "Employers warn that higher training costs for workers over 25 could complicate plans to tackle youth unemployment. The proposal has renewed debate about how apprenticeship support should be shared across generations.",
-      "discussionPrompt": "If you could learn any practical skill for free this year, what would you pick: cooking, coding, carpentry, languages, first aid, fixing bikes, or something wonderfully niche?",
+      "title": "HSBC reports higher quarterly profits",
+      "summary": "HSBC reported a 32% rise in quarterly profits and said it would return billions to shareholders. The results have added energy to the UK debate over bank taxes and household affordability.",
+      "discussionPrompt": "When a big company has a strong year, where do you think its extra money matters most: lower prices, higher pay, better service, investment, taxes, or shareholder returns?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet"]
+      "sourceUrls": ["https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates"]
     },
     {
-      "title": "Retail employers expand paternity leave",
-      "summary": "A report says retail employers are increasingly offering more generous paternity leave, while campaigners urge broader improvements. The story highlights how workplace policies can shape family time in those early weeks.",
-      "discussionPrompt": "What workplace benefit would improve everyday life most: flexible hours, more leave, a shorter week, free meals, a quiet room, or time set aside to learn something new?",
+      "title": "Retreating ice reveals a century-old cache",
+      "summary": "Italian army teams removed and made safe 250 First World War explosives exposed by retreating glaciers in the Dolomites. The discovery offers a striking reminder that changing landscapes can uncover long-hidden history.",
+      "discussionPrompt": "What piece of local history would you love to uncover safely: an old train station, letters in an attic, a buried time capsule, a forgotten cinema, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy"]
     },
     {
-      "title": "Bank of England rate outlook stays uncertain",
-      "summary": "City economists say UK interest rates may not reach 4.75% next summer and could later fall. Their forecasts reflect uncertainty around inflation, growth and the path of future borrowing costs.",
-      "discussionPrompt": "When money feels uncertain, which small habit makes you feel most organized: a budget, cooking at home, comparison shopping, saving automatically, or avoiding spreadsheets entirely?",
+      "title": "Belgrade volunteers clean up after Serbia vote",
+      "summary": "Volunteers gathered in Belgrade to clear a park after Serbia’s Student List won a parliamentary election. The movement now faces the practical challenge of forming a government despite having no single leader.",
+      "discussionPrompt": "After a big community change, what small gesture makes a place feel hopeful: a cleanup, a shared meal, music, a public meeting, planting something, or another idea?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia"]
     },
     {
-      "title": "A tech-funding warning rattles AI markets",
-      "summary": "In a live business update, Elon Musk warned that some AI cloud-computing companies could struggle as funding tightens. The comments reflect wider questions about which parts of the fast-growing AI sector can last.",
-      "discussionPrompt": "Which future tech would you actually use every day if it worked perfectly: a smart helper, instant translation, a home robot, a better transit app, or something nobody has invented yet?",
+      "title": "A GPS detour leads to a timely rescue",
+      "summary": "An Alabama driver on an unexpected GPS detour noticed a Georgia home on fire and helped everyone inside get out safely. The family later said the community rallied around them as they began rebuilding.",
+      "discussionPrompt": "Have you ever ended up somewhere unexpected and found a silver lining: a great café, a new friend, a scenic route, a helpful stranger, or a memorable story?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/26/ai-cloud-computing-companies-elon-musk-funding-business-live"]
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire"]
     }
   ]
 }
