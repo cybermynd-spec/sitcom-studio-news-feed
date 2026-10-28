@@ -1,85 +1,125 @@
 {
-  "updatedUtc": "2026-10-27T15:03:31.657Z",
+  "updatedUtc": "2026-10-28T15:54:03.700Z",
   "topics": [
     {
-      "title": "Israel holds a closely watched election",
-      "summary": "Israelis voted in an election widely seen as a major test for Benjamin Netanyahu. Election officials said they were reviewing reports of isolated ballot issues and found no evidence of a systematic attempt to disrupt voting.",
-      "discussionPrompt": "When an election feels especially important, what helps people stay informed without turning every conversation into an argument: local reporting, debates, talking with friends, fact-checking, or taking a news break?",
+      "title": "UK homes are offered help for solar panels and heat pumps",
+      "summary": "The UK is preparing low- or no-interest Warm Home Loans to help households pay for solar panels and heat pumps. The plan aims to reduce upfront costs and lower future energy bills.",
+      "discussionPrompt": "If you could upgrade one thing at home to make life easier or cheaper, would it be better insulation, solar power, a smarter thermostat, a new appliance, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/782c69f4a5389da8073b1c27aafa606f"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps"
+      ]
     },
     {
-      "title": "Fed watchers await its next signal",
-      "summary": "The US Federal Reserve is expected to hold its key rate steady this week. Investors and economists are watching its statement for clues about inflation, borrowing costs and what may come next.",
-      "discussionPrompt": "If you could make one everyday money topic easier to understand, would it be interest rates, mortgages, grocery prices, savings, taxes, or something else?",
+      "title": "Sardinian restaurants try screen-free family meals",
+      "summary": "Fifteen restaurants in Sardinia are piloting a screen-free dining program for families. Phones are put away and children receive games and conversation activities intended to make mealtimes more social.",
+      "discussionPrompt": "Could you enjoy a phone-free meal, or would it feel strange? What would make the table more fun: games, conversation cards, music, drawing, or a really good dessert?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/991eeb23f8acd1e84b11de9b35278681"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/oct/27/sardinian-restaurants-bans-families-from-using-phones"
+      ]
     },
     {
-      "title": "US base in Japan restricts BYD vehicles",
-      "summary": "A US military base in Okinawa has barred BYD vehicles from entering, citing security concerns around connected vehicle technology. The restriction also applies to taxis and delivery drivers using the Chinese-made cars.",
-      "discussionPrompt": "Would you trade some car convenience for more privacy? Which feature feels most useful to you, and which one feels like it knows a little too much?",
+      "title": "A handwritten Rolling Stones letter heads to auction",
+      "summary": "A 1962 letter from Brian Jones asking Charlie Watts to join his young band will be auctioned in New York. The document captures the early days before the Rolling Stones’ classic lineup came together.",
+      "discussionPrompt": "What tiny piece of music history would you love to own: an early handwritten lyric, a concert poster, a first pressing, a backstage photo, or an instrument pick?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/music/2026/oct/28/charlie-watts-brian-jones-letter-rolling-stones-auction"
+      ]
     },
     {
-      "title": "China's AI-focused markets face a reality check",
-      "summary": "Chinese stock markets have lost trillions in recent months as investors question whether the country’s AI and robotics boom can deliver broad profits. The story highlights a widening gap between excitement and everyday demand.",
-      "discussionPrompt": "What makes a new technology feel genuinely useful instead of just flashy: saving time, lowering costs, being easy to repair, helping people connect, or something else?",
+      "title": "Ancient landscapes help explain Venice’s lagoon",
+      "summary": "Scientists have mapped ancient hills and swamps beneath the northern Adriatic, showing how rising seas gradually transformed dry land into the Venice lagoon over thousands of years.",
+      "discussionPrompt": "If you could see your region thousands of years ago, what would surprise you most: the shoreline, forests, animals, rivers, glaciers, or where people once lived?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon"
+      ]
     },
     {
-      "title": "UK data-centre plans prompt calls for wider input",
-      "summary": "An investigation found UK officials met 137 businesses while developing AI data-centre plans, but no environmental groups. The findings have renewed questions about how communities should shape large technology infrastructure projects.",
-      "discussionPrompt": "If a huge new project came to your neighborhood, what would you want discussed first: jobs, water use, power demand, traffic, local benefits, or who gets a say?",
+      "title": "China’s coastal wetlands turn a vivid red",
+      "summary": "Autumn seepweed has turned wetlands near Qingdao, China, a striking crimson. The seasonal color change creates a red-beach mosaic across salt marshes from September through November.",
+      "discussionPrompt": "What seasonal change do you look forward to seeing most: autumn colors, the first snow, spring blossoms, summer storms, migrating birds, or something local?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures"
+      ]
     },
     {
-      "title": "England considers opening Land Registry data",
-      "summary": "The UK government has proposed free public access to Land Registry information in England and Wales. Supporters say it could improve planning and transparency, while campaigners expect resistance from some landowners.",
-      "discussionPrompt": "What public information would make your town easier to understand: who owns vacant buildings, future construction plans, transit data, local budgets, or something more surprising?",
+      "title": "Gulliver’s Travels reaches its 300th anniversary",
+      "summary": "Ireland is marking 300 years since Jonathan Swift’s Gulliver’s Travels was published. Exhibitions, talks, and performances are exploring how its satire still speaks to modern readers.",
+      "discussionPrompt": "Which old book, movie, or song still feels surprisingly modern to you? Is it the story, the humor, the characters, or the questions it asks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin"
+      ]
     },
     {
-      "title": "HSBC reports higher quarterly profits",
-      "summary": "HSBC reported a 32% rise in quarterly profits and said it would return billions to shareholders. The results have added energy to the UK debate over bank taxes and household affordability.",
-      "discussionPrompt": "When a big company has a strong year, where do you think its extra money matters most: lower prices, higher pay, better service, investment, taxes, or shareholder returns?",
+      "title": "A rare dinosaur skeleton sells for $47.3 million",
+      "summary": "A Nanotyrannus skeleton named Jodi sold at a New York auction for $47.3 million. Sotheby’s called it the second most valuable dinosaur fossil ever sold at auction.",
+      "discussionPrompt": "If a museum could borrow one extraordinary object for your town, would you choose a dinosaur fossil, moon rock, famous painting, vintage train, or a historical treasure?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction"
+      ]
     },
     {
-      "title": "Retreating ice reveals a century-old cache",
-      "summary": "Italian army teams removed and made safe 250 First World War explosives exposed by retreating glaciers in the Dolomites. The discovery offers a striking reminder that changing landscapes can uncover long-hidden history.",
-      "discussionPrompt": "What piece of local history would you love to uncover safely: an old train station, letters in an attic, a buried time capsule, a forgotten cinema, or something else?",
+      "title": "HSBC reports a stronger quarter",
+      "summary": "HSBC reported a 32% rise in quarterly profits while saying it faces no pressure to move its headquarters from the UK. The results feed into continuing discussion about bank taxes and consumer affordability.",
+      "discussionPrompt": "When a big company has a strong year, where should its extra money go first: lower prices, better service, staff pay, new ideas, taxes, or investor returns?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes"
+      ]
     },
     {
-      "title": "Belgrade volunteers clean up after Serbia vote",
-      "summary": "Volunteers gathered in Belgrade to clear a park after Serbia’s Student List won a parliamentary election. The movement now faces the practical challenge of forming a government despite having no single leader.",
-      "discussionPrompt": "After a big community change, what small gesture makes a place feel hopeful: a cleanup, a shared meal, music, a public meeting, planting something, or another idea?",
+      "title": "Emergency-planning advice changes shopping lists",
+      "summary": "UK retailers reported increased sales of bottled water, tinned food, wind-up radios, and torches after government guidance encouraged households to prepare for disruptions from extreme weather or cyber incidents.",
+      "discussionPrompt": "What three practical items would you keep for a short power outage or stormy weekend: snacks, flashlight, radio, blankets, board games, phone battery, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice"
+      ]
     },
     {
-      "title": "A GPS detour leads to a timely rescue",
-      "summary": "An Alabama driver on an unexpected GPS detour noticed a Georgia home on fire and helped everyone inside get out safely. The family later said the community rallied around them as they began rebuilding.",
-      "discussionPrompt": "Have you ever ended up somewhere unexpected and found a silver lining: a great café, a new friend, a scenic route, a helpful stranger, or a memorable story?",
+      "title": "Commonwealth leaders will discuss slavery’s legacy",
+      "summary": "King Charles said he will discuss the legacy of slavery with Commonwealth leaders during a Caribbean summit. The visit has renewed attention on historical acknowledgment, dialogue, and calls for reparative action.",
+      "discussionPrompt": "When communities reckon with difficult history, what helps a conversation stay thoughtful: listening first, learning local stories, public art, school lessons, shared events, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/oct/27/georgia-family-house-fire"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
+      ]
     }
   ]
 }
