@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-10-28T15:54:03.700Z",
+  "updatedUtc": "2026-10-29T17:01:09.568Z",
   "topics": [
     {
-      "title": "UK homes are offered help for solar panels and heat pumps",
-      "summary": "The UK is preparing low- or no-interest Warm Home Loans to help households pay for solar panels and heat pumps. The plan aims to reduce upfront costs and lower future energy bills.",
-      "discussionPrompt": "If you could upgrade one thing at home to make life easier or cheaper, would it be better insulation, solar power, a smarter thermostat, a new appliance, or something else?",
+      "title": "Electric ferries gain momentum in the US",
+      "summary": "New electric ferries are arriving in the United States, including designs that can lift above the water. Supporters say replacing diesel vessels could cut emissions and improve local air quality.",
+      "discussionPrompt": "Would you rather take a quiet electric ferry, a classic boat with lots of character, or one that actually lifts above the waves? What would make a short crossing feel like part of the adventure?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/27/homes-across-uk-to-get-low--or-no-interest-loans-to-fund-solar-panels-and-heat-pumps"
+        "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries"
       ]
     },
     {
-      "title": "Sardinian restaurants try screen-free family meals",
-      "summary": "Fifteen restaurants in Sardinia are piloting a screen-free dining program for families. Phones are put away and children receive games and conversation activities intended to make mealtimes more social.",
-      "discussionPrompt": "Could you enjoy a phone-free meal, or would it feel strange? What would make the table more fun: games, conversation cards, music, drawing, or a really good dessert?",
+      "title": "Queen of Spain butterflies arrive in Britain",
+      "summary": "Thousands of golden Queen of Spain butterflies have arrived in Britain this year. Experts are watching to see whether this striking visitor can establish a lasting population.",
+      "discussionPrompt": "If an unexpected new butterfly or bird began showing up where you live, would you be excited, curious, or a little cautious? Which wild visitor would make you stop and look twice?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/27/sardinian-restaurants-bans-families-from-using-phones"
+        "https://www.theguardian.com/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native"
       ]
     },
     {
-      "title": "A handwritten Rolling Stones letter heads to auction",
-      "summary": "A 1962 letter from Brian Jones asking Charlie Watts to join his young band will be auctioned in New York. The document captures the early days before the Rolling Stones’ classic lineup came together.",
-      "discussionPrompt": "What tiny piece of music history would you love to own: an early handwritten lyric, a concert poster, a first pressing, a backstage photo, or an instrument pick?",
+      "title": "A Cumbrian hill farm makes its organic shift",
+      "summary": "A hill farm near Tebay in Cumbria is formally converting to organic certification after long using organic principles. The change highlights the practical challenges and values behind lower-input farming.",
+      "discussionPrompt": "If you ran a small farm or garden, what would matter most: growing unusual food, protecting wildlife, making a living, trying new methods, or keeping old traditions alive?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/music/2026/oct/28/charlie-watts-brian-jones-letter-rolling-stones-auction"
+        "https://www.theguardian.com/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic"
       ]
     },
     {
-      "title": "Ancient landscapes help explain Venice’s lagoon",
-      "summary": "Scientists have mapped ancient hills and swamps beneath the northern Adriatic, showing how rising seas gradually transformed dry land into the Venice lagoon over thousands of years.",
-      "discussionPrompt": "If you could see your region thousands of years ago, what would surprise you most: the shoreline, forests, animals, rivers, glaciers, or where people once lived?",
+      "title": "Workplaces weigh AI agent co-workers",
+      "summary": "Companies are testing AI agents for tasks from executive assistance to chief-of-staff work. The experiments promise efficiency while raising questions about how human teams will adapt.",
+      "discussionPrompt": "If an AI helper joined your team, what harmless chore would you gladly hand over first: scheduling, sorting messages, making lists, research, or reminding everyone where they left things?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon"
+        "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker"
       ]
     },
     {
-      "title": "China’s coastal wetlands turn a vivid red",
-      "summary": "Autumn seepweed has turned wetlands near Qingdao, China, a striking crimson. The seasonal color change creates a red-beach mosaic across salt marshes from September through November.",
-      "discussionPrompt": "What seasonal change do you look forward to seeing most: autumn colors, the first snow, spring blossoms, summer storms, migrating birds, or something local?",
+      "title": "Psychics debate AI-generated readings",
+      "summary": "Some psychics say AI-generated readings cannot replace the empathy and personal connection they see as central to their work. The debate is another example of AI entering highly human-facing services.",
+      "discussionPrompt": "For advice that feels personal, do you care more about the answer itself or who delivers it? Could a clever app ever feel as comforting as a real conversation?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures"
+        "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
       ]
     },
     {
-      "title": "Gulliver’s Travels reaches its 300th anniversary",
-      "summary": "Ireland is marking 300 years since Jonathan Swift’s Gulliver’s Travels was published. Exhibitions, talks, and performances are exploring how its satire still speaks to modern readers.",
-      "discussionPrompt": "Which old book, movie, or song still feels surprisingly modern to you? Is it the story, the humor, the characters, or the questions it asks?",
+      "title": "DoorDash agrees to buy Instacart",
+      "summary": "DoorDash has agreed to buy Instacart for $17 billion, a deal that would combine two major delivery businesses. The companies say grocery delivery remains difficult to make work smoothly online.",
+      "discussionPrompt": "What would make grocery delivery genuinely useful to you: better substitutions, lower fees, faster delivery, reusable packaging, recipes that use what you already have, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin"
+        "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
       ]
     },
     {
-      "title": "A rare dinosaur skeleton sells for $47.3 million",
-      "summary": "A Nanotyrannus skeleton named Jodi sold at a New York auction for $47.3 million. Sotheby’s called it the second most valuable dinosaur fossil ever sold at auction.",
-      "discussionPrompt": "If a museum could borrow one extraordinary object for your town, would you choose a dinosaur fossil, moon rock, famous painting, vintage train, or a historical treasure?",
+      "title": "US growth beats forecasts as inflation rises",
+      "summary": "New Commerce Department data showed US economic growth outpacing expectations in the third quarter, while inflation reached 3.7%. The mixed picture arrives alongside weaker consumer sentiment.",
+      "discussionPrompt": "When people say the economy is doing well, what do you notice first in everyday life: grocery prices, wages, job options, rent, small businesses, or something totally different?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction"
+        "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
       ]
     },
     {
-      "title": "HSBC reports a stronger quarter",
-      "summary": "HSBC reported a 32% rise in quarterly profits while saying it faces no pressure to move its headquarters from the UK. The results feed into continuing discussion about bank taxes and consumer affordability.",
-      "discussionPrompt": "When a big company has a strong year, where should its extra money go first: lower prices, better service, staff pay, new ideas, taxes, or investor returns?",
+      "title": "England beat Sri Lanka in tri-series finale",
+      "summary": "Ben Duckett scored 167 and Liam Dawson took four wickets as England beat Sri Lanka by 55 runs. The win was England's consolation result in the one-day tri-series.",
+      "discussionPrompt": "What makes a sports comeback satisfying to watch: one player having an incredible day, the whole team finding its rhythm, a clever tactic, or a tense finish?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes"
+        "https://www.theguardian.com/sport/2026/oct/29/england-sri-lanka-tri-series-match-report-duckett-dawson"
       ]
     },
     {
-      "title": "Emergency-planning advice changes shopping lists",
-      "summary": "UK retailers reported increased sales of bottled water, tinned food, wind-up radios, and torches after government guidance encouraged households to prepare for disruptions from extreme weather or cyber incidents.",
-      "discussionPrompt": "What three practical items would you keep for a short power outage or stormy weekend: snacks, flashlight, radio, blankets, board games, phone battery, or something else?",
+      "title": "Pasifika fans bring colour to Rugby League World Cup",
+      "summary": "Supporters from Pacific communities in western Sydney are bringing colour, music, and strong local connection to the Rugby League World Cup as their home nations compete.",
+      "discussionPrompt": "What turns a sporting event into a community celebration: flags, music, family traditions, food, friendly rivalries, travelling together, or the chance to cheer for a place that feels like home?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice"
+        "https://www.theguardian.com/sport/2026/oct/29/rugby-league-world-cup-sydney-tonga-samoa-pasifika-pride"
       ]
     },
     {
-      "title": "Commonwealth leaders will discuss slavery’s legacy",
-      "summary": "King Charles said he will discuss the legacy of slavery with Commonwealth leaders during a Caribbean summit. The visit has renewed attention on historical acknowledgment, dialogue, and calls for reparative action.",
-      "discussionPrompt": "When communities reckon with difficult history, what helps a conversation stay thoughtful: listening first, learning local stories, public art, school lessons, shared events, or something else?",
+      "title": "Tiny Melbourne apartment wins design recognition",
+      "summary": "A compact Melbourne basement was transformed into an award-winning apartment with less than 40 square metres of floor space. The design uses careful planning and spatial tricks to make a small home feel lively.",
+      "discussionPrompt": "If you had to make a very small apartment feel bigger, what would you prioritize: hidden storage, big windows, flexible furniture, a great kitchen, a cozy reading nook, or bold colours?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
+        "https://www.theguardian.com/lifeandstyle/2026/oct/29/tiny-basement-exuberant-apartment-wins-interior-prize-national-architecture-awards-australia"
       ]
     }
   ]
