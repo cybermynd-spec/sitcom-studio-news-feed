@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-10-29T17:01:09.568Z",
+  "updatedUtc": "2026-10-30T13:25:59Z",
   "topics": [
     {
-      "title": "Electric ferries gain momentum in the US",
-      "summary": "New electric ferries are arriving in the United States, including designs that can lift above the water. Supporters say replacing diesel vessels could cut emissions and improve local air quality.",
-      "discussionPrompt": "Would you rather take a quiet electric ferry, a classic boat with lots of character, or one that actually lifts above the waves? What would make a short crossing feel like part of the adventure?",
+      "title": "Tiny ponds offer a simple wildlife boost",
+      "summary": "A gardening writer says even a small container pond can offer water, shelter and food for urban wildlife. The idea makes backyard habitat feel more approachable than a major landscaping project.",
+      "discussionPrompt": "If you could add one tiny nature feature where you live, would you choose a mini pond, bird feeder, balcony herbs, wildflowers, or something stranger? What creature would you hope visits first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/lifeandstyle/2026/oct/30/tiny-pond-wildlife-garden"]
     },
     {
-      "title": "Queen of Spain butterflies arrive in Britain",
-      "summary": "Thousands of golden Queen of Spain butterflies have arrived in Britain this year. Experts are watching to see whether this striking visitor can establish a lasting population.",
-      "discussionPrompt": "If an unexpected new butterfly or bird began showing up where you live, would you be excited, curious, or a little cautious? Which wild visitor would make you stop and look twice?",
+      "title": "Biodiversity summit faces pressure to deliver",
+      "summary": "Ministers gathering for the COP17 biodiversity summit are confronting slow progress toward targets agreed four years ago. The discussions renew questions about how international nature agreements can turn promises into practical action.",
+      "discussionPrompt": "When a big environmental promise feels far away, what local change seems most real to you: planting native species, protecting parks, changing how food is grown, cleaning waterways, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/30/biodiversity-cop17-process"]
     },
     {
-      "title": "A Cumbrian hill farm makes its organic shift",
-      "summary": "A hill farm near Tebay in Cumbria is formally converting to organic certification after long using organic principles. The change highlights the practical challenges and values behind lower-input farming.",
-      "discussionPrompt": "If you ran a small farm or garden, what would matter most: growing unusual food, protecting wildlife, making a living, trying new methods, or keeping old traditions alive?",
+      "title": "Finland investigates forest clearing for data-centre site",
+      "summary": "Finnish authorities have opened a criminal investigation into forest clearing connected to a planned Google data-centre site. The case highlights the tensions between digital infrastructure, permitting and protection of nearby landscapes.",
+      "discussionPrompt": "If a major new data centre came near your town, what question would you ask first: jobs, energy use, water, forests, taxes, internet benefits, or who gets a say?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre"]
     },
     {
-      "title": "Workplaces weigh AI agent co-workers",
-      "summary": "Companies are testing AI agents for tasks from executive assistance to chief-of-staff work. The experiments promise efficiency while raising questions about how human teams will adapt.",
-      "discussionPrompt": "If an AI helper joined your team, what harmless chore would you gladly hand over first: scheduling, sorting messages, making lists, research, or reminding everyone where they left things?",
+      "title": "Toblerone shape dispute reaches court",
+      "summary": "Toblerone’s owner has sued a small British vegan chocolate maker, arguing that its rounded segmented O'bar too closely resembles the famous Swiss bar’s distinctive design. The smaller company says its product has its own identity.",
+      "discussionPrompt": "How much can a product’s shape belong to one company? If you invented a snack bar, would you go for a memorable shape, unusual flavour, brilliant name, or eye-catching wrapper?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape"]
     },
     {
-      "title": "Psychics debate AI-generated readings",
-      "summary": "Some psychics say AI-generated readings cannot replace the empathy and personal connection they see as central to their work. The debate is another example of AI entering highly human-facing services.",
-      "discussionPrompt": "For advice that feels personal, do you care more about the answer itself or who delivers it? Could a clever app ever feel as comforting as a real conversation?",
+      "title": "Hidden letters add detail to a historic voyage",
+      "summary": "A cache of personal letters from a scientist on the ill-fated La Pérouse expedition has resurfaced in France. The letters offer a rare personal view of an ambitious 18th-century scientific journey.",
+      "discussionPrompt": "If you found a bundle of centuries-old letters in a book, would you read them immediately, preserve them unopened, or hand them to a museum? What history would you most want them to reveal?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery"]
     },
     {
-      "title": "DoorDash agrees to buy Instacart",
-      "summary": "DoorDash has agreed to buy Instacart for $17 billion, a deal that would combine two major delivery businesses. The companies say grocery delivery remains difficult to make work smoothly online.",
-      "discussionPrompt": "What would make grocery delivery genuinely useful to you: better substitutions, lower fees, faster delivery, reusable packaging, recipes that use what you already have, or something else?",
+      "title": "Autumn light transforms a Scottish landscape",
+      "summary": "A nature diary from Loch Insh reflects on how Scotland’s shortening autumn days change the quality of light. The piece finds beauty in a seasonal shift often associated with darker evenings.",
+      "discussionPrompt": "What is the best part of the change into autumn where you are: crisp air, earlier sunsets, bright leaves, cozy indoors, migrating birds, or the excuse for a warm drink?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science/all"]
     },
     {
-      "title": "US growth beats forecasts as inflation rises",
-      "summary": "New Commerce Department data showed US economic growth outpacing expectations in the third quarter, while inflation reached 3.7%. The mixed picture arrives alongside weaker consumer sentiment.",
-      "discussionPrompt": "When people say the economy is doing well, what do you notice first in everyday life: grocery prices, wages, job options, rent, small businesses, or something totally different?",
+      "title": "Europe's tech shares slide on AI spending worries",
+      "summary": "European stocks eased as investors reconsidered the scale and payoff of heavy AI investment. Even so, the broader regional market remained on track for a strong month helped by corporate earnings.",
+      "discussionPrompt": "When a new technology needs huge investment before it pays off, what makes you patient: clear usefulness, exciting possibilities, trusted builders, lower costs later, or a good backup plan?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/european-shares-ease-ai-driven-tech-selloff-deepens-2026-10-30/"]
     },
     {
-      "title": "England beat Sri Lanka in tri-series finale",
-      "summary": "Ben Duckett scored 167 and Liam Dawson took four wickets as England beat Sri Lanka by 55 runs. The win was England's consolation result in the one-day tri-series.",
-      "discussionPrompt": "What makes a sports comeback satisfying to watch: one player having an incredible day, the whole team finding its rhythm, a clever tactic, or a tense finish?",
+      "title": "Busy week ahead for markets and central banks",
+      "summary": "Investors are looking toward US jobs data, large technology earnings, midterm elections and several central-bank meetings. The crowded calendar could offer new signals about growth, inflation and AI investment.",
+      "discussionPrompt": "Which kind of news feels most connected to everyday life: job numbers, interest-rate decisions, new gadgets, election results, company earnings, or the price of a favorite treat?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/sport/2026/oct/29/england-sri-lanka-tri-series-match-report-duckett-dawson"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/take-five/global-markets-themes-2026-10-30/"]
     },
     {
-      "title": "Pasifika fans bring colour to Rugby League World Cup",
-      "summary": "Supporters from Pacific communities in western Sydney are bringing colour, music, and strong local connection to the Rugby League World Cup as their home nations compete.",
-      "discussionPrompt": "What turns a sporting event into a community celebration: flags, music, family traditions, food, friendly rivalries, travelling together, or the chance to cheer for a place that feels like home?",
+      "title": "Data-centre construction raises worker-safety questions",
+      "summary": "An investigation into Europe’s data-centre building boom reports concerns about working conditions on some projects. The story draws attention to the people and construction work behind the digital services used every day.",
+      "discussionPrompt": "When you picture the internet, do you think more about apps and devices or the buildings and people behind them? What hidden part of modern technology surprises you most?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/sport/2026/oct/29/rugby-league-world-cup-sydney-tonga-samoa-pasifika-pride"
-      ]
+      "sourceNames": ["The Guardian", "Investigate Europe"],
+      "sourceUrls": ["https://www.theguardian.com/technology/all", "https://www.investigate-europe.eu/"]
     },
     {
-      "title": "Tiny Melbourne apartment wins design recognition",
-      "summary": "A compact Melbourne basement was transformed into an award-winning apartment with less than 40 square metres of floor space. The design uses careful planning and spatial tricks to make a small home feel lively.",
-      "discussionPrompt": "If you had to make a very small apartment feel bigger, what would you prioritize: hidden storage, big windows, flexible furniture, a great kitchen, a cozy reading nook, or bold colours?",
+      "title": "A major crypto theft renews security debates",
+      "summary": "A North Korean group has been blamed for a multibillion-dollar theft from Binance, according to reporting on the case. The allegation has put digital-asset security and the risks of online financial systems back in focus.",
+      "discussionPrompt": "What makes an online account feel secure enough to trust: two-step login, a password manager, alerts, backup codes, a helpful human support line, or simply keeping less money online?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/lifeandstyle/2026/oct/29/tiny-basement-exuberant-apartment-wins-interior-prize-national-architecture-awards-australia"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/all"]
     }
   ]
 }
