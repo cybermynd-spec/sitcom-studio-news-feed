@@ -1,85 +1,15 @@
 {
-  "updatedUtc": "2026-10-30T13:25:59Z",
+  "updatedUtc": "2026-10-31T15:55:48.808Z",
   "topics": [
-    {
-      "title": "Tiny ponds offer a simple wildlife boost",
-      "summary": "A gardening writer says even a small container pond can offer water, shelter and food for urban wildlife. The idea makes backyard habitat feel more approachable than a major landscaping project.",
-      "discussionPrompt": "If you could add one tiny nature feature where you live, would you choose a mini pond, bird feeder, balcony herbs, wildflowers, or something stranger? What creature would you hope visits first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/lifeandstyle/2026/oct/30/tiny-pond-wildlife-garden"]
-    },
-    {
-      "title": "Biodiversity summit faces pressure to deliver",
-      "summary": "Ministers gathering for the COP17 biodiversity summit are confronting slow progress toward targets agreed four years ago. The discussions renew questions about how international nature agreements can turn promises into practical action.",
-      "discussionPrompt": "When a big environmental promise feels far away, what local change seems most real to you: planting native species, protecting parks, changing how food is grown, cleaning waterways, or something else?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/oct/30/biodiversity-cop17-process"]
-    },
-    {
-      "title": "Finland investigates forest clearing for data-centre site",
-      "summary": "Finnish authorities have opened a criminal investigation into forest clearing connected to a planned Google data-centre site. The case highlights the tensions between digital infrastructure, permitting and protection of nearby landscapes.",
-      "discussionPrompt": "If a major new data centre came near your town, what question would you ask first: jobs, energy use, water, forests, taxes, internet benefits, or who gets a say?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre"]
-    },
-    {
-      "title": "Toblerone shape dispute reaches court",
-      "summary": "Toblerone’s owner has sued a small British vegan chocolate maker, arguing that its rounded segmented O'bar too closely resembles the famous Swiss bar’s distinctive design. The smaller company says its product has its own identity.",
-      "discussionPrompt": "How much can a product’s shape belong to one company? If you invented a snack bar, would you go for a memorable shape, unusual flavour, brilliant name, or eye-catching wrapper?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/oct/29/toblerone-owner-sues-british-vegan-chocolate-brand-over-chunky-shape"]
-    },
-    {
-      "title": "Hidden letters add detail to a historic voyage",
-      "summary": "A cache of personal letters from a scientist on the ill-fated La Pérouse expedition has resurfaced in France. The letters offer a rare personal view of an ambitious 18th-century scientific journey.",
-      "discussionPrompt": "If you found a bundle of centuries-old letters in a book, would you read them immediately, preserve them unopened, or hand them to a museum? What history would you most want them to reveal?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/oct/29/rare-love-letters-french-aristocrat-la-perouse-maritime-mystery"]
-    },
-    {
-      "title": "Autumn light transforms a Scottish landscape",
-      "summary": "A nature diary from Loch Insh reflects on how Scotland’s shortening autumn days change the quality of light. The piece finds beauty in a seasonal shift often associated with darker evenings.",
-      "discussionPrompt": "What is the best part of the change into autumn where you are: crisp air, earlier sunsets, bright leaves, cozy indoors, migrating birds, or the excuse for a warm drink?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/all"]
-    },
-    {
-      "title": "Europe's tech shares slide on AI spending worries",
-      "summary": "European stocks eased as investors reconsidered the scale and payoff of heavy AI investment. Even so, the broader regional market remained on track for a strong month helped by corporate earnings.",
-      "discussionPrompt": "When a new technology needs huge investment before it pays off, what makes you patient: clear usefulness, exciting possibilities, trusted builders, lower costs later, or a good backup plan?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/european-shares-ease-ai-driven-tech-selloff-deepens-2026-10-30/"]
-    },
-    {
-      "title": "Busy week ahead for markets and central banks",
-      "summary": "Investors are looking toward US jobs data, large technology earnings, midterm elections and several central-bank meetings. The crowded calendar could offer new signals about growth, inflation and AI investment.",
-      "discussionPrompt": "Which kind of news feels most connected to everyday life: job numbers, interest-rate decisions, new gadgets, election results, company earnings, or the price of a favorite treat?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/take-five/global-markets-themes-2026-10-30/"]
-    },
-    {
-      "title": "Data-centre construction raises worker-safety questions",
-      "summary": "An investigation into Europe’s data-centre building boom reports concerns about working conditions on some projects. The story draws attention to the people and construction work behind the digital services used every day.",
-      "discussionPrompt": "When you picture the internet, do you think more about apps and devices or the buildings and people behind them? What hidden part of modern technology surprises you most?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Investigate Europe"],
-      "sourceUrls": ["https://www.theguardian.com/technology/all", "https://www.investigate-europe.eu/"]
-    },
-    {
-      "title": "A major crypto theft renews security debates",
-      "summary": "A North Korean group has been blamed for a multibillion-dollar theft from Binance, according to reporting on the case. The allegation has put digital-asset security and the risks of online financial systems back in focus.",
-      "discussionPrompt": "What makes an online account feel secure enough to trust: two-step login, a password manager, alerts, backup codes, a helpful human support line, or simply keeping less money online?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/all"]
-    }
+    {"title":"Ukraine announces major Patriot missile deal","summary":"Ukraine’s president welcomed a US-backed $2.1bn Patriot missile arrangement, while cautioning that delivery of the missiles could take years. The deal highlights the long planning horizon behind air-defence support.","discussionPrompt":"When something important may take years to arrive, what helps people stay patient: steady updates, small milestones, a clear plan, community support, or a totally different approach?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"]},
+    {"title":"G20 meeting skips its traditional group photo","summary":"The US cancelled a planned G20 foreign-ministers group photo after several countries declined to appear alongside Russia. The unusual diplomatic moment shows how ceremony can become part of a broader political message.","discussionPrompt":"Do symbolic gestures matter much in public life, or do they mostly make headlines? What ordinary group-photo rule would make gatherings less awkward?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"]},
+    {"title":"Russian independent newspaper announces closure","summary":"Novaya Gazeta, one of Russia’s best-known independent news outlets, says it will permanently close next month, citing intensifying pressure. The announcement has renewed attention on the challenges facing independent journalism.","discussionPrompt":"What makes you trust a news source: careful corrections, local reporting, transparent funding, expertise, seeing several viewpoints, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"]},
+    {"title":"Jamaican beach-access campaign gains court support","summary":"A temporary injunction limiting restrictions at Little Dunn’s River has encouraged campaigners seeking public access to Jamaican beaches. The case has brought fresh focus to how tourism development and shared coastal space can coexist.","discussionPrompt":"What local place feels like it should stay open to everyone: a beach, park, trail, library, waterfront, or town square? What makes it special?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/jamaicans-beach-access-fight-court-victory-hope"]},
+    {"title":"Biodiversity summit calls for stronger follow-through","summary":"COP17 biodiversity talks closed with countries reaffirming goals to protect nature and increase funding, while critics said delivery remains far behind promises. The debate centered on turning global commitments into practical action.","discussionPrompt":"If your neighbourhood got one realistic nature project, what would you pick: native plants, safer crossings for wildlife, cleaner streams, shade trees, community gardens, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets"]},
+    {"title":"Experimental farm reports a boost for birds","summary":"A UK research farm says decades of testing wildlife-friendly practices have helped it resist broader declines in farmland birds. Its work combines food production with habitat features such as seed-rich areas and hedgerows.","discussionPrompt":"Could you imagine a farm as a place for both food and wildlife? Which feature sounds nicest: hedgerows, wildflower strips, ponds, nesting spaces, or something unexpected?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/31/this-is-a-robust-recipe-the-experimental-farm-bucking-the-decline-in-uk-birds"]},
+    {"title":"South Dakota mine becomes a neutrino laboratory","summary":"Scientists are preparing giant underground detectors in a former South Dakota gold mine for the Deep Underground Neutrino Experiment. The project aims to study elusive particles and explore basic questions about the universe.","discussionPrompt":"If you could ask a giant underground science experiment one question, would it be about black holes, the beginning of time, alien life, tiny particles, or something wonderfully weird?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter"]},
+    {"title":"Chatbots become dating sidekicks for some singles","summary":"A survey reported that many British singles have used AI for dating advice, message drafts or confidence boosts. The trend is prompting conversations about authenticity, convenience and how people meet online.","discussionPrompt":"Would you ever ask an AI to help write a tricky message, or does that make it feel less like you? What kind of advice is okay to outsource?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"]},
+    {"title":"Tech sell-off raises questions about AI spending","summary":"US markets fell sharply after disappointing results at some large technology companies sharpened investor concerns about the cost and returns of AI investment. The move renewed debate over how quickly new technology can pay off.","discussionPrompt":"When a new invention costs a fortune before it becomes useful, what would convince you it is worth it: a practical benefit, a bold demo, lower prices, trusted experts, or patience?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"]},
+    {"title":"Wildlife trade may involve far more species than thought","summary":"A new report says the global wildlife trade involves more than twice as many plant and animal species as earlier estimates. Researchers point to trade across food, timber, fashion, ornaments and live animals.","discussionPrompt":"Which everyday product makes you wonder most about where it came from: seafood, wood furniture, houseplants, fashion, pets, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report"]}
   ]
 }
