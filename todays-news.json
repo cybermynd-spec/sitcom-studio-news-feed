@@ -1,15 +1,125 @@
 {
-  "updatedUtc": "2026-10-31T15:55:48.808Z",
+  "updatedUtc": "2026-11-01T15:31:12.971Z",
   "topics": [
-    {"title":"Ukraine announces major Patriot missile deal","summary":"Ukraine’s president welcomed a US-backed $2.1bn Patriot missile arrangement, while cautioning that delivery of the missiles could take years. The deal highlights the long planning horizon behind air-defence support.","discussionPrompt":"When something important may take years to arrive, what helps people stay patient: steady updates, small milestones, a clear plan, community support, or a totally different approach?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"]},
-    {"title":"G20 meeting skips its traditional group photo","summary":"The US cancelled a planned G20 foreign-ministers group photo after several countries declined to appear alongside Russia. The unusual diplomatic moment shows how ceremony can become part of a broader political message.","discussionPrompt":"Do symbolic gestures matter much in public life, or do they mostly make headlines? What ordinary group-photo rule would make gatherings less awkward?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"]},
-    {"title":"Russian independent newspaper announces closure","summary":"Novaya Gazeta, one of Russia’s best-known independent news outlets, says it will permanently close next month, citing intensifying pressure. The announcement has renewed attention on the challenges facing independent journalism.","discussionPrompt":"What makes you trust a news source: careful corrections, local reporting, transparent funding, expertise, seeing several viewpoints, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close"]},
-    {"title":"Jamaican beach-access campaign gains court support","summary":"A temporary injunction limiting restrictions at Little Dunn’s River has encouraged campaigners seeking public access to Jamaican beaches. The case has brought fresh focus to how tourism development and shared coastal space can coexist.","discussionPrompt":"What local place feels like it should stay open to everyone: a beach, park, trail, library, waterfront, or town square? What makes it special?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/world/2026/oct/31/jamaicans-beach-access-fight-court-victory-hope"]},
-    {"title":"Biodiversity summit calls for stronger follow-through","summary":"COP17 biodiversity talks closed with countries reaffirming goals to protect nature and increase funding, while critics said delivery remains far behind promises. The debate centered on turning global commitments into practical action.","discussionPrompt":"If your neighbourhood got one realistic nature project, what would you pick: native plants, safer crossings for wildlife, cleaner streams, shade trees, community gardens, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets"]},
-    {"title":"Experimental farm reports a boost for birds","summary":"A UK research farm says decades of testing wildlife-friendly practices have helped it resist broader declines in farmland birds. Its work combines food production with habitat features such as seed-rich areas and hedgerows.","discussionPrompt":"Could you imagine a farm as a place for both food and wildlife? Which feature sounds nicest: hedgerows, wildflower strips, ponds, nesting spaces, or something unexpected?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/31/this-is-a-robust-recipe-the-experimental-farm-bucking-the-decline-in-uk-birds"]},
-    {"title":"South Dakota mine becomes a neutrino laboratory","summary":"Scientists are preparing giant underground detectors in a former South Dakota gold mine for the Deep Underground Neutrino Experiment. The project aims to study elusive particles and explore basic questions about the universe.","discussionPrompt":"If you could ask a giant underground science experiment one question, would it be about black holes, the beginning of time, alien life, tiny particles, or something wonderfully weird?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter"]},
-    {"title":"Chatbots become dating sidekicks for some singles","summary":"A survey reported that many British singles have used AI for dating advice, message drafts or confidence boosts. The trend is prompting conversations about authenticity, convenience and how people meet online.","discussionPrompt":"Would you ever ask an AI to help write a tricky message, or does that make it feel less like you? What kind of advice is okay to outsource?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating"]},
-    {"title":"Tech sell-off raises questions about AI spending","summary":"US markets fell sharply after disappointing results at some large technology companies sharpened investor concerns about the cost and returns of AI investment. The move renewed debate over how quickly new technology can pay off.","discussionPrompt":"When a new invention costs a fortune before it becomes useful, what would convince you it is worth it: a practical benefit, a bold demo, lower prices, trusted experts, or patience?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates"]},
-    {"title":"Wildlife trade may involve far more species than thought","summary":"A new report says the global wildlife trade involves more than twice as many plant and animal species as earlier estimates. Researchers point to trade across food, timber, fashion, ornaments and live animals.","discussionPrompt":"Which everyday product makes you wonder most about where it came from: seafood, wood furniture, houseplants, fashion, pets, or something else?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report"]}
+    {
+      "title": "Rare oil beetle rediscovered in Wales",
+      "summary": "Natural Resources Wales says the short-necked oil beetle has been found in Wales for the first time in nearly 60 years. The unusual insect is known for releasing an oily defensive substance when threatened.",
+      "discussionPrompt": "A beetle disappeared from a place for decades and then turned up again. What small creature would make you oddly happy to spot in your neighbourhood?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/all"
+      ]
+    },
+    {
+      "title": "Experts share simple memory-boosting habits",
+      "summary": "Memory specialists offered practical ideas such as reading, getting enough sleep and staying mentally engaged. The advice focuses on everyday habits rather than expensive gadgets or dramatic overhauls.",
+      "discussionPrompt": "What helps you remember things best: sticky notes, routines, a song, telling someone out loud, or accepting that some mysteries are meant to stay mysterious?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/all"
+      ]
+    },
+    {
+      "title": "Binance resumes withdrawals after cyberattack",
+      "summary": "Crypto exchange Binance said customer withdrawals were resuming after a record hack, with the company reporting that most losses were covered. The incident has renewed attention on security practices for digital assets.",
+      "discussionPrompt": "When an online service has a security scare, what makes you feel reassured: a clear explanation, quick repairs, compensation, independent checks, or a good old-fashioned password change?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/all"
+      ]
+    },
+    {
+      "title": "Harriet Dart wins her first WTA title",
+      "summary": "Britain’s Harriet Dart won the Guangzhou Open, claiming her first WTA singles title at age 30. The victory gives her a career milestone after years of competing on the professional tennis circuit.",
+      "discussionPrompt": "Is there a hobby or goal you would happily keep working at for years just to get one brilliant breakthrough moment?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/all"
+      ]
+    },
+    {
+      "title": "Tonga’s rugby win celebrated as Pasifika pride",
+      "summary": "Tonga’s close victory over Samoa at the Rugby League World Cup was framed as a memorable moment of Pasifika sporting pride. The match drew attention for its intensity and the community energy surrounding it.",
+      "discussionPrompt": "What makes a sporting rivalry fun to watch: the skill, the crowd, family bragging rights, the underdog story, or snacks that are way too elaborate?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/all"
+      ]
+    },
+    {
+      "title": "Manchester United keep Carrick in charge for Roma match",
+      "summary": "Michael Carrick is set to remain in charge of Manchester United for its upcoming Roma fixture despite a recent league defeat. The decision keeps the focus on how the team responds in its next game.",
+      "discussionPrompt": "When a group is having a rough patch, is it better to change the leader quickly or give everyone time to settle and improve together?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/all"
+      ]
+    },
+    {
+      "title": "Europe sees demonstrations over democracy and economic pressure",
+      "summary": "Demonstrations continued in several European cities over the Halloween weekend, with participants raising concerns about democracy and economic hardship. Reports noted that most events were peaceful, though some clashes occurred.",
+      "discussionPrompt": "What is the most useful way for a community to make itself heard: a meeting, a march, art, a petition, a local project, or a very persuasive bake sale?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/nov/01/all"
+      ]
+    },
+    {
+      "title": "US-China trade truce remains fragile",
+      "summary": "A temporary easing in US-China trade tensions has cooled immediate worries, but observers say the underlying disagreements remain unresolved. The situation leaves businesses watching for the next turn in a long-running economic rivalry.",
+      "discussionPrompt": "When two people call a truce but still disagree, what actually helps it last: clear rules, shared projects, humour, snacks, or letting time do its thing?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/all"
+      ]
+    },
+    {
+      "title": "Football fans prepare for Liverpool versus Arsenal",
+      "summary": "Liverpool and Arsenal meet in a major Premier League fixture, drawing attention as both teams look to build momentum. The match is one of the day’s headline events in English football.",
+      "discussionPrompt": "For a big game, are you a serious analyst, a superstitious viewer, a loyal supporter no matter what, or mainly there for the snacks?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport/all"
+      ]
+    },
+    {
+      "title": "Wildlife-friendly farm offers hopeful bird story",
+      "summary": "An experimental UK farm says decades of wildlife-friendly methods have helped support bird populations while maintaining food production. Its approach includes habitat features such as seed-rich areas and hedgerows.",
+      "discussionPrompt": "If you could add one wildlife-friendly feature near home, would you choose a tiny pond, native flowers, a bird box, a hedgerow, or a miniature bee café?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/all"
+      ]
+    }
   ]
 }
