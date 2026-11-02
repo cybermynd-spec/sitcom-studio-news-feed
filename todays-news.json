@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-11-01T15:31:12.971Z",
+  "updatedUtc": "2026-11-02T16:00:24.378Z",
   "topics": [
     {
-      "title": "Rare oil beetle rediscovered in Wales",
-      "summary": "Natural Resources Wales says the short-necked oil beetle has been found in Wales for the first time in nearly 60 years. The unusual insect is known for releasing an oily defensive substance when threatened.",
-      "discussionPrompt": "A beetle disappeared from a place for decades and then turned up again. What small creature would make you oddly happy to spot in your neighbourhood?",
+      "title": "European supermarkets investigate freezer disruptions",
+      "summary": "Supermarkets in at least seven European countries reported refrigeration problems overnight, with several companies describing a cyberattack. The incidents renewed attention on the security of internet-connected equipment that keeps everyday retail running.",
+      "discussionPrompt": "A fridge hack sounds like the plot of a very strange heist movie. Which ordinary household gadget would cause the most chaos if it suddenly developed a mind of its own?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/all"
+        "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
       ]
     },
     {
-      "title": "Experts share simple memory-boosting habits",
-      "summary": "Memory specialists offered practical ideas such as reading, getting enough sleep and staying mentally engaged. The advice focuses on everyday habits rather than expensive gadgets or dramatic overhauls.",
-      "discussionPrompt": "What helps you remember things best: sticky notes, routines, a song, telling someone out loud, or accepting that some mysteries are meant to stay mysterious?",
+      "title": "Hungary plans to open communist-era informant records",
+      "summary": "Hungary is preparing to reveal names from communist-era informant files, prompting families and historians to confront difficult questions about memory, accountability and the meaning of public records decades later.",
+      "discussionPrompt": "If an old family box suddenly revealed a surprising chapter of local history, would you want every detail, or would some mysteries be better handled gently?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/all"
+        "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past"
       ]
     },
     {
-      "title": "Binance resumes withdrawals after cyberattack",
-      "summary": "Crypto exchange Binance said customer withdrawals were resuming after a record hack, with the company reporting that most losses were covered. The incident has renewed attention on security practices for digital assets.",
-      "discussionPrompt": "When an online service has a security scare, what makes you feel reassured: a clear explanation, quick repairs, compensation, independent checks, or a good old-fashioned password change?",
+      "title": "Olympic hopefuls experiment with modern formats",
+      "summary": "Sports seeking a place in Brisbane 2032 are trying new formats, from obstacle courses to wearable technology. The changes show how governing bodies are balancing tradition with a push to attract new audiences.",
+      "discussionPrompt": "If you had to give an old sport one playful modern twist, would you add gadgets, a new setting, a shorter format, or an unexpectedly dramatic soundtrack?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/all"
+        "https://www.theguardian.com/sport/2026/nov/02/brisbane-2032-olympic-program-race-walking-microchips"
       ]
     },
     {
-      "title": "Harriet Dart wins her first WTA title",
-      "summary": "Britain’s Harriet Dart won the Guangzhou Open, claiming her first WTA singles title at age 30. The victory gives her a career milestone after years of competing on the professional tennis circuit.",
-      "discussionPrompt": "Is there a hobby or goal you would happily keep working at for years just to get one brilliant breakthrough moment?",
+      "title": "Questions raised over AI use in NHS trusts",
+      "summary": "A report says some NHS trusts listed as benefiting from a Palantir AI system say they use it little or not at all. The gap has sparked questions about how technology rollouts are described and measured.",
+      "discussionPrompt": "When a new tool is introduced at work, what makes it genuinely useful: good training, a clear problem to solve, time to learn it, or people actually asking users what they need?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/all"
+        "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts"
       ]
     },
     {
-      "title": "Tonga’s rugby win celebrated as Pasifika pride",
-      "summary": "Tonga’s close victory over Samoa at the Rugby League World Cup was framed as a memorable moment of Pasifika sporting pride. The match drew attention for its intensity and the community energy surrounding it.",
-      "discussionPrompt": "What makes a sporting rivalry fun to watch: the skill, the crowd, family bragging rights, the underdog story, or snacks that are way too elaborate?",
+      "title": "Venus, the moon and Spica line up before dawn",
+      "summary": "Early risers can look for Venus near the waning crescent moon and Spica, Virgo's brightest star. The close-looking trio offers a simple reason to glance skyward before sunrise this week.",
+      "discussionPrompt": "Are you an enthusiastic sky watcher, or do you mostly notice the stars when someone else points them out? What would get you outside before dawn?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/all"
+        "https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn"
       ]
     },
     {
-      "title": "Manchester United keep Carrick in charge for Roma match",
-      "summary": "Michael Carrick is set to remain in charge of Manchester United for its upcoming Roma fixture despite a recent league defeat. The decision keeps the focus on how the team responds in its next game.",
-      "discussionPrompt": "When a group is having a rough patch, is it better to change the leader quickly or give everyone time to settle and improve together?",
+      "title": "Scientists warn of lasting ice loss above 1.5C",
+      "summary": "A UN-backed report warns that even temporary warming above 1.5C could permanently damage glaciers and polar ice sheets. Researchers say the impacts could continue long after temperatures fall again.",
+      "discussionPrompt": "Big climate numbers can feel abstract. What helps make a long-term environmental change feel real to you: a familiar place, a photo, a personal story, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/all"
+        "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
       ]
     },
     {
-      "title": "Europe sees demonstrations over democracy and economic pressure",
-      "summary": "Demonstrations continued in several European cities over the Halloween weekend, with participants raising concerns about democracy and economic hardship. Reports noted that most events were peaceful, though some clashes occurred.",
-      "discussionPrompt": "What is the most useful way for a community to make itself heard: a meeting, a march, art, a petition, a local project, or a very persuasive bake sale?",
+      "title": "Rare ant colony stolen from Devon reserve",
+      "summary": "A rare narrow-headed ant colony was taken from the only English site where the species survives, according to a Devon reserve. Conservationists say the theft has set back years of careful protection work.",
+      "discussionPrompt": "Nature reserves protect surprisingly tiny treasures. What small creature or plant do you think deserves far more appreciation than it usually gets?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/nov/01/all"
+        "https://www.theguardian.com/environment/2026/nov/02/rare-narrow-headed-ant-nest-stolen-devon"
       ]
     },
     {
-      "title": "US-China trade truce remains fragile",
-      "summary": "A temporary easing in US-China trade tensions has cooled immediate worries, but observers say the underlying disagreements remain unresolved. The situation leaves businesses watching for the next turn in a long-running economic rivalry.",
-      "discussionPrompt": "When two people call a truce but still disagree, what actually helps it last: clear rules, shared projects, humour, snacks, or letting time do its thing?",
+      "title": "A weaker polar vortex may shift Europe's weather",
+      "summary": "Scientists are watching a disruption in high-altitude Arctic winds that could bring colder conditions to parts of Europe in coming weeks. Forecasts remain uncertain, but the polar vortex is back in the conversation.",
+      "discussionPrompt": "Weather science has some wonderfully dramatic names. Which forecast phrase sounds most like a band name: polar vortex, atmospheric river, thunder snow, or something you would invent?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/all"
+        "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"
       ]
     },
     {
-      "title": "Football fans prepare for Liverpool versus Arsenal",
-      "summary": "Liverpool and Arsenal meet in a major Premier League fixture, drawing attention as both teams look to build momentum. The match is one of the day’s headline events in English football.",
-      "discussionPrompt": "For a big game, are you a serious analyst, a superstitious viewer, a loyal supporter no matter what, or mainly there for the snacks?",
+      "title": "Tomb Raider creators revisit a gaming landmark",
+      "summary": "People behind the original Tomb Raider reflect on how Lara Croft and the game's success changed their lives. Their memories revisit a moment when a small team suddenly found itself shaping popular culture.",
+      "discussionPrompt": "Which old game, show, or gadget instantly takes you back to a particular time? Is it the story, the soundtrack, the look, or the people you shared it with?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/sport/all"
+        "https://www.theguardian.com/culture/2026/nov/02/tomb-raider-creators-lara-croft"
       ]
     },
     {
-      "title": "Wildlife-friendly farm offers hopeful bird story",
-      "summary": "An experimental UK farm says decades of wildlife-friendly methods have helped support bird populations while maintaining food production. Its approach includes habitat features such as seed-rich areas and hedgerows.",
-      "discussionPrompt": "If you could add one wildlife-friendly feature near home, would you choose a tiny pond, native flowers, a bird box, a hedgerow, or a miniature bee café?",
+      "title": "Festive chocolate names become a trademark dispute",
+      "summary": "Cadbury owner Mondelēz is challenging a vegan brand's use of a similar name for a festive chocolate treat. The row is a reminder that even cheerful seasonal snacks can lead to serious brand arguments.",
+      "discussionPrompt": "If you created a holiday snack, what would you call it? Bonus points for a name that sounds delicious, mildly ridiculous, and impossible to trademark.",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/all"
+        "https://www.theguardian.com/business/2026/nov/02/snowball-fight-cadbury-owner-in-trademark-row-over-festive-chocolate-treat"
       ]
     }
   ]
