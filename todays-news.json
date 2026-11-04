@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-11-03T15:16:18.148Z",
+  "updatedUtc": "2026-11-04T16:54:31.609Z",
   "topics": [
     {
-      "title": "US voters weigh ballot measures alongside midterms",
-      "summary": "Voters across the United States are deciding congressional control as well as 145 proposed laws and constitutional amendments. Measures on issues including voting rules and redistricting show how local ballots can shape national debates.",
-      "discussionPrompt": "Ballot questions can be surprisingly specific. If your neighborhood got to vote on one everyday improvement, what would you put on the ballot first?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/fe17112e9538f5e4ed5907f6d1f5b470"
-      ]
-    },
-    {
-      "title": "UK and EU complete food-trade agreement",
-      "summary": "The UK and EU completed a deal intended to remove Brexit-era checks on food and animal products. The agreement could make smaller cross-border orders easier, though implementation is expected in 2028.",
-      "discussionPrompt": "Imagine you run a tiny shop that sells one perfect imported snack. What would be worth the paperwork to keep it on the shelf?",
+      "title": "South Africa votes amid pressure over basic services",
+      "summary": "South Africans are voting in local elections as frustration over water outages, power cuts and municipal services weighs heavily on the governing ANC. The result will be watched as a measure of confidence in local leadership.",
+      "discussionPrompt": "If your town could fix just one everyday service overnight, would you choose buses, streetlights, water, internet, or something more surprising?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products"
+        "https://www.theguardian.com/world/2026/nov/04/all"
       ]
     },
     {
-      "title": "Apple flags rising memory-chip costs",
-      "summary": "Apple said unusually steep memory-chip prices and the cost of serving AI tools could pressure profit margins, despite stronger sales expectations for the holiday season. The warning highlights growing competition for key computer components.",
-      "discussionPrompt": "If every gadget suddenly became more expensive, which one would you keep repairing for years instead of replacing?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Financial Times"
-      ],
-      "sourceUrls": [
-        "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16"
-      ]
-    },
-    {
-      "title": "UK cyber agency warns about AI-enabled attacks",
-      "summary": "Britain's National Cyber Security Centre says AI-powered malware is likely to feature in ransomware attacks on critical infrastructure by 2028. The agency says AI may amplify familiar tactics rather than create entirely new threats.",
-      "discussionPrompt": "A good password manager is not glamorous, but neither is changing every password after a mess. What tiny digital habit makes you feel most organized?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/4e61bf9b55c7d1d15cfd075859d2ba08"
-      ]
-    },
-    {
-      "title": "Brazil publishes fossil-fuel phaseout roadmap",
-      "summary": "Brazil released a global roadmap for moving away from fossil fuels, arguing that countries can pair the transition with economic development. The plan aims to shift climate talks toward practical implementation.",
-      "discussionPrompt": "When a huge goal needs doing, are you more convinced by a bold long-term map or a checklist of small steps you can start today?",
+      "title": "Canada joins hockey boycott of Russia",
+      "summary": "Canada has joined countries declining to play ice hockey against Russia after a sports court lifted a competition ban. The dispute shows how international sport can be pulled into wider questions of conflict and participation.",
+      "discussionPrompt": "Sports are supposed to bring people together, but rules can get complicated fast. What is one sport you think works best as a friendly, no-pressure community event?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels"
+        "https://www.theguardian.com/world/2026/nov/04/all"
       ]
     },
     {
-      "title": "Gardeners get a climate-planning tool",
-      "summary": "UK horticultural groups are developing a free tool to help gardeners estimate how plants may cope with future local conditions. It is designed to make climate adaptation more practical for home gardens.",
-      "discussionPrompt": "If you had a garden that could thrive with almost no fuss, would you fill it with flowers, herbs, vegetables, shade trees, or something gloriously strange?",
+      "title": "Drug researchers look to orbit for new ideas",
+      "summary": "Pharmaceutical firms are exploring experiments in Earth orbit, where microgravity can change how materials and cells behave. Researchers hope those unusual conditions could help them study and develop future medicines.",
+      "discussionPrompt": "If you could send one ordinary object to orbit just to see what changes, what would you pick: bread dough, a plant, paint, or something else?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening"
+        "https://www.theguardian.com/science/all"
       ]
     },
     {
-      "title": "Ruffed grouse decline prompts conservation concern",
-      "summary": "Falling ruffed grouse numbers have led Ohio to withhold open hunting permits for the first time since 1937. Habitat pressure, West Nile virus and warming conditions are among factors cited in the bird's decline.",
-      "discussionPrompt": "Some animals become local legends without anyone noticing. Which bird, bug, or small creature do you secretly root for whenever you spot it?",
+      "title": "French blood-storage facilities hit by cyberattack",
+      "summary": "French blood banks reported a cyberattack affecting cold-storage systems, with temperatures and defrosting settings pushed unusually high. The incident underlines why everyday infrastructure needs both digital and physical safeguards.",
+      "discussionPrompt": "Some of the most important systems are the ones we barely notice. Which everyday service would you most want protected from a tech outage?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/04/ruffed-grouse-population-decline"
+        "https://www.theguardian.com/technology/all"
       ]
     },
     {
-      "title": "Barclays begins some car-finance payouts",
-      "summary": "Barclays became the first major UK lender to offer payments to some customers who complained about mis-sold car loans. The move comes while the wider compensation scheme remains tied up in legal proceedings.",
-      "discussionPrompt": "Buying a car involves so much fine print. What is the most confusing purchase you have ever tried to compare: cars, phones, insurance, or something else?",
+      "title": "Australia debates stronger oversight for automated decisions",
+      "summary": "A report warns Australia needs clearer auditing and public records for government use of algorithms and AI. The discussion centres on how to make automated decisions understandable, fair and accountable.",
+      "discussionPrompt": "When a computer helps make a decision about your life, what would you want explained first: the data, the rule, or how to challenge it?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans"
+        "https://www.theguardian.com/technology/all"
       ]
     },
     {
-      "title": "Birmingham clubbers rally around nightlife spaces",
-      "summary": "People in Birmingham's Digbeth district are campaigning to protect clubs and creative spaces as major rail work approaches. The debate spotlights how redevelopment can reshape a city's nighttime culture.",
-      "discussionPrompt": "Every city needs a place with personality after dark. Would you save the old dance floor, the late-night diner, the tiny cinema, or the weird little shop?",
+      "title": "Wildlife advocates call for quieter fireworks",
+      "summary": "Campaigners are urging the UK government to lower permitted firework noise, arguing that loud displays can distress wildlife. The proposal adds a practical design question to familiar celebrations.",
+      "discussionPrompt": "Would you trade a little spectacle for a quieter celebration that is easier on animals and neighbours? What would make the alternative still feel festive?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/culture/2026/nov/03/birmingham-clubbers-fighting-to-save-britain-nightlife-digbeth"
+        "https://www.theguardian.com/environment/all"
       ]
     },
     {
-      "title": "Drax site proposed for major AI datacentre",
-      "summary": "Drax's owner agreed a plan with investors to develop a large AI datacentre at the North Yorkshire power-station site. Supporters cite investment and jobs, while the proposal raises questions about energy and emissions.",
-      "discussionPrompt": "A giant new data centre needs power, water, land, and neighbors. Which question would you ask first if one were proposed near your town?",
+      "title": "UN says climate-adaptation funding has stalled",
+      "summary": "A UN assessment says finance intended to help lower-income countries adapt to climate impacts has stalled. The gap is keeping attention on practical resilience projects as weather risks become harder to ignore.",
+      "discussionPrompt": "When a community prepares for tougher weather, what feels most useful to you: cooling spaces, better drainage, shade trees, backup power, or neighbour check-ins?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre"
+        "https://www.theguardian.com/environment/all"
+      ]
+    },
+    {
+      "title": "Scientists examine penguin colonies and Antarctic snow",
+      "summary": "New research is exploring how material from penguin colonies can darken Antarctic snow and affect melting. It is a reminder that small changes in surface colour can matter in icy environments.",
+      "discussionPrompt": "Tiny details can have big effects. What is a small change at home that noticeably changes the mood or comfort of a whole room?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/all"
+      ]
+    },
+    {
+      "title": "Britain considers broader facial-recognition trials",
+      "summary": "The UK Home Office is preparing possible facial-recognition use at transport hubs and public events for immigration enforcement. The plans are prompting debate over oversight, privacy and how such technology should be governed.",
+      "discussionPrompt": "Where do you draw the line between convenience and privacy? Would you accept a faster airport queue if it meant more cameras?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown"
+      ]
+    },
+    {
+      "title": "Markets reassess data-centre and AI expectations",
+      "summary": "Global markets are reassessing how election results and possible regulation could affect data centres, artificial intelligence and technology companies. Investors are weighing policy uncertainty alongside continuing enthusiasm for new computing infrastructure.",
+      "discussionPrompt": "Data centres are invisible until one is proposed nearby. What would matter most to you: jobs, electricity use, water, noise, or local control?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-04/"
       ]
     }
   ]
