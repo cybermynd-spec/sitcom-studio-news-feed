@@ -1,85 +1,15 @@
 {
-  "updatedUtc": "2026-11-05T16:15:29.863Z",
+  "updatedUtc": "2026-11-07T16:04:34Z",
   "topics": [
-    {
-      "title": "Stonehenge altar stone mystery narrows",
-      "summary": "Geologists have ruled out north-east Scotland as the source of Stonehenge’s altar stone. New testing narrows the search toward other parts of Scotland, northern England or Ireland without yet settling the prehistoric puzzle.",
-      "discussionPrompt": "If you joined the Stonehenge detective team, would you look for clues in rocks, old maps, boat routes, or something completely different?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out"]
-    },
-    {
-      "title": "A Roman-era ruler gets a fresh look",
-      "summary": "An archaeologist has proposed that Verica, the ruler linked to Rome’s AD43 invasion of Britain, may have been a queen rather than a king. Other experts remain cautious, making it a lively historical debate.",
-      "discussionPrompt": "History can change when someone rereads old clues. What mystery from the past would you most like historians to solve next?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king"]
-    },
-    {
-      "title": "France sees a nationwide strike day",
-      "summary": "Workers and students joined demonstrations across France over living costs, education and public spending. Rail, air traffic, schools and other services faced disruption as unions coordinated industrial action.",
-      "discussionPrompt": "When a city has a big strike day, what small kindness helps people most: sharing travel tips, flexible schedules, bringing snacks, or checking on neighbours?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"]
-    },
-    {
-      "title": "European groups question data-centre growth",
-      "summary": "Campaigners in several European countries are preparing demonstrations over the rapid expansion of data centres. Their concerns include electricity, water, land use and how communities share in the benefits of digital infrastructure.",
-      "discussionPrompt": "If a huge data centre were proposed near you, what would you ask about first: jobs, power use, water, noise, or who gets to decide?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"]
-    },
-    {
-      "title": "Britain considers rules for pavement-blocking ebikes",
-      "summary": "UK ministers are considering measures aimed at rental ebikes left blocking pavements. The discussion is balancing greener short trips with safe, accessible sidewalks for pedestrians and mobility-device users.",
-      "discussionPrompt": "What is the nicest way to keep shared bikes handy without turning the sidewalk into an obstacle course?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/05/e-bikes-blocking-pavements-department-for-transport"]
-    },
-    {
-      "title": "Bank of England raises its interest rate",
-      "summary": "The Bank of England raised its main interest rate to 4%, its first increase in more than three years. The move reflects concern about inflation and will affect borrowers, savers and wider household budgeting.",
-      "discussionPrompt": "When money gets more expensive to borrow, what old-fashioned budget habit suddenly seems smart again?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years"]
-    },
-    {
-      "title": "BT announces nearly 8,000 job cuts",
-      "summary": "Telecoms company BT said it will cut almost 8,000 jobs as part of a broader cost-saving programme. The announcement arrives alongside reported profits and a rising share price, renewing debate about change at large employers.",
-      "discussionPrompt": "When a big company says it is getting leaner, what should it protect first: service quality, staff retraining, local jobs, or future innovation?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/05/bt-cuts-jobs-cost-saving-programme-profit-share-price"]
-    },
-    {
-      "title": "Developing-country debt reaches a record",
-      "summary": "World Bank data shows the debt of developing countries has reached a record $9.4 trillion. The figures highlight the pressure interest costs can place on public services, infrastructure and climate-resilience investment.",
-      "discussionPrompt": "If a community suddenly had more room in its budget, where should it spend first: schools, clinics, roads, clean energy, or something else?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"]
-    },
-    {
-      "title": "Australian doctor balances football and charity work",
-      "summary": "AFLW midfielder Dr Lulu Pullar is preparing for finals while working as a doctor and running a charity. Her story highlights how elite sport can sit alongside service, study and community projects.",
-      "discussionPrompt": "What is the most impressive two-hat combination: athlete and doctor, musician and teacher, baker and coder, or another pairing?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/nov/06/aflw-swans-player-doctor-and-charity-founder-lulu-pullar"]
-    },
-    {
-      "title": "Hijikata stuns Djokovic in Paris",
-      "summary": "Australia’s Rinky Hijikata beat Novak Djokovic in a surprise Paris Masters result. Djokovic praised his opponent’s performance, while the upset gave tennis fans another reminder that momentum can shift quickly.",
-      "discussionPrompt": "What makes an underdog win so satisfying: surprise, persistence, a perfect day, or seeing a familiar favorite get a real challenge?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/nov/05/novak-djokovic-rinky-hijikata-paris-masters-upset-win"]
-    }
+    {"title":"Conservation groups weigh AI's trade-offs","summary":"Environmental groups are using AI to track wildlife, analyze climate data and flag wildfire risks, while also warning that the data centers behind it can consume substantial electricity and water.","discussionPrompt":"Would you use a power-hungry tool if it helped protect forests and wildlife much faster? What rules would make that feel fair?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"]},
+    {"title":"Satellites spotlight landfill methane","summary":"Satellite observations have highlighted methane escaping from a large landfill near Istanbul as Turkey prepares to host COP31. The story underlines both the promise and difficulty of reducing waste-related emissions.","discussionPrompt":"If a city could tackle one messy climate problem first, would you pick landfill waste, traffic, home heating, or something else?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://985theriver.com/2026/11/07/as-cop31-comes-to-turkey-satellites-reveal-a-landfill-methane-problem/"]},
+    {"title":"A white dwarf wears two debris rings","summary":"Astronomers have spotted a white dwarf surrounded by two rings of planetary debris, offering a rare glimpse of what can remain after a star evolves and reshapes its planetary system.","discussionPrompt":"If humans could leave one harmless object drifting around a future star, what tiny time capsule would best represent us?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://new.streetinsider.com/Reuters/US%2BPostal%2BService%2Boutlines%2Bplans%2Bto%2Bhandle%2Bmillions%2Bof%2Bballots/images/news2/271/27191967/LYNXMPEM9E1L3.jpg"]},
+    {"title":"Pakistan plans a space-station visitor","summary":"Chinese state media said a Pakistani astronaut will join China's space station on the Shenzhou-24 mission, a planned step in the countries' space cooperation.","discussionPrompt":"If you could invite one international guest to your orbital station, what skill would they bring to the crew?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.streetinsider.com/Reuters/J"]},
+    {"title":"Robotics deal faces a China rethink","summary":"SoftBank and ABB are reportedly exploring a carve-out of the Chinese portion of a proposed $5.4 billion robotics deal after Beijing blocked the transaction, according to Bloomberg News.","discussionPrompt":"When a giant business deal gets tangled in borders and rules, what matters most: local jobs, competition, security, or keeping innovation moving?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://new.streetinsider.com/Reuters/Explosion%2Bhits%2Banother%2Bweapons%2Bsite%2Bin%2BBulgaria/images/news2/270/27054080/LYNXMPEM8B04W.jpg"]},
+    {"title":"Port labor talks get more time","summary":"Employers at the Los Angeles and Long Beach ports and an ILWU local extended their bargaining deadline to November 20, averting a potential strike while talks continue.","discussionPrompt":"When a negotiation gets an extension instead of a showdown, is that encouraging, exhausting, or both? What helps people stay patient?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.streetinsider.com/Reuters/Morning%2BBid"]},
+    {"title":"National Trust debates its banking partner","summary":"Members of the UK's National Trust backed a move to seek a banking partner more aligned with its environmental policies, bringing financial choices into a wider conversation about conservation.","discussionPrompt":"Should clubs and community groups choose banks partly by values, or focus only on price and service? How would you decide?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"]},
+    {"title":"UN chief calls climate talks a turning point","summary":"Ahead of climate talks in Turkey, outgoing UN Secretary-General António Guterres urged leaders to treat the effort to curb global warming as a decisive moment for collective action.","discussionPrompt":"Big problems can make people tune out. What kind of local climate project would actually make you want to join in?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/e5ae99093b025f6fdd44c425602b93d1"]},
+    {"title":"Film social platform may get a new owner","summary":"The New York Times Company is reportedly in exclusive talks to acquire film-focused social platform Letterboxd, a move that could broaden its portfolio beyond news, games and product reviews.","discussionPrompt":"If you owned a movie diary app, what playful feature would you add: themed watch parties, mystery picks, tiny reviews, or something else?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.devdiscourse.com/article/international/4003099-reuters-entertainment-news-summary"]},
+    {"title":"Rybakina reaches the WTA Finals title match","summary":"Elena Rybakina came back from a set down to beat Jessica Pegula and reach the WTA Finals championship match, setting up a chance at her first season-ending title.","discussionPrompt":"What makes a comeback fun to watch: a change in tactics, stubborn confidence, the crowd getting loud, or a little bit of chaos?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.itiger.com/news/2581835006"]}
   ]
 }
