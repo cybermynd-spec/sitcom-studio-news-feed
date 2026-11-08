@@ -1,15 +1,125 @@
 {
-  "updatedUtc": "2026-11-07T16:04:34Z",
+  "updatedUtc": "2026-11-08T15:17:01Z",
   "topics": [
-    {"title":"Conservation groups weigh AI's trade-offs","summary":"Environmental groups are using AI to track wildlife, analyze climate data and flag wildfire risks, while also warning that the data centers behind it can consume substantial electricity and water.","discussionPrompt":"Would you use a power-hungry tool if it helped protect forests and wildlife much faster? What rules would make that feel fair?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"]},
-    {"title":"Satellites spotlight landfill methane","summary":"Satellite observations have highlighted methane escaping from a large landfill near Istanbul as Turkey prepares to host COP31. The story underlines both the promise and difficulty of reducing waste-related emissions.","discussionPrompt":"If a city could tackle one messy climate problem first, would you pick landfill waste, traffic, home heating, or something else?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://985theriver.com/2026/11/07/as-cop31-comes-to-turkey-satellites-reveal-a-landfill-methane-problem/"]},
-    {"title":"A white dwarf wears two debris rings","summary":"Astronomers have spotted a white dwarf surrounded by two rings of planetary debris, offering a rare glimpse of what can remain after a star evolves and reshapes its planetary system.","discussionPrompt":"If humans could leave one harmless object drifting around a future star, what tiny time capsule would best represent us?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://new.streetinsider.com/Reuters/US%2BPostal%2BService%2Boutlines%2Bplans%2Bto%2Bhandle%2Bmillions%2Bof%2Bballots/images/news2/271/27191967/LYNXMPEM9E1L3.jpg"]},
-    {"title":"Pakistan plans a space-station visitor","summary":"Chinese state media said a Pakistani astronaut will join China's space station on the Shenzhou-24 mission, a planned step in the countries' space cooperation.","discussionPrompt":"If you could invite one international guest to your orbital station, what skill would they bring to the crew?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.streetinsider.com/Reuters/J"]},
-    {"title":"Robotics deal faces a China rethink","summary":"SoftBank and ABB are reportedly exploring a carve-out of the Chinese portion of a proposed $5.4 billion robotics deal after Beijing blocked the transaction, according to Bloomberg News.","discussionPrompt":"When a giant business deal gets tangled in borders and rules, what matters most: local jobs, competition, security, or keeping innovation moving?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://new.streetinsider.com/Reuters/Explosion%2Bhits%2Banother%2Bweapons%2Bsite%2Bin%2BBulgaria/images/news2/270/27054080/LYNXMPEM8B04W.jpg"]},
-    {"title":"Port labor talks get more time","summary":"Employers at the Los Angeles and Long Beach ports and an ILWU local extended their bargaining deadline to November 20, averting a potential strike while talks continue.","discussionPrompt":"When a negotiation gets an extension instead of a showdown, is that encouraging, exhausting, or both? What helps people stay patient?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.streetinsider.com/Reuters/Morning%2BBid"]},
-    {"title":"National Trust debates its banking partner","summary":"Members of the UK's National Trust backed a move to seek a banking partner more aligned with its environmental policies, bringing financial choices into a wider conversation about conservation.","discussionPrompt":"Should clubs and community groups choose banks partly by values, or focus only on price and service? How would you decide?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies"]},
-    {"title":"UN chief calls climate talks a turning point","summary":"Ahead of climate talks in Turkey, outgoing UN Secretary-General António Guterres urged leaders to treat the effort to curb global warming as a decisive moment for collective action.","discussionPrompt":"Big problems can make people tune out. What kind of local climate project would actually make you want to join in?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/e5ae99093b025f6fdd44c425602b93d1"]},
-    {"title":"Film social platform may get a new owner","summary":"The New York Times Company is reportedly in exclusive talks to acquire film-focused social platform Letterboxd, a move that could broaden its portfolio beyond news, games and product reviews.","discussionPrompt":"If you owned a movie diary app, what playful feature would you add: themed watch parties, mystery picks, tiny reviews, or something else?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.devdiscourse.com/article/international/4003099-reuters-entertainment-news-summary"]},
-    {"title":"Rybakina reaches the WTA Finals title match","summary":"Elena Rybakina came back from a set down to beat Jessica Pegula and reach the WTA Finals championship match, setting up a chance at her first season-ending title.","discussionPrompt":"What makes a comeback fun to watch: a change in tactics, stubborn confidence, the crowd getting loud, or a little bit of chaos?","tone":"curious, casual, balanced","sourceNames":["Reuters"],"sourceUrls":["https://www.itiger.com/news/2581835006"]}
+    {
+      "title": "COP31 opens with a focus on visible progress",
+      "summary": "Delegates from more than 190 countries are gathering in Turkey for COP31, where hosts say climate progress needs to be tangible in everyday life as talks begin.",
+      "discussionPrompt": "When leaders promise progress people can actually notice, what would count most where you live: cleaner air, cheaper power, better transit, or something else?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/climate-crisis%2Benvironment"
+      ]
+    },
+    {
+      "title": "EU questions TikTok's protections for young users",
+      "summary": "The European Union has charged TikTok with failing to protect users' mental health, putting fresh attention on how platforms design feeds and safety tools.",
+      "discussionPrompt": "What is one app setting you wish more people knew about? Would it genuinely make online time calmer, or would the feed just find another way to pull us in?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "Tesla shifts its Cybertruck plans",
+      "summary": "Tesla is reportedly preparing to wind down Cybertruck production as Elon Musk puts greater emphasis on robotics and artificial intelligence.",
+      "discussionPrompt": "Would you rather see companies keep polishing familiar products or gamble on entirely new ideas? Which one usually makes life better for regular people?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "Salary ranges could become a standard job-ad detail",
+      "summary": "A proposal in Greater Manchester would require employers to include salary ranges in job advertisements, aiming to make pay expectations clearer from the start.",
+      "discussionPrompt": "Would seeing the salary first change how you job-search, or would you still care more about the team, flexibility, and work itself?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "London commuters prepare for Tube strikes",
+      "summary": "Tube driver strikes are expected to disrupt travel and shopping in London in the run-up to Christmas, prompting commuters to rethink their usual routes.",
+      "discussionPrompt": "When your normal commute gets scrambled, are you a route-planning wizard, a last-minute improviser, or someone who simply stays home?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "UK dairy farmers face new price pressure",
+      "summary": "A major milk processor's planned price cuts are adding pressure for dairy farmers, highlighting how quickly retail and farm economics can pull in different directions.",
+      "discussionPrompt": "When you buy everyday food, do you ever think about what the producer gets paid? What would make shopping feel more connected to the people who make it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "A new museum puts space-age design on show",
+      "summary": "Powerhouse Parramatta in Sydney has opened with dramatic architecture and collections that include a sculpture inspired by the Voyager 1 space probe.",
+      "discussionPrompt": "If your town opened a huge new museum, what odd or ordinary object absolutely deserves a place in its first exhibition?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/space%2Bscience"
+      ]
+    },
+    {
+      "title": "Lightning gets a closer look in a warming world",
+      "summary": "A new science feature explores how researchers study lightning and how changing weather patterns may shape our experience of one of nature's most dramatic displays.",
+      "discussionPrompt": "Do thunderstorms feel exciting, cozy, or mostly inconvenient to you? What is the best place to watch one safely?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/environment%2Bscience/science"
+      ]
+    },
+    {
+      "title": "Floods bring welcome water to Lake Powell",
+      "summary": "Recent floods in the US Southwest have lifted Lake Powell by about 20 feet, offering rare relief for reservoirs after long-running drought concerns.",
+      "discussionPrompt": "A sudden burst of rain can feel like a rescue and a headache at once. What is the weather change that most transforms your mood?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://www.the-journal.com/associated-press/?q=&start=1250"
+      ]
+    },
+    {
+      "title": "College football's top ranking may be up for grabs",
+      "summary": "Notre Dame and Georgia are positioned to challenge Miami for the top spot in the AP Top 25, adding extra suspense to the college-football conversation.",
+      "discussionPrompt": "When a favorite finally looks vulnerable, do you cheer for the underdog, defend the champion, or just enjoy the chaos?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://www.the-journal.com/associated-press/?q=&start=1250"
+      ]
+    }
   ]
 }
