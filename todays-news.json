@@ -1,127 +1,85 @@
 {
-  "updatedUtc": "2026-11-10T22:09:20.704Z",
+  "updatedUtc": "2026-11-11T15:56:21Z",
   "topics": [
     {
-      "title": "COP31 begins with pressure for practical climate action",
-      "summary": "Leaders and delegates have gathered in Antalya for COP31, where discussions include climate finance, a fair energy transition, and ways to turn national promises into visible progress.",
-      "discussionPrompt": "When leaders promise climate progress people can actually notice, what would make the biggest difference around here: cleaner air, cheaper power, better transit, or something else?",
+      "title": "COP31 leaders gather in Turkey",
+      "summary": "World leaders and delegates are meeting in Antalya for COP31, with discussions centered on turning climate commitments into practical action and maintaining momentum on cleaner energy.",
+      "discussionPrompt": "Climate summits involve huge promises. What local change would make the idea feel real to you: better transit, cleaner air, lower bills, more trees, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian",
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/nov/10/tuesday-briefing-the-world-is-falling-short-on-climate-action-can-cop31-change-that",
-        "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates"]
     },
     {
-      "title": "Ukraine peace talks open in Abu Dhabi",
-      "summary": "US-led talks involving Ukraine and Russia began in Abu Dhabi, described as the first substantive negotiations in months focused on ending the war and discussing longer-term security.",
-      "discussionPrompt": "Big negotiations can sound distant. What small sign would make you feel that people were genuinely trying to make everyday life safer and more predictable?",
+      "title": "Ukraine peace talks continue in Abu Dhabi",
+      "summary": "US-led talks involving Ukraine and Russia continued in Abu Dhabi, focusing on a possible path toward ending the war and on longer-term security arrangements.",
+      "discussionPrompt": "Big negotiations can sound far away. What small sign would make you feel people were genuinely making everyday life safer and more predictable?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"]
     },
     {
-      "title": "Energy permitting bill advances in the US Senate",
-      "summary": "The US Senate advanced bipartisan legislation aimed at speeding reviews for power projects and infrastructure, as rising electricity demand from data centers reshapes the energy debate.",
-      "discussionPrompt": "If your neighborhood needed more power, what would you want planners to prioritize first: speed, affordability, clean energy, or a real chance for locals to weigh in?",
+      "title": "Rare Scottish wildflowers are moved to safety",
+      "summary": "Conservationists relocated 3,400 rare one-flowered wintergreen plants from an eroding Scottish coast, hoping to protect the species and strengthen its chances of survival.",
+      "discussionPrompt": "Saving a tiny wildflower can take a whole team. Is there a plant, bird, or place near you that you would happily volunteer to protect?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/272515c4fca92435224406593a892e69"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland"]
     },
     {
-      "title": "Microsoft raises concerns about data-center component limits",
-      "summary": "Microsoft has urged US officials to reconsider an expected restriction on new Chinese optical transceivers, saying the move could slow construction of AI data centers.",
-      "discussionPrompt": "When a crucial gadget part is made far away, does that make technology feel more impressive or more fragile? Which everyday device would be hardest to replace?",
+      "title": "AI data centers spark power-planning debate",
+      "summary": "New research says proposed AI data centers may use large on-site gas power stations when grid connections are delayed, raising questions about energy demand and climate goals.",
+      "discussionPrompt": "If a new data center wanted to move nearby, what would you want settled first: jobs, electricity use, pollution, water, or how it benefits the community?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"]
     },
     {
-      "title": "China flying-car maker targets next-summer launch",
-      "summary": "A Chinese maker of a two-seat flying-car model says it could begin launches next summer, bringing the long-running futuristic transport idea closer to a public test.",
-      "discussionPrompt": "If flying cars became normal, would you be first in line, happily watching from the ground, or asking who is going to direct rush-hour traffic in the sky?",
+      "title": "US and China plan AI risk dialogue",
+      "summary": "US Treasury Secretary Scott Bessent said US and Chinese officials will discuss AI cooperation, competition, testing practices, and a channel for alerting each other to serious incidents.",
+      "discussionPrompt": "Two rivals trying to cooperate on AI safety is a tricky idea. What is one rule you think everyone building powerful technology should share?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/technology%2Btone/news"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/"]
     },
     {
-      "title": "Australia considers tougher AI incident reporting",
-      "summary": "Australia released recommendations after an AI-linked breach of a Medicare reporting portal, including consideration of mandatory reporting and penalties for serious regulatory failures.",
-      "discussionPrompt": "When a new technology makes a big mistake, what helps rebuild trust: a quick explanation, an independent check, clearer rules, or simply seeing the fix work?",
+      "title": "Nissan adjusts to China's fast EV shift",
+      "summary": "Nissan said it will reduce petrol-car production and increase electric and plug-in hybrid output as competition and consumer demand accelerate China's move toward new-energy vehicles.",
+      "discussionPrompt": "Car trends are changing fast. What would persuade you to switch vehicles someday: price, range, charging convenience, quiet rides, or a feature nobody has invented yet?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china"]
     },
     {
-      "title": "UK youth-platform rules may extend to YouTube Kids",
-      "summary": "Proposed UK social-media restrictions for under-16s could also cover YouTube Kids, extending the debate over how child-focused platforms should be designed and supervised.",
-      "discussionPrompt": "What made-for-kids media did you love growing up? If you designed a safer version today, what feature would you keep and what would you change?",
+      "title": "Flying-car maker eyes China launch",
+      "summary": "A Chinese manufacturer says its two-seat flying vehicle could begin limited launches next summer, with potential early uses in rural recreation and emergency services.",
+      "discussionPrompt": "If flying cars became ordinary, would you hop in, watch from the sidewalk, or volunteer to figure out sky traffic rules? What would be your first destination?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng"]
     },
     {
-      "title": "Drug makers face questions about insulin supply",
-      "summary": "Experts warn that pharmaceutical companies' focus on popular weight-loss medicines could put pressure on insulin access, especially in places already struggling to obtain diabetes treatment.",
-      "discussionPrompt": "When a popular new product changes what companies make, how should they balance excitement for the new thing with keeping everyday essentials dependable?",
+      "title": "Global shares rise on renewed AI optimism",
+      "summary": "Technology stocks helped lift global markets after cloud company CoreWeave reported results that revived investor confidence in AI demand, while questions about debt and valuations remain.",
+      "discussionPrompt": "When people get excited about a new technology, what keeps the excitement grounded: useful products, careful budgets, independent checks, or simply waiting to see what lasts?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/science/all"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/"]
     },
     {
-      "title": "Historic ocean liner slated for reef afterlife",
-      "summary": "Plans are moving ahead to sink a historic ocean liner as a massive artificial reef, giving the retired vessel a proposed new role beneath the waves.",
-      "discussionPrompt": "Turning an old ship into a reef is quite a second act. What retired building, vehicle, or object would you love to see creatively repurposed?",
+      "title": "UK explores return to EU electricity market",
+      "summary": "Britain says it is willing to discuss contributions toward EU infrastructure programs as part of talks about rejoining the European electricity market and improving energy trade.",
+      "discussionPrompt": "Electricity networks are invisible until they matter. Would you rather your region prioritize cheaper power, cleaner power, local control, or stronger connections with neighbors?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/theguardian/mainsection"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"]
     },
     {
-      "title": "Film crews discuss storyboards in the AI era",
-      "summary": "Filmmakers are talking about how storyboards help crews share a visual plan, as the industry weighs where newer AI tools can assist without replacing creative collaboration.",
-      "discussionPrompt": "Would you rather plan a creative project with sketches, a written outline, or just start making it and see where it goes? What usually surprises you most?",
+      "title": "Old ocean liner gets a reef-sized second act",
+      "summary": "Plans are advancing to sink the historic SS United States off Florida as an artificial reef, giving the retired ocean liner a proposed new underwater purpose.",
+      "discussionPrompt": "Turning an old ship into a reef is quite a second act. What retired building, vehicle, or object would you love to see given a creative new purpose?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/all"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/11"]
     }
   ]
 }
