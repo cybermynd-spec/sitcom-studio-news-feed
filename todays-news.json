@@ -1,85 +1,125 @@
 {
-  "updatedUtc": "2026-11-11T15:56:21Z",
+  "updatedUtc": "2026-11-12T16:02:59Z",
   "topics": [
     {
-      "title": "COP31 leaders gather in Turkey",
-      "summary": "World leaders and delegates are meeting in Antalya for COP31, with discussions centered on turning climate commitments into practical action and maintaining momentum on cleaner energy.",
-      "discussionPrompt": "Climate summits involve huge promises. What local change would make the idea feel real to you: better transit, cleaner air, lower bills, more trees, or something else?",
+      "title": "COP31 focuses on turning pledges into action",
+      "summary": "Delegates at the COP31 climate summit in Antalya are debating how to convert climate commitments into practical policies, with finance, electrification and emissions cuts central to the discussions.",
+      "discussionPrompt": "Summits make huge promises. What practical climate change would you most like to see where you live: cleaner transit, lower energy bills, more trees, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit"
+      ]
     },
     {
-      "title": "Ukraine peace talks continue in Abu Dhabi",
-      "summary": "US-led talks involving Ukraine and Russia continued in Abu Dhabi, focusing on a possible path toward ending the war and on longer-term security arrangements.",
-      "discussionPrompt": "Big negotiations can sound far away. What small sign would make you feel people were genuinely making everyday life safer and more predictable?",
+      "title": "UK growth gets a boost from AI investment",
+      "summary": "Britain's economy grew 0.7% in the third quarter, with IT and professional services helping to lead the way as investment linked to artificial intelligence expanded.",
+      "discussionPrompt": "When new technology helps an economy grow, where should people notice it first: better jobs, useful services, lower costs, or more time for the things they enjoy?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
+      ]
     },
     {
-      "title": "Rare Scottish wildflowers are moved to safety",
-      "summary": "Conservationists relocated 3,400 rare one-flowered wintergreen plants from an eroding Scottish coast, hoping to protect the species and strengthen its chances of survival.",
-      "discussionPrompt": "Saving a tiny wildflower can take a whole team. Is there a plant, bird, or place near you that you would happily volunteer to protect?",
+      "title": "China approves an oral weight-loss medicine",
+      "summary": "China approved Eli Lilly's oral GLP-1 medicine orforglipron, making it the first weight-loss pill of its kind cleared in the country's large pharmaceutical market.",
+      "discussionPrompt": "New medicines can be exciting, but access matters too. What would make you feel a health breakthrough is genuinely helping everyday people?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/china-approves-eli-lillys-weight-loss-pill-orforglipron-2026-11-12/"
+      ]
     },
     {
-      "title": "AI data centers spark power-planning debate",
-      "summary": "New research says proposed AI data centers may use large on-site gas power stations when grid connections are delayed, raising questions about energy demand and climate goals.",
-      "discussionPrompt": "If a new data center wanted to move nearby, what would you want settled first: jobs, electricity use, pollution, water, or how it benefits the community?",
+      "title": "Fed official flags AI's workplace questions",
+      "summary": "Federal Reserve Governor Michael Barr said the United States should prepare for possible AI-driven job disruption and widening inequality, while noting the technology may also create opportunities.",
+      "discussionPrompt": "If AI changed your workplace, what would you want most: training time, a say in the rollout, better tools, or a guarantee that the human parts still matter?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+      ]
     },
     {
-      "title": "US and China plan AI risk dialogue",
-      "summary": "US Treasury Secretary Scott Bessent said US and Chinese officials will discuss AI cooperation, competition, testing practices, and a channel for alerting each other to serious incidents.",
-      "discussionPrompt": "Two rivals trying to cooperate on AI safety is a tricky idea. What is one rule you think everyone building powerful technology should share?",
+      "title": "India confirms ASEAN summit visit",
+      "summary": "India said Prime Minister Narendra Modi will attend the ASEAN summit in Manila from November 16 to 18, bringing regional trade and cooperation talks into focus.",
+      "discussionPrompt": "Regional summits can sound abstract. If neighboring countries teamed up on one everyday issue, would you pick travel, food, emergency planning, clean energy, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/india/indian-pm-modi-attend-asean-summit-manila-november-16-18-2026-11-12/"
+      ]
     },
     {
-      "title": "Nissan adjusts to China's fast EV shift",
-      "summary": "Nissan said it will reduce petrol-car production and increase electric and plug-in hybrid output as competition and consumer demand accelerate China's move toward new-energy vehicles.",
-      "discussionPrompt": "Car trends are changing fast. What would persuade you to switch vehicles someday: price, range, charging convenience, quiet rides, or a feature nobody has invented yet?",
+      "title": "US and China discuss future leader talks",
+      "summary": "US and Chinese officials said their foreign ministers discussed a constructive relationship and the importance of leader-level conversations on peace and denuclearization.",
+      "discussionPrompt": "When two powerful countries keep talking despite disagreements, what makes a conversation feel worthwhile: clear goals, small practical wins, public updates, or simply keeping the door open?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/china/chinas-foreign-minister-says-call-with-rubio-was-positive-constructive-2026-11-11/"
+      ]
     },
     {
-      "title": "Flying-car maker eyes China launch",
-      "summary": "A Chinese manufacturer says its two-seat flying vehicle could begin limited launches next summer, with potential early uses in rural recreation and emergency services.",
-      "discussionPrompt": "If flying cars became ordinary, would you hop in, watch from the sidewalk, or volunteer to figure out sky traffic rules? What would be your first destination?",
+      "title": "Ukraine and Russia agree on prisoner exchange",
+      "summary": "Ukraine and Russia agreed in principle to a major prisoner exchange after talks in Abu Dhabi, though mediators said major differences remain on broader questions.",
+      "discussionPrompt": "A small breakthrough can matter even when bigger problems remain. What helps you keep a difficult conversation moving: patience, a practical first step, a neutral helper, or humor?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
+      ]
     },
     {
-      "title": "Global shares rise on renewed AI optimism",
-      "summary": "Technology stocks helped lift global markets after cloud company CoreWeave reported results that revived investor confidence in AI demand, while questions about debt and valuations remain.",
-      "discussionPrompt": "When people get excited about a new technology, what keeps the excitement grounded: useful products, careful budgets, independent checks, or simply waiting to see what lasts?",
+      "title": "Historic liner begins a new life as a reef",
+      "summary": "The retired SS United States was sunk off Florida to become an artificial reef, creating a future dive site and habitat for marine life around the former ocean liner.",
+      "discussionPrompt": "Giving an old ship a second life as a reef is wonderfully strange. What retired object or building would you love to see transformed for a new purpose?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/11/ss-united-states-sinks-florida-artificial-reef"
+      ]
     },
     {
-      "title": "UK explores return to EU electricity market",
-      "summary": "Britain says it is willing to discuss contributions toward EU infrastructure programs as part of talks about rejoining the European electricity market and improving energy trade.",
-      "discussionPrompt": "Electricity networks are invisible until they matter. Would you rather your region prioritize cheaper power, cleaner power, local control, or stronger connections with neighbors?",
+      "title": "AI data centers raise energy-planning questions",
+      "summary": "Research highlighted proposals for AI data centers to use on-site gas power when grid connections are delayed, renewing debate over electricity demand and climate targets.",
+      "discussionPrompt": "If a data center wanted to open nearby, what would you want sorted out first: jobs, power use, water, local taxes, or how the community benefits?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
+      ]
     },
     {
-      "title": "Old ocean liner gets a reef-sized second act",
-      "summary": "Plans are advancing to sink the historic SS United States off Florida as an artificial reef, giving the retired ocean liner a proposed new underwater purpose.",
-      "discussionPrompt": "Turning an old ship into a reef is quite a second act. What retired building, vehicle, or object would you love to see given a creative new purpose?",
+      "title": "Markets weigh fresh AI optimism and caution",
+      "summary": "Technology shares helped lift global markets after CoreWeave results renewed optimism about AI demand, while investors continued to watch debt levels and lofty valuations.",
+      "discussionPrompt": "When a new technology gets investors excited, what keeps the excitement useful: products people love, careful budgets, independent checks, or waiting to see what endures?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/11"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/"
+      ]
     }
   ]
 }
