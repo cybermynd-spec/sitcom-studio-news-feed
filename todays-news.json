@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-11-12T16:02:59Z",
+  "updatedUtc": "2026-11-13T16:40:26Z",
   "topics": [
     {
-      "title": "COP31 focuses on turning pledges into action",
-      "summary": "Delegates at the COP31 climate summit in Antalya are debating how to convert climate commitments into practical policies, with finance, electrification and emissions cuts central to the discussions.",
-      "discussionPrompt": "Summits make huge promises. What practical climate change would you most like to see where you live: cleaner transit, lower energy bills, more trees, or something else?",
+      "title": "COP31 talks enter a crucial fifth day",
+      "summary": "Delegates at the COP31 climate summit in Antalya are continuing negotiations on climate action, finance and energy as the conference reaches its fifth day.",
+      "discussionPrompt": "Big summits can feel far away. What local change would make climate action feel real to you: better buses, cheaper home energy, more shade trees, or something completely different?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
     },
     {
-      "title": "UK growth gets a boost from AI investment",
-      "summary": "Britain's economy grew 0.7% in the third quarter, with IT and professional services helping to lead the way as investment linked to artificial intelligence expanded.",
-      "discussionPrompt": "When new technology helps an economy grow, where should people notice it first: better jobs, useful services, lower costs, or more time for the things they enjoy?",
+      "title": "Energy chief says the world is in an electricity age",
+      "summary": "The head of the International Energy Agency said the world has entered an age of electricity, as electrification becomes more central to energy systems and climate discussions.",
+      "discussionPrompt": "If daily life runs more and more on electricity, which upgrade sounds most appealing: quieter streets, easier charging, smarter homes, or appliances that cost less to run?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
     },
     {
-      "title": "China approves an oral weight-loss medicine",
-      "summary": "China approved Eli Lilly's oral GLP-1 medicine orforglipron, making it the first weight-loss pill of its kind cleared in the country's large pharmaceutical market.",
-      "discussionPrompt": "New medicines can be exciting, but access matters too. What would make you feel a health breakthrough is genuinely helping everyday people?",
+      "title": "Wood-burning smoke study raises indoor-air questions",
+      "summary": "A new study suggests children’s exposure to pollution from home wood-burning may be as significant as exposure to traffic exhaust, adding to debate about household heating.",
+      "discussionPrompt": "A crackling fire feels cozy, but clean air matters too. What makes a home feel comfortable to you without sacrificing fresh air?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/china-approves-eli-lillys-weight-loss-pill-orforglipron-2026-11-12/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
     },
     {
-      "title": "Fed official flags AI's workplace questions",
-      "summary": "Federal Reserve Governor Michael Barr said the United States should prepare for possible AI-driven job disruption and widening inequality, while noting the technology may also create opportunities.",
-      "discussionPrompt": "If AI changed your workplace, what would you want most: training time, a say in the rollout, better tools, or a guarantee that the human parts still matter?",
+      "title": "Electric transport reshapes everyday routines",
+      "summary": "Reports from highly electrified countries describe how electric cars, scooters and motorbike taxis are becoming ordinary parts of travel and household budgeting.",
+      "discussionPrompt": "Would an electric scooter, bike, car, or bus change your routine most? Or would you rather see better sidewalks and trains before more vehicles?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
     },
     {
-      "title": "India confirms ASEAN summit visit",
-      "summary": "India said Prime Minister Narendra Modi will attend the ASEAN summit in Manila from November 16 to 18, bringing regional trade and cooperation talks into focus.",
-      "discussionPrompt": "Regional summits can sound abstract. If neighboring countries teamed up on one everyday issue, would you pick travel, food, emergency planning, clean energy, or something else?",
+      "title": "European leaders meet in Dublin on Ukraine and AI",
+      "summary": "European leaders gathered in Dublin for talks that include Ukraine, possible peace negotiations and artificial intelligence, as they consider how to coordinate their approach.",
+      "discussionPrompt": "When a group has to speak with one voice, what helps most: one clear spokesperson, lots of listening first, shared facts, or a good mediator?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/india/indian-pm-modi-attend-asean-summit-manila-november-16-18-2026-11-12/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"]
     },
     {
-      "title": "US and China discuss future leader talks",
-      "summary": "US and Chinese officials said their foreign ministers discussed a constructive relationship and the importance of leader-level conversations on peace and denuclearization.",
-      "discussionPrompt": "When two powerful countries keep talking despite disagreements, what makes a conversation feel worthwhile: clear goals, small practical wins, public updates, or simply keeping the door open?",
+      "title": "Australia win opening ODI against England",
+      "summary": "Australia beat England by seven wickets in the first men’s one-day international after debutant fast bowler Mahli Beardman took six wickets for 24 runs.",
+      "discussionPrompt": "A debut performance like that is a movie moment. What do you think helps someone stay calm when their big first chance finally arrives?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/china/chinas-foreign-minister-says-call-with-rubio-was-positive-constructive-2026-11-11/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/sport/2026/nov/13/australia-england-first-odi-cricket-report"]
     },
     {
-      "title": "Ukraine and Russia agree on prisoner exchange",
-      "summary": "Ukraine and Russia agreed in principle to a major prisoner exchange after talks in Abu Dhabi, though mediators said major differences remain on broader questions.",
-      "discussionPrompt": "A small breakthrough can matter even when bigger problems remain. What helps you keep a difficult conversation moving: patience, a practical first step, a neutral helper, or humor?",
+      "title": "Germany watches a potential first female president",
+      "summary": "Former helicopter engineer Ilse Aigner is being discussed as a possible candidate to become Germany’s first female president, with cross-party support reported.",
+      "discussionPrompt": "What background would you love to see more leaders bring into public life: engineering, teaching, medicine, art, hands-on trades, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
     },
     {
-      "title": "Historic liner begins a new life as a reef",
-      "summary": "The retired SS United States was sunk off Florida to become an artificial reef, creating a future dive site and habitat for marine life around the former ocean liner.",
-      "discussionPrompt": "Giving an old ship a second life as a reef is wonderfully strange. What retired object or building would you love to see transformed for a new purpose?",
+      "title": "Pope Leo receives a warm welcome in Peru",
+      "summary": "Pope Leo was welcomed enthusiastically in Peru during a visit that residents and officials described as a major public occasion.",
+      "discussionPrompt": "When a famous visitor comes to town, what actually makes the event memorable: the crowd, local food, music, a surprising speech, or the stories afterward?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/11/ss-united-states-sinks-florida-artificial-reef"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
     },
     {
-      "title": "AI data centers raise energy-planning questions",
-      "summary": "Research highlighted proposals for AI data centers to use on-site gas power when grid connections are delayed, renewing debate over electricity demand and climate targets.",
-      "discussionPrompt": "If a data center wanted to open nearby, what would you want sorted out first: jobs, power use, water, local taxes, or how the community benefits?",
+      "title": "Book world talks about a wave of literary scams",
+      "summary": "Writers are reporting a rise in fake film deals, invitations from book groups and publicity offers, prompting fresh attention to scams targeting aspiring authors.",
+      "discussionPrompt": "If you were helping a friend spot a too-good-to-be-true offer online, what quick check would you suggest first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/news/2026/nov/13/all"]
     },
     {
-      "title": "Markets weigh fresh AI optimism and caution",
-      "summary": "Technology shares helped lift global markets after CoreWeave results renewed optimism about AI demand, while investors continued to watch debt levels and lofty valuations.",
-      "discussionPrompt": "When a new technology gets investors excited, what keeps the excitement useful: products people love, careful budgets, independent checks, or waiting to see what endures?",
+      "title": "Artificial reef project continues off Florida",
+      "summary": "The historic liner SS United States is beginning a new chapter as an artificial reef off Florida, where it is expected to become a habitat for marine life and a future dive site.",
+      "discussionPrompt": "Turning an old ship into a reef is such an inventive second life. What other retired structure would you redesign for nature or community use?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/media-telecom/global-markets-global-markets-2026-11-11/"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/11/ss-united-states-sinks-florida-artificial-reef"]
     }
   ]
 }
