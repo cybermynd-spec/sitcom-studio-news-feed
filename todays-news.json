@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-11-13T16:40:26Z",
+  "updatedUtc": "2026-11-14T15:33:56Z",
   "topics": [
     {
-      "title": "COP31 talks enter a crucial fifth day",
-      "summary": "Delegates at the COP31 climate summit in Antalya are continuing negotiations on climate action, finance and energy as the conference reaches its fifth day.",
-      "discussionPrompt": "Big summits can feel far away. What local change would make climate action feel real to you: better buses, cheaper home energy, more shade trees, or something completely different?",
+      "title": "Bristol pursues wetland-city status",
+      "summary": "Bristol has launched a five-year effort to create and restore wetlands, aiming to reduce flood risk, support wildlife and broaden access to green and blue spaces.",
+      "discussionPrompt": "Imagine your neighborhood had room for a tiny wetland. Would you pick a rain garden, a pond, floating plants, or a wilder riverbank?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/14/bristol-first-uk-wetland-city-flood"]
     },
     {
-      "title": "Energy chief says the world is in an electricity age",
-      "summary": "The head of the International Energy Agency said the world has entered an age of electricity, as electrification becomes more central to energy systems and climate discussions.",
-      "discussionPrompt": "If daily life runs more and more on electricity, which upgrade sounds most appealing: quieter streets, easier charging, smarter homes, or appliances that cost less to run?",
+      "title": "Windfarm plans meet an unexpected boulder barrier",
+      "summary": "Greenpeace placed boulders to deter bottom trawling off Norfolk, but some landed at a planned windfarm site. The group and developer are discussing their exact placement.",
+      "discussionPrompt": "Two good goals collided here: protecting the seabed and building clean power. How would you get the groups around a table and find a practical fix?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms"]
     },
     {
-      "title": "Wood-burning smoke study raises indoor-air questions",
-      "summary": "A new study suggests children’s exposure to pollution from home wood-burning may be as significant as exposure to traffic exhaust, adding to debate about household heating.",
-      "discussionPrompt": "A crackling fire feels cozy, but clean air matters too. What makes a home feel comfortable to you without sacrificing fresh air?",
+      "title": "Microsoft services return after global outage",
+      "summary": "Microsoft says services have been restored after a major outage disrupted email, collaboration tools and public services in many countries, renewing attention on digital resilience.",
+      "discussionPrompt": "When an everyday app goes down, what backup habit saves the day: phone numbers on paper, offline notes, a second service, or simply taking a break?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news"]
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"]
     },
     {
-      "title": "Electric transport reshapes everyday routines",
-      "summary": "Reports from highly electrified countries describe how electric cars, scooters and motorbike taxis are becoming ordinary parts of travel and household budgeting.",
-      "discussionPrompt": "Would an electric scooter, bike, car, or bus change your routine most? Or would you rather see better sidewalks and trains before more vehicles?",
+      "title": "Starship test flight advances reusable-rocket work",
+      "summary": "SpaceX launched Starship on its 15th flight, with a planned orbital mission and return attempt. The booster splashed down after its tower return was aborted.",
+      "discussionPrompt": "Reusable rockets sound wonderfully ambitious. If you could reuse one thing from a huge project instead of throwing it away, what would it be?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
+      "sourceUrls": ["https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"]
     },
     {
-      "title": "European leaders meet in Dublin on Ukraine and AI",
-      "summary": "European leaders gathered in Dublin for talks that include Ukraine, possible peace negotiations and artificial intelligence, as they consider how to coordinate their approach.",
-      "discussionPrompt": "When a group has to speak with one voice, what helps most: one clear spokesperson, lots of listening first, shared facts, or a good mediator?",
+      "title": "AI helps researchers read Gödel's notebooks",
+      "summary": "Researchers used AI to help decipher Kurt Gödel's dense shorthand notebooks, accelerating work on unpublished mathematical ideas and opening fresh material for historians of science.",
+      "discussionPrompt": "If an old box of notebooks could be decoded instantly, whose notes would you want to explore: a scientist, artist, relative, inventor, or someone else?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates"]
+      "sourceUrls": ["https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"]
     },
     {
-      "title": "Australia win opening ODI against England",
-      "summary": "Australia beat England by seven wickets in the first men’s one-day international after debutant fast bowler Mahli Beardman took six wickets for 24 runs.",
-      "discussionPrompt": "A debut performance like that is a movie moment. What do you think helps someone stay calm when their big first chance finally arrives?",
+      "title": "Ireland opens its once-banned books archive",
+      "summary": "Ireland is moving thousands of historically banned books and censorship records to the National Archives, making a new resource available for readers and researchers.",
+      "discussionPrompt": "A library of once-hidden books is finally opening up. What kind of forgotten archive would you spend an afternoon exploring?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/sport/2026/nov/13/australia-england-first-odi-cricket-report"]
+      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship"]
     },
     {
-      "title": "Germany watches a potential first female president",
-      "summary": "Former helicopter engineer Ilse Aigner is being discussed as a possible candidate to become Germany’s first female president, with cross-party support reported.",
-      "discussionPrompt": "What background would you love to see more leaders bring into public life: engineering, teaching, medicine, art, hands-on trades, or something else?",
+      "title": "A Darth Vader lightsaber sets an auction record",
+      "summary": "A screen-used Darth Vader lightsaber from two Star Wars films sold for nearly $5 million, setting a reported auction record for a Star Wars prop.",
+      "discussionPrompt": "If you could own one movie prop, would you choose something iconic, something useful, or a tiny background object with a great story?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
+      "sourceUrls": ["https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction"]
     },
     {
-      "title": "Pope Leo receives a warm welcome in Peru",
-      "summary": "Pope Leo was welcomed enthusiastically in Peru during a visit that residents and officials described as a major public occasion.",
-      "discussionPrompt": "When a famous visitor comes to town, what actually makes the event memorable: the crowd, local food, music, a surprising speech, or the stories afterward?",
+      "title": "Eco architecture gets a global showcase",
+      "summary": "Architects highlighted five environmentally minded buildings that use approaches such as local materials, natural cooling and adaptive reuse while emphasizing visual design.",
+      "discussionPrompt": "Would you rather live in a timber tower, a breezy brick courtyard, or a cleverly reused old building? What would make it feel like home?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/world%2Btone/features"]
+      "sourceUrls": ["https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"]
     },
     {
-      "title": "Book world talks about a wave of literary scams",
-      "summary": "Writers are reporting a rise in fake film deals, invitations from book groups and publicity offers, prompting fresh attention to scams targeting aspiring authors.",
-      "discussionPrompt": "If you were helping a friend spot a too-good-to-be-true offer online, what quick check would you suggest first?",
+      "title": "Ohio salt-mine closure prompts winter planning",
+      "summary": "An Ohio salt mine beneath Lake Erie closed after water intrusion, raising questions about worker safety and how the region will secure road salt for winter.",
+      "discussionPrompt": "Winter planning is rarely glamorous. What small preparation makes the biggest difference when snow or ice suddenly changes everybody's routine?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/news/2026/nov/13/all"]
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter"]
     },
     {
-      "title": "Artificial reef project continues off Florida",
-      "summary": "The historic liner SS United States is beginning a new chapter as an artificial reef off Florida, where it is expected to become a habitat for marine life and a future dive site.",
-      "discussionPrompt": "Turning an old ship into a reef is such an inventive second life. What other retired structure would you redesign for nature or community use?",
+      "title": "UK-EU plant-trade deal aims to trim border costs",
+      "summary": "A planned UK-EU agreement could simplify the movement of food, plants and animals, with businesses expecting less paperwork and fewer border delays.",
+      "discussionPrompt": "Behind every plant shop is a maze of transport and paperwork. What everyday item would surprise you to learn has the most complicated journey?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/11/ss-united-states-sinks-florida-artificial-reef"]
+      "sourceUrls": ["https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle"]
     }
   ]
 }
