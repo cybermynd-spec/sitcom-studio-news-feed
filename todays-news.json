@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-11-15T16:44:12Z",
+  "updatedUtc": "2026-11-16T16:53:23Z",
   "topics": [
     {
-      "title": "El Niño raises the stakes at COP31",
-      "summary": "A powerful El Niño pattern is adding urgency to COP31 discussions, with scientists warning it could intensify disruptive weather while delegates debate climate finance and resilience.",
-      "discussionPrompt": "If your town had one year to prepare for more unpredictable weather, what practical project would you start first?",
+      "title": "Asia trip puts nuclear talks in view",
+      "summary": "U.S. President Donald Trump began an Asia trip featuring ASEAN meetings and planned talks with China and Russia, where Ukraine and nuclear arms are expected to be discussed.",
+      "discussionPrompt": "When leaders plan a big meeting, what makes you hopeful it will be useful: a clear agenda, smaller side conversations, or simply everyone showing up?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/15/el-nino-cop31-turkey-climate"]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"]
     },
     {
-      "title": "Wild oysters return off Scotland",
-      "summary": "Conservationists are restoring native oysters off Scotland's north-east coast, bringing shellfish back after local extinction and creating habitat that can support wider marine life.",
-      "discussionPrompt": "Oysters quietly filter water and build reefs. What small, overlooked creature deserves more credit for helping its whole neighborhood?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast"]
-    },
-    {
-      "title": "Italy fines Meta over photo access",
-      "summary": "Italy's data protection authority fined Meta €805 million after finding that its Facebook app accessed Android users' photos, videos and related data without specific consent. Meta says it will appeal.",
-      "discussionPrompt": "What is one phone permission you would happily give an app, and one you would always want to think twice about?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"]
-    },
-    {
-      "title": "Philippines wins inaugural Eurovision Asia",
-      "summary": "Carmelle Collado's pop-and-rap song Sobra-Sobra won the first Eurovision Asia contest in Bangkok, marking the competition's first regional edition outside Europe.",
-      "discussionPrompt": "For a friendly neighborhood song contest, would you go for a big anthem, a funny novelty tune, or a quiet song with a great story?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia"]
-    },
-    {
-      "title": "Eco buildings put design and climate together",
-      "summary": "A global architecture roundup highlights projects using ideas such as locally sourced timber, natural cooling and adaptive reuse to show that lower-impact buildings can still feel distinctive.",
-      "discussionPrompt": "Would you rather live in a timber tower, a breezy brick courtyard, or a thoughtfully reused old building? What would make it feel like home?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings"]
-    },
-    {
-      "title": "Welsh landscapes become an immersive show",
-      "summary": "The National Library of Wales has animated paintings by Sir Kyffin Williams and set them to music, using an immersive exhibition to introduce his rugged landscapes to new audiences.",
-      "discussionPrompt": "If one artist's world could become a walk-through experience, whose colors, places, or characters would you want to step inside?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth"]
-    },
-    {
-      "title": "Starship reaches the launch pad again",
-      "summary": "SpaceX's Starship test program completed another launch and return sequence, advancing its reusable-rocket work even as engineers continue refining landing and recovery systems.",
-      "discussionPrompt": "Reusable rockets are a spectacular version of a simple idea. What everyday thing would you redesign to be easier to repair and reuse?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"]
-    },
-    {
-      "title": "AI helps unlock Gödel's notebooks",
-      "summary": "Researchers are using AI tools to help decipher Kurt Gödel's dense shorthand notebooks, making previously difficult mathematical material more accessible to scholars.",
-      "discussionPrompt": "If a stack of old notebooks could be decoded instantly, whose notes would you most want to explore: a scientist, artist, relative, or inventor?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"]
-    },
-    {
-      "title": "Microsoft outage tests digital backups",
-      "summary": "A broad Microsoft outage disrupted services including Teams and Outlook before the company reported restoration, prompting another reminder of how dependent offices and public services are on shared platforms.",
-      "discussionPrompt": "When your usual apps stop working, what low-tech backup saves the day: paper notes, a phone call, a second service, or simply a pause?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian", "Reuters"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports", "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"]
-    },
-    {
-      "title": "AI's physical side means more metals",
-      "summary": "As data centres grow, analysts are focusing on the copper, steel, rare earths and grid connections behind AI computing, alongside questions about energy demand and infrastructure planning.",
-      "discussionPrompt": "The cloud still needs wires, buildings, and power. Which invisible piece of everyday technology would you be most curious to see behind the scenes?",
+      "title": "UN offers support for nuclear reductions",
+      "summary": "UN Secretary-General António Guterres said the United Nations is ready to support any denuclearisation effort that emerges from this week's U.S., China and Russia summit.",
+      "discussionPrompt": "Big international goals can feel abstract. What small sign would convince you that a peace-focused agreement was actually moving from words into action?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/commentary/reuters-open-interest/metals-age-ai-game-changer-or-hyperscale-hype-2026-11-14/"]
+      "sourceUrls": ["https://www.reuters.com/world/china/un-ready-support-any-denuclearisation-effort-us-china-russia-talks-2026-11-16/"]
+    },
+    {
+      "title": "AI chip rules tighten before summit",
+      "summary": "The U.S. issued rules restricting remote access to advanced AI chips and servers, a move expected to be part of wider technology discussions with China this week.",
+      "discussionPrompt": "If a powerful new technology needs rules, should the first rules focus on access, safety testing, or who is accountable when something goes wrong?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"]
+    },
+    {
+      "title": "AI safety stays on the agenda",
+      "summary": "U.S. and Chinese officials are expected to discuss AI-safety cooperation at the Shenzhen summit, even as disagreements over advanced-chip access remain a major issue.",
+      "discussionPrompt": "Two rivals can still agree on safety rails. What everyday situation works better when competitors cooperate on a shared rule?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/media-telecom/chip-tensions-loom-over-trump-xi-summit-us-china-push-ai-safety-steps-2026-11-16/"]
+    },
+    {
+      "title": "COP31 draft opens climate bargaining",
+      "summary": "COP31 negotiators released a draft agreement in Turkey, beginning a push to narrow differences over fossil fuels, climate finance and how countries respond to rising temperatures.",
+      "discussionPrompt": "When a group has to agree on a difficult plan, is it better to start with a huge messy draft or a short list of things everyone already shares?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/sustainability/cop/first-draft-cop31-deal-signals-tough-negotiations-come-2026-11-16/"]
+    },
+    {
+      "title": "An early polar-vortex wobble",
+      "summary": "Meteorologists say the Arctic polar vortex is weakening unusually early. It does not guarantee a harsh winter, but it can raise the chance of colder, drier conditions in some northern regions.",
+      "discussionPrompt": "What is your ideal cold-weather routine: cooking something warm, finding a favorite show, getting outdoors, or making the home extra cozy?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/environment/what-is-polar-vortex-what-could-it-mean-winter-2026-11-16/"]
+    },
+    {
+      "title": "U.S. flights work toward normal",
+      "summary": "U.S. air travel continued recovering after a nationwide ground stop disrupted flights. Officials said aging systems and problems during technology work were being investigated.",
+      "discussionPrompt": "Travel plans go sideways sometimes. Are you the person who makes a backup plan immediately, or the one who finds an unexpected adventure?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"]
+    },
+    {
+      "title": "AI stocks face another wobbly day",
+      "summary": "U.S. markets fell as AI-related shares, led by Nvidia, declined again. Investors are watching the sector closely ahead of Nvidia's upcoming earnings report.",
+      "discussionPrompt": "When a popular trend suddenly cools off, do you get more curious about what changed, or do you prefer to wait and see where things settle?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Associated Press", "Reuters"],
+      "sourceUrls": ["https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7", "https://www.reuters.com/markets/europe/global-markets-view-europe-2026-11-16/"]
+    },
+    {
+      "title": "Vikings win a key division game",
+      "summary": "Minnesota beat Green Bay 30-10 after forcing four turnovers and recording eight sacks, tightening a three-way race at the top of the NFC North.",
+      "discussionPrompt": "What makes a team win feel especially satisfying: a comeback, smart defense, an old favorite returning, or a perfectly executed plan?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/"]
+    },
+    {
+      "title": "London City earns a point at Arsenal",
+      "summary": "London City Lionesses drew 1-1 at Arsenal in the Women's Super League, with goalkeeper Mary Earps making key saves to help preserve third place.",
+      "discussionPrompt": "A great save can matter as much as a great goal. Which kind of effort do you notice most: a dramatic finish, quiet consistency, or helping someone else shine?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/sports/soccer/goodwin-strikes-earps-saves-london-city-hold-arsenal-stay-third-2026-11-15/"]
     }
   ]
 }
