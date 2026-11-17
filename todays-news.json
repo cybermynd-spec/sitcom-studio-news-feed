@@ -1,85 +1,127 @@
 {
-  "updatedUtc": "2026-11-16T16:53:23Z",
+  "updatedUtc": "2026-11-17T15:02:16.226Z",
   "topics": [
     {
-      "title": "Asia trip puts nuclear talks in view",
-      "summary": "U.S. President Donald Trump began an Asia trip featuring ASEAN meetings and planned talks with China and Russia, where Ukraine and nuclear arms are expected to be discussed.",
-      "discussionPrompt": "When leaders plan a big meeting, what makes you hopeful it will be useful: a clear agenda, smaller side conversations, or simply everyone showing up?",
+      "title": "UN report spotlights everyday chemicals",
+      "summary": "A new UN report says chemicals that can affect hormones, found in many everyday products, pose a growing health and environmental concern as research improves understanding of their effects.",
+      "discussionPrompt": "When you hear that ordinary products have hidden trade-offs, do you become a label-reader, look for simpler options, or decide life is already complicated enough?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/ffc5e5a2d384f00960034ec10087502e"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/7833c2bd2881fe7ec5793fefbde327ee"
+      ]
     },
     {
-      "title": "UN offers support for nuclear reductions",
-      "summary": "UN Secretary-General António Guterres said the United Nations is ready to support any denuclearisation effort that emerges from this week's U.S., China and Russia summit.",
-      "discussionPrompt": "Big international goals can feel abstract. What small sign would convince you that a peace-focused agreement was actually moving from words into action?",
+      "title": "Leaders gather for Asia talks",
+      "summary": "U.S. President Donald Trump arrived in the Philippines for meetings with Southeast Asian leaders before planned talks in China involving China and Russia.",
+      "discussionPrompt": "At a big international gathering, what sounds more productive: the official speeches, a quiet side meeting, or the shared meal afterward?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/china/un-ready-support-any-denuclearisation-effort-us-china-russia-talks-2026-11-16/"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/e1fd6fce7b854d0d6d5e97a53138b47"
+      ]
     },
     {
-      "title": "AI chip rules tighten before summit",
-      "summary": "The U.S. issued rules restricting remote access to advanced AI chips and servers, a move expected to be part of wider technology discussions with China this week.",
-      "discussionPrompt": "If a powerful new technology needs rules, should the first rules focus on access, safety testing, or who is accountable when something goes wrong?",
+      "title": "AI chip access rules tighten",
+      "summary": "The U.S. issued rules aimed at limiting remote access to advanced American chips and servers, adding another chapter to the global debate over powerful AI technology.",
+      "discussionPrompt": "If powerful technology needs guardrails, should the first focus be access, safety testing, or clear accountability when things go wrong?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/legal/litigation/us-issues-rule-protect-advanced-ai-chips-being-accessed-remotely-2026-11-16/"]
+      "sourceNames": [
+        "Associated Press",
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/60f868d3bb430b85a8657b27d421096e",
+        "https://www.streetinsider.com/Reuters/Morning%2BBid%3A%2BMarkets%2Bshaken%2C%2Bnot%2Bstirred%2Bas%2BUS-China%2Btech%2Bwar%2Bheats%2Bup/27358118.html"
+      ]
     },
     {
-      "title": "AI safety stays on the agenda",
-      "summary": "U.S. and Chinese officials are expected to discuss AI-safety cooperation at the Shenzhen summit, even as disagreements over advanced-chip access remain a major issue.",
-      "discussionPrompt": "Two rivals can still agree on safety rails. What everyday situation works better when competitors cooperate on a shared rule?",
+      "title": "Nvidia earnings draw market attention",
+      "summary": "Technology shares have been unsettled ahead of Nvidia's results, as investors weigh chip restrictions, AI spending, and whether the sector's rapid growth can continue.",
+      "discussionPrompt": "When everyone watches one company for clues about a whole trend, does that feel sensible, overdramatic, or a little of both?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/media-telecom/chip-tensions-loom-over-trump-xi-summit-us-china-push-ai-safety-steps-2026-11-16/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.streetinsider.com/Reuters/Morning%2BBid%3A%2BMarkets%2Bshaken%2C%2Bnot%2Bstirred%2Bas%2BUS-China%2Btech%2Bwar%2Bheats%2Bup/27358118.html"
+      ]
     },
     {
-      "title": "COP31 draft opens climate bargaining",
-      "summary": "COP31 negotiators released a draft agreement in Turkey, beginning a push to narrow differences over fossil fuels, climate finance and how countries respond to rising temperatures.",
-      "discussionPrompt": "When a group has to agree on a difficult plan, is it better to start with a huge messy draft or a short list of things everyone already shares?",
+      "title": "Nike maps a performance-led plan",
+      "summary": "Nike said it expects core performance sports to drive much of its planned revenue growth through 2031, emphasizing its push to reconnect with athletes and sports fans.",
+      "discussionPrompt": "What makes a brand feel genuinely connected to a sport: great gear, memorable athletes, local community support, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/sustainability/cop/first-draft-cop31-deal-signals-tough-negotiations-come-2026-11-16/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.streetinsider.com/Reuters/J"
+      ]
     },
     {
-      "title": "An early polar-vortex wobble",
-      "summary": "Meteorologists say the Arctic polar vortex is weakening unusually early. It does not guarantee a harsh winter, but it can raise the chance of colder, drier conditions in some northern regions.",
-      "discussionPrompt": "What is your ideal cold-weather routine: cooking something warm, finding a favorite show, getting outdoors, or making the home extra cozy?",
+      "title": "Disney plans more content spending",
+      "summary": "Disney reported quarterly results above Wall Street expectations, helped by theme-park attendance and NFL viewership, and said it plans to raise content spending in its next fiscal year.",
+      "discussionPrompt": "If you had a bigger entertainment budget, would you spend it on a spectacular new show, live events, parks, or better ways to find hidden gems?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/environment/what-is-polar-vortex-what-could-it-mean-winter-2026-11-16/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://new.streetinsider.com/Reuters/Trump%2Badministration%2Bdelays%2Bmeeting%2Bof%2Bhigh-profile%2Btech%2Bpanel/x"
+      ]
     },
     {
-      "title": "U.S. flights work toward normal",
-      "summary": "U.S. air travel continued recovering after a nationwide ground stop disrupted flights. Officials said aging systems and problems during technology work were being investigated.",
-      "discussionPrompt": "Travel plans go sideways sometimes. Are you the person who makes a backup plan immediately, or the one who finds an unexpected adventure?",
+      "title": "Retirement-plan enrollment rules arrive",
+      "summary": "The U.S. Treasury and IRS issued final rules for automatic enrollment in certain workplace retirement plans, carrying out provisions of a 2022 law.",
+      "discussionPrompt": "Would automatic saving make your future self happier, or would you rather make every money decision manually?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.streetinsider.com/Reuters/J"
+      ]
     },
     {
-      "title": "AI stocks face another wobbly day",
-      "summary": "U.S. markets fell as AI-related shares, led by Nvidia, declined again. Investors are watching the sector closely ahead of Nvidia's upcoming earnings report.",
-      "discussionPrompt": "When a popular trend suddenly cools off, do you get more curious about what changed, or do you prefer to wait and see where things settle?",
+      "title": "Federal Reserve discusses digital finance",
+      "summary": "Federal Reserve Governor Christopher Waller said the central bank will work with the private sector on responsible financial innovation while traditional payment systems remain important.",
+      "discussionPrompt": "What payment method feels most futuristic to you: tapping a phone, instant transfers, digital wallets, or simply never carrying cash?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press", "Reuters"],
-      "sourceUrls": ["https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7", "https://www.reuters.com/markets/europe/global-markets-view-europe-2026-11-16/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.streetinsider.com/Reuters/J"
+      ]
     },
     {
-      "title": "Vikings win a key division game",
-      "summary": "Minnesota beat Green Bay 30-10 after forcing four turnovers and recording eight sacks, tightening a three-way race at the top of the NFC North.",
-      "discussionPrompt": "What makes a team win feel especially satisfying: a comeback, smart defense, an old favorite returning, or a perfectly executed plan?",
+      "title": "Las Vegas opens a huge flower show",
+      "summary": "Bellagio's annual holiday flower display opened with roughly 20,000 plants and up to 150 varieties, turning its conservatory into a seasonal attraction for visitors.",
+      "discussionPrompt": "If you could design a giant seasonal display, would you choose flowers, lights, food, music, or a totally strange theme?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/sports/nfl-roundup-vikings-stymie-packers-kirk-cousins-triumphant-return--flm-2026-11-16/"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://apnews.com/article/5f23c1b479d13ff8237ec929b848c62b"
+      ]
     },
     {
-      "title": "London City earns a point at Arsenal",
-      "summary": "London City Lionesses drew 1-1 at Arsenal in the Women's Super League, with goalkeeper Mary Earps making key saves to help preserve third place.",
-      "discussionPrompt": "A great save can matter as much as a great goal. Which kind of effort do you notice most: a dramatic finish, quiet consistency, or helping someone else shine?",
+      "title": "Data centers raise climate questions",
+      "summary": "A Harvard study found that the 400 largest U.S. data centers emitted more heat-trapping gas in one year than Denmark, before the recent AI-driven expansion accelerated.",
+      "discussionPrompt": "When technology gets more useful but uses more energy, what would you most want improved first: efficiency, clean power, or less wasteful habits?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/sports/soccer/goodwin-strikes-earps-saves-london-city-hold-arsenal-stay-third-2026-11-15/"]
+      "sourceNames": [
+        "Associated Press"
+      ],
+      "sourceUrls": [
+        "https://www.mauinews.com/news/national-news-apwire/"
+      ]
     }
   ]
 }
