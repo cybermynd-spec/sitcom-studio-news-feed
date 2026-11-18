@@ -1,127 +1,85 @@
 {
-  "updatedUtc": "2026-11-17T15:02:16.226Z",
+  "updatedUtc": "2026-11-18T15:51:06.391Z",
   "topics": [
     {
-      "title": "UN report spotlights everyday chemicals",
-      "summary": "A new UN report says chemicals that can affect hormones, found in many everyday products, pose a growing health and environmental concern as research improves understanding of their effects.",
-      "discussionPrompt": "When you hear that ordinary products have hidden trade-offs, do you become a label-reader, look for simpler options, or decide life is already complicated enough?",
+      "title": "APEC opens with major leaders meeting",
+      "summary": "China hosted U.S. President Donald Trump and Russian President Vladimir Putin at the APEC summit in Shenzhen, where trade, technology and global cooperation are central to the agenda.",
+      "discussionPrompt": "When a huge international meeting has trade and technology on the agenda, what would you most hope the leaders actually make progress on?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/7833c2bd2881fe7ec5793fefbde327ee"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/"]
     },
     {
-      "title": "Leaders gather for Asia talks",
-      "summary": "U.S. President Donald Trump arrived in the Philippines for meetings with Southeast Asian leaders before planned talks in China involving China and Russia.",
-      "discussionPrompt": "At a big international gathering, what sounds more productive: the official speeches, a quiet side meeting, or the shared meal afterward?",
+      "title": "Island nations press climate talks",
+      "summary": "Small island states at the U.N. climate conference in Turkey urged larger, wealthier countries to speed up emissions cuts and increase funding for resilience and early-warning systems.",
+      "discussionPrompt": "If your community had to prepare for changing weather, would you prioritize stronger buildings, better alerts, or helping neighbors organize together?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/e1fd6fce7b854d0d6d5e97a53138b47"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/6d0afe638c93be3150b5bb3b5cd3fd23"]
     },
     {
-      "title": "AI chip access rules tighten",
-      "summary": "The U.S. issued rules aimed at limiting remote access to advanced American chips and servers, adding another chapter to the global debate over powerful AI technology.",
-      "discussionPrompt": "If powerful technology needs guardrails, should the first focus be access, safety testing, or clear accountability when things go wrong?",
+      "title": "Java security update draws attention",
+      "summary": "Governments and cybersecurity agencies warned organizations about a serious Java vulnerability and urged prompt software updates, highlighting how quickly everyday digital infrastructure can need attention.",
+      "discussionPrompt": "What is the one digital chore you keep postponing: software updates, password cleanup, backups, or sorting old photos?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press",
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/60f868d3bb430b85a8657b27d421096e",
-        "https://www.streetinsider.com/Reuters/Morning%2BBid%3A%2BMarkets%2Bshaken%2C%2Bnot%2Bstirred%2Bas%2BUS-China%2Btech%2Bwar%2Bheats%2Bup/27358118.html"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/south-korea-holds-emergency-meeting-possible-flaws-java-programming-language-2026-11-18/"]
     },
     {
-      "title": "Nvidia earnings draw market attention",
-      "summary": "Technology shares have been unsettled ahead of Nvidia's results, as investors weigh chip restrictions, AI spending, and whether the sector's rapid growth can continue.",
-      "discussionPrompt": "When everyone watches one company for clues about a whole trend, does that feel sensible, overdramatic, or a little of both?",
+      "title": "AI disclosure idea enters debate",
+      "summary": "U.S. officials are considering whether companies should publicly disclose use of Chinese AI models, a proposal that reflects growing questions around transparency, data practices and technology competition.",
+      "discussionPrompt": "When an app uses AI behind the scenes, what would you most want to know: where it came from, what data it uses, or what decisions it makes?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.streetinsider.com/Reuters/Morning%2BBid%3A%2BMarkets%2Bshaken%2C%2Bnot%2Bstirred%2Bas%2BUS-China%2Btech%2Bwar%2Bheats%2Bup/27358118.html"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"]
     },
     {
-      "title": "Nike maps a performance-led plan",
-      "summary": "Nike said it expects core performance sports to drive much of its planned revenue growth through 2031, emphasizing its push to reconnect with athletes and sports fans.",
-      "discussionPrompt": "What makes a brand feel genuinely connected to a sport: great gear, memorable athletes, local community support, or something else?",
+      "title": "AI market bets face a fresh test",
+      "summary": "Global stocks were mixed as investors weighed Nvidia's stronger sales outlook and awaited Anthropic's market debut, both seen as signals for confidence in the AI investment boom.",
+      "discussionPrompt": "When a new technology feels exciting but expensive, do you jump in early, wait for the dust to settle, or enjoy watching from the sidelines?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.streetinsider.com/Reuters/J"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-18/"]
     },
     {
-      "title": "Disney plans more content spending",
-      "summary": "Disney reported quarterly results above Wall Street expectations, helped by theme-park attendance and NFL viewership, and said it plans to raise content spending in its next fiscal year.",
-      "discussionPrompt": "If you had a bigger entertainment budget, would you spend it on a spectacular new show, live events, parks, or better ways to find hidden gems?",
+      "title": "Workwear brand attracts major investment",
+      "summary": "Permira and Freeman Spogli are acquiring a majority stake in Brunt Workwear, valuing the boots and apparel company at more than $800 million as demand for trade-focused gear grows.",
+      "discussionPrompt": "What makes work clothes feel worth paying for: comfort, toughness, good pockets, a sharp look, or a story behind the brand?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://new.streetinsider.com/Reuters/Trump%2Badministration%2Bdelays%2Bmeeting%2Bof%2Bhigh-profile%2Btech%2Bpanel/x"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/legal/transactional/permira-freeman-spogli-acquire-boot-apparel-brand-brunt-workwear-2026-11-18/"]
     },
     {
-      "title": "Retirement-plan enrollment rules arrive",
-      "summary": "The U.S. Treasury and IRS issued final rules for automatic enrollment in certain workplace retirement plans, carrying out provisions of a 2022 law.",
-      "discussionPrompt": "Would automatic saving make your future self happier, or would you rather make every money decision manually?",
+      "title": "Luxury shoppers lean toward experiences",
+      "summary": "Bain expects personal luxury-goods sales to grow again in 2026, while noting that many consumers are shifting spending toward travel, dining, leisure and other premium experiences.",
+      "discussionPrompt": "If you had a little extra money for a treat, would you choose something you can keep or an experience you will remember?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.streetinsider.com/Reuters/J"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/retail-consumer/luxury-goods-sales-seen-returning-growth-2026-outlook-fragile-2026-11-18/"]
     },
     {
-      "title": "Federal Reserve discusses digital finance",
-      "summary": "Federal Reserve Governor Christopher Waller said the central bank will work with the private sector on responsible financial innovation while traditional payment systems remain important.",
-      "discussionPrompt": "What payment method feels most futuristic to you: tapping a phone, instant transfers, digital wallets, or simply never carrying cash?",
+      "title": "Government budgets face a long view",
+      "summary": "J.P. Morgan said developed-market fiscal deficits are on track for their highest level outside a recession since World War II, putting public spending and debt strategies in focus.",
+      "discussionPrompt": "When planning a household budget, is it smarter to be strict now, flexible when surprises happen, or set aside a little room for fun?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.streetinsider.com/Reuters/J"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/developed-market-fiscal-deficit-hit-highest-since-world-war-2-outside-recessions-2026-11-18/"]
     },
     {
-      "title": "Las Vegas opens a huge flower show",
-      "summary": "Bellagio's annual holiday flower display opened with roughly 20,000 plants and up to 150 varieties, turning its conservatory into a seasonal attraction for visitors.",
-      "discussionPrompt": "If you could design a giant seasonal display, would you choose flowers, lights, food, music, or a totally strange theme?",
+      "title": "Chip rules test the trade truce",
+      "summary": "New U.S. limits on advanced chip access are adding pressure to the fragile U.S.-China trade relationship, with analysts watching for possible effects on technology supply chains.",
+      "discussionPrompt": "When two big systems depend on each other but also compete, what usually helps most: clear rules, regular talks, or finding a shared project?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/5f23c1b479d13ff8237ec929b848c62b"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/commentary/breakingviews/chip-curbs-threaten-us-china-trade-truce-2026-11-18/"]
     },
     {
-      "title": "Data centers raise climate questions",
-      "summary": "A Harvard study found that the 400 largest U.S. data centers emitted more heat-trapping gas in one year than Denmark, before the recent AI-driven expansion accelerated.",
-      "discussionPrompt": "When technology gets more useful but uses more energy, what would you most want improved first: efficiency, clean power, or less wasteful habits?",
+      "title": "A year in images invites reflection",
+      "summary": "Reuters published a visual chronicle of notable moments from 2026, looking back at a year shaped by scientific advances, major sporting events and fast-moving technology.",
+      "discussionPrompt": "If you made a photo album of this year so far, would it be full of big events, small everyday moments, people, places, or pets?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://www.mauinews.com/news/national-news-apwire/"
-      ]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/world/2026-reuters-pictures-visual-chronicle-years-memorable-moments-2026-11-18/"]
     }
   ]
 }
