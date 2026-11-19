@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-11-18T15:51:06.391Z",
+  "updatedUtc": "2026-11-19T16:12:00.000Z",
   "topics": [
     {
-      "title": "APEC opens with major leaders meeting",
-      "summary": "China hosted U.S. President Donald Trump and Russian President Vladimir Putin at the APEC summit in Shenzhen, where trade, technology and global cooperation are central to the agenda.",
-      "discussionPrompt": "When a huge international meeting has trade and technology on the agenda, what would you most hope the leaders actually make progress on?",
+      "title": "APEC brings major leaders together",
+      "summary": "Leaders from China, the United States and Russia gathered around the APEC summit in Shenzhen, where trade, technology and international cooperation are high on the agenda.",
+      "discussionPrompt": "When leaders from very different countries meet, what is one practical thing you would hope they could agree to work on together?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/"]
+      "sourceNames": ["Reuters", "The Guardian"],
+      "sourceUrls": ["https://www.reuters.com/world/china/putin-trump-meet-apec-summit-no-full-scale-talks-planned-kremlin-says-2026-11-18/", "https://www.theguardian.com/theguardian/2026/nov/19"]
     },
     {
-      "title": "Island nations press climate talks",
-      "summary": "Small island states at the U.N. climate conference in Turkey urged larger, wealthier countries to speed up emissions cuts and increase funding for resilience and early-warning systems.",
-      "discussionPrompt": "If your community had to prepare for changing weather, would you prioritize stronger buildings, better alerts, or helping neighbors organize together?",
+      "title": "Anthropic begins public trading",
+      "summary": "AI company Anthropic began trading on the U.S. stock market after a record-sized IPO, making its debut a closely watched test of investor confidence in artificial intelligence.",
+      "discussionPrompt": "Would you ever buy shares in a company whose tools you use, or would that make your everyday app updates feel way too personal?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/6d0afe638c93be3150b5bb3b5cd3fd23"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"]
     },
     {
-      "title": "Java security update draws attention",
-      "summary": "Governments and cybersecurity agencies warned organizations about a serious Java vulnerability and urged prompt software updates, highlighting how quickly everyday digital infrastructure can need attention.",
-      "discussionPrompt": "What is the one digital chore you keep postponing: software updates, password cleanup, backups, or sorting old photos?",
+      "title": "AI demand raises economic questions",
+      "summary": "The IMF's managing director said booming demand for AI hardware and related technology could add to global price pressures and challenge central banks as they set interest rates.",
+      "discussionPrompt": "If a new technology makes some things easier but also more expensive, where would you notice that trade-off first in everyday life?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/south-korea-holds-emergency-meeting-possible-flaws-java-programming-language-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"]
     },
     {
-      "title": "AI disclosure idea enters debate",
-      "summary": "U.S. officials are considering whether companies should publicly disclose use of Chinese AI models, a proposal that reflects growing questions around transparency, data practices and technology competition.",
-      "discussionPrompt": "When an app uses AI behind the scenes, what would you most want to know: where it came from, what data it uses, or what decisions it makes?",
+      "title": "Data-centre emissions come into focus",
+      "summary": "An IEA report highlighted projected growth in data-centre emissions by 2030, renewing questions about how rapidly growing AI infrastructure can be powered more cleanly.",
+      "discussionPrompt": "If your town got a giant new data centre, what would you care about most: jobs, electricity use, water, or making sure neighbours get a say?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/china/trump-administration-weighs-forcing-us-firms-disclose-chinese-ai-use-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/business/technology"]
     },
     {
-      "title": "AI market bets face a fresh test",
-      "summary": "Global stocks were mixed as investors weighed Nvidia's stronger sales outlook and awaited Anthropic's market debut, both seen as signals for confidence in the AI investment boom.",
-      "discussionPrompt": "When a new technology feels exciting but expensive, do you jump in early, wait for the dust to settle, or enjoy watching from the sidelines?",
+      "title": "Greenland security pact gains approval",
+      "summary": "Denmark's parliament unanimously approved a security agreement involving Greenland and the United States, updating their defense framework and emphasizing Greenland's role in the partnership.",
+      "discussionPrompt": "When three places have to share responsibility for something big, what helps most: clear rules, regular check-ins, or a really good group chat?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/china/global-markets-wrapup-1-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"]
     },
     {
-      "title": "Workwear brand attracts major investment",
-      "summary": "Permira and Freeman Spogli are acquiring a majority stake in Brunt Workwear, valuing the boots and apparel company at more than $800 million as demand for trade-focused gear grows.",
-      "discussionPrompt": "What makes work clothes feel worth paying for: comfort, toughness, good pockets, a sharp look, or a story behind the brand?",
+      "title": "Historic Australian shipwreck is identified",
+      "summary": "Marine archaeologists announced the discovery of the wreck of the HMCS Spitfire, described as Australia's first locally built warship, 128 years after it sank near Queensland.",
+      "discussionPrompt": "If you could explore one piece of local history that has been hiding in plain sight, would you pick an old building, a shipwreck, or a forgotten photo archive?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/legal/transactional/permira-freeman-spogli-acquire-boot-apparel-brand-brunt-workwear-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered"]
     },
     {
-      "title": "Luxury shoppers lean toward experiences",
-      "summary": "Bain expects personal luxury-goods sales to grow again in 2026, while noting that many consumers are shifting spending toward travel, dining, leisure and other premium experiences.",
-      "discussionPrompt": "If you had a little extra money for a treat, would you choose something you can keep or an experience you will remember?",
+      "title": "Climate science timetable faces concern",
+      "summary": "A leading climate scientist warned that delays to a major IPCC report could complicate international efforts to coordinate climate action and keep scientific assessments on schedule.",
+      "discussionPrompt": "When a big shared project slips behind schedule, is it better to protect quality at all costs or publish what is ready and keep improving it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/retail-consumer/luxury-goods-sales-seen-returning-growth-2026-outlook-fragile-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science/all"]
     },
     {
-      "title": "Government budgets face a long view",
-      "summary": "J.P. Morgan said developed-market fiscal deficits are on track for their highest level outside a recession since World War II, putting public spending and debt strategies in focus.",
-      "discussionPrompt": "When planning a household budget, is it smarter to be strict now, flexible when surprises happen, or set aside a little room for fun?",
+      "title": "Milder winters reshape bird migration",
+      "summary": "New research suggests some British birds are staying closer to their breeding grounds as winters become milder, offering another example of wildlife adapting to changing seasonal patterns.",
+      "discussionPrompt": "What is the first sign of a new season where you live: a bird, a smell in the air, a certain snack, or changing light?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/developed-market-fiscal-deficit-hit-highest-since-world-war-2-outside-recessions-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
     },
     {
-      "title": "Chip rules test the trade truce",
-      "summary": "New U.S. limits on advanced chip access are adding pressure to the fragile U.S.-China trade relationship, with analysts watching for possible effects on technology supply chains.",
-      "discussionPrompt": "When two big systems depend on each other but also compete, what usually helps most: clear rules, regular talks, or finding a shared project?",
+      "title": "Glastonbury unveils younger headliners",
+      "summary": "Glastonbury announced Sam Fender, Harry Styles and Billie Eilish as headline acts for next year's festival, with Cher set for the traditional legends slot.",
+      "discussionPrompt": "If you were planning a giant music festival, would you book familiar favorites, brand-new discoveries, or one wild card nobody sees coming?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/commentary/breakingviews/chip-curbs-threaten-us-china-trade-truce-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
     },
     {
-      "title": "A year in images invites reflection",
-      "summary": "Reuters published a visual chronicle of notable moments from 2026, looking back at a year shaped by scientific advances, major sporting events and fast-moving technology.",
-      "discussionPrompt": "If you made a photo album of this year so far, would it be full of big events, small everyday moments, people, places, or pets?",
+      "title": "Energy bills forecast to rise in Britain",
+      "summary": "A forecast pointed to higher household energy bills in Great Britain from January, keeping attention on how families can compare tariffs and manage winter costs.",
+      "discussionPrompt": "What little home habit makes you feel surprisingly clever about saving energy: blankets, batch cooking, turning things off, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/world/2026-reuters-pictures-visual-chronicle-years-memorable-moments-2026-11-18/"]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
     }
   ]
 }
