@@ -1,85 +1,129 @@
 {
-  "updatedUtc": "2026-11-19T16:12:00.000Z",
+  "updatedUtc": "2026-11-20T16:21:26.556Z",
   "topics": [
     {
-      "title": "APEC brings major leaders together",
-      "summary": "Leaders from China, the United States and Russia gathered around the APEC summit in Shenzhen, where trade, technology and international cooperation are high on the agenda.",
-      "discussionPrompt": "When leaders from very different countries meet, what is one practical thing you would hope they could agree to work on together?",
+      "title": "COP31 reaches its final day",
+      "summary": "Climate delegates in Antalya are pushing to settle a final agreement as COP31 enters its closing hours, with finance and fossil-fuel language among the remaining points of debate.",
+      "discussionPrompt": "When a big group project reaches the deadline, are you the person who polishes every sentence, finds a compromise, or brings snacks for the exhausted team?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters", "The Guardian"],
-      "sourceUrls": ["https://www.reuters.com/world/china/putin-trump-meet-apec-summit-no-full-scale-talks-planned-kremlin-says-2026-11-18/", "https://www.theguardian.com/theguardian/2026/nov/19"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/20/cop31-told-it-risks-being-ghost-summit-as-all-mentions-of-fossil-fuels-removed-from-draft-text"
+      ]
     },
     {
-      "title": "Anthropic begins public trading",
-      "summary": "AI company Anthropic began trading on the U.S. stock market after a record-sized IPO, making its debut a closely watched test of investor confidence in artificial intelligence.",
-      "discussionPrompt": "Would you ever buy shares in a company whose tools you use, or would that make your everyday app updates feel way too personal?",
+      "title": "AI jitters weigh on global markets",
+      "summary": "Asian shares headed for their weakest week since 2020 as investors reassessed high expectations around AI, while technology stocks remained under pressure.",
+      "discussionPrompt": "When everyone gets excited about the next big thing, do you jump in early, wait for the reviews, or quietly enjoy the old version that still works?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/world/asia-pacific/asian-shares-head-worst-week-since-2020-ai-rout-deepens-2026-11-20/"
+      ]
     },
     {
-      "title": "AI demand raises economic questions",
-      "summary": "The IMF's managing director said booming demand for AI hardware and related technology could add to global price pressures and challenge central banks as they set interest rates.",
-      "discussionPrompt": "If a new technology makes some things easier but also more expensive, where would you notice that trade-off first in everyday life?",
+      "title": "Holiday shopping season approaches",
+      "summary": "Reuters says Black Friday sales and fresh economic data will give markets a new read on consumer confidence, as retailers enter the year-end shopping stretch.",
+      "discussionPrompt": "Are you a careful list-maker, an accidental last-minute shopper, or someone who treats browsing stores like a sport?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-20/"
+      ]
     },
     {
-      "title": "Data-centre emissions come into focus",
-      "summary": "An IEA report highlighted projected growth in data-centre emissions by 2030, renewing questions about how rapidly growing AI infrastructure can be powered more cleanly.",
-      "discussionPrompt": "If your town got a giant new data centre, what would you care about most: jobs, electricity use, water, or making sure neighbours get a say?",
+      "title": "Signal limits screenshots",
+      "summary": "Encrypted messaging service Signal said it will restrict screenshots to make it harder for AI agents to read private messages displayed on a screen.",
+      "discussionPrompt": "What tiny privacy setting do you wish more apps made easy to find: screenshot controls, simpler permissions, or a big old-fashioned off switch?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/business/technology"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://kfgo.com/2026/11/20/exclusive-signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/"
+      ]
     },
     {
-      "title": "Greenland security pact gains approval",
-      "summary": "Denmark's parliament unanimously approved a security agreement involving Greenland and the United States, updating their defense framework and emphasizing Greenland's role in the partnership.",
-      "discussionPrompt": "When three places have to share responsibility for something big, what helps most: clear rules, regular check-ins, or a really good group chat?",
+      "title": "Google picks Blue Origin for space computing",
+      "summary": "Google selected Blue Origin's New Glenn rocket for a planned 2029 launch of AI-computing satellites, linking the fast-growing AI sector with a new space project.",
+      "discussionPrompt": "If computers could work from space, what should they help with first: weather forecasts, maps, movies, or something nobody has invented yet?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://kfgo.com/2026/11/19/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/"
+      ]
     },
     {
-      "title": "Historic Australian shipwreck is identified",
-      "summary": "Marine archaeologists announced the discovery of the wreck of the HMCS Spitfire, described as Australia's first locally built warship, 128 years after it sank near Queensland.",
-      "discussionPrompt": "If you could explore one piece of local history that has been hiding in plain sight, would you pick an old building, a shipwreck, or a forgotten photo archive?",
+      "title": "Voyager 1 reaches a new distance marker",
+      "summary": "NASA confirmed that Voyager 1 has reached a light-day from Earth, another milestone for the veteran spacecraft as it continues returning data from interstellar space.",
+      "discussionPrompt": "If you could send one cheerful message to a spacecraft already a light-day away, what would it say?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered"]
+      "sourceNames": [
+        "Reuters",
+        "NASA"
+      ],
+      "sourceUrls": [
+        "https://kfgo.com/2026/11/19/nasa-probe-achieves-light-day-milestone-and-is-not-done-yet/",
+        "https://www.nasa.gov/mission/voyager/"
+      ]
     },
     {
-      "title": "Climate science timetable faces concern",
-      "summary": "A leading climate scientist warned that delays to a major IPCC report could complicate international efforts to coordinate climate action and keep scientific assessments on schedule.",
-      "discussionPrompt": "When a big shared project slips behind schedule, is it better to protect quality at all costs or publish what is ready and keep improving it?",
+      "title": "Moon-soil potato experiment succeeds",
+      "summary": "Scientists reported growing potatoes in simulated lunar soil, a practical experiment that explores how future explorers might produce food away from Earth.",
+      "discussionPrompt": "If you had to grow one food on the Moon, would you choose potatoes, tomatoes, strawberries, or something wonderfully impractical?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/all"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://kfgo.com/2026/11/19/scientists-succeed-in-growing-potatoes-in-simulated-moon-soil/"
+      ]
     },
     {
-      "title": "Milder winters reshape bird migration",
-      "summary": "New research suggests some British birds are staying closer to their breeding grounds as winters become milder, offering another example of wildlife adapting to changing seasonal patterns.",
-      "discussionPrompt": "What is the first sign of a new season where you live: a bird, a smell in the air, a certain snack, or changing light?",
+      "title": "Webb finds ice around a young star",
+      "summary": "A new study using the James Webb Space Telescope found water and carbon-dioxide ice in the debris disk around Beta Pictoris, offering clues about planet-forming material.",
+      "discussionPrompt": "Does learning that ice exists around another star make space feel more familiar, more mysterious, or both at once?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
+      "sourceNames": [
+        "Science",
+        "The Fleet Dispatch"
+      ],
+      "sourceUrls": [
+        "https://www.science.org/",
+        "https://www.thefleetdispatch.com/"
+      ]
     },
     {
-      "title": "Glastonbury unveils younger headliners",
-      "summary": "Glastonbury announced Sam Fender, Harry Styles and Billie Eilish as headline acts for next year's festival, with Cher set for the traditional legends slot.",
-      "discussionPrompt": "If you were planning a giant music festival, would you book familiar favorites, brand-new discoveries, or one wild card nobody sees coming?",
+      "title": "India space startup raises fresh funding",
+      "summary": "Indian satellite-data startup SatSure raised $7 million from a sovereign space fund, adding momentum to the country's expanding private space sector.",
+      "discussionPrompt": "If a satellite could give you one useful daily update, would you ask for weather, traffic, wildlife sightings, or the perfect stargazing forecast?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://kfgo.com/2026/11/20/indian-space-startup-satsure-raises-7-million-from-sovereign-space-fund/"
+      ]
     },
     {
-      "title": "Energy bills forecast to rise in Britain",
-      "summary": "A forecast pointed to higher household energy bills in Great Britain from January, keeping attention on how families can compare tariffs and manage winter costs.",
-      "discussionPrompt": "What little home habit makes you feel surprisingly clever about saving energy: blankets, batch cooking, turning things off, or something else?",
+      "title": "OakNorth wins a U.S. banking licence",
+      "summary": "British digital bank OakNorth secured a U.S. banking charter, becoming the first foreign online lender to gain a broader licence as it expands in America.",
+      "discussionPrompt": "Would you trust a bank with no local branch if its app was excellent, or do you still like knowing there is a real front door somewhere?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/2026/nov/19"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/legal/transactional/oaknorth-wins-us-banking-licence-2026-11-20/"
+      ]
     }
   ]
 }
