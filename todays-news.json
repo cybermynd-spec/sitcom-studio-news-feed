@@ -1,129 +1,15 @@
 {
-  "updatedUtc": "2026-11-20T16:21:26.556Z",
+  "updatedUtc": "2026-11-21T16:54:41Z",
   "topics": [
-    {
-      "title": "COP31 reaches its final day",
-      "summary": "Climate delegates in Antalya are pushing to settle a final agreement as COP31 enters its closing hours, with finance and fossil-fuel language among the remaining points of debate.",
-      "discussionPrompt": "When a big group project reaches the deadline, are you the person who polishes every sentence, finds a compromise, or brings snacks for the exhausted team?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/20/cop31-told-it-risks-being-ghost-summit-as-all-mentions-of-fossil-fuels-removed-from-draft-text"
-      ]
-    },
-    {
-      "title": "AI jitters weigh on global markets",
-      "summary": "Asian shares headed for their weakest week since 2020 as investors reassessed high expectations around AI, while technology stocks remained under pressure.",
-      "discussionPrompt": "When everyone gets excited about the next big thing, do you jump in early, wait for the reviews, or quietly enjoy the old version that still works?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/world/asia-pacific/asian-shares-head-worst-week-since-2020-ai-rout-deepens-2026-11-20/"
-      ]
-    },
-    {
-      "title": "Holiday shopping season approaches",
-      "summary": "Reuters says Black Friday sales and fresh economic data will give markets a new read on consumer confidence, as retailers enter the year-end shopping stretch.",
-      "discussionPrompt": "Are you a careful list-maker, an accidental last-minute shopper, or someone who treats browsing stores like a sport?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-20/"
-      ]
-    },
-    {
-      "title": "Signal limits screenshots",
-      "summary": "Encrypted messaging service Signal said it will restrict screenshots to make it harder for AI agents to read private messages displayed on a screen.",
-      "discussionPrompt": "What tiny privacy setting do you wish more apps made easy to find: screenshot controls, simpler permissions, or a big old-fashioned off switch?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://kfgo.com/2026/11/20/exclusive-signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/"
-      ]
-    },
-    {
-      "title": "Google picks Blue Origin for space computing",
-      "summary": "Google selected Blue Origin's New Glenn rocket for a planned 2029 launch of AI-computing satellites, linking the fast-growing AI sector with a new space project.",
-      "discussionPrompt": "If computers could work from space, what should they help with first: weather forecasts, maps, movies, or something nobody has invented yet?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://kfgo.com/2026/11/19/google-picks-bezos-blue-origin-to-launch-ai-computing-satellites-in-2029/"
-      ]
-    },
-    {
-      "title": "Voyager 1 reaches a new distance marker",
-      "summary": "NASA confirmed that Voyager 1 has reached a light-day from Earth, another milestone for the veteran spacecraft as it continues returning data from interstellar space.",
-      "discussionPrompt": "If you could send one cheerful message to a spacecraft already a light-day away, what would it say?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters",
-        "NASA"
-      ],
-      "sourceUrls": [
-        "https://kfgo.com/2026/11/19/nasa-probe-achieves-light-day-milestone-and-is-not-done-yet/",
-        "https://www.nasa.gov/mission/voyager/"
-      ]
-    },
-    {
-      "title": "Moon-soil potato experiment succeeds",
-      "summary": "Scientists reported growing potatoes in simulated lunar soil, a practical experiment that explores how future explorers might produce food away from Earth.",
-      "discussionPrompt": "If you had to grow one food on the Moon, would you choose potatoes, tomatoes, strawberries, or something wonderfully impractical?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://kfgo.com/2026/11/19/scientists-succeed-in-growing-potatoes-in-simulated-moon-soil/"
-      ]
-    },
-    {
-      "title": "Webb finds ice around a young star",
-      "summary": "A new study using the James Webb Space Telescope found water and carbon-dioxide ice in the debris disk around Beta Pictoris, offering clues about planet-forming material.",
-      "discussionPrompt": "Does learning that ice exists around another star make space feel more familiar, more mysterious, or both at once?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Science",
-        "The Fleet Dispatch"
-      ],
-      "sourceUrls": [
-        "https://www.science.org/",
-        "https://www.thefleetdispatch.com/"
-      ]
-    },
-    {
-      "title": "India space startup raises fresh funding",
-      "summary": "Indian satellite-data startup SatSure raised $7 million from a sovereign space fund, adding momentum to the country's expanding private space sector.",
-      "discussionPrompt": "If a satellite could give you one useful daily update, would you ask for weather, traffic, wildlife sightings, or the perfect stargazing forecast?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://kfgo.com/2026/11/20/indian-space-startup-satsure-raises-7-million-from-sovereign-space-fund/"
-      ]
-    },
-    {
-      "title": "OakNorth wins a U.S. banking licence",
-      "summary": "British digital bank OakNorth secured a U.S. banking charter, becoming the first foreign online lender to gain a broader licence as it expands in America.",
-      "discussionPrompt": "Would you trust a bank with no local branch if its app was excellent, or do you still like knowing there is a real front door somewhere?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.reuters.com/legal/transactional/oaknorth-wins-us-banking-licence-2026-11-20/"
-      ]
-    }
+    {"title":"AI-assisted math claim draws scrutiny","summary":"An Anthropic employee says work with Claude helped produce a proof of the Riemann Hypothesis. Mathematicians say the claim will need careful independent review before it can be accepted.","discussionPrompt":"If an AI helped solve a famously difficult puzzle, would you celebrate the tool, the person guiding it, or the whole strange collaboration?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8"]},
+    {"title":"Florida rains move northward","summary":"After historic flooding in parts of Florida, heavy rains are shifting farther north. The changing weather pattern is keeping residents and forecasters alert.","discussionPrompt":"When a stormy week changes your plans, are you a cozy-indoor-person, a weather-app checker, or someone who still insists the outing can happen?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/extreme-weather-flooding-florida-california-storms-46b14622b3ad77c32eb0182bfe8bc9f4"]},
+    {"title":"COP31 talks continue past deadline","summary":"Climate negotiations in Antalya continued beyond their scheduled end as countries sought agreement on the final text, including language on fossil fuels and climate finance.","discussionPrompt":"In a huge group project with one last sticking point, do you push for perfect wording, accept a compromise, or volunteer to make the coffee run?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/nov/21/cop31-live-world-urged-to-avoid-one-of-most-disappointing-cops-ever-as-talks-stretch-past-deadline"]},
+    {"title":"Nvidia export rules remain unchanged","summary":"The U.S. Treasury secretary said additional restrictions were not needed for Nvidia chip exports to China, keeping attention on how technology trade rules may evolve.","discussionPrompt":"What makes a piece of tech feel more exciting to you: speed, clever design, a useful everyday feature, or the story behind how it was made?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/nvidia-chip-export-restrictions-china-bessent-lutnick-88142455395552afe74caec3399a648b"]},
+    {"title":"Mosquito study offers dengue hope","summary":"Researchers reported strong evidence that mosquitoes bred with Wolbachia bacteria can help reduce the spread of dengue and chikungunya, offering a promising public-health tool.","discussionPrompt":"If a tiny creature could help solve a big human problem, would that make you see it differently—or would mosquitoes remain permanently unpopular?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/dengue-mosquitoes-brazil-wolbachia-f76cedcdcdf10c8834ab828d3e12ab13"]},
+    {"title":"Wildlife bridge nears opening in Los Angeles","summary":"The world’s largest wildlife crossing is set to open above a Los Angeles-area freeway, creating a safer route for animals moving between habitats.","discussionPrompt":"If your neighborhood built a crossing just for animals, which creature would you hope to spot using it first?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/wallis-annenberg-wildlife-crossing-los-angeles-california-af2a0788528d85d6624c5b78b0fe427c"]},
+    {"title":"Ancient Roman library reopens","summary":"Rome’s restored Ulpia Library, a long-buried imperial-era site, is reopening to visitors after conservation work brought its history back into public view.","discussionPrompt":"If you could borrow one book from an ancient library, would you choose a lost comedy, a travel journal, a recipe book, or something else?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/rome-ruins-library-ulpia-be5efcda2ab1f3a7f3e6189bf8c1a15b"]},
+    {"title":"France preserves home movies","summary":"Archivists and activists in France are rescuing aging home movies, preserving everyday memories and giving old film a new life for future viewers.","discussionPrompt":"What ordinary moment from your life would become surprisingly interesting footage fifty years from now?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/archivists-home-movies-french-super8-bardot-cinema-e90c603e13d4fbb7511a89f199912b61"]},
+    {"title":"Greenland’s food scene gains attention","summary":"Greenland’s growing culinary scene is putting Arctic ingredients and local cooking traditions in the spotlight, drawing visitors interested in food shaped by place.","discussionPrompt":"If you could try a meal that captures one landscape, would you pick Arctic coast, rainforest, desert, mountains, or somewhere closer to home?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/greenland-dining-1bbcb07effacd0b94c20689aec8d2aea"]},
+    {"title":"Girl Scout cookies inspire a history look","summary":"A new look at Girl Scout cookies traces how the familiar fundraiser became a lasting symbol of entrepreneurship, community work, and a very recognizable seasonal tradition.","discussionPrompt":"What annual tradition instantly tells you a new season has arrived: a certain food, a holiday display, a smell in the air, or a favorite show?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/girl-scout-cookie-american-objects-c75ec6b41e91b952758caa1572c5db4a"]}
   ]
 }
