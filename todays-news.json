@@ -1,15 +1,125 @@
 {
-  "updatedUtc": "2026-11-21T16:54:41Z",
+  "updatedUtc": "2026-11-22T15:54:08Z",
   "topics": [
-    {"title":"AI-assisted math claim draws scrutiny","summary":"An Anthropic employee says work with Claude helped produce a proof of the Riemann Hypothesis. Mathematicians say the claim will need careful independent review before it can be accepted.","discussionPrompt":"If an AI helped solve a famously difficult puzzle, would you celebrate the tool, the person guiding it, or the whole strange collaboration?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/anthropic-claude-math-solution-ai-4fe8b69a891f160f9e7f0c85af8c55c8"]},
-    {"title":"Florida rains move northward","summary":"After historic flooding in parts of Florida, heavy rains are shifting farther north. The changing weather pattern is keeping residents and forecasters alert.","discussionPrompt":"When a stormy week changes your plans, are you a cozy-indoor-person, a weather-app checker, or someone who still insists the outing can happen?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/extreme-weather-flooding-florida-california-storms-46b14622b3ad77c32eb0182bfe8bc9f4"]},
-    {"title":"COP31 talks continue past deadline","summary":"Climate negotiations in Antalya continued beyond their scheduled end as countries sought agreement on the final text, including language on fossil fuels and climate finance.","discussionPrompt":"In a huge group project with one last sticking point, do you push for perfect wording, accept a compromise, or volunteer to make the coffee run?","tone":"curious, casual, balanced","sourceNames":["The Guardian"],"sourceUrls":["https://www.theguardian.com/environment/2026/nov/21/cop31-live-world-urged-to-avoid-one-of-most-disappointing-cops-ever-as-talks-stretch-past-deadline"]},
-    {"title":"Nvidia export rules remain unchanged","summary":"The U.S. Treasury secretary said additional restrictions were not needed for Nvidia chip exports to China, keeping attention on how technology trade rules may evolve.","discussionPrompt":"What makes a piece of tech feel more exciting to you: speed, clever design, a useful everyday feature, or the story behind how it was made?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/nvidia-chip-export-restrictions-china-bessent-lutnick-88142455395552afe74caec3399a648b"]},
-    {"title":"Mosquito study offers dengue hope","summary":"Researchers reported strong evidence that mosquitoes bred with Wolbachia bacteria can help reduce the spread of dengue and chikungunya, offering a promising public-health tool.","discussionPrompt":"If a tiny creature could help solve a big human problem, would that make you see it differently—or would mosquitoes remain permanently unpopular?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/dengue-mosquitoes-brazil-wolbachia-f76cedcdcdf10c8834ab828d3e12ab13"]},
-    {"title":"Wildlife bridge nears opening in Los Angeles","summary":"The world’s largest wildlife crossing is set to open above a Los Angeles-area freeway, creating a safer route for animals moving between habitats.","discussionPrompt":"If your neighborhood built a crossing just for animals, which creature would you hope to spot using it first?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/wallis-annenberg-wildlife-crossing-los-angeles-california-af2a0788528d85d6624c5b78b0fe427c"]},
-    {"title":"Ancient Roman library reopens","summary":"Rome’s restored Ulpia Library, a long-buried imperial-era site, is reopening to visitors after conservation work brought its history back into public view.","discussionPrompt":"If you could borrow one book from an ancient library, would you choose a lost comedy, a travel journal, a recipe book, or something else?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/rome-ruins-library-ulpia-be5efcda2ab1f3a7f3e6189bf8c1a15b"]},
-    {"title":"France preserves home movies","summary":"Archivists and activists in France are rescuing aging home movies, preserving everyday memories and giving old film a new life for future viewers.","discussionPrompt":"What ordinary moment from your life would become surprisingly interesting footage fifty years from now?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/archivists-home-movies-french-super8-bardot-cinema-e90c603e13d4fbb7511a89f199912b61"]},
-    {"title":"Greenland’s food scene gains attention","summary":"Greenland’s growing culinary scene is putting Arctic ingredients and local cooking traditions in the spotlight, drawing visitors interested in food shaped by place.","discussionPrompt":"If you could try a meal that captures one landscape, would you pick Arctic coast, rainforest, desert, mountains, or somewhere closer to home?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/greenland-dining-1bbcb07effacd0b94c20689aec8d2aea"]},
-    {"title":"Girl Scout cookies inspire a history look","summary":"A new look at Girl Scout cookies traces how the familiar fundraiser became a lasting symbol of entrepreneurship, community work, and a very recognizable seasonal tradition.","discussionPrompt":"What annual tradition instantly tells you a new season has arrived: a certain food, a holiday display, a smell in the air, or a favorite show?","tone":"curious, casual, balanced","sourceNames":["Associated Press"],"sourceUrls":["https://apnews.com/article/girl-scout-cookie-american-objects-c75ec6b41e91b952758caa1572c5db4a"]}
+    {
+      "title": "COP31 ends without main climate pact",
+      "summary": "Negotiators in Antalya failed to reach consensus on the summit’s central climate agreement after disagreements over fossil fuels, finance and carbon-capture language.",
+      "discussionPrompt": "When a big group can’t agree on the final version, is it better to leave with a partial win or keep negotiating until everyone can live with it?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+      ]
+    },
+    {
+      "title": "Red Cross warns on autonomous weapons",
+      "summary": "The International Committee of the Red Cross says governments are running short on time to set meaningful rules for autonomous weapons systems.",
+      "discussionPrompt": "What rule would you want written first when machines are allowed to make faster decisions than people can?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/technology/technology%2Bartificialintelligenceai"
+      ]
+    },
+    {
+      "title": "South Korea education chief resigns",
+      "summary": "South Korea’s education minister resigned after an AI-cheating scandal around university entrance exams, renewing questions about technology and trust in testing.",
+      "discussionPrompt": "If every school test had to adapt to AI, would you prefer open-book questions, hands-on projects, or something completely new?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/nov/22/all"
+      ]
+    },
+    {
+      "title": "Technology outages fuel questions",
+      "summary": "A run of disruptions affecting airlines, banks and major technology companies has fed public anxiety about whether failures are connected or simply overlapping.",
+      "discussionPrompt": "When a favorite app or service goes down, do you shrug and wait, investigate every rumor, or suddenly remember life before the internet?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/mainsection/financial3"
+      ]
+    },
+    {
+      "title": "AI sell-off shakes Nasdaq",
+      "summary": "A sharp sell-off in AI-linked stocks erased the Nasdaq’s gains for the year, as investors reconsidered the scale and pace of spending on AI infrastructure.",
+      "discussionPrompt": "When a new technology gets lots of hype, what makes you decide it is genuinely useful instead of just having a big moment?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/theguardian/mainsection/financial3"
+      ]
+    },
+    {
+      "title": "UK-EU food deal draws business praise",
+      "summary": "British businesses welcomed a UK-EU food agreement, saying closer alignment could make trade easier for companies working across the two markets.",
+      "discussionPrompt": "What food from another place do you wish were easier to find nearby: a snack, a cheese, a fruit, or a whole meal?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "GTA VI dominates culture chatter",
+      "summary": "Grand Theft Auto VI is generating a wave of reviews, guides and debate, becoming one of the biggest entertainment talking points of the season.",
+      "discussionPrompt": "What makes a game feel like a real shared cultural event: the story, the music, the friends playing it, or the conversations afterward?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/culture"
+      ]
+    },
+    {
+      "title": "Potatoes proposed for moon menus",
+      "summary": "Scientists say potatoes grown in simulated lunar soil could become a practical food source for a future moon base, adding a humble crop to space-planning conversations.",
+      "discussionPrompt": "If you were planning the first moon café, what comfort food would absolutely need a space-friendly version?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/2026/nov/19/all"
+      ]
+    },
+    {
+      "title": "England rugby earns landmark win",
+      "summary": "England’s strength in depth helped deliver a notable victory over New Zealand, a result celebrated as an important moment for the team.",
+      "discussionPrompt": "What makes a sports win memorable to you: an underdog story, a perfect comeback, a tense finish, or seeing a team finally click?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/sport?page=2"
+      ]
+    },
+    {
+      "title": "California rail theft case draws attention",
+      "summary": "Authorities are investigating a series of California train thefts described as a carefully organized haul worth millions of dollars.",
+      "discussionPrompt": "Which mystery is more fun to unpack: a clever puzzle with clues everywhere, a missing-object case, or an elaborate plan that almost worked?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    }
   ]
 }
