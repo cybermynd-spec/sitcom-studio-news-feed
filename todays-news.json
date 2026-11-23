@@ -1,70 +1,72 @@
 {
-  "updatedUtc": "2026-11-22T15:54:08Z",
+  "updatedUtc": "2026-11-23T17:12:00Z",
   "topics": [
     {
-      "title": "COP31 ends without main climate pact",
-      "summary": "Negotiators in Antalya failed to reach consensus on the summit’s central climate agreement after disagreements over fossil fuels, finance and carbon-capture language.",
-      "discussionPrompt": "When a big group can’t agree on the final version, is it better to leave with a partial win or keep negotiating until everyone can live with it?",
+      "title": "COP31 ends without central pact",
+      "summary": "The COP31 climate summit ended without agreement on its central deal after divisions over fossil fuels, finance and carbon-capture language.",
+      "discussionPrompt": "When a big group cannot agree on the final version, is it better to leave with a partial win or keep talking until everyone can live with it?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
+        "BBC News",
         "The Guardian"
       ],
       "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
         "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
       ]
     },
     {
-      "title": "Red Cross warns on autonomous weapons",
-      "summary": "The International Committee of the Red Cross says governments are running short on time to set meaningful rules for autonomous weapons systems.",
-      "discussionPrompt": "What rule would you want written first when machines are allowed to make faster decisions than people can?",
+      "title": "AI-assisted maths claim gets verification",
+      "summary": "Two groups verified a mathematician's claim that AI tool Claude helped solve a long-standing mathematics problem, reopening questions about how research credit may evolve.",
+      "discussionPrompt": "If an AI helps crack a hard problem, should it get a mention like a calculator, a research assistant, or something entirely new?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/technology/technology%2Bartificialintelligenceai"
+        "https://www.theguardian.com/technology/2026/nov/22/all"
       ]
     },
     {
-      "title": "South Korea education chief resigns",
-      "summary": "South Korea’s education minister resigned after an AI-cheating scandal around university entrance exams, renewing questions about technology and trust in testing.",
-      "discussionPrompt": "If every school test had to adapt to AI, would you prefer open-book questions, hands-on projects, or something completely new?",
+      "title": "Canada's daily cannabis use rises",
+      "summary": "A new Canadian study reports that more people now use cannabis daily than drink alcohol daily, highlighting changing habits since legalization.",
+      "discussionPrompt": "What makes a social habit feel normal: how common it is, where people do it, the rules around it, or how it is talked about?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "CBC News"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/nov/22/all"
+        "https://www.cbc.ca/news"
       ]
     },
     {
-      "title": "Technology outages fuel questions",
-      "summary": "A run of disruptions affecting airlines, banks and major technology companies has fed public anxiety about whether failures are connected or simply overlapping.",
-      "discussionPrompt": "When a favorite app or service goes down, do you shrug and wait, investigate every rumor, or suddenly remember life before the internet?",
+      "title": "Newfoundland gold mine plans expansion",
+      "summary": "A gold mine in central Newfoundland has grown into a small community hub and is preparing to expand, bringing fresh attention to the region's resource economy.",
+      "discussionPrompt": "Would you rather live near a fast-growing work town with lots of change, or a smaller place that stays familiar year after year?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "CBC News"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/mainsection/financial3"
+        "https://www.cbc.ca/news"
       ]
     },
     {
-      "title": "AI sell-off shakes Nasdaq",
-      "summary": "A sharp sell-off in AI-linked stocks erased the Nasdaq’s gains for the year, as investors reconsidered the scale and pace of spending on AI infrastructure.",
-      "discussionPrompt": "When a new technology gets lots of hype, what makes you decide it is genuinely useful instead of just having a big moment?",
+      "title": "Live cattle auctions keep their place",
+      "summary": "Alberta ranchers say in-person cattle auctions still matter even as online bidding grows, because buyers and sellers value the atmosphere and direct comparison.",
+      "discussionPrompt": "For something important, do you trust an online listing, an in-person look, or a recommendation from someone who knows the field?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "CBC News"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/theguardian/mainsection/financial3"
+        "https://www.cbc.ca/news"
       ]
     },
     {
-      "title": "UK-EU food deal draws business praise",
-      "summary": "British businesses welcomed a UK-EU food agreement, saying closer alignment could make trade easier for companies working across the two markets.",
-      "discussionPrompt": "What food from another place do you wish were easier to find nearby: a snack, a cheese, a fruit, or a whole meal?",
+      "title": "Rental costs outpace home buying",
+      "summary": "A new report says rents in Britain are expected to rise about twice as quickly as buying costs as a shortage of available homes continues.",
+      "discussionPrompt": "If you could redesign one part of finding a place to live, would you change prices, location, size, or how people search?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
@@ -74,51 +76,51 @@
       ]
     },
     {
-      "title": "GTA VI dominates culture chatter",
-      "summary": "Grand Theft Auto VI is generating a wave of reviews, guides and debate, becoming one of the biggest entertainment talking points of the season.",
-      "discussionPrompt": "What makes a game feel like a real shared cultural event: the story, the music, the friends playing it, or the conversations afterward?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/culture"
-      ]
-    },
-    {
-      "title": "Potatoes proposed for moon menus",
-      "summary": "Scientists say potatoes grown in simulated lunar soil could become a practical food source for a future moon base, adding a humble crop to space-planning conversations.",
-      "discussionPrompt": "If you were planning the first moon café, what comfort food would absolutely need a space-friendly version?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/science/2026/nov/19/all"
-      ]
-    },
-    {
-      "title": "England rugby earns landmark win",
-      "summary": "England’s strength in depth helped deliver a notable victory over New Zealand, a result celebrated as an important moment for the team.",
-      "discussionPrompt": "What makes a sports win memorable to you: an underdog story, a perfect comeback, a tense finish, or seeing a team finally click?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/sport?page=2"
-      ]
-    },
-    {
-      "title": "California rail theft case draws attention",
-      "summary": "Authorities are investigating a series of California train thefts described as a carefully organized haul worth millions of dollars.",
-      "discussionPrompt": "Which mystery is more fun to unpack: a clever puzzle with clues everywhere, a missing-object case, or an elaborate plan that almost worked?",
+      "title": "School crossing patrols face shortages",
+      "summary": "Councils in Britain are struggling to recruit enough school crossing patrols, raising concern about keeping familiar routes safe for children.",
+      "discussionPrompt": "What small neighborhood job seems easy to overlook until it disappears and suddenly everyone notices?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
         "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "Falklands oil plans raise wildlife worries",
+      "summary": "Proposed oil development around the Falkland Islands is drawing concern from environmental groups focused on seals, whales and penguins in the surrounding waters.",
+      "discussionPrompt": "When a place has both jobs and remarkable wildlife at stake, what would a fair local decision-making process look like?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk"
+      ]
+    },
+    {
+      "title": "Dictionary spotlights new tech slang",
+      "summary": "Macquarie Dictionary named “pervert glasses” its word of the year, ahead of terms including “nudify” and “AI;DR,” reflecting anxiety and humor around new technology.",
+      "discussionPrompt": "What new word or phrase have you heard lately that perfectly captures a modern problem, even if it sounds a little ridiculous?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/language"
+      ]
+    },
+    {
+      "title": "Miley Cyrus marries Maxx Morando",
+      "summary": "Miley Cyrus and musician Maxx Morando married in a California ceremony, making entertainment headlines around the world.",
+      "discussionPrompt": "For a celebration, would you choose a huge party, a tiny gathering, a destination trip, or something wonderfully unexpected?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": [
+        "BBC News"
+      ],
+      "sourceUrls": [
+        "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo"
       ]
     }
   ]
