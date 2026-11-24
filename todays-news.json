@@ -1,127 +1,85 @@
 {
-  "updatedUtc": "2026-11-23T17:12:00Z",
+  "updatedUtc": "2026-11-24T16:23:09Z",
   "topics": [
     {
-      "title": "COP31 ends without central pact",
-      "summary": "The COP31 climate summit ended without agreement on its central deal after divisions over fossil fuels, finance and carbon-capture language.",
-      "discussionPrompt": "When a big group cannot agree on the final version, is it better to leave with a partial win or keep talking until everyone can live with it?",
+      "title": "Warming winters challenge cranberry growers",
+      "summary": "Cranberry-growing regions have gained an average of 14 warmer winter days since 1970, bringing unpredictable thaw-and-freeze cycles for a classic holiday crop.",
+      "discussionPrompt": "If a favorite seasonal food became harder to grow, would you try substitutes, pay more for the original, or start a new tradition?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "BBC News",
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-        "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis"]
     },
     {
-      "title": "AI-assisted maths claim gets verification",
-      "summary": "Two groups verified a mathematician's claim that AI tool Claude helped solve a long-standing mathematics problem, reopening questions about how research credit may evolve.",
-      "discussionPrompt": "If an AI helps crack a hard problem, should it get a mention like a calculator, a research assistant, or something entirely new?",
+      "title": "CBeebies heads to Netflix",
+      "summary": "The BBC will trial a CBeebies hub on Netflix for six months, putting 24 preschool shows, including Teletubbies and Hey Duggee, before more families worldwide.",
+      "discussionPrompt": "Do you like finding everything in one streaming place, or does it feel better when a favorite show has its own special home?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/technology/2026/nov/22/all"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix"]
     },
     {
-      "title": "Canada's daily cannabis use rises",
-      "summary": "A new Canadian study reports that more people now use cannabis daily than drink alcohol daily, highlighting changing habits since legalization.",
-      "discussionPrompt": "What makes a social habit feel normal: how common it is, where people do it, the rules around it, or how it is talked about?",
+      "title": "Children’s Booker unveils eight finalists",
+      "summary": "The inaugural Children’s Booker Prize announced an eight-book shortlist. Four child judges will join the panel before the winner is named in February.",
+      "discussionPrompt": "If you were judging a kids’ book prize, what would matter most: the funniest character, the best adventure, beautiful writing, or a story you cannot stop thinking about?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "CBC News"
-      ],
-      "sourceUrls": [
-        "https://www.cbc.ca/news"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist"]
     },
     {
-      "title": "Newfoundland gold mine plans expansion",
-      "summary": "A gold mine in central Newfoundland has grown into a small community hub and is preparing to expand, bringing fresh attention to the region's resource economy.",
-      "discussionPrompt": "Would you rather live near a fast-growing work town with lots of change, or a smaller place that stays familiar year after year?",
+      "title": "Artists press for AI copyright safeguards",
+      "summary": "More than 7,000 artists, including Kate Bush and Grace Jones, urged Australia to preserve copyright protections as lawmakers consider AI-related reforms.",
+      "discussionPrompt": "If an AI learned from your drawings, songs, or stories, what kind of credit or permission would feel fair to you?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "CBC News"
-      ],
-      "sourceUrls": [
-        "https://www.cbc.ca/news"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"]
     },
     {
-      "title": "Live cattle auctions keep their place",
-      "summary": "Alberta ranchers say in-person cattle auctions still matter even as online bidding grows, because buyers and sellers value the atmosphere and direct comparison.",
-      "discussionPrompt": "For something important, do you trust an online listing, an in-person look, or a recommendation from someone who knows the field?",
+      "title": "Australian science prizes honor medical research",
+      "summary": "Australia’s Prime Minister’s Prizes for Science recognized Georgina Long’s work improving melanoma survival rates and physicist Anthony Thomas’s research.",
+      "discussionPrompt": "Which kind of breakthrough would you most like to cheer on: medicine, space, climate solutions, or a discovery that makes daily life easier?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "CBC News"
-      ],
-      "sourceUrls": [
-        "https://www.cbc.ca/news"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/au"]
     },
     {
-      "title": "Rental costs outpace home buying",
-      "summary": "A new report says rents in Britain are expected to rise about twice as quickly as buying costs as a shortage of available homes continues.",
-      "discussionPrompt": "If you could redesign one part of finding a place to live, would you change prices, location, size, or how people search?",
+      "title": "Sweden weighs data-centre growth",
+      "summary": "New reporting explores how Sweden’s expanding data-centre sector is stirring debate over energy, land use, local benefits and the infrastructure behind digital life.",
+      "discussionPrompt": "Would you welcome a huge data centre nearby if it brought jobs, or would you first want answers about power, water, and the neighborhood?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/uk"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Benvironment/environment"]
     },
     {
-      "title": "School crossing patrols face shortages",
-      "summary": "Councils in Britain are struggling to recruit enough school crossing patrols, raising concern about keeping familiar routes safe for children.",
-      "discussionPrompt": "What small neighborhood job seems easy to overlook until it disappears and suddenly everyone notices?",
+      "title": "School bus drivers are in short supply",
+      "summary": "US school districts are grappling with fewer bus drivers, with low pay and difficult working conditions cited as key pressures on a familiar community service.",
+      "discussionPrompt": "What everyday job deserves more appreciation because so many routines quietly depend on it running smoothly?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/uk"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news/all"]
     },
     {
-      "title": "Falklands oil plans raise wildlife worries",
-      "summary": "Proposed oil development around the Falkland Islands is drawing concern from environmental groups focused on seals, whales and penguins in the surrounding waters.",
-      "discussionPrompt": "When a place has both jobs and remarkable wildlife at stake, what would a fair local decision-making process look like?",
+      "title": "Compass plans New York listing",
+      "summary": "Food-services company Compass confirmed plans to move its main stock-market listing from London to New York, a notable shift for a major British business.",
+      "discussionPrompt": "If a hometown company moved its main headquarters or stock listing abroad, would it change how local people feel about it?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/uk"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/uknews"]
     },
     {
-      "title": "Dictionary spotlights new tech slang",
-      "summary": "Macquarie Dictionary named “pervert glasses” its word of the year, ahead of terms including “nudify” and “AI;DR,” reflecting anxiety and humor around new technology.",
-      "discussionPrompt": "What new word or phrase have you heard lately that perfectly captures a modern problem, even if it sounds a little ridiculous?",
+      "title": "Beatles attraction plan meets noise concern",
+      "summary": "A proposed Beatles attraction on London’s Savile Row faces a restriction on rooftop gigs, reopening a playful debate about preserving a famous music moment.",
+      "discussionPrompt": "Should famous places be kept quiet and protected, or should they host lively events that let new people make memories there?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/science/language"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/uknews"]
     },
     {
-      "title": "Miley Cyrus marries Maxx Morando",
-      "summary": "Miley Cyrus and musician Maxx Morando married in a California ceremony, making entertainment headlines around the world.",
-      "discussionPrompt": "For a celebration, would you choose a huge party, a tiny gathering, a destination trip, or something wonderfully unexpected?",
+      "title": "Tech shares slide again",
+      "summary": "Technology shares fell in premarket trading, with investors focused on the AI sector and the ripple effects of fresh developments around Nvidia.",
+      "discussionPrompt": "When a new technology becomes everyone’s favorite investment, what signs tell you excitement is healthy versus getting a little carried away?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "BBC News"
-      ],
-      "sourceUrls": [
-        "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/us-news%2Bbusiness/business"]
     }
   ]
 }
