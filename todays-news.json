@@ -1,85 +1,125 @@
 {
-  "updatedUtc": "2026-11-24T16:23:09Z",
+  "updatedUtc": "2026-11-25T16:30:00Z",
   "topics": [
     {
-      "title": "Warming winters challenge cranberry growers",
-      "summary": "Cranberry-growing regions have gained an average of 14 warmer winter days since 1970, bringing unpredictable thaw-and-freeze cycles for a classic holiday crop.",
-      "discussionPrompt": "If a favorite seasonal food became harder to grow, would you try substitutes, pay more for the original, or start a new tradition?",
+      "title": "Six days above 2C",
+      "summary": "Global surface temperatures stayed more than 2C above preindustrial levels for six consecutive days, with a record 2.24C anomaly reported for Monday.",
+      "discussionPrompt": "When people hear one striking climate number, what helps make it feel meaningful: a local example, a clever visual, or a practical idea for what comes next?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time"
+      ]
     },
     {
-      "title": "CBeebies heads to Netflix",
-      "summary": "The BBC will trial a CBeebies hub on Netflix for six months, putting 24 preschool shows, including Teletubbies and Hey Duggee, before more families worldwide.",
-      "discussionPrompt": "Do you like finding everything in one streaming place, or does it feel better when a favorite show has its own special home?",
+      "title": "Dolphin friendships and longevity",
+      "summary": "A long-running Shark Bay study found Indo-Pacific bottlenose dolphins with strong, stable social groups tended to live longer.",
+      "discussionPrompt": "Do you think a few close friends or a big social circle makes life better? And would your answer change at different ages?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+      ]
     },
     {
-      "title": "Children’s Booker unveils eight finalists",
-      "summary": "The inaugural Children’s Booker Prize announced an eight-book shortlist. Four child judges will join the panel before the winner is named in February.",
-      "discussionPrompt": "If you were judging a kids’ book prize, what would matter most: the funniest character, the best adventure, beautiful writing, or a story you cannot stop thinking about?",
+      "title": "New tools for flood forecasts",
+      "summary": "Researchers are studying differences in tidal height across beaches, a technique that could support more local flood forecasts.",
+      "discussionPrompt": "If a forecast could be tailored to your exact neighbourhood, what everyday plans would you trust it with first?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/books/2026/nov/24/first-childrens-booker-prize-reveals-great-eight-shortlist"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/all"
+      ]
     },
     {
-      "title": "Artists press for AI copyright safeguards",
-      "summary": "More than 7,000 artists, including Kate Bush and Grace Jones, urged Australia to preserve copyright protections as lawmakers consider AI-related reforms.",
-      "discussionPrompt": "If an AI learned from your drawings, songs, or stories, what kind of credit or permission would feel fair to you?",
+      "title": "Pakistan reaches China’s space station",
+      "summary": "China sent Muhammad Zeeshan Ali, the first Pakistani astronaut to reach orbit, to the Tiangong space station in a milestone for international space cooperation.",
+      "discussionPrompt": "What kind of international project feels most exciting to share: a space station, a deep-sea lab, a giant telescope, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space"
+      ]
     },
     {
-      "title": "Australian science prizes honor medical research",
-      "summary": "Australia’s Prime Minister’s Prizes for Science recognized Georgina Long’s work improving melanoma survival rates and physicist Anthony Thomas’s research.",
-      "discussionPrompt": "Which kind of breakthrough would you most like to cheer on: medicine, space, climate solutions, or a discovery that makes daily life easier?",
+      "title": "Australia and Solomon Islands sign pact",
+      "summary": "Australia and Solomon Islands agreed a security pact, strengthening their relationship and reshaping regional diplomacy in the Pacific.",
+      "discussionPrompt": "When neighbouring countries make a new partnership, what matters most to ordinary people: safety, jobs, travel, or having a stronger voice?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/au"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+      ]
     },
     {
-      "title": "Sweden weighs data-centre growth",
-      "summary": "New reporting explores how Sweden’s expanding data-centre sector is stirring debate over energy, land use, local benefits and the infrastructure behind digital life.",
-      "discussionPrompt": "Would you welcome a huge data centre nearby if it brought jobs, or would you first want answers about power, water, and the neighborhood?",
+      "title": "England funds coastal adaptation",
+      "summary": "England announced more than £11m for council-led coastal projects, including drone surveys, dune restoration and planning for roads threatened by erosion.",
+      "discussionPrompt": "If a shoreline near you was changing quickly, would you rather invest in protecting it, adapting around it, or relocating vulnerable places?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Benvironment/environment"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea"
+      ]
     },
     {
-      "title": "School bus drivers are in short supply",
-      "summary": "US school districts are grappling with fewer bus drivers, with low pay and difficult working conditions cited as key pressures on a familiar community service.",
-      "discussionPrompt": "What everyday job deserves more appreciation because so many routines quietly depend on it running smoothly?",
+      "title": "UK energy bills set to rise",
+      "summary": "Britain’s energy price cap is set to rise 26% in January, pushing a typical annual household bill above £2,000 amid higher wholesale gas costs.",
+      "discussionPrompt": "What is one simple habit, gadget, or household change that actually makes a noticeable difference to an energy bill?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news/all"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/society/society%2Btone/news"
+      ]
     },
     {
-      "title": "Compass plans New York listing",
-      "summary": "Food-services company Compass confirmed plans to move its main stock-market listing from London to New York, a notable shift for a major British business.",
-      "discussionPrompt": "If a hometown company moved its main headquarters or stock listing abroad, would it change how local people feel about it?",
+      "title": "Oats ride a fullness trend",
+      "summary": "Oat sales are climbing as shoppers look for foods that help them feel full longer, with porridge emerging as a popular everyday choice.",
+      "discussionPrompt": "What is your most dependable comfort breakfast, and does it have to be healthy to earn that title?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/uknews"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/society/society%2Btone/news"
+      ]
     },
     {
-      "title": "Beatles attraction plan meets noise concern",
-      "summary": "A proposed Beatles attraction on London’s Savile Row faces a restriction on rooftop gigs, reopening a playful debate about preserving a famous music moment.",
-      "discussionPrompt": "Should famous places be kept quiet and protected, or should they host lively events that let new people make memories there?",
+      "title": "New US tariff proposals",
+      "summary": "The United States proposed new tariffs affecting 14 trading partners, including China, Japan and the European Union, as officials cited unfair trade practices.",
+      "discussionPrompt": "When countries change trade rules, what everyday item do you think people notice first: food, clothes, electronics, or cars?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/theguardian/mainsection/uknews"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/business/series/guardian-business-live"
+      ]
     },
     {
-      "title": "Tech shares slide again",
-      "summary": "Technology shares fell in premarket trading, with investors focused on the AI sector and the ripple effects of fresh developments around Nvidia.",
-      "discussionPrompt": "When a new technology becomes everyone’s favorite investment, what signs tell you excitement is healthy versus getting a little carried away?",
+      "title": "A supermoon lights up skies",
+      "summary": "A Beaver supermoon was visible around the world, appearing especially large because the full moon coincided with a point near its closest approach to Earth.",
+      "discussionPrompt": "Are you the sort of person who steps outside for a sky event, or do you prefer enjoying the photos afterward with a warm drink?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/us-news%2Bbusiness/business"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/science/all"
+      ]
     }
   ]
 }
