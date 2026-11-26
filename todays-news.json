@@ -1,124 +1,124 @@
 {
-  "updatedUtc": "2026-11-25T16:30:00Z",
+  "updatedUtc": "2026-11-26T16:09:46Z",
   "topics": [
     {
-      "title": "Six days above 2C",
-      "summary": "Global surface temperatures stayed more than 2C above preindustrial levels for six consecutive days, with a record 2.24C anomaly reported for Monday.",
-      "discussionPrompt": "When people hear one striking climate number, what helps make it feel meaningful: a local example, a clever visual, or a practical idea for what comes next?",
+      "title": "Thanksgiving weather disruptions",
+      "summary": "Heavy rain, strong winds and flooding affected parts of the United States during the Thanksgiving travel period, prompting travellers to keep an eye on local conditions.",
+      "discussionPrompt": "What is your ideal plan B when weather scrambles a holiday or weekend trip: reschedule, turn it into a cozy stay-in day, or chase a completely different adventure?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time"
+        "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c"
       ]
     },
     {
-      "title": "Dolphin friendships and longevity",
-      "summary": "A long-running Shark Bay study found Indo-Pacific bottlenose dolphins with strong, stable social groups tended to live longer.",
-      "discussionPrompt": "Do you think a few close friends or a big social circle makes life better? And would your answer change at different ages?",
+      "title": "Miami runway disruption",
+      "summary": "A FedEx airplane overran a runway at Miami International Airport, temporarily limiting airport operations while passengers were advised to check airline updates.",
+      "discussionPrompt": "When travel plans suddenly change, are you a meticulous rebooker, a lounge-and-snack optimist, or someone who immediately looks for a road-trip alternative?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer"
+        "https://apnews.com/article/07567f757a4cef4356dfa4fc3bf5e561"
       ]
     },
     {
-      "title": "New tools for flood forecasts",
-      "summary": "Researchers are studying differences in tidal height across beaches, a technique that could support more local flood forecasts.",
-      "discussionPrompt": "If a forecast could be tailored to your exact neighbourhood, what everyday plans would you trust it with first?",
+      "title": "Black Friday baskets evolve",
+      "summary": "Shoppers are mixing discounted household necessities with holiday gifts, while retailers use larger November promotions and AI tools to shape buying decisions.",
+      "discussionPrompt": "If you had one budget for practical supplies and one fun splurge, which shopping list would be harder for you to keep under control?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/all"
+        "https://apnews.com/article/5e542ffd1f94f24e4ffb79d412223544"
       ]
     },
     {
-      "title": "Pakistan reaches China’s space station",
-      "summary": "China sent Muhammad Zeeshan Ali, the first Pakistani astronaut to reach orbit, to the Tiangong space station in a milestone for international space cooperation.",
-      "discussionPrompt": "What kind of international project feels most exciting to share: a space station, a deep-sea lab, a giant telescope, or something else?",
+      "title": "Global markets steady",
+      "summary": "Stocks rose in parts of Europe and Asia as technology shares rebounded, while United States markets remained closed for the Thanksgiving holiday.",
+      "discussionPrompt": "Do market headlines feel more like useful weather reports or mysterious background noise? What would make business news easier to follow?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Associated Press"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space"
+        "https://apnews.com/article/320cd8c9c286a7773797bf2f478ef314"
       ]
     },
     {
-      "title": "Australia and Solomon Islands sign pact",
-      "summary": "Australia and Solomon Islands agreed a security pact, strengthening their relationship and reshaping regional diplomacy in the Pacific.",
-      "discussionPrompt": "When neighbouring countries make a new partnership, what matters most to ordinary people: safety, jobs, travel, or having a stronger voice?",
+      "title": "Pacific trade talks in Vietnam",
+      "summary": "Trade representatives from CPTPP, ASEAN and the European Union met in Vietnam, with proposed United States tariffs adding urgency to their economic discussions.",
+      "discussionPrompt": "If a bunch of countries met to make everyday life smoother, which shared goal should top the list: cheaper groceries, easier travel, cleaner energy, or better internet?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence"
+        "https://www.devdiscourse.com/article/international/4012656-reuters-world-news-summary"
       ]
     },
     {
-      "title": "England funds coastal adaptation",
-      "summary": "England announced more than £11m for council-led coastal projects, including drone surveys, dune restoration and planning for roads threatened by erosion.",
-      "discussionPrompt": "If a shoreline near you was changing quickly, would you rather invest in protecting it, adapting around it, or relocating vulnerable places?",
+      "title": "Faulty appliances and e-waste",
+      "summary": "A Guardian investigation reported that faulty electrical goods returned to UK supermarkets have ended up at an e-waste site in Ghana.",
+      "discussionPrompt": "What should happen to a gadget that fails right away: repair it locally, return it to the maker, or redesign products so their parts have a second life?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea"
+        "https://www.theguardian.com/environment/environment%2Btone/news"
       ]
     },
     {
-      "title": "UK energy bills set to rise",
-      "summary": "Britain’s energy price cap is set to rise 26% in January, pushing a typical annual household bill above £2,000 amid higher wholesale gas costs.",
-      "discussionPrompt": "What is one simple habit, gadget, or household change that actually makes a noticeable difference to an energy bill?",
+      "title": "Heathrow expansion questioned",
+      "summary": "A UK parliamentary transport committee said the case for a third Heathrow runway had not been adequately demonstrated against economic and climate commitments.",
+      "discussionPrompt": "For a busy city, would you rather invest in a bigger airport, faster trains, or better local transit? Which change would you notice most?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/society/society%2Btone/news"
+        "https://www.theguardian.com/environment/environment%2Btone/news"
       ]
     },
     {
-      "title": "Oats ride a fullness trend",
-      "summary": "Oat sales are climbing as shoppers look for foods that help them feel full longer, with porridge emerging as a popular everyday choice.",
-      "discussionPrompt": "What is your most dependable comfort breakfast, and does it have to be healthy to earn that title?",
+      "title": "More precise flood forecasting",
+      "summary": "Researchers are exploring how variations in tidal height across beaches could improve local flood forecasts and help communities prepare for changing coastal conditions.",
+      "discussionPrompt": "If your phone could give a highly local flood forecast, what would you want it to include besides a warning: routes, timing, photos, or a checklist?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/society/society%2Btone/news"
+        "https://www.theguardian.com/environment/environment%2Bscience/science"
       ]
     },
     {
-      "title": "New US tariff proposals",
-      "summary": "The United States proposed new tariffs affecting 14 trading partners, including China, Japan and the European Union, as officials cited unfair trade practices.",
-      "discussionPrompt": "When countries change trade rules, what everyday item do you think people notice first: food, clothes, electronics, or cars?",
+      "title": "Sydney fire ant discovery",
+      "summary": "Authorities reported finding a fire-ant nest with multiple queens in Sydney, highlighting the challenge of containing invasive species once they establish new colonies.",
+      "discussionPrompt": "Which tiny creature deserves more respect for its teamwork: ants, bees, termites, or something unexpected? What makes its group strategy impressive?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
         "The Guardian"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/business/series/guardian-business-live"
+        "https://www.theguardian.com/environment/environment%2Btone/explainers"
       ]
     },
     {
-      "title": "A supermoon lights up skies",
-      "summary": "A Beaver supermoon was visible around the world, appearing especially large because the full moon coincided with a point near its closest approach to Earth.",
-      "discussionPrompt": "Are you the sort of person who steps outside for a sky event, or do you prefer enjoying the photos afterward with a warm drink?",
+      "title": "New tariffs shape global trade",
+      "summary": "The United States announced new tariffs targeting a range of trading partners, while governments and businesses assessed potential effects on prices and supply chains.",
+      "discussionPrompt": "When trade rules shift, what everyday item do you think people notice first: food, electronics, clothing, or cars? Why that one?",
       "tone": "curious, casual, balanced",
       "sourceNames": [
-        "The Guardian"
+        "Reuters"
       ],
       "sourceUrls": [
-        "https://www.theguardian.com/science/all"
+        "https://podcastrex.com/shows/reuters-world-news/trumps-tariff-blitz-musks-spacex-pledge-and-nazi-guest-house-reno"
       ]
     }
   ]
