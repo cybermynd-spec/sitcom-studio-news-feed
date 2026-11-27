@@ -1,125 +1,85 @@
 {
-  "updatedUtc": "2026-11-26T16:09:46Z",
+  "updatedUtc": "2026-11-27T17:30:00Z",
   "topics": [
     {
-      "title": "Thanksgiving weather disruptions",
-      "summary": "Heavy rain, strong winds and flooding affected parts of the United States during the Thanksgiving travel period, prompting travellers to keep an eye on local conditions.",
-      "discussionPrompt": "What is your ideal plan B when weather scrambles a holiday or weekend trip: reschedule, turn it into a cozy stay-in day, or chase a completely different adventure?",
+      "title": "EU budget talks pause",
+      "summary": "European Union leaders ended a long budget negotiation without agreement, leaving a proposed Ukraine loan in limbo while they plan another attempt in three weeks.",
+      "discussionPrompt": "When a group cannot agree after a marathon meeting, is a pause a sign of failure or the sensible way to make room for better ideas?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://apnews.com/article/fd025046850b824b2e62def18408c6b6"]
     },
     {
-      "title": "Miami runway disruption",
-      "summary": "A FedEx airplane overran a runway at Miami International Airport, temporarily limiting airport operations while passengers were advised to check airline updates.",
-      "discussionPrompt": "When travel plans suddenly change, are you a meticulous rebooker, a lounge-and-snack optimist, or someone who immediately looks for a road-trip alternative?",
+      "title": "New Zealand election balance",
+      "summary": "New Zealand's governing coalition fell one seat short of a parliamentary majority, leaving a centrist party with potential influence over the next steps.",
+      "discussionPrompt": "Would you enjoy being the small group everyone needs to win an argument, or would that much attention make you want to hide?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/07567f757a4cef4356dfa4fc3bf5e561"
-      ]
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.bbc.co.uk/news/articles/c670278qk879o"]
     },
     {
-      "title": "Black Friday baskets evolve",
-      "summary": "Shoppers are mixing discounted household necessities with holiday gifts, while retailers use larger November promotions and AI tools to shape buying decisions.",
-      "discussionPrompt": "If you had one budget for practical supplies and one fun splurge, which shopping list would be harder for you to keep under control?",
+      "title": "New tariff questions",
+      "summary": "The United States announced tariffs affecting a range of countries, prompting businesses and governments to weigh what changing trade rules could mean for prices and supply chains.",
+      "discussionPrompt": "When trade rules change, which everyday item would you notice first getting pricier: food, clothes, electronics, or cars?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/5e542ffd1f94f24e4ffb79d412223544"
-      ]
+      "sourceNames": ["BBC News"],
+      "sourceUrls": ["https://www.bbc.co.uk/news/articles/c893r9ke5p97"]
     },
     {
-      "title": "Global markets steady",
-      "summary": "Stocks rose in parts of Europe and Asia as technology shares rebounded, while United States markets remained closed for the Thanksgiving holiday.",
-      "discussionPrompt": "Do market headlines feel more like useful weather reports or mysterious background noise? What would make business news easier to follow?",
+      "title": "A panda's first birthday",
+      "summary": "Rio, described as Indonesia's first homegrown giant panda, celebrated a first birthday as the country marked the young animal's milestone.",
+      "discussionPrompt": "If you had to plan a birthday for an animal ambassador, what would make the best gift: a giant snack, a new climbing setup, or a very quiet day?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Associated Press"
-      ],
-      "sourceUrls": [
-        "https://apnews.com/article/320cd8c9c286a7773797bf2f478ef314"
-      ]
+      "sourceNames": ["Associated Press"],
+      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-november-27-124952843.html"]
     },
     {
-      "title": "Pacific trade talks in Vietnam",
-      "summary": "Trade representatives from CPTPP, ASEAN and the European Union met in Vietnam, with proposed United States tariffs adding urgency to their economic discussions.",
-      "discussionPrompt": "If a bunch of countries met to make everyday life smoother, which shared goal should top the list: cheaper groceries, easier travel, cleaner energy, or better internet?",
+      "title": "Frozen water under pressure",
+      "summary": "A new study highlighted growing strain on Earth's frozen-water systems, drawing attention to changes affecting glaciers, snow, sea ice and communities that rely on them.",
+      "discussionPrompt": "Which kind of ice landscape feels most magical to you: a snowy forest, a frozen lake, sea ice, or a distant glacier?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://www.devdiscourse.com/article/international/4012656-reuters-world-news-summary"
-      ]
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news"]
     },
     {
-      "title": "Faulty appliances and e-waste",
-      "summary": "A Guardian investigation reported that faulty electrical goods returned to UK supermarkets have ended up at an e-waste site in Ghana.",
-      "discussionPrompt": "What should happen to a gadget that fails right away: repair it locally, return it to the maker, or redesign products so their parts have a second life?",
+      "title": "Wild neighbours at home",
+      "summary": "A study reported that roughly 2,000 wild species live alongside people in homes, a reminder that domestic spaces can host far more nature than we notice.",
+      "discussionPrompt": "What is the most surprising non-pet creature you have shared a home with, and was it a welcome guest or an accidental roommate?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/environment%2Btone/news"
-      ]
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news"]
     },
     {
-      "title": "Heathrow expansion questioned",
-      "summary": "A UK parliamentary transport committee said the case for a third Heathrow runway had not been adequately demonstrated against economic and climate commitments.",
-      "discussionPrompt": "For a busy city, would you rather invest in a bigger airport, faster trains, or better local transit? Which change would you notice most?",
+      "title": "Yukon power project advances",
+      "summary": "A Yukon power-infrastructure proposal has moved to Canada's Major Projects Office, putting a northern energy project into a new federal review process.",
+      "discussionPrompt": "If your town could upgrade one piece of shared infrastructure, would you choose cleaner power, transit, internet, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/environment%2Btone/news"
-      ]
+      "sourceNames": ["CBC News"],
+      "sourceUrls": ["https://www.cbc.ca/news"]
     },
     {
-      "title": "More precise flood forecasting",
-      "summary": "Researchers are exploring how variations in tidal height across beaches could improve local flood forecasts and help communities prepare for changing coastal conditions.",
-      "discussionPrompt": "If your phone could give a highly local flood forecast, what would you want it to include besides a warning: routes, timing, photos, or a checklist?",
+      "title": "Asteroid-crater closeups",
+      "summary": "New images of asteroid Dimorphos are helping researchers examine the aftermath of NASA's earlier impact test and refine ideas for planetary-defence planning.",
+      "discussionPrompt": "Would you rather watch a space mission from mission control, a backyard telescope, or a live stream with friends and snacks?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/environment%2Bscience/science"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/science/all"]
     },
     {
-      "title": "Sydney fire ant discovery",
-      "summary": "Authorities reported finding a fire-ant nest with multiple queens in Sydney, highlighting the challenge of containing invasive species once they establish new colonies.",
-      "discussionPrompt": "Which tiny creature deserves more respect for its teamwork: ants, bees, termites, or something unexpected? What makes its group strategy impressive?",
+      "title": "Learning a new language",
+      "summary": "BBC science programming explored what research can say about learning a second language, revisiting a familiar challenge for curious learners everywhere.",
+      "discussionPrompt": "If you could become conversational in one language overnight, which would you pick, and what is the first thing you would want to say?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "The Guardian"
-      ],
-      "sourceUrls": [
-        "https://www.theguardian.com/environment/environment%2Btone/explainers"
-      ]
+      "sourceNames": ["BBC World Service"],
+      "sourceUrls": ["https://wspartners.bbc.com/brand/p04d42rc"]
     },
     {
-      "title": "New tariffs shape global trade",
-      "summary": "The United States announced new tariffs targeting a range of trading partners, while governments and businesses assessed potential effects on prices and supply chains.",
-      "discussionPrompt": "When trade rules shift, what everyday item do you think people notice first: food, electronics, clothing, or cars? Why that one?",
+      "title": "AI data centres in space",
+      "summary": "A Guardian report examined the idea of putting AI data centres in space, looking at the technical ambitions and practical questions behind the proposal.",
+      "discussionPrompt": "If computing moved into orbit, what would amaze you most: the engineering, the view, or the challenge of keeping everything cool?",
       "tone": "curious, casual, balanced",
-      "sourceNames": [
-        "Reuters"
-      ],
-      "sourceUrls": [
-        "https://podcastrex.com/shows/reuters-world-news/trumps-tariff-blitz-musks-spacex-pledge-and-nazi-guest-house-reno"
-      ]
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Bscience/science"]
     }
   ]
 }
