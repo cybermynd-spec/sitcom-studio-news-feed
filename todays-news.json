@@ -6,80 +6,120 @@
       "summary": "US regulators authorised SpaceX's proposed Starmind constellation, a plan for up to one million satellites supporting space-based computing that also raises questions about debris, emissions and astronomy.",
       "discussionPrompt": "If computers really moved into orbit, what would amaze you most: the engineering, the solar power, or trying to keep the night sky friendly for stargazers?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/"
+      ]
     },
     {
       "title": "Smaller Brussels sprouts",
       "summary": "Britain's Brussels sprout harvest is reportedly smaller this year after a hot, dry summer affected the water-loving crop, putting a seasonal food detail in the climate conversation.",
       "discussionPrompt": "If one holiday side dish had to become the star of dinner, which would you choose: sprouts, potatoes, stuffing, or something completely unexpected?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news?page=986."]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/environment%2Btone/news?page=986."
+      ]
     },
     {
       "title": "Belgian data-centre pause",
       "summary": "Google was told to halt construction on a Belgian data centre over a planning-permit issue, spotlighting how rapidly growing computing projects meet local approval processes.",
       "discussionPrompt": "When a big new project comes to town, what would you care about first: jobs, environmental impact, design, or whether locals were genuinely heard?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btechnology/technology"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/environment%2Btechnology/technology"
+      ]
     },
     {
       "title": "A new Brussels museum",
       "summary": "Brussels opened a major new museum development in a former Citroen garage, turning a large industrial site into a space for modern and contemporary art.",
       "discussionPrompt": "What old building near you would make the best reinvention: a museum, library, indoor garden, music venue, or something else?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk?q=ws%E7%AD%9B%E9%80%89%E5%99%A8%2Fws%E7%AD%9B%E9%80%89%E6%9C%89%E6%95%88%E5%90%8D%E5%8D%95%2Fws%E7%AD%9B%E9%80%89%E6%B4%BB%E8%B7%83%E2%9D%A4%EF%B8%8F%5B%E8%AE%A4%E5%87%86%E5%A4%A9%E5%AE%87TG%3A%40cjhshk199937%5D%E2%9D%A4%EF%B8%8F"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/uk?dcr=false"
+      ]
     },
     {
       "title": "Working-class songs preserved",
       "summary": "A folk singer is helping preserve songs from the Industrial Revolution's working-class communities, bringing old everyday stories to new audiences.",
       "discussionPrompt": "What kind of everyday story deserves to become a song: the commute, a favourite local shop, family recipes, or the chaos of group chats?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/uk?q=ws%E7%AD%9B%E9%80%89%E5%99%A8%2Fws%E7%AD%9B%E9%80%89%E6%9C%89%E6%95%88%E5%90%8D%E5%8D%95%2Fws%E7%AD%9B%E9%80%89%E6%B4%BB%E8%B7%83%E2%9D%A4%EF%B8%8F%5B%E8%AE%A4%E5%87%86%E5%A4%A9%E5%AE%87TG%3A%40cjhshk199937%5D%E2%9D%A4%EF%B8%8F"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/music/2026/nov/27/jennifer-reid-interview-folk-singer-working-class-industrial-revolution-broadsides"
+      ]
     },
     {
       "title": "Sharper tide forecasts",
       "summary": "New ways of measuring tides could improve flood forecasting, offering communities a more detailed view of changing water levels and coastal risk.",
       "discussionPrompt": "If your phone could send one genuinely useful local alert, would you pick flood risk, transit delays, air quality, or the perfect time for a walk?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Bscience/science"]
+      "sourceNames": [
+        "The Guardian"
+      ],
+      "sourceUrls": [
+        "https://www.theguardian.com/environment/environment%2Bscience/science"
+      ]
     },
     {
       "title": "Markets rebound after holiday",
       "summary": "US stock indexes rose in a shortened session as investors returned to AI-linked technology shares, ending a volatile week with broad gains.",
       "discussionPrompt": "When something bounces back after a rough week, do you see it as a fresh start or a reminder to slow down and look twice?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/"
+      ]
     },
     {
       "title": "Jobs report watch",
       "summary": "Investors are looking toward the next US employment report and central-bank decisions, with technology earnings also expected to shape the mood in markets.",
       "discussionPrompt": "What is your personal version of an economic indicator: coffee prices, concert tickets, grocery bills, or whether your favourite shop has a sale?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/business/wall-st-week-ahead-sliding-stock-market-confronts-jobs-data-rate-view-next-tests-2026-11-27/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/business/wall-st-week-ahead-sliding-stock-market-confronts-jobs-data-rate-view-next-tests-2026-11-27/"
+      ]
     },
     {
       "title": "Electrification keeps moving",
       "summary": "After COP31 stalled, countries and companies highlighted continued investment in electrification, including expanding power grids and cleaner heavy transport.",
       "discussionPrompt": "Which change would you notice most in everyday life: quieter electric buses, more charging spots, cleaner deliveries, or a more reliable local grid?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/sustainability/climate-energy/cop31-stalls-countries-companies-rally-around-electrification--ecmii-2026-11-26/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sustainability/climate-energy/cop31-stalls-countries-companies-rally-around-electrification--ecmii-2026-11-26/"
+      ]
     },
     {
       "title": "AI helps conservation work",
       "summary": "Environmental groups are using AI for tasks such as sorting and translating field notes, while also weighing the energy and land demands of data centres.",
       "discussionPrompt": "What repetitive task would you gladly hand to a helpful assistant: sorting photos, planning meals, translating notes, or finding lost files?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Reuters"],
-      "sourceUrls": ["https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"]
+      "sourceNames": [
+        "Reuters"
+      ],
+      "sourceUrls": [
+        "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"
+      ]
     }
   ]
 }
