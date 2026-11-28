@@ -1,85 +1,85 @@
 {
-  "updatedUtc": "2026-11-27T16:33:13Z",
+  "updatedUtc": "2026-11-28T15:12:00Z",
   "topics": [
     {
-      "title": "EU budget talks pause",
-      "summary": "European Union leaders ended a long budget negotiation without agreement, leaving a proposed Ukraine loan in limbo while they plan another attempt in three weeks.",
-      "discussionPrompt": "When a group cannot agree after a marathon meeting, is a pause a sign of failure or the sensible way to make room for better ideas?",
+      "title": "Space data-centre constellation",
+      "summary": "US regulators authorised SpaceX's proposed Starmind constellation, a plan for up to one million satellites supporting space-based computing that also raises questions about debris, emissions and astronomy.",
+      "discussionPrompt": "If computers really moved into orbit, what would amaze you most: the engineering, the solar power, or trying to keep the night sky friendly for stargazers?",
       "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://apnews.com/article/fd025046850b824b2e62def18408c6b6"]
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/"]
     },
     {
-      "title": "New Zealand election balance",
-      "summary": "New Zealand's governing coalition fell one seat short of a parliamentary majority, leaving a centrist party with potential influence over the next steps.",
-      "discussionPrompt": "Would you enjoy being the small group everyone needs to win an argument, or would that much attention make you want to hide?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.bbc.co.uk/news/articles/c670278qk879o"]
-    },
-    {
-      "title": "New tariff questions",
-      "summary": "The United States announced tariffs affecting a range of countries, prompting businesses and governments to weigh what changing trade rules could mean for prices and supply chains.",
-      "discussionPrompt": "When trade rules change, which everyday item would you notice first getting pricier: food, clothes, electronics, or cars?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC News"],
-      "sourceUrls": ["https://www.bbc.co.uk/news/articles/c893r9ke5p97"]
-    },
-    {
-      "title": "A panda's first birthday",
-      "summary": "Rio, described as Indonesia's first homegrown giant panda, celebrated a first birthday as the country marked the young animal's milestone.",
-      "discussionPrompt": "If you had to plan a birthday for an animal ambassador, what would make the best gift: a giant snack, a new climbing setup, or a very quiet day?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["Associated Press"],
-      "sourceUrls": ["https://www.yahoo.com/news/videos/ap-top-stories-november-27-124952843.html"]
-    },
-    {
-      "title": "Frozen water under pressure",
-      "summary": "A new study highlighted growing strain on Earth's frozen-water systems, drawing attention to changes affecting glaciers, snow, sea ice and communities that rely on them.",
-      "discussionPrompt": "Which kind of ice landscape feels most magical to you: a snowy forest, a frozen lake, sea ice, or a distant glacier?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBC News"],
-      "sourceUrls": ["https://www.cbc.ca/news"]
-    },
-    {
-      "title": "Wild neighbours at home",
-      "summary": "A study reported that roughly 2,000 wild species live alongside people in homes, a reminder that domestic spaces can host far more nature than we notice.",
-      "discussionPrompt": "What is the most surprising non-pet creature you have shared a home with, and was it a welcome guest or an accidental roommate?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBC News"],
-      "sourceUrls": ["https://www.cbc.ca/news"]
-    },
-    {
-      "title": "Yukon power project advances",
-      "summary": "A Yukon power-infrastructure proposal has moved to Canada's Major Projects Office, putting a northern energy project into a new federal review process.",
-      "discussionPrompt": "If your town could upgrade one piece of shared infrastructure, would you choose cleaner power, transit, internet, or something else?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["CBC News"],
-      "sourceUrls": ["https://www.cbc.ca/news"]
-    },
-    {
-      "title": "Asteroid-crater closeups",
-      "summary": "New images of asteroid Dimorphos are helping researchers examine the aftermath of NASA's earlier impact test and refine ideas for planetary-defence planning.",
-      "discussionPrompt": "Would you rather watch a space mission from mission control, a backyard telescope, or a live stream with friends and snacks?",
+      "title": "Smaller Brussels sprouts",
+      "summary": "Britain's Brussels sprout harvest is reportedly smaller this year after a hot, dry summer affected the water-loving crop, putting a seasonal food detail in the climate conversation.",
+      "discussionPrompt": "If one holiday side dish had to become the star of dinner, which would you choose: sprouts, potatoes, stuffing, or something completely unexpected?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/science/all"]
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btone/news?page=986."]
     },
     {
-      "title": "Learning a new language",
-      "summary": "BBC science programming explored what research can say about learning a second language, revisiting a familiar challenge for curious learners everywhere.",
-      "discussionPrompt": "If you could become conversational in one language overnight, which would you pick, and what is the first thing you would want to say?",
-      "tone": "curious, casual, balanced",
-      "sourceNames": ["BBC World Service"],
-      "sourceUrls": ["https://wspartners.bbc.com/brand/p04d42rc"]
-    },
-    {
-      "title": "AI data centres in space",
-      "summary": "A Guardian report examined the idea of putting AI data centres in space, looking at the technical ambitions and practical questions behind the proposal.",
-      "discussionPrompt": "If computing moved into orbit, what would amaze you most: the engineering, the view, or the challenge of keeping everything cool?",
+      "title": "Belgian data-centre pause",
+      "summary": "Google was told to halt construction on a Belgian data centre over a planning-permit issue, spotlighting how rapidly growing computing projects meet local approval processes.",
+      "discussionPrompt": "When a big new project comes to town, what would you care about first: jobs, environmental impact, design, or whether locals were genuinely heard?",
       "tone": "curious, casual, balanced",
       "sourceNames": ["The Guardian"],
-      "sourceUrls": ["https://www.theguardian.com/technology/technology%2Bscience/science"]
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Btechnology/technology"]
+    },
+    {
+      "title": "A new Brussels museum",
+      "summary": "Brussels opened a major new museum development in a former Citroen garage, turning a large industrial site into a space for modern and contemporary art.",
+      "discussionPrompt": "What old building near you would make the best reinvention: a museum, library, indoor garden, music venue, or something else?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/uk?q=ws%E7%AD%9B%E9%80%89%E5%99%A8%2Fws%E7%AD%9B%E9%80%89%E6%9C%89%E6%95%88%E5%90%8D%E5%8D%95%2Fws%E7%AD%9B%E9%80%89%E6%B4%BB%E8%B7%83%E2%9D%A4%EF%B8%8F%5B%E8%AE%A4%E5%87%86%E5%A4%A9%E5%AE%87TG%3A%40cjhshk199937%5D%E2%9D%A4%EF%B8%8F"]
+    },
+    {
+      "title": "Working-class songs preserved",
+      "summary": "A folk singer is helping preserve songs from the Industrial Revolution's working-class communities, bringing old everyday stories to new audiences.",
+      "discussionPrompt": "What kind of everyday story deserves to become a song: the commute, a favourite local shop, family recipes, or the chaos of group chats?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/uk?q=ws%E7%AD%9B%E9%80%89%E5%99%A8%2Fws%E7%AD%9B%E9%80%89%E6%9C%89%E6%95%88%E5%90%8D%E5%8D%95%2Fws%E7%AD%9B%E9%80%89%E6%B4%BB%E8%B7%83%E2%9D%A4%EF%B8%8F%5B%E8%AE%A4%E5%87%86%E5%A4%A9%E5%AE%87TG%3A%40cjhshk199937%5D%E2%9D%A4%EF%B8%8F"]
+    },
+    {
+      "title": "Sharper tide forecasts",
+      "summary": "New ways of measuring tides could improve flood forecasting, offering communities a more detailed view of changing water levels and coastal risk.",
+      "discussionPrompt": "If your phone could send one genuinely useful local alert, would you pick flood risk, transit delays, air quality, or the perfect time for a walk?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["The Guardian"],
+      "sourceUrls": ["https://www.theguardian.com/environment/environment%2Bscience/science"]
+    },
+    {
+      "title": "Markets rebound after holiday",
+      "summary": "US stock indexes rose in a shortened session as investors returned to AI-linked technology shares, ending a volatile week with broad gains.",
+      "discussionPrompt": "When something bounces back after a rough week, do you see it as a fresh start or a reminder to slow down and look twice?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/"]
+    },
+    {
+      "title": "Jobs report watch",
+      "summary": "Investors are looking toward the next US employment report and central-bank decisions, with technology earnings also expected to shape the mood in markets.",
+      "discussionPrompt": "What is your personal version of an economic indicator: coffee prices, concert tickets, grocery bills, or whether your favourite shop has a sale?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/business/wall-st-week-ahead-sliding-stock-market-confronts-jobs-data-rate-view-next-tests-2026-11-27/"]
+    },
+    {
+      "title": "Electrification keeps moving",
+      "summary": "After COP31 stalled, countries and companies highlighted continued investment in electrification, including expanding power grids and cleaner heavy transport.",
+      "discussionPrompt": "Which change would you notice most in everyday life: quieter electric buses, more charging spots, cleaner deliveries, or a more reliable local grid?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/sustainability/climate-energy/cop31-stalls-countries-companies-rally-around-electrification--ecmii-2026-11-26/"]
+    },
+    {
+      "title": "AI helps conservation work",
+      "summary": "Environmental groups are using AI for tasks such as sorting and translating field notes, while also weighing the energy and land demands of data centres.",
+      "discussionPrompt": "What repetitive task would you gladly hand to a helpful assistant: sorting photos, planning meals, translating notes, or finding lost files?",
+      "tone": "curious, casual, balanced",
+      "sourceNames": ["Reuters"],
+      "sourceUrls": ["https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/"]
     }
   ]
 }
